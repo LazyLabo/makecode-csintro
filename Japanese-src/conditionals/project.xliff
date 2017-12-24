@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1832" original="/microbit/docs/courses/csintro/conditionals/project.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="66111" identifier="d2c9d08dd1998735a7e4abaa1b61cbbe" approved="yes">
+        <source>Project: Board Game</source>
+        <target>プロジェクト: ボード ゲーム</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="66112" identifier="240bd4c2732fb65c235929463a95cf54" translate="no">
+        <source>/static/courses/csintro/conditionals/game-pieces.jpg</source>
+        <target state="translated">/static/courses/csintro/conditionals/game-pieces.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66113" identifier="74e4cd3ffe85c45f4e2a0bb2d1804598">
+        <source>Close-up of game tokens</source>
+        <target state="translated">ゲームトークンのクローズアップ</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="66114" identifier="714c04628fbf010e691c94b051cea9e3" approved="yes">
+        <source>This is an assignment for students to create a board game.</source>
+        <target>これは、ボードゲームを作成する生徒向けの課題です。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="66115" identifier="337574853a74333159dc0fde2fa6b86b" approved="yes">
+        <source>It should take two to three class periods.</source>
+        <target>2 〜 3 クラス分、時間が必要です。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="66116" identifier="d079021a8d4c87b06b1e57e69a1f32f3" approved="yes">
+        <source>If your school has a makerspace or an art classroom where students can access materials such as cardboard, poster paints, or markers, you might schedule your classes to work there.</source>
+        <target>学校で、メーカースペース（作業場）や学生が段ボール、ポスター塗料やマーカーなどの材料を使うことができるアート教室がある場合、そこを利用できるように教室を調整する必要があります。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="66117" identifier="c43517157f14a5774d82b3c0b1359c38">
+        <source>Once students have finished the first version of their games, schedule time for students to play each other’s games.</source>
+        <target state="translated">生徒が、一旦ゲームの最初のバージョンを作成できたら、他の生徒のゲームもプレイできるよう時間をスケジュールします。</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="66118" identifier="22690fb4c97a18505f2d5382fce752ae" approved="yes">
+        <source>Ideally, give them some time to give and gather feedback, then revise their games accordingly.</source>
+        <target>理想的には、フィードバックをして、収集する時間をとり、それに対応して自分のゲームを改良します。</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="66119" identifier="2b58c6c8b0ce4b904c5bc95249484f02" translate="no">
+        <source>Introduction</source>
+        <target state="translated">はじめに</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="66120" identifier="ea2a40f7a14a1eb114d2dad1ec42f53b">
+        <source>Many board games use an electronic toy to signal moves, or provide clues. There are some funny examples online if you search for “electronic board game”. Here are some examples:</source>
+        <target state="translated">多くのボードゲームは、次の動作を指定したり手がかりを与えるために電子玩具を利用します。「電子ボード ゲーム」をオンライン検索するといくつかの面白い例が見つかります。いくつかの例は次のとおりです。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="66121" identifier="73e7c13f1917c1d90a953900322baa0d" approved="yes">
+        <source>&lt;a href=&quot;https://youtu.be/cxrY7MWEkwE&quot;&gt;Dark Tower&lt;/a&gt; (featuring Orson Welles): This is an example of a circular board game in which the pieces start on the edges and move in toward the middle.</source>
+        <target>&lt;a href=&quot;https://youtu.be/cxrY7MWEkwE&quot;&gt;ダーク ・ タワー&lt;/a&gt;(オーソン ・ ウェルズの作品): これは円形ボード ゲームで、端からスタートし、中央に向かって移動する作品の例です。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="66122" identifier="419887279719b9a9d28c3b9ddae597ce" approved="yes">
+        <source>&lt;a href=&quot;https://www.youtube.com/watch?v=pqYsQgDqlmg&quot;&gt;Electronic Dream Phone Board Game Commercial - 1992&lt;/a&gt;: This board game is really a logic puzzle.</source>
+        <target>&lt;a href=&quot;https://www.youtube.com/watch?v=pqYsQgDqlmg&quot;&gt;エレクトリックドリームフォーンボードゲーム （CM）- 1992&lt;/a&gt;: このボードゲームは実はロジック パズルです。</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="66123" identifier="0918c499b5c7082ef6fffa112ebe2b79">
+        <source>There are printed clues that illustrate relationships and the phone provides clues that help you to narrow down possibilities by a process of elimination.</source>
+        <target state="translated">印刷されたカードが人間関係に関する手がかりを、そしておもちゃの電話が消去法を利用した可能性の絞り込みのための手がかりを提供します。</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="66124" identifier="5efc4de47cf635ea3b31d3076eac2266">
+        <source>&lt;a href=&quot;https://www.youtube.com/watch?v=q3wpPRdDy4E&quot;&gt;Stop Thief Electronic Board Game commercial 1979&lt;/a&gt;: This board game uses a device to give audio clues that help you to figure out what to do on the game board.</source>
+        <target state="translated">&lt;a href=&quot;https://www.youtube.com/watch?v=q3wpPRdDy4E&quot;&gt;ストップスィーフ（泥棒を止めろ！）ボード ゲーム(CM)1979 &lt;/a&gt;: このボードゲームでは、デバイスを使用してゲームボード上で何をすべきかを音の手がかりで判断します。</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="66125" identifier="772bed8693a710ea4729035babfedb29" approved="yes">
+        <source>It’s a good example of how you might use sound as a clue.</source>
+        <target>音を手がかりとして使用する方法の良い例です。</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="66126" identifier="2ffaf3e1a8ab7643a44ea8195bdf89e3" approved="yes">
+        <source>Assignment</source>
+        <target>課題</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="66127" identifier="1377de0018359f883f5ee0230e9b501a">
+        <source>Students should work in pairs to create an original board game project in which micro:bit is a central feature, and the rules of their board game should use Conditionals.</source>
+        <target state="translated">生徒は、micro:bitの中心的な機能と、オリジナル ボード ゲーム プロジェクトを二人一組で作成する必要があり、ボードゲームのルールは、”条件”を使用する必要があります。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="66128" identifier="043f29d537dc3f65f3f200eb6dd570bf" approved="yes">
+        <source>Students will need to work together to come up with:</source>
+        <target>生徒は、以下のことを作成していく必要があります：</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="66129" identifier="a1de38a578885a30e7bbe2ea2673128a" approved="yes">
+        <source>A set of written rules (how to play)</source>
+        <target>ルールブック (遊び方)１セット</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="66130" identifier="ef9e376848c9c008638e70c6806f1da5" approved="yes">
+        <source>A game board</source>
+        <target>ゲームボード</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66131" identifier="754cb3306a0fcf89b59b1f565c58ce9e" approved="yes">
+        <source>A program for the micro:bit</source>
+        <target>micro:bit のためのプログラム</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66132" identifier="9d92740563f9109c4b5aacd16a8a6659">
+        <source>Photo documentation of the different game pieces, cards, or other components of the game with the micro:bit included as well as a screenshot of your micro:bit code.</source>
+        <target state="translated">さまざまなゲームの部品、カード、または Micro:bit が含まれているゲームの他のコンポーネント、Micro:bit のコートのスクリーン ショットなどの写真入り資料。</target>
+        <note>Context: XPath: /ul/li[4]</note>
+      </trans-unit>
+      <trans-unit id="66133" identifier="e1cf1805043d510aa208246e612a4dbc">
+        <source>Each photo must have a caption that describes what the photo is documenting.</source>
+        <target state="translated">それぞれの写真には説明文が必要です。</target>
+        <note>Context: XPath: /ul/li[4]</note>
+      </trans-unit>
+      <trans-unit id="66134" identifier="c1ffde6201b95260fe9c2ab34cbbe5be">
+        <source>Reflection: A text entry describing your team’s game making process and each teammate’s part in the creation of the game from brainstorming ideas, through construction, programming, and beta testing.</source>
+        <target state="translated">ふりかえり: 作成の過程とアイデアのブレーンストーミングから構築、プログラミング、およびベータ テストを通じて各チームメイトが作成したゲーム制作についての説明を記述します。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[5]</note>
+      </trans-unit>
+      <trans-unit id="66135" identifier="6f33fa4451aed74f29bed8fa654c14a4">
+        <source>The micro:bit needs to work in conjunction with the game board and/or game pieces and should be a central feature of the game. Ideally, it should be more than a simple substitute for a six-sided die.</source>
+        <target state="translated">Micro:bit は、ボードゲームやゲーム作品と連携して動作する必要があります、ゲームの中心的な機能になる必要があります。理想的には、それはすごろくのサイコロ以上の簡単な代替となる必要があります。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="66136" identifier="4c805fde1677f17b1215fb2b55415d23">
+        <source>The micro:bit might:</source>
+        <target state="translated">たとえば Micro:bit は:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="66137" identifier="94d7d26b4418a188763920b6549b9c9c">
+        <source>Simulate the results of a battle between two pieces</source>
+        <target state="translated">2 つのチームが戦う結果をシミュレートします。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="66138" identifier="f278fa415bd2000d6aaf9f7a61a90b6e">
+        <source>Randomly point in a different direction of travel</source>
+        <target state="translated">旅行の行先をランダムに指します。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66139" identifier="92a68e8988d2a0a7bd538236335eeb15">
+        <source>Generate a result based on its current incline</source>
+        <target state="translated">現在の傾向に基づく結果を生成します。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66140" identifier="54c6fa94a7b78a7b3947772225e94bc5">
+        <source>Point randomly at players and kill them</source>
+        <target state="translated">ランダムにプレイヤーを指し、それらを殺します</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="66141" identifier="992659de3f51ce63a2bcbedf3e3a27ee">
+        <source>Display a dynamic score</source>
+        <target state="translated">動的スコアを表示します。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[5]</note>
+      </trans-unit>
+      <trans-unit id="66142" identifier="bd22e25eafb31598a38adc7aaca0e14b">
+        <source>... let your imaginations run wild!</source>
+        <target state="translated">... さあ、みなさんの想像力を羽ばたかせて！</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[6]</note>
+      </trans-unit>
+      <trans-unit id="66143" identifier="1e5c7c45f86851cde2b8b44c7a3b0500">
+        <source>Ideally, students should be writing their own versions of micro:bit programs to do something original. 
+Here is one simple program to discuss and use as an example:</source>
+        <target state="translated">理想的には、学生はオリジナルの何かをMicro:bitの 独自プログラムを書くことです。
+ここでは例として使用する 1 つの単純なプログラムについて示します。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="66144" identifier="d638f736b82aca10d6817fcfd1df4b8d" translate="no">
+        <source>/static/courses/csintro/conditionals/battle-pieces.jpg</source>
+        <target>/static/courses/csintro/conditionals/battle-pieces.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p[13]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66145" identifier="38ba61cdaefcf069482a803a5f160721" translate="no">
+        <source>Close-up of game tokens</source>
+        <target state="translated">ゲームトークンのクローズアップ</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[13]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="66146" identifier="8b349362d06316eaa147a5de6e65ae08">
+        <source>Battle pieces</source>
+        <target state="translated">バトルピース</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3</note>
+      </trans-unit>
+      <trans-unit id="66147" identifier="8ba7d9961562192ad70609e7ca28cc15">
+        <source>In this example, pieces start out at full strength and lose points based on random events on the board. When two pieces meet on the same space, they battle.</source>
+        <target state="translated">この例では、各プレーヤーはフルポイントでゲームをスタートし、ボード上のランダムなイベントに基づいてポイントを失います。その時に2 つのプレイヤーが出会うと戦いが始まります。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[14]</note>
+      </trans-unit>
+      <trans-unit id="66148" identifier="7d11e6a678a17d83718bf21cd3037acf">
+        <source>Press A to enter the strength of piece A.</source>
+        <target state="translated">A ボタンを押す：プレイヤーAの強さを入力します</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li</note>
+      </trans-unit>
+      <trans-unit id="66149" identifier="1985f5937f9d4fe2ef3925a1b3067613">
+        <source>Then press B to enter the strength of piece B.</source>
+        <target state="translated">B ボタンを押す：プレイヤーBの強さを入力します</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66150" identifier="c7f8209c81442a8cf329526b821763d9">
+        <source>Shake the micro:bit to determine the winner of the battle, which is proportionately random to the strength of each piece.</source>
+        <target state="translated">Micro:bit を振る：各プレイヤーの強度に比例して、ランダムで戦いの勝者を決定します。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66151" identifier="63ffbc822fd9ee5160bde7cdfac02a79">
+        <source>let p2 = 0
+let p1 = 0
+input.onButtonPressed(Button.A, () =&amp;gt; {
+    p1 += 1
+    basic.showNumber(p1)
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+    p2 += 1
+    basic.showNumber(p2)
+})
+input.onGesture(Gesture.Shake, () =&amp;gt; {
+    if (Math.random(p1 + p2 - 1 + 1) + 1 &amp;lt;= p1) {
+        basic.showString(&quot;A&quot;)
+    } else {
+        basic.showString(&quot;B&quot;)
+    }
+})</source>
+        <target state="translated">let p2 = 0
+let p1 = 0
+input.onButtonPressed(Button.A, () =&amp;gt; {
+    p1 += 1
+    basic.showNumber(p1)
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+    p2 += 1
+    basic.showNumber(p2)
+})
+input.onGesture(Gesture.Shake, () =&amp;gt; {
+    if (Math.random(p1 + p2 - 1 + 1) + 1 &amp;lt;= p1) {
+        basic.showString(&quot;A&quot;)
+    } else {
+        basic.showString(&quot;B&quot;)
+    }
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66152" identifier="8df942af0c9c5229871523bf16b9c6f6">
+        <source>Beta Testing</source>
+        <target state="translated">ベータテスト</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="66153" identifier="d1d445f2d0b49f059e193fc2c9a66d63">
+        <source>Give students a chance to play each other’s games. The following process works well:</source>
+        <target state="translated">他の生徒のゲームをプレイする機会を生徒に与えます。次の方法で進めるのがよいでしょう：</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[15]</note>
+      </trans-unit>
+      <trans-unit id="66154" identifier="60431857e70a09d32cdd3af7b3a518ff">
+        <source>Have each pair of students set up their own project at their table.</source>
+        <target state="translated">各テーブルに各プロジェクトを二人一組で配置します。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li</note>
+      </trans-unit>
+      <trans-unit id="66155" identifier="497e22c2cd1ebcecb37bd4f4ec6116e4">
+        <source>Leave a clipboard or a laptop on the table for taking notes.</source>
+        <target state="translated">メモを取るためテーブルの上には、クリップボードまたはノートパソコンを置いておきます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66156" identifier="282fb61301be38918b74004b21aacd26">
+        <source>Rotate the students through each project, moving clockwise around the room:
+&gt;* Play the game (5 min)
+&gt;* Fill out a survey form (5 min)</source>
+        <target state="translated">生徒を各プロジェクトを交代で移動します。そのときに、部屋を時計回りに移動するのがよいでしょう:
+&gt;* ゲームをする (5 分)
+&gt;* アンケートに記入する (5 分)
+</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66157" identifier="b7e68166687928d88c7f2f82b3ecbba8">
+        <source>Sample Survey questions</source>
+        <target state="translated">アンケート上での質問の例：</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[16]</note>
+      </trans-unit>
+      <trans-unit id="66158" identifier="32d844b4f6c849ce7419438af6a67c86">
+        <source>How easy was it to figure out what to do?</source>
+        <target state="translated">ゲームで何をするか、を把握するのは簡単でしたか？</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li</note>
+      </trans-unit>
+      <trans-unit id="66159" identifier="836b5c3446425e775b622a04fd78bc05">
+        <source>What is something about this project that works really well?</source>
+        <target state="translated">このプロジェクトが本当によくできているところはどこですか？</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66160" identifier="c8955533e669f5b32660a01d44961b5b">
+        <source>What is something that would make this project even better?</source>
+        <target state="translated">このプロジェクトをさらに良くすることは何でしょうか？</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66161" identifier="67cd30adff0c0974fbbea53b193d1869">
+        <source>Any other comments or suggestions?</source>
+        <target state="translated">そのほかに何かコメントや提案はありますか？</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="66162" identifier="8b69f3f5d6df59de74c37b4cc6a92a0b">
+        <source>Many online survey tools will allow you to sort the comments by project and share them with project creators so they can make improvements based on that feedback.</source>
+        <target state="translated">現在使われている多くのオンライン調査ツールでは、プロジェクトによってコメントの並べ替えや、そのフィードバックに基づいて改善できるようにプロジェクトのクリエイターとそれらを共有することができるようになっています。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[17]</note>
+      </trans-unit>
+      <trans-unit id="66163" identifier="2c6067155cf9befe2d502eb951aabbd2" translate="no">
+        <source>Reflection</source>
+        <target>Reflection</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[4]</note>
+      </trans-unit>
+      <trans-unit id="66164" identifier="13e8f3cbe30cde03fd22c83fffa2660e" translate="no">
+        <source>Have students write a reflection of about 150–300 words, addressing the following points:</source>
+        <target>Have students write a reflection of about 150–300 words, addressing the following points:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[18]</note>
+      </trans-unit>
+      <trans-unit id="66165" identifier="d72bb212b50c66ea6b9028d419e29fb0">
+        <source>Explain how you decided, as a pair, on your particular board game idea.</source>
+        <target state="translated">二人一組のチームである特定のボード ゲーム アイデアをどのように決定したかを説明します。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li</note>
+      </trans-unit>
+      <trans-unit id="66166" identifier="779d59902bc6abf0fda2ee08ebdad010">
+        <source>What was something that was surprising to you about the process of creating this game?</source>
+        <target state="translated">このゲームプロジェクトを行っていく上で、驚いた点は何かありましたか？</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66167" identifier="135f8829e2ccea2cced909b759ab34ac">
+        <source>Describe a difficult point in the process of designing this game, and explain how you resolved it.</source>
+        <target state="translated">このゲームのデザインの過程で、どのようなところが難しかったですか？また、どのようにそれを解決しましたか？</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66168" identifier="277a145beb889979c74b3cdabc75dd37">
+        <source>What feedback did your beta testers give you? How did that help you improve your game? What were the Conditionals that you used as part of your game rules?</source>
+        <target state="translated">ベータテストにおいてどのようなフィードバックをあなたに与えましたか？どのようにあなたのゲームを良くするために助けになりましたか?あなたのゲームの規則の一部として使用した”条件”は何でしたか？</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="66169" identifier="a757654b37e59e6032c2b9d2a5ded4a6">
+        <source>Board game example</source>
+        <target state="translated">ボードゲームの例</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[5]</note>
+      </trans-unit>
+      <trans-unit id="66170" identifier="8660ab28a278b86dc0d0125e9c71a0b5">
+        <source>Space Race by K. and S.</source>
+        <target state="translated">スペースレース  K と S による制作</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[19]</note>
+      </trans-unit>
+      <trans-unit id="66171" identifier="5da6b14aef94c72548de3a57514a5e3e">
+        <source>How to win:  Starting from Earth, your goal is to progress to Mars.  The first person to reach Mars is the winner.</source>
+        <target state="translated">勝負: 地球からスタートして、ゴールは火星です。 火星に到達する最初の人が勝者です。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[7]/li</note>
+      </trans-unit>
+      <trans-unit id="66172" identifier="600cc1e3fff12ff37f43228ccbd2d4f2">
+        <source>Rules:&lt;br/&gt;
+&gt;&lt;strong&gt;1&lt;/strong&gt; - Shake the micro:bit to randomize how far you get to advance.&lt;br/&gt;
+&lt;strong&gt;2&lt;/strong&gt; - If you land on a pink square, press “B” on the micro:bit until your previous roll number appears.</source>
+        <target state="translated">ルール:&lt;br/&gt;
+&gt;&lt;strong&gt;1&lt;/strong&gt; - micro:bit を振り、そこからどこまで遠くまで行かれるか、の数をランダムで得ます&lt;br/&gt;
+&lt;strong&gt;2&lt;/strong&gt; - もし、ピンクの陣地についたら、 前に出た数値が出るまで micro:bit の “B” ボタンを押します。</target>
+        <note>Context: XPath: /ul[7]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66173" identifier="8465b1f28cab7af79f6ce483aa44b085">
+        <source>Then press A and B at the same time to see whether or not you move based upon the number on the square.&lt;br/&gt;
+&lt;strong&gt;3&lt;/strong&gt; - Up to four players.</source>
+        <target state="translated"> A と B ボタンを同時に押して、陣地にある数値に基づいて移動するかどうかを確認します。&lt;br/&gt;
+&lt;strong&gt;3&lt;/strong&gt; - ４人のプレーヤーで行います。</target>
+        <note>Context: XPath: /ul[7]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66174" identifier="c3492262ea4115abdf37601b08673e02" translate="no">
+        <source>/static/courses/csintro/conditionals/space-race.jpg</source>
+        <target>/static/courses/csintro/conditionals/space-race.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p[20]/l/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66175" identifier="ac5f99d315b5d3511698606802df4ff4">
+        <source>Space race game</source>
+        <target state="translated">スペースレースゲーム</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[20]/l/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="66176" identifier="aa16c3e7b435e8d4ab5e767959e45e97">
+        <source>Finished game</source>
+        <target state="translated">完成したゲーム</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[20]</note>
+      </trans-unit>
+      <trans-unit id="66177" identifier="eae6f406f67eaa529423fa8a29fe7e4e" translate="no">
+        <source>/static/courses/csintro/conditionals/microbit-holder.jpg</source>
+        <target>/static/courses/csintro/conditionals/microbit-holder.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p[21]/l/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66178" identifier="f2f40eff904877da0da0f6a247728a05">
+        <source>micro:bit holder square</source>
+        <target state="translated">micro:bit ホルダー</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[21]/l/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="66179" identifier="e9aae14d5afae6fa6e6bbb0126dfe67c">
+        <source>micro:bit holder</source>
+        <target state="translated">micro:bit ホルダー</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[21]</note>
+      </trans-unit>
+      <trans-unit id="66180" identifier="10a77a940db9af378dfa34b38000850b" translate="no">
+        <source>/static/courses/csintro/conditionals/game-pieces.jpg</source>
+        <target state="translated">/static/courses/csintro/conditionals/game-pieces.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p[22]/l/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66181" identifier="b5d2cfb426e956f8b755ab94161eaa64">
+        <source>Game pieces</source>
+        <target state="translated">ゲーム部品</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[22]/l/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="66182" identifier="e6c2a5d82f934cfe7441a2a8b629a509" translate="no">
+        <source>Game pieces</source>
+        <target state="translated">ゲーム部品</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[22]</note>
+      </trans-unit>
+      <trans-unit id="66183" identifier="8c1a9b2d2a4a633edb33da4b1e365379">
+        <source>let yes_or_no = 0
+let current_roll = 0
+let previous_roll = 0
+input.onButtonPressed(Button.AB, () =&amp;gt; {
+    previous_roll = 0
+    if (4 &amp;lt;= previous_roll) {
+        yes_or_no = Math.random(8)
+    }
+    if (4 &amp;gt; previous_roll) {
+        yes_or_no = Math.random(5)
+    }
+    if (2 &amp;lt; yes_or_no) {
+        basic.showString(&quot;YES&quot;)
+        basic.clearScreen()
+    } else {
+        basic.showString(&quot;NO&quot;)
+        basic.clearScreen()
+    }
+})
+input.onGesture(Gesture.Shake, () =&amp;gt; {
+    current_roll = Math.random(6)
+    basic.showNumber(current_roll + 1)
+    basic.pause(5000)
+    basic.clearScreen()
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+    previous_roll += 1
+    basic.showNumber(previous_roll)
+})
+input.onButtonPressed(Button.A, () =&amp;gt; {
+    previous_roll += -1
+    basic.showNumber(previous_roll)
+})
+basic.showString(&quot;SPACE RACE&quot;)
+previous_roll = 0</source>
+        <target state="translated">let yes_or_no = 0
+let current_roll = 0
+let previous_roll = 0
+input.onButtonPressed(Button.AB, () =&amp;gt; {
+    previous_roll = 0
+    if (4 &amp;lt;= previous_roll) {
+        yes_or_no = Math.random(8)
+    }
+    if (4 &amp;gt; previous_roll) {
+        yes_or_no = Math.random(5)
+    }
+    if (2 &amp;lt; yes_or_no) {
+        basic.showString(&quot;YES&quot;)
+        basic.clearScreen()
+    } else {
+        basic.showString(&quot;NO&quot;)
+        basic.clearScreen()
+    }
+})
+input.onGesture(Gesture.Shake, () =&amp;gt; {
+    current_roll = Math.random(6)
+    basic.showNumber(current_roll + 1)
+    basic.pause(5000)
+    basic.clearScreen()
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+    previous_roll += 1
+    basic.showNumber(previous_roll)
+})
+input.onButtonPressed(Button.A, () =&amp;gt; {
+    previous_roll += -1
+    basic.showNumber(previous_roll)
+})
+basic.showString(&quot;SPACE RACE&quot;)
+previous_roll = 0</target>
+        <note>Context: Text&#13;
+XPath: /pre[2]/code</note>
+      </trans-unit>
+      <trans-unit id="66184" identifier="341153791d6ebee4e83e00e71d72c227" translate="no" approved="yes">
+        <source>Assessment</source>
+        <target>評価</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[6]</note>
+      </trans-unit>
+      <trans-unit id="66185" identifier="95b7fc895a5235f9736db90d24243df1" translate="no">
+        <source>&lt;strong&gt;Competency scores&lt;/strong&gt;: 4, 3, 2, 1</source>
+        <target>&lt;strong&gt;Competency scores&lt;/strong&gt;: 4, 3, 2, 1</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[23]</note>
+      </trans-unit>
+      <trans-unit id="66186" identifier="35c5c5e4fa698462a4da2c965cc86fcc">
+        <source>Rules</source>
+        <target state="translated">ルール</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[2]</note>
+      </trans-unit>
+      <trans-unit id="66187" identifier="b315ac0f61f108dede062de0017db822">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; All game rules are clear and complete.&lt;br/&gt;
+  &lt;strong&gt;3 =&lt;/strong&gt; A game rule is missing or not complete or not clear.&lt;br/&gt;
+  &lt;strong&gt;2 =&lt;/strong&gt; More than one game rule is missing or not complete or not clear&lt;br/&gt;
+  &lt;strong&gt;1 =&lt;/strong&gt; Most of the game rules are missing or it is not clear what the rules are.</source>
+        <target state="translated">&lt;strong&gt;4 =&lt;/strong&gt; すべてのゲームのルールが明確で完成している。&lt;br/&gt;
+  &lt;strong&gt;3 =&lt;/strong&gt; ひとつのゲームのルールが欠けている、完成していない、もしくは明確ではない。&lt;br/&gt;
+  &lt;strong&gt;2 =&lt;/strong&gt; 一つ以上ゲームのルールが欠けている、完成していない、もしくは明確ではない。&lt;br/&gt;
+  &lt;strong&gt;1 =&lt;/strong&gt;ほとんどのゲームのルールが欠けている、完成していない、もしくは明確ではない 。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /blockquote/p</note>
+      </trans-unit>
+      <trans-unit id="66188" identifier="f5a407a08163f73d87066047024bb97a">
+        <source>Game board</source>
+        <target state="translated">ゲームのボード</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[3]</note>
+      </trans-unit>
+      <trans-unit id="66189" identifier="06eba65de64ddc02d7418102b474a68c">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; Game board is:&lt;br/&gt;
+  &lt;code&gt;*&lt;/code&gt; Complete&lt;br/&gt;
+  &lt;code&gt;*&lt;/code&gt; Neat&lt;br/&gt;
+  &lt;code&gt;*&lt;/code&gt; Fits with the theme of the game&lt;br/&gt;
+  &lt;code&gt;*&lt;/code&gt; micro:bit is a central part of the game&lt;br/&gt;
+  &lt;strong&gt;3 =&lt;/strong&gt; Game board meets only 3 of the conditions listed for a score of 4.&lt;br/&gt;
+  &lt;strong&gt;2 =&lt;/strong&gt; Game board meets only 2 of the conditions listed for a score of 4.&lt;br/&gt;
+  &lt;strong&gt;1 =&lt;/strong&gt; Game board meets only 1 of the conditions listed for a score of 4.</source>
+        <target state="translated">&lt;strong&gt;4 =&lt;/strong&gt; ゲームのボードが:&lt;br/&gt;
+  &lt;code&gt;*&lt;/code&gt; 完成している&lt;br/&gt;
+  &lt;code&gt;*&lt;/code&gt; 巧妙に作成されている&lt;br/&gt;
+  &lt;code&gt;*&lt;/code&gt; ゲームのテーマに合っている&lt;br/&gt;
+  &lt;code&gt;*&lt;/code&gt; micro:bit がゲームの中心になっている&lt;br/&gt;
+  &lt;strong&gt;3 =&lt;/strong&gt; ゲームのボードが上の４つのうち３つを満たしている。&lt;br/&gt;
+  &lt;strong&gt;2 =&lt;/strong&gt; ゲームのボードが上の４つのうち２つを満たしている。&lt;br/&gt;
+  &lt;strong&gt;1 =&lt;/strong&gt; ゲームのボードが上の４つのうち１つを満たしている。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /blockquote[2]/p</note>
+      </trans-unit>
+      <trans-unit id="66190" identifier="55a9f9f9961b04e668c3bc143fc40d85" translate="no" approved="yes">
+        <source>micro:bit program</source>
+        <target>micro:bit プログラム</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[4]</note>
+      </trans-unit>
+      <trans-unit id="66191" identifier="7d3299aa07d214abe197d388261fce6c">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; micro:bit program:&lt;br/&gt;
+  &lt;code&gt;*&lt;/code&gt; Uses the micro:bit in a way that is integral to the game&lt;br/&gt;
+  &lt;code&gt;*&lt;/code&gt; Uses conditionals correctly&lt;br/&gt;
+  &lt;code&gt;*&lt;/code&gt; Compiles and runs as intended&lt;br/&gt;
+  &lt;code&gt;*&lt;/code&gt; JavaScript includes comments in code&lt;br/&gt;
+  &lt;strong&gt;3 =&lt;/strong&gt; micro:bit program lacks 1 of the required elements.&lt;br/&gt;
+  &lt;strong&gt;2 =&lt;/strong&gt; micro:bit program lacks 2 of the required elements.&lt;br/&gt;
+  &lt;strong&gt;1 =&lt;/strong&gt; micro:bit program lacks 3 of the required elements.</source>
+        <target state="translated">&lt;strong&gt;4 =&lt;/strong&gt; micro:bit プログラムが:&lt;br/&gt;
+  &lt;code&gt;*&lt;/code&gt;  micro:bit がゲームで不可欠なものとして使用されている&lt;br/&gt;
+  &lt;code&gt;*&lt;/code&gt; ”条件”を正しく使用している&lt;br/&gt;
+  &lt;code&gt;*&lt;/code&gt;　目的通りにコンパイルと実行を行っている&lt;br/&gt;
+  &lt;code&gt;*&lt;/code&gt; JavaScriptコード内にコメントが含まれている &lt;br/&gt;
+  &lt;strong&gt;3 =&lt;/strong&gt; micro:bit プログラムで上のうち１つの必要な要素が欠けている。&lt;br/&gt;
+  &lt;strong&gt;2 =&lt;/strong&gt; micro:bit プログラムで上のうち２つの必要な要素が欠けている。&lt;br/&gt;
+  &lt;strong&gt;1 =&lt;/strong&gt; micro:bit プログラムで上のうち３つの必要な要素が欠けている。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /blockquote[3]/p</note>
+      </trans-unit>
+      <trans-unit id="66192" identifier="a805c23e7666f2ac31d1e13065de7f20">
+        <source>Photo documentation</source>
+        <target state="translated">写真入り資料</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[5]</note>
+      </trans-unit>
+      <trans-unit id="66193" identifier="17dd0810d2b692e14063e0761efef800">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; Complete photo documentation that includes photos of game board and code and captions.&lt;br/&gt;
+  &lt;strong&gt;3 =&lt;/strong&gt; A photo is missing or of poor quality or a caption is missing.&lt;br/&gt;
+  &lt;strong&gt;2 =&lt;/strong&gt; Multiple photos and/or captions missing or of poor quality.&lt;br/&gt;
+  &lt;strong&gt;1 =&lt;/strong&gt; Most photos and/or captions missing or of poor quality.</source>
+        <target state="translated">&lt;strong&gt;4 =&lt;/strong&gt; ゲームのボードとコードの写真と説明文を含む写真入り資料が完成している。&lt;br/&gt;
+  &lt;strong&gt;3 =&lt;/strong&gt; ひとつの写真が欠けている、品質が低い、または説明文が欠けている。&lt;br/&gt;
+  &lt;strong&gt;2 =&lt;/strong&gt; 複数の写真が欠けている、品質が低い、または説明文が欠けている。&lt;br/&gt;
+  &lt;strong&gt;1 =&lt;/strong&gt; ほとんどの写真が欠けている、品質が低い、または説明文が欠けている。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /blockquote[4]/p</note>
+      </trans-unit>
+      <trans-unit id="66194" identifier="f5edb04c75d1e76915fcc946d6fbaf87" translate="no" approved="yes">
+        <source>Collaboration reflection</source>
+        <target>共同作業と内省</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[6]</note>
+      </trans-unit>
+      <trans-unit id="66195" identifier="be438b9095f1286a35d3fefda4dfb087">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; Reflection piece includes:&lt;br/&gt;
+  &lt;code&gt;*&lt;/code&gt; Brainstorming ideas&lt;br/&gt;
+  &lt;code&gt;*&lt;/code&gt; Construction&lt;br/&gt;
+  &lt;code&gt;*&lt;/code&gt; Programming&lt;br/&gt;
+  &lt;code&gt;*&lt;/code&gt; Beta testing&lt;br/&gt;
+  &lt;strong&gt;3 =&lt;/strong&gt; Reflection piece lacks 1 of the required elements.&lt;br/&gt;
+  &lt;strong&gt;2 =&lt;/strong&gt; Reflection piece lacks 2 of the required elements.&lt;br/&gt;
+  &lt;strong&gt;1 =&lt;/strong&gt; Reflection piece lacks 3 of the required elements.</source>
+        <target state="translated">&lt;strong&gt;4 =&lt;/strong&gt; ふりかえりに必要なすべての要素が含まれている:&lt;br/&gt;
+  &lt;code&gt;*&lt;/code&gt; ブレーンストーミングのアイデア&lt;br/&gt;
+  &lt;code&gt;*&lt;/code&gt; 構成&lt;br/&gt;
+  &lt;code&gt;*&lt;/code&gt; プログラミング&lt;br/&gt;
+  &lt;code&gt;*&lt;/code&gt; ベータテスト&lt;br/&gt;
+  &lt;strong&gt;3 =&lt;/strong&gt; ふりかえりに必要な要素のうち１つが欠けている。&lt;br/&gt;
+  &lt;strong&gt;2 =&lt;/strong&gt; ふりかえりに必要な要素のうち２つが欠けている。&lt;br/&gt;
+  &lt;strong&gt;1 =&lt;/strong&gt; ふりかえりに必要な要素のうち３つが欠けている。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /blockquote[5]/p</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

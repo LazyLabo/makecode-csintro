@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1861" original="/microbit/docs/courses/csintro/making/standards.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="67270" identifier="a6ab61cb2df7d09e35af9890bbb7cece" translate="no" approved="yes">
+        <source>Standards</source>
+        <target>CSTA標準</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="67271" identifier="56a637bf2e737901b551726a1f0739f5" translate="no">
+        <source>CSTA K-12 Computer Science Standards</source>
+        <target state="translated">CSTA K-12 コンピューターサイエンス標準</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="67272" identifier="1fdf9ccfebca31f8bcb552d2ee3f6464" approved="yes">
+        <source>2-A-2-1 Solicit and integrate peer feedback as appropriate to develop or refine a program.</source>
+        <target>2-A-2-1 フィードバックを活用してプログラムの開発と更新ができる。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="67273" identifier="a1906e0e3528c8d4d0b80338158db1c7" translate="no" approved="yes">
+        <source>2-A-6-10 Use an iterative design process (e.g., define the problem, generate ideas, build, test, and improve solutions) to solve problems, both independently and collaboratively.</source>
+        <target>2-A-6-10 問題解決を行うために個人、もしくはグループでデザインプロセス（問題の定義、アイデアの提案、テスト、ソリューションの改善）を活用できる</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

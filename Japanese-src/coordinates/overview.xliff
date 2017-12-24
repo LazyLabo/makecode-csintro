@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1838" original="/microbit/docs/courses/csintro/coordinates/overview.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="66343" identifier="913f6422d41f0413a2feb499068e4895" translate="no">
+        <source>Introduction</source>
+        <target>Introduction</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="66344" identifier="8c56ad13c04e708cfb478c65538119a2">
+        <source>Through math class, most middle school students are already familiar with coordinate grids and mapping x and y coordinates on a plane. To review some terms:</source>
+        <target state="needs-translation">Through math class, most middle school students are already familiar with coordinate grids and mapping x and y coordinates on a plane. To review some terms:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="73162" identifier="3bfe4f26eb0365312c0e1fb44da404f9">
+        <source>Axes</source>
+        <target state="needs-translation">Axes</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="66346" identifier="8cb259a9ddaf7c4b695b1698b19299a5">
+        <source>The basic coordinate grid a student learns has two axes,</source>
+        <target state="needs-translation">The basic coordinate grid a student learns has two axes,</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="66347" identifier="b8d1a6a9de61d854a614692d40f77e43">
+        <source>an x-axis which runs horizontally and</source>
+        <target state="needs-translation">an x-axis which runs horizontally and</target>
+        <note>Context: List Item&#13;
+XPath: /blockquote/ul/li</note>
+      </trans-unit>
+      <trans-unit id="66348" identifier="2b4ea322e2ce7af7067270ddfe1b4dcf">
+        <source>a y-axis which runs vertically.</source>
+        <target state="needs-translation">a y-axis which runs vertically.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="73163" identifier="53db07fd49e4385b6f6cdf3efbc45bc8">
+        <source>Origin</source>
+        <target state="needs-translation">Origin</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="66350" identifier="e1766e10fc40f696311106c8f44e42a5">
+        <source>These two axes meet at a point called the origin where both the x and the y values are zero.</source>
+        <target state="needs-translation">These two axes meet at a point called the origin where both the x and the y values are zero.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li</note>
+      </trans-unit>
+      <trans-unit id="66351" identifier="a318737ebadcd4bf4fbb5f4125ee9a99">
+        <source>On this basic coordinate grid, the origin is in the lower left corner of the grid and has the coordinates (0,0).</source>
+        <target state="needs-translation">On this basic coordinate grid, the origin is in the lower left corner of the grid and has the coordinates (0,0).</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="73164" identifier="72d3b4642bfcb15f1e906bc464c3eef4">
+        <source>Coordinate pair</source>
+        <target state="needs-translation">Coordinate pair</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="66353" identifier="d9b2f281308160025e77716d6b0a6646">
+        <source>The first value in a coordinate pair is the x value and the second value in a coordinate pair is the y value.</source>
+        <target state="needs-translation">The first value in a coordinate pair is the x value and the second value in a coordinate pair is the y value.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li</note>
+      </trans-unit>
+      <trans-unit id="66354" identifier="2498b6c885c72037985a4d2f362a8422">
+        <source>A simple way to remember which value comes first is to remember their order in the alphabet.</source>
+        <target state="needs-translation">A simple way to remember which value comes first is to remember their order in the alphabet.</target>
+        <note>Context: XPath: /ul[4]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66355" identifier="6ff20b6d3d680bf5fe66066895527764">
+        <source>The letter x comes before the letter y in the alphabet and the x coordinate comes before the y coordinate in a coordinate pair.</source>
+        <target state="needs-translation">The letter x comes before the letter y in the alphabet and the x coordinate comes before the y coordinate in a coordinate pair.</target>
+        <note>Context: XPath: /ul[4]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="73165" identifier="68f6afba8b618d5a0e2fd23bda18f735">
+        <source>Coordinate value changes</source>
+        <target state="needs-translation">Coordinate value changes</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[4]</note>
+      </trans-unit>
+      <trans-unit id="66357" identifier="0a858bae0970c40d6131140503e99fa7">
+        <source>On a basic coordinate grid,</source>
+        <target state="needs-translation">On a basic coordinate grid,</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li</note>
+      </trans-unit>
+      <trans-unit id="66358" identifier="807fb534e76d6981d43ae38bf7564a9f">
+        <source>the value of the x coordinate increases left to right and is a measure of how many units a point is horizontally from the origin</source>
+        <target state="needs-translation">the value of the x coordinate increases left to right and is a measure of how many units a point is horizontally from the origin</target>
+        <note>Context: List Item&#13;
+XPath: /blockquote[2]/ul/li</note>
+      </trans-unit>
+      <trans-unit id="66359" identifier="11697c4bb52dccdcb510ae0c6724dae8">
+        <source>the value of the y coordinate increases bottom to top and is a measure of how many units a point is vertically from the origin</source>
+        <target state="needs-translation">the value of the y coordinate increases bottom to top and is a measure of how many units a point is vertically from the origin</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li</note>
+      </trans-unit>
+      <trans-unit id="66360" identifier="f65d38589ad81a3329dd2033e1cfb583" translate="no">
+        <source>/static/courses/csintro/coordinates/math-coords.png</source>
+        <target>/static/courses/csintro/coordinates/math-coords.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[2]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66361" identifier="8fa25c47ddef9e398eb4272e640c2734">
+        <source>Math coordinates</source>
+        <target state="needs-translation">Math coordinates</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[2]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="73166" identifier="324df1b44d79031c7c73d0a0ae49a54b">
+        <source>Coordinate grid and JavaScript and the micro:bit</source>
+        <target state="needs-translation">Coordinate grid and JavaScript and the micro:bit</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[5]</note>
+      </trans-unit>
+      <trans-unit id="66363" identifier="7f603e4442a45d939db29d831f86ed9b">
+        <source>The 5 x 5 grid of LEDs on the micro:bit represent a coordinate grid with a horizontal x-axis and a vertical y-axis.</source>
+        <target state="needs-translation">The 5 x 5 grid of LEDs on the micro:bit represent a coordinate grid with a horizontal x-axis and a vertical y-axis.</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="66364" identifier="08f26c5edce2dcf6967eb7c58968edda">
+        <source>It has an origin and you can refer to the position of the LEDs with coordinate pairs.</source>
+        <target state="needs-translation">It has an origin and you can refer to the position of the LEDs with coordinate pairs.</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="66365" identifier="55815075f0a3ce4505a5bcbf912071ea">
+        <source> 
+It is important however that the students understand the two major differences between the micro:bit LED grid and the coordinate grid that they are used to using in math class:</source>
+        <target state="needs-translation"> 
+It is important however that the students understand the two major differences between the micro:bit LED grid and the coordinate grid that they are used to using in math class:</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="66366" identifier="cebcf59ea9bdcef5738790650f29dd02">
+        <source>the origin (0,0) is in the top left corner.</source>
+        <target state="needs-translation">the origin (0,0) is in the top left corner.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[7]/li</note>
+      </trans-unit>
+      <trans-unit id="66367" identifier="a3caa74f2b4733ac764e13f0837d03c0">
+        <source>the values of the y coordinates range from 0 through four and increase from top to bottom.</source>
+        <target state="needs-translation">the values of the y coordinates range from 0 through four and increase from top to bottom.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[7]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66368" identifier="5ab84c51d116a881168f1654a496a8c0">
+        <source>Note:</source>
+        <target state="needs-translation">Note:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="66369" identifier="d08206dcfc1d372dea6228cb218fd7c2">
+        <source>The values of the x coordinates range from 0 through four and increase from left to right just as they do in the coordinate grids used in math class.</source>
+        <target state="needs-translation">The values of the x coordinates range from 0 through four and increase from left to right just as they do in the coordinate grids used in math class.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[8]/li</note>
+      </trans-unit>
+      <trans-unit id="66370" identifier="4d89b8304745d9997c1c45cad73e9b8e" translate="no">
+        <source>/static/courses/csintro/coordinates/microbit-led-coords.png</source>
+        <target>/static/courses/csintro/coordinates/microbit-led-coords.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[5]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66371" identifier="322ea18190a343bf71c0725ef47991ba">
+        <source>micro:bit LED coordinates</source>
+        <target state="needs-translation">micro:bit LED coordinates</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[5]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="73167" identifier="9be5e776076c6d29760ca0482570ae06" translate="no">
+        <source>Sidebar material</source>
+        <target>Sidebar material</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[6]</note>
+      </trans-unit>
+      <trans-unit id="66373" identifier="7441cfe0f8309766744f4d60f15a6b27" translate="no">
+        <source>/static/courses/csintro/coordinates/rene-descartes.jpg</source>
+        <target>/static/courses/csintro/coordinates/rene-descartes.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p[6]/l/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66374" identifier="427d92a85cae9227122527d67e631691">
+        <source>Rene Descartes</source>
+        <target state="needs-translation">Rene Descartes</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[6]/l/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="66375" identifier="3fd271bf612dd352101980450a6fd225">
+        <source>(image credit: Wikipedia Commons)</source>
+        <target state="needs-translation">(image credit: Wikipedia Commons)</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="66376" identifier="60d9131c3cc604bc5ace8b214f5699de">
+        <source>René Descartes (1596-1650), was a French philosopher and mathematician who developed the coordinate system we use today.</source>
+        <target state="needs-translation">René Descartes (1596-1650), was a French philosopher and mathematician who developed the coordinate system we use today.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="66377" identifier="e09aa035d9a079c542433c1881a49dac">
+        <source>A story goes that while lying in bed, he noticed a fly on the ceiling.</source>
+        <target state="needs-translation">A story goes that while lying in bed, he noticed a fly on the ceiling.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="66378" identifier="dfb42b1d1c078ab44cdc34e5ea26333f">
+        <source>In wondering how he could describe the fly’s exact position on the ceiling, he decided to use a corner of the ceiling as a reference point and then describe the fly’s position as a measure of how far away from the reference point one would need to travel horizontally and then vertically to reach the fly.</source>
+        <target state="needs-translation">In wondering how he could describe the fly’s exact position on the ceiling, he decided to use a corner of the ceiling as a reference point and then describe the fly’s position as a measure of how far away from the reference point one would need to travel horizontally and then vertically to reach the fly.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="66379" identifier="ad33fd7f109f18d7bcd6f936c412a9ba">
+        <source>His coordinate system proved useful in many ways including creating an important link between the studies of algebra and geometry.</source>
+        <target state="needs-translation">His coordinate system proved useful in many ways including creating an important link between the studies of algebra and geometry.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="66380" identifier="f3aea4c5b91960518cf7ffe81a6df288">
+        <source>Geometric shapes could now be described by points on a coordinate plane.</source>
+        <target state="needs-translation">Geometric shapes could now be described by points on a coordinate plane.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

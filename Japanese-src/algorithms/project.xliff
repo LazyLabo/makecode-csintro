@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1804" original="/microbit/docs/courses/csintro/algorithms/project.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="64253" identifier="94f499ae3aed743489b3085d042067e7" approved="yes">
+        <source>Project: Fidget Cube</source>
+        <target>プロジェクト: フィジットキューブ</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="70340" identifier="aca5d2118212e58c5cfb57d8f01a503d" translate="no">
+        <source>/static/courses/csintro/algorithms/fidgetcube.jpg</source>
+        <target state="translated">/static/courses/csintro/algorithms/fidgetcube.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="70341" identifier="e83507131645816cab1b4d89f0cf677a">
+        <source>Sample fidget cube</source>
+        <target state="translated">Sample fidget cube</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="70342" identifier="21d8d087e78440397b1e7f77f7364143" approved="yes">
+        <source>A fidget cube is a little cube with something different that you can manipulate on each surface.</source>
+        <target>フィジットキューブとは小さな正六面体で、それぞれの面で何か異なる操作をすることができるものです。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="70343" identifier="1e9dd156a328d921a2d897c4aaae7888" approved="yes">
+        <source>There are buttons, switches, and dials, and people who like to “fidget” find it relaxing to push, pull, press, and play with it.</source>
+        <target>例えばボタン、スイッチ、ダイアルなど手遊びが好き人がそれを押す、引く、押さえつけるなどの操作をすることでストレス解消できる、というものです。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="70344" identifier="3e4102b959e8ec423962091b7b5a5e79" approved="yes">
+        <source>In this project, students are challenged to turn the micro:bit into their very own “fidget cube”.</source>
+        <target>このプロジェクトで生徒たちはmicro:bitを自分だけのオリジナルな「フィジットキューブ」にする工作に挑戦します。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="70345" identifier="b8ea1890613a51862c3cb95e85334c9d" approved="yes">
+        <source>Show students some examples of fidget cubes:</source>
+        <target>生徒にフィジットキューブをいくつか見せましょう。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="70346" identifier="a2e678b468e260d578f2c09342d5afd6" approved="yes">
+        <source>Original Kickstarter Fidget Cube - &lt;a href=&quot;https://www.kickstarter.com/projects/antsylabs/fidget-cube-a-vinyl-desk-toy&quot;&gt;Fidget Cube: A Vinyl Desk Toy&lt;/a&gt; (there is a funny video showing the fidget cube in action).</source>
+        <target>キック スターターFidget Cube -&lt;a href=&quot;https://www.kickstarter.com/projects/antsylabs/fidget-cube-a-vinyl-desk-toy&quot;&gt;フィジットキューブ: ビニール製卓上おもちゃ&lt;/a&gt;(フィジットキューブの使い方の面白いビデオがいくつかあります)。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="64261" identifier="16d2eaf329b9190e946ea4daf681b0e4" approved="yes">
+        <source>Discussion questions</source>
+        <target>ディスカッションのための質問</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="64262" identifier="79295da42bd493f2d9f222d970192108" approved="yes">
+        <source>Do any of your students fidget?</source>
+        <target>あなたの生徒の中で手遊びをする人はいますか？</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="64263" identifier="f1af12ef5196707d5f0f8bd387e5eb5c" approved="yes">
+        <source>What kinds of things do they fidget with? Spinning pens, fidget spinners, rings, coins?</source>
+        <target>どのような物を使って手遊びしますか？ペンを回す、ハンドスピナー、輪っか、コインなど？</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64264" identifier="ab99fa31fcc47120c91b1c8aa47d1eb7" approved="yes">
+        <source>There are many different versions of fidget cubes available now. Do any students have any?</source>
+        <target>現在、様々な異なるバージョンのフィジットキューブがあります。すでに持っている生徒はいますか？</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="64265" identifier="ae8f4dcc6ee4f83a6e4cbb9d3d87394b" approved="yes">
+        <source>Have they seen them before?</source>
+        <target>フィジットキューブを見たことがある生徒はいますか？</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="64266" identifier="d76effe56102f8d8ed861bfaf09600ee" approved="yes">
+        <source>What are the types of fidget activities?</source>
+        <target>どのような手遊びができるでしょうか？</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[5]</note>
+      </trans-unit>
+      <trans-unit id="64267" identifier="d86563a6ae09115ce3e437e65d340ea6" approved="yes">
+        <source>If students could add or modify features of the fidget cube, what would they choose to do?</source>
+        <target>もし生徒たちがフィジットキューブに新たな機能を加えたり、すでにある機能を改造できるとしたら、どのようなものにするでしょうか？</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[6]</note>
+      </trans-unit>
+      <trans-unit id="64268" identifier="d35d89eb577aa2ea78d8ce861b81281a" approved="yes">
+        <source>What would make the ultimate fidget cube?</source>
+        <target>究極のフィジットキューブを作るとしたらどういうものになるでしょうか？</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[7]</note>
+      </trans-unit>
+      <trans-unit id="70347" identifier="273193dd901ca48390b6fbf98eeaf97b" approved="yes">
+        <source>Remind students that a computing device has a number of inputs, and a number of outputs. The code that we write processes input by telling the micro:bit what to do when various events occur.</source>
+        <target>生徒たちには、コンピュータにはいくつもの入力と出力があることを思い出させましょう。これから書くコードは、様々なイベントが発生したときにmicro:bitにどのように入力を処理させるかを指示します。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="64270" identifier="b9391ad7ed0627018a22cb4128d5182c" translate="no" approved="yes">
+        <source>Project</source>
+        <target>プロジェクト</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="70348" identifier="2f484d85e685d7ff7b2e66c1654ab3b0" approved="yes">
+        <source>Make a fidget cube out of the micro:bit, create a unique output for each of the following inputs:</source>
+        <target>micro:bitを使って、以下の入力に対して異なる出力を作成するようなフィジットキューブを作ります。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="64272" identifier="83973395d67071ce424da3ede8218434" approved="yes">
+        <source>on button A pressed</source>
+        <target>Aボタンが押される</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li</note>
+      </trans-unit>
+      <trans-unit id="64273" identifier="f7aebb1ed5ec4218ae3aa6051aa432fb" approved="yes">
+        <source>on button B pressed</source>
+        <target>Bボタンが押される</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64274" identifier="92368e15bdc236dcc2687aa373b07645" approved="yes">
+        <source>on button A+B pressed</source>
+        <target>AボタンとBボタンが同時に押される</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="64275" identifier="8c1dce502676d21a952cf2add26210d2" approved="yes">
+        <source>on shake</source>
+        <target>micro:bit本体がシェイクされる</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="70349" identifier="8ba266675c256732ef206c48c4d30262" approved="yes">
+        <source>See if you can combine a maker element similar to what you created in Lesson 1 by providing a holder for the micro:bit that holds it securely when you press one of the buttons.</source>
+        <target>ボタンが押されたときにmicro:bitがしっかりと固定されていて動かないように、レッスン 1 で作成したようなメーカー要素を組み合わせることができるか試してみましょう。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="70350" identifier="195bb26e8d7f2185dcc51f1f4c2da831" translate="no" approved="yes">
+        <source>/static/courses/csintro/algorithms/fidget-cube.jpg</source>
+        <target>/static/courses/csintro/algorithms/fidget-cube.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p[7]/l/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="70351" identifier="111da11934d7524a8d759287cbee8258" approved="yes">
+        <source>Sample fidget cube designs</source>
+        <target>フィジットキューブ設計の例</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="70352" identifier="b4180cd9e7e23bd6f38cfef97ed06f21" approved="yes">
+        <source>Project mod</source>
+        <target>プロジェクトの改造</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="64280" identifier="3cee22f14c7140debb0d2eb10620617f" approved="yes">
+        <source>Add more inputs and more outputs - use more than 4 different types of input. Try to use other types of output (other than LEDs) such as sound!</source>
+        <target>入力と出力の数を増やす - 4 つ以上の異なる種類の入力を使う。(LED以外の)音等の出力を使う。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li</note>
+      </trans-unit>
+      <trans-unit id="64281" identifier="f76ed130190de24943cd878a359ab65b" approved="yes">
+        <source>Assessment</source>
+        <target>評価</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[4]</note>
+      </trans-unit>
+      <trans-unit id="70353" identifier="b1a83ff399c9d95de7940c1452874c25" translate="no">
+        <source>&lt;strong&gt;Competency scores&lt;/strong&gt;: 4, 3, 2, 1</source>
+        <target state="translated">&lt;strong&gt;判定基準&lt;/strong&gt;: 4、3、2、1</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="64283" identifier="6acb12a3ed55f54289cb693c2764b257" translate="no" approved="yes">
+        <source>Inputs</source>
+        <target>入力</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3</note>
+      </trans-unit>
+      <trans-unit id="70354" identifier="a47d7b3a457c499ae1195d3006e41333" approved="yes">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; At least 4 different inputs are successfully implemented.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; At least 3 different inputs are successfully implemented.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; At least 2 different inputs are successfully implemented.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; Fewer than 2 different inputs are successfully implemented.</source>
+        <target>&lt;strong&gt;4 =&lt;/strong&gt;少なくとも4つの異なる入力が正常に実装されている&lt;br/&gt; &lt;strong&gt;3 =&lt;/strong&gt;少なくとも3つの異なる入力が正常に実装されている&lt;br/&gt;&lt;strong&gt;2 =&lt;/strong&gt;少なくとも2つの異なる入力が正常に実装されている&lt;br/&gt; &lt;strong&gt;1 =&lt;/strong&gt;2つ以下の異なる入力が正常に実装されている。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="64285" identifier="b346fd60598230099df62a603a776902" approved="yes">
+        <source>Outputs</source>
+        <target>出力</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[2]</note>
+      </trans-unit>
+      <trans-unit id="70355" identifier="c85e04d99f59bf7271ee6f028da71157" approved="yes">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; At least 4 different outputs are successfully implemented.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; At least 3 different outputs are successfully implemented.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; At least 2 different outputs are successfully implemented.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; Fewer than 2 different outputs are successfully implemented.</source>
+        <target>&lt;strong&gt;4 =&lt;/strong&gt;少なくとも4つの異なる出力が正常に実装されている&lt;br/&gt; &lt;strong&gt;3 =&lt;/strong&gt;少なくとも3つの異なる出力が正常に実装されている&lt;br/&gt;&lt;strong&gt;2 =&lt;/strong&gt;少なくとも2つの異なる出力が正常に実装されている&lt;br/&gt; &lt;strong&gt;1 =&lt;/strong&gt;2つ以下の異なる出力が正常に実装されている。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="64287" identifier="a0db9e7fc3cbba750815c668306904e3" approved="yes">
+        <source>micro:bit program</source>
+        <target>micro:bit プログラム</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[3]</note>
+      </trans-unit>
+      <trans-unit id="70356" identifier="cc20c6c988798777fcd000a054237aed">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; micro:bit program:&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; uses event handlers in a way that is integral to the program&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; compiles and runs as intended&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; includes meaningful comments&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; micro:bit program lacks 1 of the required elements&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; micro:bit program lacks 2 of the required elements&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; micro:bit program lacks all of the required elements.</source>
+        <target state="translated">&lt;strong&gt;4 =&lt;/strong&gt;micro:bit プログラム:&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt;プログラムに不可欠な要素としてイベント ハンドラーを使用している&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt;意図した通りにコンパイルし正しく動作する&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt;有意義なコメントが含まれている&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt;必要な要素がmicro:bit プログラムからひとつだけ欠けている&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt;必要な要素がmicro:bit プログラムからふたつだけ欠けている&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt;すべての必要な要素がmicro:bit プログラムから欠けている</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="64289" identifier="4786a0d83e325472bf4e7b3035515289" approved="yes">
+        <source>Collaboration reflection</source>
+        <target>共同作業と内省</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[4]</note>
+      </trans-unit>
+      <trans-unit id="70357" identifier="3ceb7ab9388e66a91aecb586946eaa7b">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; Reflection piece includes:&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; brainstorming ideas&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; construction&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; programming&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; beta testing&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Reflection piece lacks 1 of the required elements.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Reflection piece lacks 2 of the required elements.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; Reflection piece lacks 3 of the required elements.</source>
+        <target state="translated">&lt;strong&gt;4 =&lt;/strong&gt;内省の項目:&lt;br/&gt;&lt;code&gt;*&lt;/code&gt;ブレーンストーミングでアイデアを出す&lt;br/&gt;&lt;code&gt;*&lt;/code&gt;作成&lt;br/&gt;&lt;code&gt;*&lt;/code&gt;プログラミング&lt;br/&gt;&lt;code&gt;*&lt;/code&gt;ベータ テスト&lt;br/&gt;&lt;strong&gt;3 =&lt;/strong&gt;必要な内省要素のうちひとつを欠いている。&lt;br/&gt; &lt;strong&gt;2 =&lt;/strong&gt;必要な内省要素のうちふたつを欠いている。&lt;br/&gt; &lt;strong&gt;1 =&lt;/strong&gt;必要な内省要素のうち３つを欠いている。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[12]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

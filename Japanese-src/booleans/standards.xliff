@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1826" original="/microbit/docs/courses/csintro/booleans/standards.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="65891" identifier="a6ab61cb2df7d09e35af9890bbb7cece" translate="no">
+        <source>Standards</source>
+        <target>Standards</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="65892" identifier="56a637bf2e737901b551726a1f0739f5" translate="no">
+        <source>CSTA K-12 Computer Science Standards</source>
+        <target state="translated">CSTA K 12 コンピューターサイエンス標準</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="65893" identifier="299611a84a707521604c1048ec00b30f">
+        <source>CL.L2-03 Collaborate with peers, experts, and others using collaborative practices such as pair programming, working in project teams, and participating in group active learning activities</source>
+        <target state="needs-translation">CL.L2-03 Collaborate with peers, experts, and others using collaborative practices such as pair programming, working in project teams, and participating in group active learning activities</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="65894" identifier="380bd77237e5d225d4ec4b5e1c54790e">
+        <source>CT.L1:6-01 Understand and use the basic steps in algorithmic problem-solving</source>
+        <target state="needs-translation">CT.L1:6-01 Understand and use the basic steps in algorithmic problem-solving</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65895" identifier="78e657f3002a637de0f3df9ae515e9bc">
+        <source>CT.L1:6-02 Develop a simple understanding of an algorithm using computer-free exercises</source>
+        <target state="needs-translation">CT.L1:6-02 Develop a simple understanding of an algorithm using computer-free exercises</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="65896" identifier="b748faadfc8c014cef6b54086bd059ac" translate="no">
+        <source>CPP.L1:6-05 Construct a program as a set of step-by-step instructions to be acted out</source>
+        <target>CPP.L1:6-05 Construct a program as a set of step-by-step instructions to be acted out</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[4]</note>
+      </trans-unit>
+      <trans-unit id="65897" identifier="61177a15df2327473dfee2a92e60aa83">
+        <source>2-A-5-7 Create variables that represent different types of data and manipulate their values.</source>
+        <target state="needs-translation">2-A-5-7 Create variables that represent different types of data and manipulate their values.</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[5]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

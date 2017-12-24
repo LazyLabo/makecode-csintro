@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1855" original="/microbit/docs/courses/csintro/iteration/unplugged.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="67070" identifier="6fedec5230a562d54ffe965d9981ca72">
+        <source>Unplugged: Walk a square</source>
+        <target state="translated">アンプラグド: 歩く正方形</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="67071" identifier="3461e5389b2d4bff093c6acb2ec80cdf" translate="no">
+        <source>/static/courses/csintro/iteration/chair-pseudo.png</source>
+        <target>/static/courses/csintro/iteration/chair-pseudo.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67072" identifier="61db8cb47d5c56d763544721775f8473">
+        <source>Chair with Pseudocode on the board.</source>
+        <target state="translated">Chair with Pseudocode on the board.</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67073" identifier="12c33ebee03c600850b1571654582b45" translate="no">
+        <source>Objective</source>
+        <target state="translated">目的</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="67074" identifier="f71a755702d9f8c9ccc11dbd8b5c8ea0">
+        <source>To reinforce the concept of iteration by having students act out the repeated steps of an algorithm in real life.</source>
+        <target state="translated">実生活の中にあるアルゴリズムの反復ステップを生徒に実際に実行してもらうことで、反復の概念の理解を強化します。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="67075" identifier="275d2289c612abf9c78c9c820967b19c" translate="no">
+        <source>Overview</source>
+        <target state="translated">概要</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="67076" identifier="68a3a56f315284f0c118e2e02a3df529">
+        <source>Students will give the teacher instructions to do a simple activity, then look for places where using iteration could shorten their code and make it more efficient.</source>
+        <target state="translated">まず生徒が先生い対して、簡単な動作をするように一連の命令を与え、さらにループを使ってコードを短くより効率的にできる部分が無いかを考察します。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="67077" identifier="cb724b06cf7795c7c1a4106026c91387" translate="no">
+        <source>Process</source>
+        <target state="translated">処理</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="67078" identifier="db6e6f4dfa46bfde1f58cb64589dcbcd">
+        <source>Place a chair in the front of the room.</source>
+        <target state="translated">部屋の前に椅子を、生徒の方に向かって配置します。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="67079" identifier="c33ef104bfe7601c00e7cef6f90da70d">
+        <source>Stand at the back right side of the chair facing the students.</source>
+        <target state="translated">椅子の右後ろ側に、生徒の方に向かって立ちます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67080" identifier="81cd21c5d0757835e954d506ac2495e2">
+        <source>Ask the students what instructions they could give you that when followed would lead you to walk around the chair, ending up just as you started.</source>
+        <target state="translated">生徒にまずこう質問しましょう。先生が椅子の周りをグルっと歩いて、最後には今立っている場所に戻ってくるようにするために、一連の命令を出すとするとどういうものになるでしょう？</target>
+        <note>Context: XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67081" identifier="290d2d9e9b26d538225dc58d36ad11a3">
+        <source>You may want to demonstrate what this would look like by walking around the chair.</source>
+        <target state="translated">椅子の周りをどのように歩くかデモンストレーションするとよいでしょう。</target>
+        <note>Context: XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67082" identifier="f7e2c9d42437bd41365ce71f200c60f4">
+        <source>Tell the students you can only process one instruction at a time, so their algorithm needs to be step-by-step.</source>
+        <target state="translated">生徒には、命令は一度にひとつしか処理できないので、アルゴリズムは複数のステップが必要であることを伝えます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[4]</note>
+      </trans-unit>
+      <trans-unit id="67083" identifier="9f752f1c2fb3f10683375b37f5b3d0f8">
+        <source>As students suggest instructions write them on the board or wherever everyone can see them. Their pseudocode will probably end up looking something like this:</source>
+        <target state="translated">生徒たちが提案した命令はホワイトボードなど全員が見えるところに書いておきます。完成した疑似コードは以下のようなものになっているでしょう。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[5]</note>
+      </trans-unit>
+      <trans-unit id="67084" identifier="7a8bb1d7d6a389da67f238666c31571e">
+        <source>Step forward</source>
+        <target state="translated">一歩前へ進む</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li</note>
+      </trans-unit>
+      <trans-unit id="67085" identifier="fe66d94a725875fb5fcf01a8f8ce260a">
+        <source>Turn left</source>
+        <target state="translated">左を向く</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67086" identifier="601cd3432ee3e3a579c87ec6f0d0c773" translate="no">
+        <source>Step forward</source>
+        <target state="translated">一歩前へ進む</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67087" identifier="bdd5388b1c08182f7c7539701d5c8cf7" translate="no">
+        <source>Turn left</source>
+        <target state="translated">左を向く</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li[4]</note>
+      </trans-unit>
+      <trans-unit id="67088" identifier="a8bbc8ae25ffeab9d5f4b0cf965b8164" translate="no">
+        <source>Step forward</source>
+        <target state="translated">一歩前へ進む</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li[5]</note>
+      </trans-unit>
+      <trans-unit id="67089" identifier="da30d7c795a5c6b6e8effbb92c7b85a7" translate="no">
+        <source>Turn left</source>
+        <target state="translated">左を向く</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li[6]</note>
+      </trans-unit>
+      <trans-unit id="67090" identifier="66725240a1ef8dba631758b40333b44e" translate="no">
+        <source>Step forward</source>
+        <target state="translated">一歩前へ進む</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li[7]</note>
+      </trans-unit>
+      <trans-unit id="67091" identifier="48cfdc93c65cac33f939d8bcece7d8a8" translate="no">
+        <source>/static/courses/csintro/iteration/square-walk.png</source>
+        <target>/static/courses/csintro/iteration/square-walk.png</target>
+        <note>Context: Image Source&#13;
+XPath: /ol/li[8]/r/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67092" identifier="b27d5e5dff91b16d58dbe06e5226efa7">
+        <source>Square walking pattern</source>
+        <target state="translated">Square walking pattern</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /ol/li[8]/r/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67093" identifier="83868823dd95b0e530598f435dd2478e">
+        <source>Turn left
+</source>
+        <target state="translated">左を向く</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li[8]</note>
+      </trans-unit>
+      <trans-unit id="67094" identifier="72d03cab397dbd583c6dcc87f5dd68af">
+        <source>* Go ahead and follow their algorithm to prove that it works.</source>
+        <target state="translated">* 生徒たちのアルゴリズムが正しく動作するか実際に試してみましょう。</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="67095" identifier="6fdc2d797bb6d46366ec92a316d40336">
+        <source>But that’s eight lines of code!</source>
+        <target state="translated">なんと、8行ものコードにもなってしまいました。</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="67096" identifier="3726bc483f07f785aae857f8547f427d">
+        <source>Tell students that the same instructions can be written using just three lines of code.</source>
+        <target state="translated">これとまったく同じ命令をたったの3行で書くことが出来ることを生徒たちに教えましょう。</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="67097" identifier="3d0f1dced14ffd6922c9463343142cec">
+        <source>If they have not noticed already, have students look for places where the code repeats.</source>
+        <target state="translated">まだ気づいていないようなら、コードが繰り返されている場所がどこにあるか探すように伝えます。</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="67098" identifier="5751434d28c22cc6175fd5575d28b6e9">
+        <source>* Tell them that whenever you have code that repeats, you have an opportunity to use a loop to simplify your code.</source>
+        <target state="translated">* 同じことを繰り返すコードがある時は、コードをより簡単にすることが出来るかもしれないと生徒たちに教えましょう。</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="67099" identifier="57139158f54578178eadf121a10f799b">
+        <source>* Prompts:</source>
+        <target state="translated">* プロンプト:</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="67100" identifier="64de5c308c6451478769f1a459f50786">
+        <source>What lines are repeated? &lt;em&gt;(1) Step forward. (2) Turn left&lt;/em&gt;.</source>
+        <target state="translated">どの行が繰り返しになっていますか？ &lt;em&gt;(1) 一歩前進 (2) 左を向く&lt;/em&gt;.</target>
+        <note>Context: List Item&#13;
+XPath: /blockquote/ul/li</note>
+      </trans-unit>
+      <trans-unit id="67101" identifier="9418594b5c422f1a2b4a3a7c0cdde605">
+        <source>How many times are they repeated? Four</source>
+        <target state="translated">何回繰り返してまるか？4回ですね。</target>
+        <note>Context: List Item&#13;
+XPath: /blockquote/ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67102" identifier="6eb992a3e65c94caf8ae86ce06fbf269">
+        <source>So how could we rewrite this code? Students will suggest a version of the following:
+  &lt;em&gt;Repeat 4 times: Step forward, Turn left&lt;/em&gt;</source>
+        <target state="translated">ではどのようにしてこのコードを書き直すことが出来るでしょう？生徒たちは次のような対案を提案するでしょう: &lt;em&gt;4 回繰り返す: 一歩前に進む、左を向く&lt;/em&gt;</target>
+        <note>Context: List Item&#13;
+XPath: /blockquote/ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67103" identifier="49781c81ffb463909c1901a24dec8045">
+        <source>Go ahead and follow their revised algorithm to prove that it works.</source>
+        <target state="translated">* 生徒たちの、修正を加えたアルゴリズムが正しく動作するか実際に試してみましょう。</target>
+        <note>Context: List Item&#13;
+XPath: /blockquote/ul/li[4]</note>
+      </trans-unit>
+      <trans-unit id="67104" identifier="1c8ff05fa7b7dce1e24f60820c6dca2b">
+        <source>There!</source>
+        <target state="translated">そうです！</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="67105" identifier="4313381ef700b31f27289edda5cd0784">
+        <source>They have just rewritten eight lines of code as three lines of code, by using a loop.</source>
+        <target state="translated">生徒たちはループを使用して、8 行のコードのを 3 行のコードに描き直すことが出来ました。</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="67106" identifier="be12fc3f82f1f8fee0dbaaedf955e80d">
+        <source>The ‘repeat’ command creates a loop.</source>
+        <target state="translated">「繰り返し'」コマンドは、ループを作成します。</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="67107" identifier="0a549bdbee90bac476d18db63ca83f72">
+        <source>The code within the loop gets repeated a certain number of times until a condition is met.</source>
+        <target state="translated">ループ内のコードは、条件が満たされるまでのある回数、繰り返されます。</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="67108" identifier="6aaf9dba88c094c6357e8f6e0e60d22c">
+        <source>The condition in this algorithm is that the code in the loop is repeated 4 times.</source>
+        <target state="translated">このアルゴリズムで使用する条件は、ループ内のコードが 4 回を繰り返される、です。</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="67109" identifier="32914208aefd9c996ce8f7e107274dfa">
+        <source>Once this condition is met, the program exits the loop.</source>
+        <target state="translated">この条件が満たされると、プログラムはループを終了します。</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="67110" identifier="231d310b06a3e81defb33c4b44e4aa4d">
+        <source>This is a great opportunity to have the students think of the benefits of having fewer lines of code.</source>
+        <target state="translated">ここは、少ないコードで書くことにどんな利点があるかを考えるとても良い機会です。</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="67111" identifier="56b990488597c64cb117fc9b1ba492d1">
+        <source>&lt;em&gt;Some possible reasons: Less typing, saves time, fewer chances of making a mistake, easier to read the code, fewer lines of code to debug...&lt;/em&gt;</source>
+        <target state="translated">&lt;em&gt;いくつかの考えうる理由: タイピングする手間が少ない、時間の節約、間違いを見つけた時に直す箇所が少ない、コードを読みやすい、デバッグが必要なコードが少ない・・・&lt;/em&gt;</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="67112" identifier="b7a68dd90f0db1a919337d0a4cbaa8c6" translate="no">
+        <source>Notes</source>
+        <target state="translated">追加情報：</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[4]</note>
+      </trans-unit>
+      <trans-unit id="67113" identifier="09d7423bb32ecd85beacdf0e5794ce8b">
+        <source>Depending on the particular class, you can make this exercise more challenging, by requiring the students to be more specific in their instructions.</source>
+        <target state="translated">クラスに応じては、生徒たちにより具体的な命令を使用するように要求することで、エクササイズをすこし難しくすることも出来ます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="67114" identifier="9ef1045f96551fd1c11649706f1c8a1e">
+        <source>&lt;strong&gt;Example:&lt;/strong&gt; Step forward 14 inches (you can have students actually measure the exact distance), turn left 90 degrees...</source>
+        <target state="translated">&lt;strong&gt;例:&lt;/strong&gt; 前に14インチ進む (実際に正確な距離を測定するように伝えても良いです) 、左に90度向きを変える・・・</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[7]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

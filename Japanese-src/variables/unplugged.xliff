@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1884" original="/microbit/docs/courses/csintro/variables/unplugged.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="68510" identifier="aaadb8b5d7b00c0fcf1e4255b52a9f30" approved="yes">
+        <source>Unplugged: Keeping score</source>
+        <target>アンプラグド: スコアキーピング</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="68511" identifier="3177eead0c7e90452492df7cc8c0bfd6" approved="yes">
+        <source>The objective of this activity is to experience creating and working with variables by pairing up and playing &lt;em&gt;Rock Paper Scissors&lt;/em&gt;.</source>
+        <target>このアクティビティの目的は、&lt;em&gt;じゃんけん&lt;/em&gt;の組み合わせと遊びを通して、変数の作り方や使い方を経験することです。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="68512" identifier="5eb91f8b0584d02e791a3a770ab4e617" translate="no">
+        <source>/static/courses/csintro/variables/rps-sketch.jpg</source>
+        <target state="translated">/static/courses/csintro/variables/rps-sketch.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p[2]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="68513" identifier="cea73c1292e0b09abbb171508c1beb98" approved="yes">
+        <source>Rock-paper-scissors hands</source>
+        <target>じゃんけんの手</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[2]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="68514" identifier="a89b1f8bb68cd1c63d230d80f0928b65">
+        <source>Ask students to keep track of their scores on paper. 
+You can also have students play in groups of three with the third student acting as the scorekeeper.</source>
+        <target state="translated">生徒たちにスコアを紙に記録するように指示します。3人のグループで3人目がスコアキーパーになることもできます。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="68515" identifier="1e5c1b7c8fbcc7fb6e85aaab08b1dffd" approved="yes">
+        <source>Students will keep track of how many times each player wins as well as the number of times the players tie.</source>
+        <target>生徒たちは各プレーヤーが何回勝ったか、何回引き分けになったか記録します。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="68516" identifier="7f57357564b2fdfc0d1c00eed32baeae" approved="yes">
+        <source>&lt;strong&gt;Play&lt;/strong&gt;: Have students play Rock Paper Scissors for about a minute. When done, ask the students to add up their scores and how many ‘rounds’ they played.</source>
+        <target>&lt;strong&gt;じゃんけん(1回目)&lt;/strong&gt;: 約1分間じゃんけんをします。終了後、生徒たちにスコアを足すように言い、何回じゃんけんをしたか尋ねます。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="68517" identifier="57ef21b8ef2b715ca23b184457c3f812" approved="yes">
+        <source>&lt;strong&gt;Play again&lt;/strong&gt;: Tell students they will now start over and play again for another minute. When done, ask the students to add up their scores and how many ‘rounds’ they played.</source>
+        <target>&lt;strong&gt;じゃんけん(2回目)&lt;/strong&gt;: 生徒たちに今からやり直し、もう一度1分間じゃんけんをするよう伝えます。終了後、生徒たちにスコアを足すように言い、何回じゃんけんをしたか尋ねます。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="68518" identifier="ef56ad7c73d2682f98084fe0de14236e">
+        <source>Ask some students to share how they kept track of player scores.</source>
+        <target state="translated">生徒たちの何人かに、どのようにプレーヤーのスコアを記録したかクラスで共有してもらいます。</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="68519" identifier="44ae0ab0cfd80222f77d0a9de52d3bdf">
+        <source>There may be some variety, but most will have written down the players’ names and then beside or below the names, marks representing the ‘wins’ of each player.</source>
+        <target state="translated">様々な種類があるかもしれませんが、多くの場合、プレーヤーの名前が書いてあり、その横または下に「勝ち」を表す印が書いてあるでしょう。</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="68520" identifier="7ad2703fbb559926e7038c1d82bf917e" approved="yes">
+        <source>And they may have made a separate place for recording ties.</source>
+        <target>そして別の場所には引き分けの記録を付けているでしょう。</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="68521" identifier="37aafe06a88356d7cc55d57b05a87b7e" translate="no">
+        <source>/static/courses/csintro/variables/mary-doug-score.jpg</source>
+        <target state="translated">/static/courses/csintro/variables/mary-doug-score.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p[8]/l/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="68522" identifier="64318c13cdba718e5bbf0ab3ed7b1ea9" approved="yes">
+        <source>Score sheet</source>
+        <target>スコアシート</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[8]/l/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="68523" identifier="5616a36ce37cb2e70e12bac529c6de09">
+        <source>Sample score-keeping sheet</source>
+        <target state="translated">スコアキーピングシートのサンプル</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="68524" identifier="4f70d2f3690a1f41493142c46dcc82c3" approved="yes">
+        <source>Ask the students what parts of the score sheet represent &lt;strong&gt;constants&lt;/strong&gt;, values that do not change through the course of a gaming session.</source>
+        <target>生徒たちにスコアシートのどの部分が、ゲーム中に変化しない値である&lt;strong&gt;定数&lt;/strong&gt;を表しているか聞いてみましょう。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="68525" identifier="ef37cbbf616b789cd0756309edbf91c8" approved="yes">
+        <source>&lt;strong&gt;Example&lt;/strong&gt;: The players’ names are constants.</source>
+        <target>&lt;strong&gt;例&lt;/strong&gt;: プレーヤーの名前は定数である。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="68526" identifier="bae489c1578c0d4beb3c173c38ef4f76" approved="yes">
+        <source>Ask the students what parts of the score sheet represent &lt;strong&gt;variables&lt;/strong&gt;, values that do change through the course of a gaming session.</source>
+        <target>生徒たちにスコアシートのどの部分が、ゲーム中に変化する値である&lt;strong&gt;変数&lt;/strong&gt;を表しているか聞いてみましょう。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="68527" identifier="7fe92c6344fbb5c8b8420936567a5650" approved="yes">
+        <source>&lt;strong&gt;Example&lt;/strong&gt;: The players’ number of wins are variables.</source>
+        <target>&lt;strong&gt;例&lt;/strong&gt;: プレーヤーが勝った回数は変数である。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[12]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

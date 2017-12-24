@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1831" original="/microbit/docs/courses/csintro/conditionals/overview.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="66089" identifier="913f6422d41f0413a2feb499068e4895" translate="no" approved="yes">
+        <source>Introduction</source>
+        <target>はじめに</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="66090" identifier="a95a04df4017796e52a3ce4cc92516b6">
+        <source>Computer programs are instructions telling the computer how to process input and deliver output.</source>
+        <target state="translated">コンピュータプログラムとは、どのように入力処理を行い、出力まで届けるかをコンピュータに指令をします。</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="66091" identifier="ce73a00599d6952cf47e19f257541eb0" approved="yes">
+        <source>An important part of programming is telling the computer WHEN to perform a certain task.</source>
+        <target>プログラムでの重要なことは、特定のタスクが「いつ」実行するのかをコンピュータに命令することです。</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="66092" identifier="4b236c57e5536dddbe77d2b9830ee25b" approved="yes">
+        <source>For this, we use something called ‘conditionals’. Conditionals get their name because a certain Condition or Rule has to be met.</source>
+        <target>このために、わたしたちは「条件」と呼ばれるものを使います。「条件」は、特定の条件か規則を満たしている必要があります。</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="66093" identifier="21b8129da9ffa119c1c7d97976f98f24">
+        <source>Students are all already familiar with the concept of conditionals in their daily lives!</source>
+        <target state="translated">すでに生徒は日常生活でこの条件の概念に慣れ親しんでいます！</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="66094" identifier="e269911a75c4563df63311e32a907781">
+        <source>Have they ever had their parents say..?</source>
+        <target state="translated">生徒たちは両親からこのようなことを言われたことがあるのではないでしょうか？</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="66095" identifier="b788c9c5a2a810d695f7c5420493767c">
+        <source>“If you clean your room, you can go out with your friends.”</source>
+        <target state="translated">「もし部屋を片づけたら、お友達のところに行ってもいいよ。」</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="66096" identifier="c3868ed6a122fac3ce2bad94f23e87c6">
+        <source>“If your homework is done, you can play video games.”</source>
+        <target state="translated">「もし宿題が終わったら、テレビゲームをしてもいいよ。」</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66097" identifier="31d5c17c64da18cc898c48ec7a90b8ad">
+        <source>“If you do your chores all week, you get your allowance, else you are grounded.”</source>
+        <target state="translated">「もしあなたが今週のすべてのお手伝いをやり終えたら、おこずかいをもらえます、そうでないなら遊びにいけませんよ。」</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66098" identifier="8bfa3fca892951833926ba7fa51004cb" approved="yes">
+        <source>These are all conditionals! Conditionals follow the format of IF this, THEN that.</source>
+        <target>これらはすべて「条件」なのです！条件の形式はIF(もし)とTHEN(そのとき)で表します。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="66099" identifier="ef4703723a268395b3009f790c4f6c16">
+        <source>&lt;strong&gt;IF&lt;/strong&gt; (condition is met), &lt;strong&gt;THEN&lt;/strong&gt; (action performed)</source>
+        <target state="translated">&lt;strong&gt;IF &lt;/strong&gt; (もし：条件にあう), &lt;strong&gt;THEN &lt;/strong&gt; (そのとき：実行する)</target>
+        <note>Context: Paragraph text&#13;
+XPath: /blockquote/p</note>
+      </trans-unit>
+      <trans-unit id="66100" identifier="45d3194522f48ce2a8db4236a104d233">
+        <source>Have the students share a few conditionals from their own lives with the class or within small groups.</source>
+        <target state="translated">クラスまたは小グループで、みんなの日常生活の「条件」について共有してみましょう。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="66101" identifier="e26f6f08b2ba72b1be546cba90d9ad3e">
+        <source>Note: For older students, you can have them add the ELSE portion of a conditional.</source>
+        <target state="translated">注：高学年では、ELSE (でなければ)条件についても考えてみましょう。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="66102" identifier="1cf38fea33bde88b02eed8952c59bf0c">
+        <source>&lt;strong&gt;IF&lt;/strong&gt; (condition is met), &lt;strong&gt;THEN&lt;/strong&gt; (action performed), &lt;strong&gt;ELSE&lt;/strong&gt; (different action performed)</source>
+        <target state="translated">&lt;strong&gt;IF&lt;/strong&gt; (もし：条件に合う) &lt;strong&gt;THEN&lt;/strong&gt; (そのとき：実行する), &lt;strong&gt;ELSE&lt;/strong&gt; (ではければ：違うことを実行する)</target>
+        <note>Context: Paragraph text&#13;
+XPath: /blockquote[2]/p</note>
+      </trans-unit>
+      <trans-unit id="66103" identifier="afe4724c343ab6770d8a005a518a6a31">
+        <source>Example:</source>
+        <target state="translated">例:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="66104" identifier="aaf7e027a5024e2bf81c5209be6b27ef">
+        <source>IF it is snowing, THEN wear boots, ELSE wear shoes.</source>
+        <target state="translated">IF (もし)天気が雪ならば, THEN (そのとき)ブーツをはきます, ELSE(でなければ) 靴を履きます.
+</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="66105" identifier="8f7ab9ef5d27c639f917e5a5ad6ac135">
+        <source>The ELSE portion makes sure that a different action is performed in either case. Without the ELSE action, your students might be barefoot!</source>
+        <target state="translated">ELSE (でなければ)部分は、異なることを実行するようになります。もしELSE がなければ何も実行されないのでこの場合は裸足になっちゃいますね！</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="66106" identifier="056cc146c8a8610d32283daab027c248" translate="no">
+        <source>/static/courses/csintro/conditionals/flowchart.PNG</source>
+        <target>/static/courses/csintro/conditionals/flowchart.PNG</target>
+        <note>Context: Image Source&#13;
+XPath: /p[9]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66107" identifier="ca5f9d4705e003b94bfa1471f5acf682">
+        <source>If-Then workflow</source>
+        <target state="translated">If-Then ワークフロー</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[9]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="66108" identifier="3857cb02531ac1215bbba92cc8b57aea">
+        <source>Tell the students that they will be acting out some conditionals as though the whole class is a computer program for a game.</source>
+        <target state="translated">ここで、クラスの全員がコンピュータプログラムと同じようにいくつかの条件に合わせて実際に動作をしてみるように伝えましょう。</target>
+        <note>Context: XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="66109" identifier="86c05435a0f769f251201d2682514db3">
+        <source>Each student will perform a described action if the indicated condition is met.</source>
+        <target state="translated">各生徒は「もし」条件にあったら記述された動作を実行します。</target>
+        <note>Context: XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="66110" identifier="83601b64cf517f7b1df12cd919899515">
+        <source>&lt;strong&gt;Note:&lt;/strong&gt; This activity can be done as a whole class or in smaller groups or as a pencil and paper activity.</source>
+        <target state="translated">&lt;strong&gt;注:&lt;/strong&gt;このアクティビティはクラス全体または小グループで鉛筆と紙を使って行うことができます。 </target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[11]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

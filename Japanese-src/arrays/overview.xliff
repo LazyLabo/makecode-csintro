@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1810" original="/microbit/docs/courses/csintro/arrays/overview.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="64549" identifier="913f6422d41f0413a2feb499068e4895" translate="no">
+        <source>Introduction</source>
+        <target state="translated">はじめに</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="64550" identifier="3a95beb03310a6b596d2826341265efb">
+        <source>Any collector of coins, fossils, or baseball cards knows that at some point you need to have a way to organize everything so you can find things.</source>
+        <target state="translated">コイン、化石、野球カードなどの収集家はある時点で、自分のコレクションからアイテムを探しやすくするために、コレクションの内容全てうまく整理する必要があることに気づきます。　</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="64551" identifier="da3bcfe350f520dea3462b5f904b78d0">
+        <source>For example, a rock collector might have a tray of specimens numbered like this:</source>
+        <target state="translated">たとえば岩石の収集家は以下のようなやり方で、トレーの上の標本それぞれに番号を割り当てるでしょう：</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="64552" identifier="2c3801cc40ff25ba45d5e4e4c86e1b76" translate="no">
+        <source>/static/courses/csintro/arrays/rock-collection.png</source>
+        <target>/static/courses/csintro/arrays/rock-collection.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[2]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="64553" identifier="f92d0867b330ae6d623e45ec32e7513c">
+        <source>Rock collection is an array</source>
+        <target state="needs-translation">Rock collection is an array</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[2]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="64554" identifier="212fa07a10bffd1ebe9577a08eaba142">
+        <source>Every rock in the collection needs its own storage space, and a unique address so you can find it later.</source>
+        <target state="translated">コレクションのひとつひとつの岩石には、独自の保存スペースと、後でそれを見つけるための一意のアドレスが必要です。</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="64555" identifier="e9a42e0907702ae42cf43f257ce1c697">
+        <source> 
+As your MakeCode programs get more and more complicated, and require more variables to keep track of things, you will want to find a way to store and organize all of your data.</source>
+        <target state="needs-translation"> 
+As your MakeCode programs get more and more complicated, and require more variables to keep track of things, you will want to find a way to store and organize all of your data.</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="64556" identifier="418ce0583793329c7f05b652a0bd7b5b">
+        <source>MakeCode provides a special category for just this purpose, called an Array.</source>
+        <target state="needs-translation">MakeCode provides a special category for just this purpose, called an Array.</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="64557" identifier="4fbd53c7b0765d14d39fe5aaa68f234f" translate="no">
+        <source> </source>
+        <target state="translated"> </target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="64558" identifier="a209461d4865b729ea95deb9adec82c4">
+        <source>Arrays can store numbers, strings (words), or sprites. They can also store musical notes.</source>
+        <target state="needs-translation">Arrays can store numbers, strings (words), or sprites. They can also store musical notes.</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="64559" identifier="8854d8f2574e18bb22c54f2196da55c1">
+        <source>Every spot in an array can be identified by its index, which is a number that corresponds to its location in the array. The first slot in an array is index 0, just like our rock collection above.</source>
+        <target state="needs-translation">Every spot in an array can be identified by its index, which is a number that corresponds to its location in the array. The first slot in an array is index 0, just like our rock collection above.</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64560" identifier="ee8cc7dabb03d317fe67bc31e6647fa5">
+        <source>The length of an array refers to the total number of items in the array, and the index of the last element in an array is always one less than its length (because the array numbering starts at zero.)
+ 
+In MakeCode, you can create an array by assigning it to a variable.</source>
+        <target state="needs-translation">The length of an array refers to the total number of items in the array, and the index of the last element in an array is always one less than its length (because the array numbering starts at zero.)
+ 
+In MakeCode, you can create an array by assigning it to a variable.</target>
+        <note>Context: XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="64561" identifier="a2d7d333b129a67525c13fbfdf96d023">
+        <source>The Array blocks can be found under the Advanced Toolbox menu.</source>
+        <target state="needs-translation">The Array blocks can be found under the Advanced Toolbox menu.</target>
+        <note>Context: XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="64562" identifier="e3aed247aa337351a1f3db9c0f3c1d0e" translate="no">
+        <source>/static/courses/csintro/arrays/arrays-menu.png</source>
+        <target>/static/courses/csintro/arrays/arrays-menu.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[4]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="64563" identifier="4d69046804b8311c29364819f5f0f73b">
+        <source>Arrays block menu</source>
+        <target state="needs-translation">Arrays block menu</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[4]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="64564" identifier="fa128f9dd2ef0dd2fe79511e1749245d">
+        <source>let list = [4, 2, 5, 1, 3]</source>
+        <target state="needs-translation">let list = [4, 2, 5, 1, 3]</target>
+        <note>Context: Text&#13;
+XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="64565" identifier="0aa5533f3d0965bef73987de9673d107">
+        <source>The code above creates an empty array called list, then fills it with five numbers, indexed from 0 to 4.</source>
+        <target state="needs-translation">The code above creates an empty array called list, then fills it with five numbers, indexed from 0 to 4.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="64566" identifier="c792d958f0ed1630416f60c30bac38ae">
+        <source>The index of the first value (4) is 0.</source>
+        <target state="needs-translation">The index of the first value (4) is 0.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="64567" identifier="da9e038ade9ae2e3c49b902ae7577ec0">
+        <source>The index of the second value (2) is 1.</source>
+        <target state="needs-translation">The index of the second value (2) is 1.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="64568" identifier="46afa75470d329942ed174c4583af663">
+        <source>The index of the last value (3) is 4.</source>
+        <target state="needs-translation">The index of the last value (3) is 4.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="64569" identifier="b931625204b641102517bb581eb2482f">
+        <source> 
+You can get items out of the array by specifying its index like this:</source>
+        <target state="needs-translation"> 
+You can get items out of the array by specifying its index like this:</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="64570" identifier="33042d27ddc973b4702faae93777837e">
+        <source>```blocks
+let list = [4, 2, 5, 1, 3]</source>
+        <target state="needs-translation">```blocks
+let list = [4, 2, 5, 1, 3]</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="64571" identifier="b617339d8ec5200f3654965d42d099c6">
+        <source>input.onButtonPressed(Button.A, () =&gt; {
+    basic.showNumber(list[0])
+})
+``` 
+The code above takes the first element in the array (the value at index 0) and shows it on the screen.</source>
+        <target state="needs-translation">input.onButtonPressed(Button.A, () =&gt; {
+    basic.showNumber(list[0])
+})
+``` 
+The code above takes the first element in the array (the value at index 0) and shows it on the screen.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="64572" identifier="806aa0a8f0b58b9539c6dea83b4c28d8">
+        <source> 
+There are lots of other blocks in the Arrays Toolbox drawer.</source>
+        <target state="needs-translation"> 
+There are lots of other blocks in the Arrays Toolbox drawer.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="64573" identifier="503fb60f30ae8e2581777243cb0095bd">
+        <source>The next few Activities will introduce you to them.</source>
+        <target state="needs-translation">The next few Activities will introduce you to them.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="64574" identifier="ff73c9f96d51eff75ecc3635d8f08e7e" translate="no">
+        <source> </source>
+        <target state="translated"> </target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="64575" identifier="badb0757ff522e3a0cce5b959e7c6c36">
+        <source>Discussion</source>
+        <target state="needs-translation">Discussion</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="64576" identifier="805fc6901b7d67b01cbed2f5bffb4bc7">
+        <source>Ask your students if any of them collects anything. What is it? Comic books, cards, coins, stamps, books, etc.</source>
+        <target state="needs-translation">Ask your students if any of them collects anything. What is it? Comic books, cards, coins, stamps, books, etc.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="64577" identifier="e1407b6ca5c844fa215cd6947631ab51">
+        <source>How big is the collection?</source>
+        <target state="needs-translation">How big is the collection?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64578" identifier="ae3d1cc2b57b8a6e6c8919f570df9765">
+        <source>How is it organized?</source>
+        <target state="needs-translation">How is it organized?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="64579" identifier="52ff7bc6052728465e3e959bdd20364e">
+        <source>Are the items sorted in any way?</source>
+        <target state="needs-translation">Are the items sorted in any way?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="64580" identifier="09d986a283e86512ee85b2d66423adce">
+        <source>How would you go about finding a particular item in the collection?
+ 
+In the discussion, see if you can explore the following array vocabulary words in the context of kids’ personal collections.</source>
+        <target state="needs-translation">How would you go about finding a particular item in the collection?
+ 
+In the discussion, see if you can explore the following array vocabulary words in the context of kids’ personal collections.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[5]</note>
+      </trans-unit>
+      <trans-unit id="64581" identifier="0a2016572afbacd9e44e940ea2226a4f">
+        <source>Length: the total number of items in the collection</source>
+        <target state="needs-translation">Length: the total number of items in the collection</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[6]</note>
+      </trans-unit>
+      <trans-unit id="64582" identifier="c1f1c96ca689b987a2805d6f4db16bdf">
+        <source>Sort: Items in the collection are ordered by a particular attribute (e.g., date, price, name)</source>
+        <target state="needs-translation">Sort: Items in the collection are ordered by a particular attribute (e.g., date, price, name)</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[7]</note>
+      </trans-unit>
+      <trans-unit id="64583" identifier="6178baae4fa91fa178a680836af35421">
+        <source>Index: A unique address or location in the collection</source>
+        <target state="needs-translation">Index: A unique address or location in the collection</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[8]</note>
+      </trans-unit>
+      <trans-unit id="64584" identifier="db6a28532e431d076b360d92e8b6827b">
+        <source>Type: The type of item being stored in the collection
+ </source>
+        <target state="needs-translation">Type: The type of item being stored in the collection
+ </target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[9]</note>
+      </trans-unit>
+      <trans-unit id="64585" identifier="9fd7907cc058205e02d8eb482303ff59" translate="no">
+        <source>References</source>
+        <target>References</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="64586" identifier="5d28ef203887c740260f834da2452860">
+        <source>Once you start saving lots of different values in an array, you will probably want to have some way to sort those values.</source>
+        <target state="needs-translation">Once you start saving lots of different values in an array, you will probably want to have some way to sort those values.</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="64587" identifier="4f1f4e72271023eea46e7267bab11a27">
+        <source>Many languages already implement a sorting algorithm that students can call upon as needed.</source>
+        <target state="needs-translation">Many languages already implement a sorting algorithm that students can call upon as needed.</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="64588" identifier="7021688745297d40518746ee5f4d109a">
+        <source>However, understanding how those different sorting algorithms work is an important part of computer science, and as students go on to further study they will learn other algorithms, as well as their relative efficiency.</source>
+        <target state="needs-translation">However, understanding how those different sorting algorithms work is an important part of computer science, and as students go on to further study they will learn other algorithms, as well as their relative efficiency.</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="64589" identifier="af0905de080ba1e270fd3e63eecdcaff">
+        <source>There are some good array sorting videos:</source>
+        <target state="needs-translation">There are some good array sorting videos:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="64590" identifier="a6067d32c9c42eff03f470b9acbdd3fb">
+        <source>Visually displays a number of different types of sorts: https://www.youtube.com/watch?v=kPRA0W1kECg</source>
+        <target state="needs-translation">Visually displays a number of different types of sorts: https://www.youtube.com/watch?v=kPRA0W1kECg</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li</note>
+      </trans-unit>
+      <trans-unit id="64591" identifier="c6596f53cda7b47ef2923395ae10425c">
+        <source>Bubble-sort with Hungarian folk dance: https://youtu.be/lyZQPjUT5B4</source>
+        <target state="needs-translation">Bubble-sort with Hungarian folk dance: https://youtu.be/lyZQPjUT5B4</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64592" identifier="d33bb3ffd70c6141d4489f443ce176ba">
+        <source>Select-sort with Gypsy folk dance: https://youtu.be/Ns4TPTC8whw</source>
+        <target state="needs-translation">Select-sort with Gypsy folk dance: https://youtu.be/Ns4TPTC8whw</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="64593" identifier="de3c40aae31edc55cfba7169c6758b3b">
+        <source>Insert-sort with Romanian folk dance: https://youtu.be/ROalU379l3U</source>
+        <target state="needs-translation">Insert-sort with Romanian folk dance: https://youtu.be/ROalU379l3U</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[4]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

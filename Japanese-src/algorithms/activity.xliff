@@ -1,0 +1,1607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1802" original="/microbit/docs/courses/csintro/algorithms/activity.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="63956" identifier="7a668f0b698a4e8ea4f866faddfbb6ed" approved="yes">
+        <source>Activity: Happy Face, Sad Face</source>
+        <target>アクティビティ: 楽しい顔と悲しい顔</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="63957" identifier="70fc4bafa74e187c4274e2c57c61e50f" approved="yes">
+        <source>The micro:bit itself is considered hardware.</source>
+        <target>micro:bit 本体はハードウェアと呼ばれます。</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="63958" identifier="ad1ca1487de3935c978bc3a62d1c4a52" approved="yes">
+        <source>It is a physical piece of technology.</source>
+        <target>それは物理的なテクノロジーのひとつです。</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="63959" identifier="4fd3305a2359b7bd4a366fd320a52fa8" approved="yes">
+        <source>In order to make use of hardware, we need to write software (otherwise known as &quot;code&quot; or computer programs).</source>
+        <target>ハードウェアを利用するためにはソフトウェア（コード、もしくはコンピュータ・プログラムとしても知られています) を書く必要があります。</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="63960" identifier="2b1ba3ae095d1090d7075f8550b01d48" approved="yes">
+        <source>The software &quot;tells&quot; the hardware what to do, and in what order to do it using algorithms.</source>
+        <target>ソフトウェアは、何をどのような順序で実行するかを、アルゴリズムを使用してハードウェアに指示します。</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="63961" identifier="fa579bc4d38a0a2fda4decbe2dc11d29" approved="yes">
+        <source>Algorithms are sets of computer instructions.</source>
+        <target>アルゴリズムとは、コンピュータに対する一連の命令のことを指します。</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="63962" identifier="471a86ea4e928c447235c3a48b3638c5" approved="yes">
+        <source>In this activity, we will discover how to use the micro:bit buttons as input devices, and write code that will make something happen on the screen as output.</source>
+        <target>このアクティビティでは、micro:bitのボタンを入力デバイスとして使う方法を学び、さらに出力としてスクリーンに何かを表示させるコードを書きます。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="63963" identifier="2ecc0c1698aa86c103a3f2bb1bd4bd8a" approved="yes">
+        <source>We will also learn about pseudocode, the MakeCode tool, event handlers, and commenting code.</source>
+        <target>さらに、擬似コード、MakeCode ツール、イベント・ハンドラー、およびコードのコメントの書き方ついても学びます。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="63964" identifier="1b7ecbecf73a5adc66e6a42bf1b9c055" approved="yes">
+        <source>Pseudocode</source>
+        <target>擬似コード</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="63965" identifier="d0efd411bc570f4f8df8957a5dae090a" approved="yes">
+        <source>What do you want your program to do?</source>
+        <target>あなたのプログラムに何をしてもらいたいですか？</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="63966" identifier="b841e6f2e26e717d89e746e74d826afa" approved="yes">
+        <source>The first step in writing a computer program is to create a plan for what you want your program to do.</source>
+        <target>コンピュータ・プログラムを書くにあったって最初に行うステップは、あなたのプログラムに何をさせたいか計画を立てることです。</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="63967" identifier="bba2fd76e91a04776527c8774840a338" approved="yes">
+        <source>Write out a detailed step-by-step plan for your program.</source>
+        <target>ステップごとに分けた詳細な計画を書き出しましょう。</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="63968" identifier="ba3aa40bde84eee7cd85a83d6c1cf9a8" approved="yes">
+        <source>Your plan should include what type of information your program will receive, how this input will be processed, what output your program will create and how the output will be recorded or presented.</source>
+        <target>計画には、プログラムがどのような入力情報を受け取り、それがどのように処理され
+、どのような出力をプログラムが作成し、それをどのように記録または表示するかの記述を含むようにします。</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="63969" identifier="6558d3e0130a10b89b6e61fc89e950c7" approved="yes">
+        <source>Your writing does not need to be written in complete sentences, nor include actual code.</source>
+        <target>書き出す内容は、完全な文章である必要はありませんし、実際のコードを含む必要もありません。</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="63970" identifier="425a47d0f7150da80f1966aae828a3c3" approved="yes">
+        <source>This kind of detailed writing is known as pseudocode.</source>
+        <target>このような詳細な記述のことを擬似コードと呼びます。</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="63971" identifier="fbf11ac6c0e39101dd83bb0d0c6e1927" approved="yes">
+        <source>Pseudocode is like a detailed outline or rough draft of your program.</source>
+        <target>擬似コードは、プログラムの詳細なアウトラインまたは素案のようなものです。</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="63972" identifier="9bdcd4eebd6e16830aced23d0a2fc8fe" approved="yes">
+        <source>Pseudocode is a mix of natural language and code.</source>
+        <target>擬似コードは、自然言語とコードを合わせたものです。</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="63973" identifier="07b8a657b4278dcf0e523ffea4a7875b" approved="yes">
+        <source>For the program we will write, the pseudocode might look like this:</source>
+        <target>これから書くプログラムの擬似コードは以下の例のようになるでしょう。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="63974" identifier="9b514566a224b5ecbe5b0ef5ea86bb64" approved="yes">
+        <source>Start with a blank screen</source>
+        <target>画面に何も表示していない状態から開始する。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="63975" identifier="fa97684a019c10e81c49b5ef286ed536" approved="yes">
+        <source>Whenever the user presses button A, display a happy face.</source>
+        <target>Aボタンを押すと、幸せそうな顔を表示する。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="63976" identifier="7e1f0dda79f46f262e08c838f5c6d3a6" approved="yes">
+        <source>Whenever the user presses button B, display a sad face.</source>
+        <target>Bボタンを押すと、悲しい顔を表示する。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="63977" identifier="a0f1573b75ed1154fe34c8df7ce5dda9" translate="no" approved="yes">
+        <source>Microsoft MakeCode</source>
+        <target>マイクロソフト MakeCode</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="63978" identifier="8ccc62c72c1603e024504942abe62806" approved="yes">
+        <source>Now that you have a plan for your program, in the form of pseudocode, let's start creating the real program.</source>
+        <target>擬似コードとして、プログラムの計画が出来たら、実際のプログラムを作成してみましょう。</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="63979" identifier="1d7022f6c0f45b118188cac5e10f1fb4" approved="yes">
+        <source>In a browser window, open the Microsoft MakeCode for micro:bit tool (https://makecode.microbit.org).</source>
+        <target>ブラウザー ウィンドウで 、マイクロソフト MakeCode というmicro:bitツールを開きます。(https://makecode.microbit.org)</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="63980" identifier="593f7f5d13918efbcb9a4fa9f02e332e" approved="yes">
+        <source>The MakeCode tool is called an IDE (Integrated Development Environment), and is a software application that contains everything a programmer needs to create, compile, run, test, and even debug a program.</source>
+        <target>MakeCode ツールはIDE (統合開発環境) と呼ばれ、プログラムの作成、コンパイル、実行、テスト、およびデバッグといった、プログラマが必要なすべての機能を提供するソフトウェア・アプリケーションです。</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="63981" identifier="be0a0e1445aec7af5baedc9a655336ed" approved="yes">
+        <source>Tour of Microsoft MakeCode</source>
+        <target>マイクロソフト MakeCode のツアー</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="63982" identifier="c58e92b78912020be6241d8116370396" approved="yes">
+        <source>Simulator - on the left side of the screen, you will see a virtual micro:bit that will show what your program will look like running on a micro:bit.</source>
+        <target>シミュレータ - 画面左側。プログラムがmicro:bit本体で実行される時、どのような動作をするかを確認することが出来る仮想micro:bitです。</target>
+        <note>Context: XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="63983" identifier="e5a85d713242e32e852578c6120293c6" approved="yes">
+        <source>This is helpful for debugging, and instant feedback on program execution.</source>
+        <target>これはプログラムのデバッグや、プログラムが実行時にどのように振舞うかをすばやく理解するためのフィードバックとして便利です。</target>
+        <note>Context: XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="63984" identifier="297fa3106a47397e126f30780fd07f20" approved="yes">
+        <source>Toolbox - in the middle of the screen, there are a number of different categories, each containing a number of blocks that can be dragged into the programming workspace on the right.</source>
+        <target>ツールボックス - 画面中央。いくつかのカテゴリに分かれており、カテゴリ内のブロックは右側のプログラミング・ワークスペースにドラッグすることができます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="63985" identifier="e6fb2d2d7036ad01a5e069f41b326229" approved="yes">
+        <source>Workspace - on the right side of the screen is the Programming Workspace where you will create your program.  Programs are constructed by snapping blocks together in this area.</source>
+        <target>ワークスペース - 画面右側。プログラムを作成するプログラミングワークスペースです。 プログラムは、この領域でブロックをスナップして組み合わせることによって構築されます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="63986" identifier="eeb9245bfa51ec93a21a39de1c5585b7" translate="no">
+        <source>/static/courses/csintro/algorithms/ide-tour.png</source>
+        <target state="translated">/static/courses/csintro/algorithms/ide-tour.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[6]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="63987" identifier="9308c7b8e2b4de3fb8a8bfc55155a39b" approved="yes">
+        <source>IDE tour</source>
+        <target>IDE tour</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[6]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="63988" identifier="b284c8709f09ce0988b42651aa0e585c" approved="yes">
+        <source>Event handlers</source>
+        <target>イベント ハンドラー</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[4]</note>
+      </trans-unit>
+      <trans-unit id="63989" identifier="0823e097acdb39efd2d52f7e310a71e8" approved="yes">
+        <source>When you start a new project, there will be two blue blocks, ‘on start’ and ‘forever’ already in the coding workspace. These two blocks are event handlers.</source>
+        <target>新規で作成したプロジェクトには、「最初だけ（on start）」 と「ずっと（forever）」というふたつの青色のブロックがコーディング・ワークスペースにあります。これらの 2 つのブロックが、イベント ハンドラーです。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="63990" identifier="e1053892f36963211f2e16d3a2e15d69" approved="yes">
+        <source>In programming, an event is an action done by the user, such as pressing a key or clicking a mouse button.</source>
+        <target>プログラミングにおけるイベントとは、キーを押す、マウス ボタンをクリックする、などを含む、ユーザーによって実行されるアクションのことを指します。</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="63991" identifier="ccfe1df6a40fec20d676d2da0374a646" approved="yes">
+        <source>An event handler is a routine that responds to an event.</source>
+        <target>イベント ハンドラーは、イベントに応答する、あらかじめ決められた仕事のことです。</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="63992" identifier="31bd49cfe14dac8da4416597ea99969c" approved="yes">
+        <source>A programmer can write code telling the computer what to do when an event occurs.</source>
+        <target>プログラマは、イベントが発生した時にコンピューターが何をするかを指示するコードを書くことができます。</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="63993" identifier="0bed286a1a0e214ddca9c95246a1fdbc" approved="yes">
+        <source>One fun unplugged activity you can do with kids to reinforce the idea of an action that waits for an event is the Crazy Conditionals activity.</source>
+        <target>ある動作はイベントが発生したら実行される、という概念を子供たちにしっかり理解してもらうために、クレイジーな条件文という楽しいアンプラグドアクティビティを用意しています。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="63994" identifier="161d3df27e09839ad464849d91486c49" approved="yes">
+        <source>Notes:</source>
+        <target>追加情報：</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="63995" identifier="e149d44899e2d7fee41bfe3d42cb1f9f" approved="yes">
+        <source>Tooltips - Hover over any block until a hand icon appears and a small text box will pop up telling you what that block does.</source>
+        <target>ツールチップ - 手の形のアイコンが現れるようにマウスのカーソルをブロックの上に置くと、そのブロックがどんなことが出来るのかを説明する小さなテキスト ボックスが表示されます。</target>
+        <note>Context: XPath: /ul[3]/li</note>
+      </trans-unit>
+      <trans-unit id="63996" identifier="e64b2dd36e52b1ddb9bb451f2f1a1100" approved="yes">
+        <source>You can try this now with the ‘on start’ and ‘forever’ blocks.</source>
+        <target>「最初だけ（on start）」と 「ずっと（forever）」のブロックで試してみましょう。</target>
+        <note>Context: XPath: /ul[3]/li</note>
+      </trans-unit>
+      <trans-unit id="63997" identifier="0f7d2a3ec74b1184c817e5043c799d1c" approved="yes">
+        <source>Notice that it also shows you the equivalent code in JavaScript.</source>
+        <target>JavaScriptで同等のコードも同時に表示されていることが確認できます。</target>
+        <note>Context: XPath: /ul[3]/li</note>
+      </trans-unit>
+      <trans-unit id="63998" identifier="b2b8ea5d8252e8f52267191f6634e0f4" translate="no">
+        <source>/static/courses/csintro/algorithms/blocks-tooltips.png</source>
+        <target state="translated">/static/courses/csintro/algorithms/blocks-tooltips.png</target>
+        <note>Context: Image Source&#13;
+XPath: /blockquote/p/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="63999" identifier="e9fd6271d453b9110d18394c97688de4" approved="yes">
+        <source>Blocks tooltips</source>
+        <target>Blocks tooltips</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /blockquote/p/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="64000" identifier="6fc1873c9fb502c7523cf6f93be45a3c" approved="yes">
+        <source>Hovering over the code in JavaScript has the same effect.</source>
+        <target>JavaScript コードの上にマウス ポインターを置くと、同じ効果が得られます。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /blockquote/p[2]</note>
+      </trans-unit>
+      <trans-unit id="64001" identifier="9d4aa750709fb665d73740ec593d86ae" translate="no">
+        <source>/static/courses/csintro/algorithms/code-tooltips.png</source>
+        <target state="translated">/static/courses/csintro/algorithms/code-tooltips.png</target>
+        <note>Context: Image Source&#13;
+XPath: /blockquote/p[3]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="64002" identifier="e3bdf02d1ff61b14d6ccf02af05cd1ab" approved="yes">
+        <source>Code tooltips</source>
+        <target>Code tooltips</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /blockquote/p[3]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="64003" identifier="f5f2682bfc96caca64a45b977328bdff" approved="yes">
+        <source>Help/Documentation - You can also right-click on any block and select Help to open the reference documentation.</source>
+        <target>ヘルプ - 任意のブロックを右クリックして、ヘルプを選択することで参考ドキュメントを開くことができます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li</note>
+      </trans-unit>
+      <trans-unit id="64004" identifier="143805b11fe68d7a8993876a1ab4e1a5" translate="no">
+        <source>/static/courses/csintro/algorithms/help-menu.png</source>
+        <target state="translated">/static/courses/csintro/algorithms/help-menu.png</target>
+        <note>Context: Image Source&#13;
+XPath: /blockquote[2]/p/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="64005" identifier="c6f663f74921a910787f3b2421fb6748" approved="yes">
+        <source>Help menu</source>
+        <target>Help menu</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /blockquote[2]/p/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="64006" identifier="15380d03a2ce6171a8bacd83da1c7242" approved="yes">
+        <source>Deleting blocks - Click on the 'forever' block and drag it left to the Toolbox area.</source>
+        <target>ブロックを削除する - 「ずっと（forever）」 ブロックをクリックし、左側のツールボックスエリアにドラッグします。</target>
+        <note>Context: XPath: /ul[5]/li</note>
+      </trans-unit>
+      <trans-unit id="64007" identifier="4a00f1709a863f354ef8e6af69fb8cfd" approved="yes">
+        <source>You should see a garbage can icon appear.</source>
+        <target>ゴミ箱アイコンが表示されるのが確認できるでしょう。</target>
+        <note>Context: XPath: /ul[5]/li</note>
+      </trans-unit>
+      <trans-unit id="64008" identifier="81bc09b11a6dc262d3a4df828831d60b" approved="yes">
+        <source>Let go of the block and it should disappear.</source>
+        <target>そこでブロックを手放すと、ブロックが画面から消えます。</target>
+        <note>Context: XPath: /ul[5]/li</note>
+      </trans-unit>
+      <trans-unit id="64009" identifier="24250fe236530531dfb2617576d0aa10" approved="yes">
+        <source>You can drag any block back to the Toolbox area to delete it from the coding workspace.</source>
+        <target>任意のブロックをコーディング・ワークスペースからツールボックスの領域にドラッグすることで、そのブロックを削除することもできます。</target>
+        <note>Context: XPath: /ul[5]/li</note>
+      </trans-unit>
+      <trans-unit id="64010" identifier="76136de2e2c88622ba91b71ec3c60f81" approved="yes">
+        <source>You can also remove a block from your coding window by selecting the block and then pressing the &quot;delete&quot; key on your keyboard (or command-X on a mac).</source>
+        <target>また、コード ウィンドウからブロックを選択し、キーボードの「Delete」キー (mac の場合はコマンド X) を押すことで、ブロックを削除することも出来ます。</target>
+        <note>Context: XPath: /ul[5]/li</note>
+      </trans-unit>
+      <trans-unit id="64011" identifier="32fc91c7879a1ec101f517f6ea1c94c9" translate="no">
+        <source>/static/courses/csintro/algorithms/drag-to-trash.gif</source>
+        <target state="translated">/static/courses/csintro/algorithms/drag-to-trash.gif</target>
+        <note>Context: Image Source&#13;
+XPath: /blockquote[3]/p/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="64012" identifier="472033e7b9df6adddb5d852f70f71493" approved="yes">
+        <source>Trash</source>
+        <target>Trash</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /blockquote[3]/p/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="64013" identifier="8ff9555aa4008cf39cee30a492b2050c" approved="yes">
+        <source>Looking at our pseudocode, we want to make sure to start a program with a clear screen.</source>
+        <target>擬似コードを見ると、プログラムは画面に何も表示されていない状態からスタートさせたいということが分かります。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="64014" identifier="f0b7f8a2f08f7fa40ecea307c80464a8" approved="yes">
+        <source>We can do this by going to the Basic menu -&gt; More and choosing a ‘clear screen’ block.</source>
+        <target>「基本（Basic）」メニューから「さらに表示（More）」を選んで 「表示を消す（clear screen）」 ブロックを選択することで、これが可能になります。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li</note>
+      </trans-unit>
+      <trans-unit id="64015" identifier="23cd297d16ae586eae6abf394ae526ff" translate="no">
+        <source>/static/courses/csintro/algorithms/clear-screen-block.png</source>
+        <target state="translated">/static/courses/csintro/algorithms/clear-screen-block.png</target>
+        <note>Context: Image Source&#13;
+XPath: /blockquote[4]/p/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="64016" identifier="15b965544085767379b9a83c21ba7dab" approved="yes">
+        <source>Clear screen block</source>
+        <target>Clear screen block</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /blockquote[4]/p/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="64017" identifier="e69972964b06e46c4836020eed9a0b85" approved="yes">
+        <source>Drag the ‘clear screen’ block to the coding Workspace.</source>
+        <target>「表示を消す（clear screen）」ブロックをコーディングのワークスペースにドラッグします。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[7]/li</note>
+      </trans-unit>
+      <trans-unit id="64018" identifier="fe28a67b88d65699684f49835dae1df0" translate="no">
+        <source>/static/courses/csintro/algorithms/clear-screen-disabled.png</source>
+        <target state="translated">/static/courses/csintro/algorithms/clear-screen-disabled.png</target>
+        <note>Context: Image Source&#13;
+XPath: /blockquote[5]/p/r/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="64019" identifier="d923f4637bb847cf283ff046fd17f923" approved="yes">
+        <source>Clear screen disabled</source>
+        <target>Clear screen disabled</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /blockquote[5]/p/r/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="64020" identifier="ecf793a2dad9618bfb1430d7ad15ac71" approved="yes">
+        <source>Notice that the block is ‘grayed’ out.</source>
+        <target>ブロックの色が灰色表示になっていることに着目してください。</target>
+        <note>Context: XPath: /blockquote[5]/p</note>
+      </trans-unit>
+      <trans-unit id="64021" identifier="40b7bd359966ff7644570f0c96b113dc" approved="yes">
+        <source>If you hover over the ‘grayed out’ block, a pop up text box will appear letting you know that since this block is not attached to an event handler block, it will not run.</source>
+        <target>この灰色表示になっているブロックの上にマウスポインターを置くと、このブロックがどのイベント ハンドラにも接続されていないので、そのために実行することができない、そのように教えてくれるポップアップ テキスト ボックスが表示されます。</target>
+        <note>Context: XPath: /blockquote[5]/p</note>
+      </trans-unit>
+      <trans-unit id="64022" identifier="1e5cf29dfdc97bc1dd326f1f18a75459" approved="yes">
+        <source>Go ahead and drag the ‘clear screen’ block into the ‘on start’ block. Now the block is no longer grayed out, indicating that it will run when the event, the program starts, occurs.</source>
+        <target>では「表示を消す（clear screen）」ブロックを「最初だけ（on start）」のブロックに ドラッグしましょう。するとブロックは灰色表示ではなくなりました。これはプログラムの実行スタートというイベントが発生したときにブロックが実行されるようになったということを示します。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[8]/li</note>
+      </trans-unit>
+      <trans-unit id="64023" identifier="f2d013c8f0bd2f38875c78f1f401d562" translate="no" approved="yes">
+        <source>basic.clearScreen()</source>
+        <target>basic.clearScreen()</target>
+        <note>Context: Text&#13;
+XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="64024" identifier="c6f7f41aa4c3f9f2c3bf02d25384447b" approved="yes">
+        <source>Save early, save often!</source>
+        <target>保存は早めに、頻繁に!</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[5]</note>
+      </trans-unit>
+      <trans-unit id="64025" identifier="e0cc32543a985c0816c3260a0aa85413" approved="yes">
+        <source>We now have a working program running on the micro:bit simulator!</source>
+        <target>これで、micro:bitシミュレータで現在実行しているプログラムを作成することが出来ました。</target>
+        <note>Context: XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="64026" identifier="925d5746a71757c66aa61af3c17e22b5" approved="yes">
+        <source>As you write your program, MakeCode will automatically compile and run your code on the simulator.</source>
+        <target>あなたがプログラムを書いている間、MakeCode は自動的にコードをプログラムにコンパイルして、シミュレータで実行してくれます。</target>
+        <note>Context: XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="64027" identifier="cb2ac9a8260beff98aca8d44cf7d37a0" approved="yes">
+        <source>The program doesn’t do much at this point, but before we make it more interesting, we should name our program and save it.</source>
+        <target>この時点ではプログラムはあまり多くのことをしませんが、より面白くする前にプログラムに名前を付けて保存しましょう。</target>
+        <note>Context: XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="64028" identifier="26c3f9ae4f399798db9a39ee675c6dab" approved="yes">
+        <source>On the bottom left of the application window, to the right of the Download button, is a text box in which you can name your program.</source>
+        <target>アプリケーション ウィンドウの左下、ダウンロード ボタンのすぐ右側に、プログラムに名前をつけるためのテキスト ボックスがあります。</target>
+        <note>Context: XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="64029" identifier="ebcd5fe2a0121c858e92544ae647c3fd" approved="yes">
+        <source>After naming your program, press the save button to save it.</source>
+        <target>プログラムに名前を付けたら、保存ボタンを押して保存します。</target>
+        <note>Context: XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="64030" identifier="75ede9f0593a1f76643806419d02b2e7" approved="yes">
+        <source>&lt;img src=&quot;/static/courses/csintro/algorithms/save-button.png&quot; alt=&quot;Save button&quot; /&gt;
+Important: Whenever you write a significant piece of code or just every few minutes, you should save your code.</source>
+        <target>&lt;img src=&quot;/static/courses/csintro/algorithms/save-button.png&quot; alt=&quot;Save button&quot; /&gt;
+重要: コードは、何か重要な部分を記述したとき、または数分おきに保存するようにしましょう。</target>
+        <note>Context: XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="64031" identifier="2e1b4baa98118aa79c50f8d4d2e16b4b" approved="yes">
+        <source>Giving your code a meaningful name will help you find it faster from a list of programs and will let others know what your program does.</source>
+        <target>コードにわかりやすい名前を付けると、後でプログラムのリストからすばやく選んだり、他の人がそのプログラムの目的を理解するのが楽になります。</target>
+        <note>Context: XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="64032" identifier="52adf122a6e79f6ec55a8ca44b0afda0" approved="yes">
+        <source>More event handlers</source>
+        <target>イベントハンドラーを追加</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[6]</note>
+      </trans-unit>
+      <trans-unit id="64033" identifier="2925941404ea2bdf7062c5b0a37491e8" approved="yes">
+        <source>Now to make our program a bit more interesting by adding two more event handlers.</source>
+        <target>それでは私たちのプログラムをもう少し面白くするために、さらに2 つのイベント ハンドラーを追加してみましょう。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[14]</note>
+      </trans-unit>
+      <trans-unit id="64034" identifier="ef1c45ed9c5fc39e99f3684f56efb599" approved="yes">
+        <source>From the Input menu, drag two ‘on button A pressed’ blocks to the coding window.</source>
+        <target>入力メニューから「Aボタンが押されたとき（on button A pressed）」ブロックを 2 つ、コード ウィンドウにドラッグします。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[9]/li</note>
+      </trans-unit>
+      <trans-unit id="64035" identifier="83dc95e499b5f7fec632236f0145d008" translate="no">
+        <source>/static/courses/csintro/algorithms/two-on-buttons.png</source>
+        <target state="translated">/static/courses/csintro/algorithms/two-on-buttons.png</target>
+        <note>Context: Image Source&#13;
+XPath: /blockquote[6]/p/r/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="64036" identifier="83cf09362b4bf2af86b0269c29c3e25b" approved="yes">
+        <source>Two on buttons</source>
+        <target>Two on buttons</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /blockquote[6]/p/r/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="64037" identifier="3ec32897116fa80fd191e2f537bd9406" approved="yes">
+        <source>Notice that the second block is grayed out. This is because, right now, they are the same block, both ‘listening’ for the same event ‘on button A pressed’.
+  </source>
+        <target>２つめのブロックは灰色表示になっていることに注意してください。これは、今のところ２つとも全く同じブロックであり、Aボタンが押される、という同じイベントに「耳を澄ましている」状態だからです。
+  </target>
+        <note>Context: Paragraph text&#13;
+XPath: /blockquote[6]/p</note>
+      </trans-unit>
+      <trans-unit id="64038" identifier="4315ba0d3b7e6c70f15718bc0a913c18" approved="yes">
+        <source>Leave the first block alone for now, and using the drop-down menu within the second block, change the ‘A’ to ‘B’.</source>
+        <target>最初のブロックはそのままで、２つ目のブロックのドロップ ダウン メニューを使用して、ボタンを「A」から「B」に変更しましょう。</target>
+        <note>Context: XPath: /ul[10]/li</note>
+      </trans-unit>
+      <trans-unit id="64039" identifier="2adbc534ea08fda8172a8ff51857b60a" approved="yes">
+        <source>Now this block will no longer be grayed out, as it is now listening for a different event, ‘on button B pressed’.</source>
+        <target>すると 「Bボタンが押されたとき」という別のイベントの発生を待っている状態になったので、そのブロックも灰色表示ではなくなりました。</target>
+        <note>Context: XPath: /ul[10]/li</note>
+      </trans-unit>
+      <trans-unit id="64040" identifier="2e20d06317c137330faca907d789f86b" translate="no">
+        <source>/static/courses/csintro/algorithms/on-button-b.png</source>
+        <target state="translated">/static/courses/csintro/algorithms/on-button-b.png</target>
+        <note>Context: Image Source&#13;
+XPath: /blockquote[7]/p/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="64041" identifier="b1110c50ed33bad224b4933c21a064e5" approved="yes">
+        <source>Make on button B</source>
+        <target>Make on button B</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /blockquote[7]/p/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="64042" identifier="e1c71d626cd62c2dcd2fd7aa1bb400b0" approved="yes">
+        <source>input.onButtonPressed(Button.A, () =&amp;gt; {
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+})</source>
+        <target>input.onButtonPressed(Button.A, () =&amp;gt; {
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre[2]/code</note>
+      </trans-unit>
+      <trans-unit id="64043" identifier="ae1e0a7adadc8f94442e987274487320" translate="no" approved="yes">
+        <source>Show LEDs</source>
+        <target>LEDに表示</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[7]</note>
+      </trans-unit>
+      <trans-unit id="64044" identifier="726ede42029c3855d287b9a8aad70bc9" approved="yes">
+        <source>Now we can use our LED lights to display different images depending on what button the user presses.</source>
+        <target>準備が整ったので、押されたボタンに応じて異なるイメージがLED画面に表示されるようにしましょう。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[15]</note>
+      </trans-unit>
+      <trans-unit id="64045" identifier="45c0d639b20323576160b3efd28bd04d" approved="yes">
+        <source>From the Basic menu, drag two ‘show leds’ blocks to the coding workspace</source>
+        <target>「基本（Basic）」メニューから「LEDに表示I（show leds）」ブロックを 2 つ、コーディング ワークスペースにドラッグします。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[11]/li</note>
+      </trans-unit>
+      <trans-unit id="64046" identifier="297c16548622382e7b3787491b3c62ad" approved="yes">
+        <source>Place one ‘show leds’ block into the ‘on button A pressed’ event handler and the second ‘show leds’ block into the ‘on button B pressed’ event handler.</source>
+        <target>1つ目の「LEDに表示（show leds）」ブロックを 「Bボタンが押されたとき（on button A pressed）」イベント ハンドラーに組み入れて、2 つ目の「LEDに表示（show leds）」ブロックは「Bボタンが押されたとき（on button B pressed）」イベントにハンドラーに組み入れましょう。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[11]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="71326" identifier="d10deefe8b3ffde37809cc56a58d61e9" approved="yes">
+        <source>input.onButtonPressed(Button.A, () =&amp;gt; {
+    basic.showLeds(`.</source>
+        <target>input.onButtonPressed(Button.A, () =&amp;gt; {
+    basic.showLeds(`.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64048" identifier="17f7512876ef5849e28160be36b82162" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64049" identifier="c1a9bc8eaaf158e5fc0d112d729f5430" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64050" identifier="e2dd913e26e80702f14fc5a47983840e" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64051" identifier="a0fae48db460591a674efce473cdbde3" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="71327" identifier="067219c418189cee85777be857fc176e" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64053" identifier="48c8dcda3df20a4049ea3fe9ec2648c5" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64054" identifier="ab5ea79dfe9c4e20d9697aa466bc64e2" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64055" identifier="83d3c152710df01e533be34c4b04ce9e" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64056" identifier="d539fb9d84d1f98119722c3c64d56288" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="71328" identifier="8895bf17dc7f9e9ab758ace4904e5a07" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64058" identifier="385ddbd3c374901123cf0a0419f6ec46" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64059" identifier="648c41381d18b180de5fa1683b3d719c" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64060" identifier="422fb1afce5b1d013413078da8e043a5" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64061" identifier="be9791d43654c0e3d36dd0364c572e6b" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="71329" identifier="885e5916afab28f22f4548906b89630b" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64063" identifier="0d16ad6c516af4fb2a458356d8d75ca1" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64064" identifier="a38be62c96c13637943e0ecf8e7d2233" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64065" identifier="a54e3e4bd378483388e60db29edda957" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64066" identifier="f108672632cea22e41171b7eb63a6d35" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="71330" identifier="8198a6e5320ffb54a629b596fca399f9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64068" identifier="d63066163b1148927a14578a8432fc56" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64069" identifier="c3a46feccaeb9bfe964f6bbd10599224" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64070" identifier="78cb65707386991e59885386e204d618" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64071" identifier="6269b579e37628eaabb0ddada6ee8598" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="71331" identifier="24415b3d94c5c57337336584b25e210b" approved="yes">
+        <source>`)
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+    basic.showLeds(`
+    .</source>
+        <target>`)
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+    basic.showLeds(`
+    .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64073" identifier="2c2f742607cbb5457124daf8053d4de9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64074" identifier="9a4ce8c57e358cdc7ad9c049ffff6c08" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64075" identifier="3a433170cd5a7af3dda5df54535dd816" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64076" identifier="8ee181c47d51a58596939d33ba0dc7dc" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="71332" identifier="eb3f29d6f9d3d2e4bb582929a66f7d3f" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64078" identifier="75334c079259f7ca4f1c06fc6112e67e" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64079" identifier="5b8071cbcc7c9763de9e44d1a376c99d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64080" identifier="1ca1a6bdada0803e346dc66b31252f8d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64081" identifier="9b849cb7ad4864055ea0cc3e84e5e575" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="71333" identifier="c942989ca6d2b7f5e298b561fb7d2e2a" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64083" identifier="bc13c7771d39adfd39b29c122c6b7109" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64084" identifier="a7cae64dd34fdb4b193ab35ee6ca0875" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64085" identifier="c2c23b0fb6c04f46a56e5e5674bb2ca9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64086" identifier="fa4deeb830a452d9df59c58f31a6602a" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="71334" identifier="d1eddc64b04ff0eba6407b1f58fe02ae" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64088" identifier="410a69d75b28ea0968e2d9739774295a" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64089" identifier="a6ea3ff4e8fbb3586031ac27062bd96d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64090" identifier="7d7f7b241fd37d5897dbefaa35896538" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64091" identifier="fdac4b2c9389c3e0e47a5082717a43f9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="71335" identifier="101ceb9ad6177c32f4af37bb25e792ea" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64093" identifier="19dcc5ed2e396873b039d227ba9d5023" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64094" identifier="59bb570a965211e7e10fa0de1c82f951" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64095" identifier="1c3f2811b2bb897669ee08300661f708" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64096" identifier="74508967953f9e563c1841cb0d9d43f9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="71336" identifier="837a20f4a557f4bea9ab6438b4506594" translate="no" approved="yes">
+        <source>`)
+})</source>
+        <target>`)
+})</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64098" identifier="c28e2e78c831a50b39d1518e964a265f" approved="yes">
+        <source>Click on the individual little boxes in the ‘show leds’ block that is in the ‘on button A pressed’ event handler to create the image of a happy face.</source>
+        <target>「Aボタンが押されたとき（on button A pressed）」イベント ハンドラーに組み入れてある「LEDを表示（show leds）」ブロック内の、小さなチェックボックスをひとつずつクリックすることでハッピーな顔のイメージを作ってみましょう。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[12]/li</note>
+      </trans-unit>
+      <trans-unit id="64099" identifier="c6ec351ca62c3c7e6e58cf7031b7cc87" approved="yes">
+        <source>Click on the individual little boxes in the ‘show leds’ block that is in the ‘on button B pressed’ event handler to create the image of a sad face.</source>
+        <target>今度は「Bボタンが押されたとき（on button B pressed）」イベント ハンドラーに組み入れてある「LEDを表示（show leds）」ブロックのチェックボックスをひとつずつクリックすることで悲しい顔のイメージを作ります。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[12]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="71501" identifier="93b45d106b3c778f5425766bc4ec83c0" approved="yes">
+        <source>input.onButtonPressed(Button.A, () =&amp;gt; {
+   basic.showLeds(`
+       .</source>
+        <target>input.onButtonPressed(Button.A, () =&amp;gt; {
+   basic.showLeds(`
+       .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="64101" identifier="64495e63d239da0cb2db40fe641d8014" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="64102" identifier="6024e379e3cee11e621228fb88d8796c" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="64103" identifier="bf22315244937b1a9326ab7776877451" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="64104" identifier="813db55627af517888847ea30daaec26" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="71502" identifier="f13d974886408e3816a612ed5b35400c" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="64106" identifier="3daff3760a763c681e1e0f61be8d6f40" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="64107" identifier="8c2fa53c4762223c8a58cd8bac8646ee" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="71503" identifier="2da57e719fb680fa0ad11e27605615bc" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="64109" identifier="097f82e3c2b31345fe360c71b04f7206" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="64110" identifier="9c0fc9b9e522bb691f08e2a60dc7c3a2" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="64111" identifier="8b6715e74e47eba70f9651ede3ebd06e" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="64112" identifier="d072cf8d2a36913988418dd5bb5673ba" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="71504" identifier="05825531bc745cd98f687dc212edc980" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="64114" identifier="5d0cfcd3cb22105a7a08fb973c9c9c61" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="64115" identifier="3eb3eed1f074a5ecca5f31ad2ed72764" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="71505" identifier="80075d2387d0af9a59788059f0c9f625" approved="yes">
+        <source>#
+       .</source>
+        <target>#
+       .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="64117" identifier="5fa877bbdcf2e883c64ad892c5247349" translate="no" approved="yes">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="71506" identifier="7b60dad89dbdf17ae8b2160463a67933" approved="yes">
+        <source>`)
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+   basic.showLeds(`
+       .</source>
+        <target>`)
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+   basic.showLeds(`
+       .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="64119" identifier="942db5759d13e2a2d0fce95acc9b2e84" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="64120" identifier="f2e888146fc819244a0680ff10968e76" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="64121" identifier="15584ecaccc48ee3e47d47fe56b6400d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="64122" identifier="f27dd84551e9faef457f31ae1b8880db" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="71507" identifier="eaa803ae509550ba11ff20e977a35fbd" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="64124" identifier="414689efcdeac9d0f4fb039c2429601b" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="64125" identifier="bf64ad81ec9e9baad615e12e9c32f003" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="71508" identifier="f8cca0bf3e581c2d091bdbe9cd059769" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="64127" identifier="a9322bb83c7374ecd256abbb0657d5e8" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="64128" identifier="0ad1ef727bf888ca59934da837ec1efb" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="64129" identifier="df6a215a315653800602816877b84ad9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="64130" identifier="00f300fbf6f988114a2aed38d21fb7f2" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="71509" identifier="6d5488ea07d95b49c7eaa0b262c78dda" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="64132" identifier="a5ca37ed0c22e79f4f957363c7770a8e" translate="no" approved="yes">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="71510" identifier="3a2b1eee90625d5235f4d9c05818010e" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="64134" identifier="cb95e65d02d2046c2dd79474a8be9759" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="64135" identifier="409589d88ac6db6f6bfe0ebe228a9818" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="71511" identifier="46b507f20442125236d0388b3bf2d1ee" approved="yes">
+        <source>#
+       `)
+})</source>
+        <target>#
+       `)
+})</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="64137" identifier="883aa635f50a4b2e7d9a54e0c623e211" approved="yes">
+        <source>Test your program!</source>
+        <target>プログラムをテストしよう！</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[8]</note>
+      </trans-unit>
+      <trans-unit id="64138" identifier="6c8884621c45dc98eb914038b0291d6e" approved="yes">
+        <source>Remember, MakeCode automatically compiles and runs your program, so all you need to do now is press button A and then button B in the simulator to see the output produced by your code.</source>
+        <target>あなたが書いたプログラムは、MakeCode によって自動的にコンパイルおよび実行されるので、自分のコードがどのようなアウトプットを生成するかを確認するには、Aボタンを押して次にBボタンを押すという動作だけで十分です。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[16]</note>
+      </trans-unit>
+      <trans-unit id="64139" identifier="6e259c99d85cdec896a0a7607f254537" approved="yes">
+        <source>Feel free to play around with turning LEDs on or off in the ‘show leds’ blocks until you get the images you want.</source>
+        <target>気に入ったイメージが表示されるまで、「LEDを表示（show leds）」ブロックのLEDをオンにしたりオフにしたりしていろいろ実験してみましょう。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[13]/li</note>
+      </trans-unit>
+      <trans-unit id="64140" identifier="3b82ea65d8d9c6df2d1b32ad0f94bff9" approved="yes">
+        <source>Remember to save your code.</source>
+        <target>コードを保存することを忘れないようにしましょう。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[13]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="70263" identifier="9890676e17f735741dea916c654f1e3a" translate="no" approved="yes">
+        <source>basic.forever(() =&amp;gt; {
+    basic.showLeds(`
+        .</source>
+        <target>basic.forever(() =&amp;gt; {
+    basic.showLeds(`
+        .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="70264" identifier="54642dab6506f6ce74c156dc93833480" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="70265" identifier="f2ca3e46a894b2457f384f9743655de9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="70266" identifier="6fbe0a5a1056db6734124f58dd9703db" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="70267" identifier="009eb4fe94b108f7990c8fca8fcaa5e1" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="70268" identifier="5cfb8d5e86148a1ce6b1bf419efcb652" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="70269" identifier="091d717fd4839934dbb4f9d7e0f5c785" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="70270" identifier="b18eff80e068a5c16f02fc0ae807660b" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="70271" identifier="ef099d797c0ecc0dcd179876c58536a2" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="70272" identifier="17551548655a529ef5ff6e0fb4870043" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="70273" identifier="d05ea4f81b4d8be52346d3ca4c02a837" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="70274" identifier="719793771eddd136360ea50c6a37e907" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="70275" identifier="b83b443a1738f172540a52831a872375" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="70276" identifier="9085c60fbbb10891ff518dd5f6785698" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="70277" identifier="e9fc61dc3f10b145fd51dc7b3d22abff" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="70278" identifier="42bf05bbfb8d67094b43bda333bd4c86" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="70279" identifier="6bf8bcf2063bb46a8444293201f96434" translate="no" approved="yes">
+        <source>#
+        .</source>
+        <target>#
+        .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="70280" identifier="4c5426f08b72e640e3885a8f831a6326" translate="no" approved="yes">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="70281" identifier="94a2c1d9d475e3d33a6566f27c40e261" approved="yes">
+        <source>`)
+    basic.pause(800)
+    basic.showLeds(`
+        .</source>
+        <target>`)
+    basic.pause(800)
+    basic.showLeds(`
+        .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="70282" identifier="5a7b43915e807466c89b1501ec0d8d8d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="70283" identifier="1770d44a1de1b9327cc5d9aa14b18cc9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="70284" identifier="5ea8651ec8dabcee47643121a71d2cb4" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="70285" identifier="d86a1c030b1232619f796e221d2909d9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="70286" identifier="134dab683e3abd095ebeb382d9b77f54" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="70287" identifier="9ec03d8a38df7dfb2075ef4c301d428b" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="70288" identifier="786739fdacc3edbc24d25c27f4a6ae2c" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="70289" identifier="0aef464127dd1292e09e645dc2473055" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="70290" identifier="2b09d16a148e15b17b18c6cb8d45e2ed" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="70291" identifier="a49fcc02e34ceca4b929ada0ef4845e5" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="70292" identifier="d80e7b5615c9b628b5bbbfe38c198a90" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="70293" identifier="a35e5e4caf36e088b16f554286375313" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="70294" identifier="33c8b9f5635b003536b20ca17b9b239c" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="70295" identifier="04620947ac489bc3a38844ca1ca82c8d" translate="no" approved="yes">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="70296" identifier="e4a5f13fd9af36f03c57f960caaca5fb" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="70297" identifier="49e37f7377d6784150301bea150a15f8" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="70298" identifier="db2e2303d44e5a956d5804b2b310f723" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="70299" identifier="e6c2dc5cbbe4cf2706b85abf3c198567" approved="yes">
+        <source>#
+        `)
+    basic.pause(800)
+})</source>
+        <target>#
+        `)
+    basic.pause(800)
+})</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="64143" identifier="9d964aa9139c23b3bc10604d6c6b1f6b" approved="yes">
+        <source>Commenting your code</source>
+        <target>コードにコメントを書く</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[9]</note>
+      </trans-unit>
+      <trans-unit id="64144" identifier="7372452ac56db6093248d8621e2f8ee2" approved="yes">
+        <source>It is good practice to add comments to your code.</source>
+        <target>コードにコメントを追加することは良い習慣です。</target>
+        <note>Context: XPath: /p[17]</note>
+      </trans-unit>
+      <trans-unit id="64145" identifier="f90fbeede935984cee0fcbc49e0254cc" approved="yes">
+        <source>Comments can be useful in a number of ways.</source>
+        <target>コメントは、以下のような点で役に立ちます。</target>
+        <note>Context: XPath: /p[17]</note>
+      </trans-unit>
+      <trans-unit id="64146" identifier="dfd73256bcf920aefb62135c31ad1235" approved="yes">
+        <source>Comments can help you remember what a certain block of code does and/or why you chose to program something the way you did.</source>
+        <target>コメントは、特定のコードブロックが何をするか、またはなぜあなたがそのようにプログラムを書くことにしたのかを思い出すのに便利です。</target>
+        <note>Context: XPath: /p[17]</note>
+      </trans-unit>
+      <trans-unit id="64147" identifier="4e275c875ebb5345a21811ce3defaa47" approved="yes">
+        <source>Comments also help others reading your code to understand these same things.</source>
+        <target>またコメントがあると、他の人があなたのコードを読む時にも、同じようにコードが理解しやすくなります。</target>
+        <note>Context: XPath: /p[17]</note>
+      </trans-unit>
+      <trans-unit id="64148" identifier="66e69d8c328f564360391735204075f0" approved="yes">
+        <source>To comment a block of code:</source>
+        <target>コード ブロックにコメントを加える：</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[18]</note>
+      </trans-unit>
+      <trans-unit id="64149" identifier="c4d9eb10bfd0edc5c3c9f58dfcacf3a9" approved="yes">
+        <source>Right-click on the icon that appears before the words on a block.</source>
+        <target>ブロックの文字の前に表示されるアイコンを右クリックします。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[14]/li</note>
+      </trans-unit>
+      <trans-unit id="64150" identifier="b15000ccbda899e9d2ff64e6f296f2e0" approved="yes">
+        <source>A menu will pop up. Select ‘Add Comment’.</source>
+        <target>メニューがポップアップします。「コメントを追加（Add Comment）」を選択します。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[14]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64151" identifier="fcb39739e2b171a397d4c624cc5fa73f" translate="no" approved="yes">
+        <source>/static/courses/csintro/algorithms/add-comment.png</source>
+        <target>/static/courses/csintro/algorithms/add-comment.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[19]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="64152" identifier="573637982d477aad42413e1cf4b3cf0c" approved="yes">
+        <source>Add comment menu</source>
+        <target>Add comment menu</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[19]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="64153" identifier="cb075421fcab5c2ddfc0aedbebedaa50" approved="yes">
+        <source>This will cause a question mark icon to appear to the left of the previous icon.</source>
+        <target>すでにあったアイコンのすぐ左側にクエスチョンアイコンが表示されるようになります。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[15]/li</note>
+      </trans-unit>
+      <trans-unit id="64154" identifier="eb79f4573dde578b93dbfea89282d2f0" approved="yes">
+        <source>Click on the question mark and a small yellow box will appear into which you can write your comment.</source>
+        <target>クエスチョン マークをクリックすると、小さな黄色のボックスが表示され、そこにコメントを書くことができるようになります。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[15]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64155" identifier="59321f31225c1e3876c5738d03dae02f" translate="no" approved="yes">
+        <source>/static/courses/csintro/algorithms/write-comment.png</source>
+        <target>/static/courses/csintro/algorithms/write-comment.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[20]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="64156" identifier="0f074cd926a1beb38bf2b92fa80d3ed4" approved="yes">
+        <source>Write comment</source>
+        <target>Write comment</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[20]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="64157" identifier="a4a5b560506f9acf922cc9dc53a69758" approved="yes">
+        <source>Click on the question mark icon again to close the comment box when you are done.</source>
+        <target>終わったら、クエスチョンアイコンをもう一度クリックしてコメント ボックスを閉じます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[16]/li</note>
+      </trans-unit>
+      <trans-unit id="64158" identifier="0a1bd9792fb1d25c1ea17668dcc2c467" approved="yes">
+        <source>Click on the question mark icon whenever you want to see your comment again or to edit it.</source>
+        <target>コメントを見たり編集したい時はクエスチョンアイコンをクリックします。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[16]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64159" identifier="47a4a089241bc2306b64e484aad823f5" approved="yes">
+        <source>Notes</source>
+        <target>追加情報：</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[21]</note>
+      </trans-unit>
+      <trans-unit id="64160" identifier="c9c7f69bda2f59f7383e3f1f9add8280" approved="yes">
+        <source>When you right-click on the icon that appears before the words on a block, notice that there are other options available to you that allow you to duplicate and delete blocks, as well as get help.</source>
+        <target>ブロックの文字の前に表示されているアイコンを右クリックすると、コメント以外の他のオプションが表示されます。ブロックの複製を作成したり、ブロックを削除したり、ヘルプ（ドキュメンテーション）を開いたりできます。</target>
+        <note>Context: XPath: /ul[17]/li</note>
+      </trans-unit>
+      <trans-unit id="64161" identifier="62e9d7d0c5c03b3cd655e8927d299158" approved="yes">
+        <source>Feel free to explore and use these as you code.</source>
+        <target>コードを書くときに、それらのオプションを試してみましょう。</target>
+        <note>Context: XPath: /ul[17]/li</note>
+      </trans-unit>
+      <trans-unit id="64162" identifier="6765f15d55b5ed9f2bd7577833a0e2c7" approved="yes">
+        <source>In JavaScript, you can add a comment by using two forward slashes, then typing your comment. The two forward slashes tell JavaScript that the following text (on that same line) is a comment.</source>
+        <target>JavaScript では、2 つのスラッシュ（//）の後にコメントを書き込むことができます。2 つのスラッシュは、その後に続く文字はコメントですよと、 JavaScript 伝えているのです。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[17]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="70300" identifier="e56e8b65f3cdf59aacaadb2da83a9ece" approved="yes">
+        <source>// Display a happy face when button A is pressed.</source>
+        <target>// Aボタンが押されたらハッピーな顔を表示します</target>
+        <note>Context: Text&#13;
+XPath: /pre[6]/code</note>
+      </trans-unit>
+      <trans-unit id="64164" identifier="b7c5802218668564b28c957267cea422" approved="yes">
+        <source>Cleaning up!</source>
+        <target>クリーンアップ！</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[10]</note>
+      </trans-unit>
+      <trans-unit id="64165" identifier="e31ad06a0188a0474092a605cc6d205e" approved="yes">
+        <source>Clean up your coding workspace before you do a final save! What does this mean?</source>
+        <target>プログラムを完成品として保存する前にコードをクリーンアップしましょう。さてこれはいったいどういう意味でしょう？</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[22]</note>
+      </trans-unit>
+      <trans-unit id="71512" identifier="36686466740fa68c687cbbb67918fd39" approved="yes">
+        <source>It means that only the code and blocks that you are using in your program are still in the workspace.</source>
+        <target>これはプログラムが実際に使用しているコードとブロックだけがワークスペースにある状態を意味します。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[18]/li</note>
+      </trans-unit>
+      <trans-unit id="64167" identifier="ddc6417bb9ee255a1c03d316de91f5df" approved="yes">
+        <source>Remove (delete) any other blocks that you may have dragged into the coding workspace as you were experimenting and building your program.</source>
+        <target>プログラムの作成中に、実験としてワークスペースにドラッグしたブロックを全て削除します。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[18]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64168" identifier="c794c4bf28e8240112c65156ac6bc0e5" approved="yes">
+        <source>Save and download</source>
+        <target>保存とダウンロード</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[11]</note>
+      </trans-unit>
+      <trans-unit id="64169" identifier="7957867c4c4fa40aa728fcc947069fb5" approved="yes">
+        <source>Now that your code is running just fine in the simulator, is commented, and your coding window is ‘clean’, save your program, download it to your micro:bit, and enjoy!</source>
+        <target>あなたのコードはシミュレータでうまく動作し、コメントされ、ワークペースもきれいになったので、プログラムを保存してmicro:bitにダウンロードして実際に動かしてみましょう！</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[23]</note>
+      </trans-unit>
+      <trans-unit id="64170" identifier="aefc61e0c52eeda91682c940d28a0956" approved="yes">
+        <source>Here is the complete program:</source>
+        <target>完全なプログラムはこのようになっているはずです。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[24]</note>
+      </trans-unit>
+      <trans-unit id="70301" identifier="4b24f02dbed8ea807672d611c6174db8" translate="no" approved="yes">
+        <source>// Display a happy face when button A is pressed.</source>
+        <target>// Aボタンが押されたらハッピーな顔を表示します</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="71513" identifier="25003f128a10845b01a1af9980904004" translate="no" approved="yes">
+        <source>input.onButtonPressed(Button.A, () =&amp;gt; {
+   basic.showLeds(`
+       .</source>
+        <target>input.onButtonPressed(Button.A, () =&amp;gt; {
+   basic.showLeds(`
+       .</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="70303" identifier="becfb500ea20b5c7862cfb1f1e3cbb66" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="70304" identifier="9ff81744499272529a7596e0cbcbce06" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="70305" identifier="159e27435c14513ce1a831ddb1e28da3" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="70306" identifier="c4e0f01a40ad7db91d5fb78cd67bb982" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="71514" identifier="c0d8ad6d4cadcd51d234ae1b9993bcdb" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="70308" identifier="af2922769a307927e7de76412771ebc4" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="70309" identifier="e317db6b0976278116dcd429f89bebeb" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="71515" identifier="a50735e614acf041494f257a4c727688" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="70311" identifier="5a777769700eb4902f69997da2b8e1ea" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="70312" identifier="37615442f0b398ae9b237566adb974d9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="70313" identifier="8f3e689dbd88acd502a74d57307bb791" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="70314" identifier="4f8ca52e718f69989924110b885f677a" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="71516" identifier="ed5b551443a36bae3e5d71c86e5dcf51" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="70316" identifier="bb10a703f05fad4d144d71771c5c02fc" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="70317" identifier="548df54517a41681811ce9694f133189" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="71517" identifier="7665a9b19256f4754dc6341e46e851ea" translate="no" approved="yes">
+        <source>#
+       .</source>
+        <target>#
+       .</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="70319" identifier="21ed616e208e84f1d03933cd7c6962b1" translate="no" approved="yes">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="71518" identifier="ca59cd88f9183551c4ace38e97a1544e" approved="yes">
+        <source>`)
+})
+// Display a sad face when button B is pressed.</source>
+        <target>')})
+//B ボタンが押されたときに悲しい顔を表示します。</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="71519" identifier="81512ce5a7358452c26710e89ba03414" approved="yes">
+        <source>input.onButtonPressed(Button.B, () =&amp;gt; {
+   basic.showLeds(`
+       .</source>
+        <target>input.onButtonPressed(Button.B, () =&amp;gt; {
+   basic.showLeds(`
+       .</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="70322" identifier="41e5a69e0c9b62a2deb48e3473828391" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="70323" identifier="58afb28f366b55453e32505dfebea256" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="70324" identifier="cdb25ba9a86db78198467aea0947c2a9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="70325" identifier="60c4a7a39e96b6e0696ea5726b81fa56" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="71520" identifier="a5fc26941151342ba83f40cdc37333e0" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="70327" identifier="e04848acc16d381cc7ad495b6a712c0f" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="70328" identifier="1b30be80f0fbd7b7ca26eb50c92d0477" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="71521" identifier="de54aeb928ae85aba10e2de45878b040" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="70330" identifier="ed4f082b3ab5faaa23d6c77802fdcd04" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="70331" identifier="c953717d67245bd95a29a2e334c4e97b" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="70332" identifier="5421f0ad745b8caccee5f83e96e12da9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="70333" identifier="e7bf4419767c3a0ce7ef82d4d2c5714f" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="71522" identifier="328553836f63d3a5e805f498a4145744" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="70335" identifier="d3f85d236317b853025e1d7aee99cd10" translate="no" approved="yes">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="71523" identifier="99c241f6d1b0a016f9bd49f96f9246f6" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="70337" identifier="276ce0144c49991a7bc2585aa345d315" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="70338" identifier="64f9c46882ec8b505749cd04ac8b6bcf" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="71524" identifier="f1bdbe4d2b2ce7432dfdbf7e38e6b920" approved="yes">
+        <source>#
+       `)
+})
+basic.clearScreen()</source>
+        <target>#
+       `)
+})
+basic.clearScreen()</target>
+        <note>Context: XPath: /pre[7]/code</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

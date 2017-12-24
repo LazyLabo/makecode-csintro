@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1841" original="/microbit/docs/courses/csintro/coordinates/unplugged.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="66444" identifier="17b156ce72ba05b460c65b01224fb6c5">
+        <source>Unplugged: Battleship</source>
+        <target state="needs-translation">Unplugged: Battleship</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="66445" identifier="02bb71854b3bebdf99b2937a755091a1">
+        <source>The game Battleship is perhaps the most fun a student can have practicing using a coordinate grid.</source>
+        <target state="needs-translation">The game Battleship is perhaps the most fun a student can have practicing using a coordinate grid.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="66446" identifier="7b1d6309b81ee0e030fa255905f68fa8">
+        <source>The original Battleship game is a 10x10 grid with numbers on one axis and letters on the other.</source>
+        <target state="needs-translation">The original Battleship game is a 10x10 grid with numbers on one axis and letters on the other.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="66447" identifier="1cc34e69901e14fe68871910f58efc3a">
+        <source> 
+To help us practice using the correct coordinates for the grid of micro:bit LEDs, let the students play a smaller 5x5 version of Battleship using x and y coordinates instead of letters and numbers.</source>
+        <target state="needs-translation"> 
+To help us practice using the correct coordinates for the grid of micro:bit LEDs, let the students play a smaller 5x5 version of Battleship using x and y coordinates instead of letters and numbers.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="66448" identifier="7402e4e3a7ba8ef61d596f40eff8881d">
+        <source> 
+Have students make their own sets of 5x5 grids to reinforce the layout of the micro:bit grid.</source>
+        <target state="needs-translation"> 
+Have students make their own sets of 5x5 grids to reinforce the layout of the micro:bit grid.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="66449" identifier="a6014cb0d40fcc1cd983167ee1c4ad05">
+        <source>Each student should make two grids.</source>
+        <target state="needs-translation">Each student should make two grids.</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="66450" identifier="111c842656230940ede9f1255ccdfe8b">
+        <source>One grid is for placing their own ships and keeping track of their opponent’s hits and misses and the other grid is for keeping track of their own hits and misses while trying to determine the location of their opponent’s ships.</source>
+        <target state="needs-translation">One grid is for placing their own ships and keeping track of their opponent’s hits and misses and the other grid is for keeping track of their own hits and misses while trying to determine the location of their opponent’s ships.</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="66451" identifier="b2b45db066d5520f34068aa3846320b1" translate="no">
+        <source>/static/courses/csintro/coordinates/player-grid.png</source>
+        <target>/static/courses/csintro/coordinates/player-grid.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[3]/l/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66452" identifier="898af4f71df21bef0b84293da053c0b2">
+        <source>Player Grid Example</source>
+        <target state="needs-translation">Player Grid Example</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[3]/l/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="66453" identifier="c224417f14035b0b5b1a28eb63a6aa7b">
+        <source>Player’s grid: Mark where your ships are and keep track of your opponent’s hits and misses.</source>
+        <target state="needs-translation">Player’s grid: Mark where your ships are and keep track of your opponent’s hits and misses.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="66454" identifier="228cbbe475842bcfa5e1d876e33792ec">
+        <source>(0,0)   (1,0)   (2,0)   (3,0)   (4,0)
+    (0,1)   (1,1)   (2,1)   (3,1)   (4,1)
+    (0,2)   (1,2)   (2,2)   (3,2)   (4,2)
+    (0,3)   (1,3)   (2,3)   (3,3)   (4,3)
+    (0,4)   (1,4)   (2,4)   (3,4)   (4,4)
+     </source>
+        <target state="needs-translation">(0,0)   (1,0)   (2,0)   (3,0)   (4,0)
+    (0,1)   (1,1)   (2,1)   (3,1)   (4,1)
+    (0,2)   (1,2)   (2,2)   (3,2)   (4,2)
+    (0,3)   (1,3)   (2,3)   (3,3)   (4,3)
+    (0,4)   (1,4)   (2,4)   (3,4)   (4,4)
+     </target>
+        <note>Context: Text&#13;
+XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66455" identifier="dbd98d576d6fa51c816a36275f23ea01" translate="no">
+        <source>/static/courses/csintro/coordinates/opponent-grid.png</source>
+        <target>/static/courses/csintro/coordinates/opponent-grid.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[4]/l/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66456" identifier="1c7e77bfde7ad8ec417510289146c297">
+        <source>Opponent Grid Example</source>
+        <target state="needs-translation">Opponent Grid Example</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[4]/l/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="66457" identifier="2c7cc7cf899ab20de9a4bcadf37a398b">
+        <source>Opponent’s grid: Keep track of your hits and misses while trying to locate your opponent’s ships.</source>
+        <target state="needs-translation">Opponent’s grid: Keep track of your hits and misses while trying to locate your opponent’s ships.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="66458" identifier="c6411439ca80e8eb90f81f1266e19ee9">
+        <source>(0,0)   (1,0)   (2,0)   (3,0)   (4,0)
+    (0,1)   (1,1)   (2,1)   (3,1)   (4,1)
+    (0,2)   (1,2)   (2,2)   (3,2)   (4,2)
+    (0,3)   (1,3)   (2,3)   (3,3)   (4,3)
+    (0,4)   (1,4)   (2,4)   (3,4)   (4,4)</source>
+        <target state="needs-translation">(0,0)   (1,0)   (2,0)   (3,0)   (4,0)
+    (0,1)   (1,1)   (2,1)   (3,1)   (4,1)
+    (0,2)   (1,2)   (2,2)   (3,2)   (4,2)
+    (0,3)   (1,3)   (2,3)   (3,3)   (4,3)
+    (0,4)   (1,4)   (2,4)   (3,4)   (4,4)</target>
+        <note>Context: Text&#13;
+XPath: /pre[2]/code</note>
+      </trans-unit>
+      <trans-unit id="66459" identifier="e55d24d97f45b7d22fb4d4e9fa48d3d9">
+        <source>Then pair the students to play against a partner.</source>
+        <target state="needs-translation">Then pair the students to play against a partner.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="66460" identifier="cfc39eb8dc7b0e2719ed58a9e375f16b">
+        <source>Each student's ships are hidden somewhere on their 5x5 grid.</source>
+        <target state="needs-translation">Each student's ships are hidden somewhere on their 5x5 grid.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="66461" identifier="5e947dcf3ae77f787adeda554e1054ac">
+        <source>Students should be taking turns calling their shots using x and y coordinates, in the proper order.</source>
+        <target state="needs-translation">Students should be taking turns calling their shots using x and y coordinates, in the proper order.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="66462" identifier="0662d0912339c1de31a1bc29ce0b4faf">
+        <source>Their opponent will use those coordinates to plot the location of their shots.</source>
+        <target state="needs-translation">Their opponent will use those coordinates to plot the location of their shots.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="66463" identifier="ef421273bcb95bcef3c4d31e2acde718">
+        <source>If a hit is recorded on a ship, then you say, &quot;Hit&quot;.</source>
+        <target state="needs-translation">If a hit is recorded on a ship, then you say, &quot;Hit&quot;.</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="66464" identifier="8f8c387cebaccb80b0b4edcaf05d650f">
+        <source>If the shot misses, you say, &quot;Miss&quot;.</source>
+        <target state="needs-translation">If the shot misses, you say, &quot;Miss&quot;.</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="66465" identifier="61a123373a1cab9a0f6336d8bc08b742">
+        <source>If the entire length of a ship is hit, it is sunk and removed from play.</source>
+        <target state="needs-translation">If the entire length of a ship is hit, it is sunk and removed from play.</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="66466" identifier="c9f30de1f0aa8a1112a218a7075e7953">
+        <source>Tradition dictates that the player announces, &quot;You sank my battleship!&quot;</source>
+        <target state="needs-translation">Tradition dictates that the player announces, &quot;You sank my battleship!&quot;</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="66467" identifier="f589168f83bf315950e4e948d71e40dc">
+        <source>Since their grid is only one quarter the size of the original Battleship grid, students can use fewer and smaller ships. For example, they could play with 3 ships, one each of size 3, 2, and 1.</source>
+        <target state="needs-translation">Since their grid is only one quarter the size of the original Battleship grid, students can use fewer and smaller ships. For example, they could play with 3 ships, one each of size 3, 2, and 1.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="66468" identifier="565a418936ccd36c98d326a506e9e751">
+        <source>The game can be played with just paper and pencils or you could use small tokens and markers, like coins, buttons, or paper clips to represent the ships.
+ </source>
+        <target state="needs-translation">The game can be played with just paper and pencils or you could use small tokens and markers, like coins, buttons, or paper clips to represent the ships.
+ </target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="73168" identifier="04566e83b2f026f69d997046d4a7433b" translate="no" approved="yes">
+        <source>Notes:</source>
+        <target>追加情報：</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="66470" identifier="0a7538912c590c8aba03a6191bd92631">
+        <source>Place students’ grids in sheet protectors or laminate them so they can be used again and again with white board (dry erase) markers.</source>
+        <target state="needs-translation">Place students’ grids in sheet protectors or laminate them so they can be used again and again with white board (dry erase) markers.</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="66471" identifier="f8d5c08ca4a766321c7efbee4e0ee80c">
+        <source>The official rules of Battleship are easily found on the internet. Modify them as needed for your particular class.</source>
+        <target state="needs-translation">The official rules of Battleship are easily found on the internet. Modify them as needed for your particular class.</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66472" identifier="54602d99c6d2f5a737b8ed0067a41373" translate="no">
+        <source>/static/courses/csintro/coordinates/battleship-board-game.jpg</source>
+        <target>/static/courses/csintro/coordinates/battleship-board-game.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p[9]/l/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66473" identifier="045b40045d7324f8e494874360d11858">
+        <source>Battleship board game</source>
+        <target state="needs-translation">Battleship board game</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[9]/l/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="66474" identifier="bd61f898684de78613435f5a65c160f8">
+        <source>The original Battleship Board Game</source>
+        <target state="needs-translation">The original Battleship Board Game</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[9]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

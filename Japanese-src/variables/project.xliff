@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1882" original="/microbit/docs/courses/csintro/variables/project.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="68428" identifier="23f009275f2382c895d24d99df542516">
+        <source>Project: Everything counts</source>
+        <target state="translated">プロジェクト：全部数えてみよう</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="68429" identifier="03cdb1f2d7a7410a4459c609aa9e6c1c">
+        <source>This is an assignment for students to come up with a micro:bit program that counts something.</source>
+        <target state="translated">この課題では、micro:bitを使用して何かを数えるプログラムを作成します。</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="68430" identifier="b8b402f8429e9a3d1687a64933579b88">
+        <source>Their program should keep track of &lt;strong&gt;input&lt;/strong&gt; by storing values in variables, and provide &lt;strong&gt;output&lt;/strong&gt; in some visual and useful way.</source>
+        <target state="translated">このプログラムは、変数に値を格納することによって&lt;strong&gt;入力&lt;/strong&gt;を記録し、視覚的かつ役に立つ方法で &lt;strong&gt;出力&lt;/strong&gt;を提供しなければなりません。</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="68431" identifier="8c8ccc2e78c99c7f1df01c3ab60f20c1">
+        <source>Students should also perform mathematical operations on the variables to give useful output.</source>
+        <target state="translated">生徒たちは、役に立つ出力を与えるために、変数の数値演算をしなければなりません。</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="68432" identifier="da091d478cedc8ec20cfeb798d79c758" translate="no">
+        <source>Input</source>
+        <target state="translated">入力</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="68433" identifier="65df5dac64ddad925b987fa16efb519f" translate="no">
+        <source>Remind the students of all the different inputs available to them through the micro:bit.</source>
+        <target state="translated">生徒たちにmicro:bitで利用可能な入力を全て説明します。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="68434" identifier="7183287543f5db093193a1ee04a24f78" translate="no">
+        <source>/static/courses/csintro/variables/input-list.png</source>
+        <target>/static/courses/csintro/variables/input-list.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[3]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="68435" identifier="7492ae9781b6b3d60bbc4f2b88802cd5" translate="no">
+        <source>micro:bit input list</source>
+        <target state="translated">micro:bit 入力リスト</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[3]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="68436" identifier="01579b537525e60b0a8c05b1499ff9df" translate="no">
+        <source>Project Ideas</source>
+        <target state="translated">プロジェクトアイディア</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="68437" identifier="373a95d40e4d19b2d62c388a69c31c3b" translate="no">
+        <source>Duct tape wallet</source>
+        <target state="translated">ダクトテープ財布</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3</note>
+      </trans-unit>
+      <trans-unit id="68438" identifier="65b2c440ae6a1789b0e35a2f830e18b5">
+        <source>You can see the instructions for creating a durable, fashionable wallet or purse out of duct tape: &lt;a href=&quot;/projects/wallet&quot;&gt;Duct tape wallet&lt;/a&gt;.</source>
+        <target state="translated">耐久性があり、おしゃれな財布や小銭入れの作り方を確認できます。: &lt;a href=&quot;/projects/wallet&quot;&gt;ダクトテープ財布&lt;/a&gt;</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="68439" identifier="1df4514a8ea2b23f9f82ab33a2499619">
+        <source>Create a place for the micro:bit to fit securely.</source>
+        <target state="translated">micro:bitをしっかりと固定する場所を作成します。</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="68440" identifier="580492d174d8dda11a13b9c00212828a">
+        <source>Use Button A to add dollars to the wallet, and Button B to subtract dollars from the wallet.</source>
+        <target state="translated">ボタンAを使って財布にドルを入れ、ボタンBを使って足し合わせます。</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="68441" identifier="1cd84df8435948cb3b12e4b427728d45">
+        <source>&lt;strong&gt;Extra mod:&lt;/strong&gt; Use other inputs to handle cents, and provide a way to display how much money is in the wallet in dollars and cents.</source>
+        <target state="translated">&lt;strong&gt;追加:&lt;/strong&gt; 他の入力を使ってセントを取り扱いましょう。そしていくら財布に入っているか、ドルとセントで表示させましょう。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="68442" identifier="a98e6b7b02a7321425cf0818ae87adaf">
+        <source>Umpire’s baseball counter (pitches and strikes)</source>
+        <target state="translated">野球審判用カウンター(球数とストライク)</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[2]</note>
+      </trans-unit>
+      <trans-unit id="68443" identifier="10d59999e9d19896fcd0d55af4b758c4">
+        <source>In baseball during an at-bat, umpires must keep track of how many pitches have been thrown to each batter. Use Button A to record the number of balls (up to 4) and the number of strikes (up to 3).</source>
+        <target state="translated">野球での打席の間、審判は各バッターに何球投げられたか記録しておかなければなりません。球数(最大４) をボタンAを使って記録し、ストライクの数(最大３) をボタンBを使って記録します。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="68444" identifier="0883e474b7faffa3076a0ed3f6438db8">
+        <source>&lt;strong&gt;Extra mod:&lt;/strong&gt; Create a way to reset both variables to zero, create a way to see the number of balls and strikes on the screen at the same time.</source>
+        <target state="translated">&lt;strong&gt;追加:&lt;/strong&gt; 両方の変数を０にリセットする方法を考えてみましょう。球数とストライクの数を同時に画面に表示してみましょう。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="68445" identifier="5810b33fe59aa22e2de0ee4bea04b000">
+        <source>Shake counter</source>
+        <target state="translated">シェイクカウンター</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[3]</note>
+      </trans-unit>
+      <trans-unit id="68446" identifier="909ec64268886a10387f9b6dd93f2213">
+        <source>Using the 'On Shake' block, you can detect when the micro:bit has been shaken and increment a variable accordingly.</source>
+        <target state="translated">「ゆさぶられたとき」ブロックを使用し、micro:bitが振られたことを検出し、それに応じて変数の値を増やすことができます。</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="68447" identifier="57e70bca4ab8b4595420579f10a7333b">
+        <source>Try attaching the micro:bit to a lacrosse stick and keep track of how many times you have successfully thrown the ball up in the air and caught it.</source>
+        <target state="translated">micro:bitをラクロスのスティックに付けます。ボールを空中に投げてそれを捕ることに、何回成功するか記録しましょう。</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="68448" identifier="3f75aeda3e235461c396b34d2c0dcc4c">
+        <source>&lt;strong&gt;Extra mod:&lt;/strong&gt; Make the micro:bit create a sound of increasing pitch every time you successfully catch the ball.</source>
+        <target state="translated">&lt;strong&gt;追加:&lt;/strong&gt; micro:bitにボールを捕ることに成功するたびに音のピッチを上げるよう、作成してみましょう。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="68449" identifier="6da23aa40ff6a67b7db3c8f4970fc356">
+        <source>Pedometer</source>
+        <target state="translated">歩数計</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[4]</note>
+      </trans-unit>
+      <trans-unit id="68450" identifier="f7117ebae8cbf78c648f0a581321a599">
+        <source>See if you can count your steps while running or doing other physical activities carrying the micro:bit. Where is it best mounted?</source>
+        <target state="translated">micro:bitを身に着けて、ランニングや運動をしている間、歩数を数えられるかみてみましょう。どこに着けるのが一番いいですか？</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="68451" identifier="573ddcc95f2b00fe2decb44e8b76d2bb">
+        <source>&lt;strong&gt;Extra Mod:&lt;/strong&gt; Design a wearable band or holder that can carry the micro:bit securely so it doesn’t slip out during exercise.</source>
+        <target state="translated">&lt;strong&gt;追加:&lt;/strong&gt; 運動中micro:bitが滑り落ちないよう、ウェアラブルバンドまたはホルダーをデザインしてみましょう。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="68452" identifier="f625999819e335ce205a6f7c8296ff06">
+        <source>Calculator</source>
+        <target state="translated">計算機</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[5]</note>
+      </trans-unit>
+      <trans-unit id="68453" identifier="75febc554551408f793c5f0a9eaea18e">
+        <source>Create an adding machine. Use Button A to increment the first number, and Button B to increment the second number. Then, use Shake or Buttons A + B to add the two numbers and display their sum.</source>
+        <target state="translated">足し算する機械を作りましょう。ボタンAを使って数を増加させて最初の数を決め、ボタンBを使って数を増加させて二つ目の数を決めましょう。それからシェイクもしくはボタンAとBの同時押しを使用し、二つの数を足し、合計を表示させましょう。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="68454" identifier="89fcc4c71026cf9f72e8a80b6d27e03e">
+        <source>&lt;strong&gt;Extra mod:&lt;/strong&gt; Find a way to select and perform other math operations.</source>
+        <target state="translated">&lt;strong&gt;追加:&lt;/strong&gt; 他の演算を選択して実行する方法を考えてみましょう。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="68455" identifier="ae9fa7b3e67d6bf1651385acfac91450" translate="no">
+        <source>/static/courses/csintro/variables/microbit-spinner.png</source>
+        <target>/static/courses/csintro/variables/microbit-spinner.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[14]/l/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="68456" identifier="5d4e8f88254c1eef2115407e3afd9dd3">
+        <source>micro:bit top and spin counter</source>
+        <target state="translated">micro:bit トップスピンカウンター</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[14]/l/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="68457" identifier="fa521b507e3cbd939c82e7de1f3c2ebe">
+        <source>Homemade top with micro:bit revolution counter</source>
+        <target state="translated">micro:bit 回転数カウンター付き手作りのこま</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[14]</note>
+      </trans-unit>
+      <trans-unit id="68458" identifier="7123d354c4cf0d102cb37039df13b50d" translate="no">
+        <source>/static/courses/csintro/variables/duct-tape-wallet.jpg</source>
+        <target>/static/courses/csintro/variables/duct-tape-wallet.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p[15]/l/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="68459" identifier="675af9cb9e9759d28291621e761f86d6" translate="no">
+        <source>Duct tape wallet</source>
+        <target state="translated">ダクトテープ財布</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[15]/l/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="68460" identifier="928d13739a523b12604dcb9261474be5">
+        <source>Duct tape wallet with micro:bit display</source>
+        <target state="translated">micro:bit ディスプレイ付きダクトテープ財布</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[15]</note>
+      </trans-unit>
+      <trans-unit id="68461" identifier="890c7ba74cfe64427c9bef8e0413ccd2" translate="no">
+        <source>/static/courses/csintro/variables/baseball-counter.jpg</source>
+        <target>/static/courses/csintro/variables/baseball-counter.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p[16]/l/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="68462" identifier="0d0cf62546925696c7635d8fbced634b" translate="no">
+        <source>Baseball pitch counter</source>
+        <target state="translated">野球の球数カウンター</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[16]/l/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="68463" identifier="48306a5911b744bded6359db17f41e69" translate="no">
+        <source>Baseball pitch counter</source>
+        <target state="translated">野球の球数カウンター</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[16]</note>
+      </trans-unit>
+      <trans-unit id="68464" identifier="cb724b06cf7795c7c1a4106026c91387" translate="no">
+        <source>Process</source>
+        <target state="translated">プロセス</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="68465" identifier="d7284d2ea0587c487adcd6290b27ef85">
+        <source>In any design project, it's important to start by understanding the problem.</source>
+        <target state="translated">どんなデザインプロジェクトでも、問題を理解することから始めることが重要です。</target>
+        <note>Context: XPath: /p[17]</note>
+      </trans-unit>
+      <trans-unit id="68466" identifier="f3f8b0e7aa082929c665c310dede97db">
+        <source>You can begin this activity by interviewing people around you who might have encountered the problem you are trying to solve.</source>
+        <target state="translated">まず、あなたの周りの人で、あなたが解決しようとしている問題に直面していそうな人にインタビューしてみましょう。</target>
+        <note>Context: XPath: /p[17]</note>
+      </trans-unit>
+      <trans-unit id="68467" identifier="c6f4bcf87c505bb34c3f9271e5365839">
+        <source>For example, if you are designing a wallet, ask your friends how they store their money, credit cards, identification, etc.</source>
+        <target state="translated">例えば、財布をデザインする際には、どのようにお金やクレジットカード、身分証明書などをしまっているか、友達に聞いてみましょう。</target>
+        <note>Context: XPath: /p[17]</note>
+      </trans-unit>
+      <trans-unit id="68468" identifier="6103f5d06dafb244321911561159569a">
+        <source>What are some challenges with their current system?</source>
+        <target state="translated">彼らが現在使用しているシステムでの課題は何でしょう？</target>
+        <note>Context: XPath: /p[17]</note>
+      </trans-unit>
+      <trans-unit id="68469" identifier="e23d3b5e6b1b7029fead381e68204a34">
+        <source>What do they like about it?</source>
+        <target state="translated">どのようなところが好きなのでしょうか？</target>
+        <note>Context: XPath: /p[17]</note>
+      </trans-unit>
+      <trans-unit id="68470" identifier="c45678a84c0335532064a4716470ad65">
+        <source>What else do they use their wallets for?</source>
+        <target state="translated">その他のどんなことに財布を使っていますか？</target>
+        <note>Context: XPath: /p[17]</note>
+      </trans-unit>
+      <trans-unit id="68471" identifier="69342cd09d332af65545c5f2c9eea7b6">
+        <source>If you are designing something else, think about how you might find out more information about your problem through interviewing or observing people using current solutions.</source>
+        <target state="translated">何かをデザインしている場合は、インタビュー、または現在の解決策を使用している人々を観察することを通し、どのようにあなたの問題に対するより多くの情報を得られるか考えてみましょう。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[18]</note>
+      </trans-unit>
+      <trans-unit id="68472" identifier="dd8780bc4872a1cd119f7f37ddf313a1">
+        <source>Then start brainstorming.</source>
+        <target state="translated">そしてブレインストーミングを始めます。</target>
+        <note>Context: XPath: /p[19]</note>
+      </trans-unit>
+      <trans-unit id="68473" identifier="9c08f0035ec91144e47d14b31b6e86b2">
+        <source>Sketch out a variety of different ideas.</source>
+        <target state="translated">様々な異なるアイディアを書き出します。</target>
+        <note>Context: XPath: /p[19]</note>
+      </trans-unit>
+      <trans-unit id="68474" identifier="f63eb7199dd4290d1ed99a241a9b1415">
+        <source>Remember that it's okay if the ideas seem far-out or impractical.</source>
+        <target state="translated">アイディアが現実離れしたものでも、常識に反するようなものでも構いません。</target>
+        <note>Context: XPath: /p[19]</note>
+      </trans-unit>
+      <trans-unit id="68475" identifier="d160c89b35fe2e4bf9d3bb24caf27c90">
+        <source>Some of the best products come out of seemingly crazy ideas that can ultimately be worked into the design of something useful.</source>
+        <target state="translated">いくつかの素晴らしいプロダクトは、最終的には何か役に立つデザインに組み込むことができる、一見変わったアイディアから生まれています。</target>
+        <note>Context: XPath: /p[19]</note>
+      </trans-unit>
+      <trans-unit id="68476" identifier="991a793debb708422e1775776f2833e6">
+        <source>What kind of holder can you design to hold the micro:bit securely?</source>
+        <target state="translated">micro:bitをしっかりと保持するためのホルダーを、どのようにデザインできますか？</target>
+        <note>Context: XPath: /p[19]</note>
+      </trans-unit>
+      <trans-unit id="68477" identifier="1939282498b8d0f64860cbfa1e501c3f">
+        <source>How will it be used in the real world, as part of a physical design?</source>
+        <target state="translated">物理的なデザインの一部として、どのように使用されますか？</target>
+        <note>Context: XPath: /p[19]</note>
+      </trans-unit>
+      <trans-unit id="68478" identifier="875e0c60cbc4f84507df978bc4c13320">
+        <source>Use the simulator to do your programming, and test out a number of different ideas.</source>
+        <target state="translated">あなたのプログラミングを行うためにシミュレーターを使い、いくつかの異なるアイディアを試してみましょう。</target>
+        <note>Context: XPath: /p[20]</note>
+      </trans-unit>
+      <trans-unit id="68479" identifier="f0a479b95a0036f3316ad6afb19c49a8">
+        <source>What is the easiest way to keep track of data?</source>
+        <target state="translated">データを記録する一番簡単な方法は何でしょう？</target>
+        <note>Context: XPath: /p[20]</note>
+      </trans-unit>
+      <trans-unit id="68480" identifier="0739aac5738847ff80b068b5c90b7dd0">
+        <source>If you are designing for the accelerometer, try to see what different values are generated through different actions (you can display the value the accelerometer is currently reading using the 'Show Number' block; clear the screen afterward so you can see the reading).</source>
+        <target state="translated">もしあなたが加速度計をデザインしている場合、異なる動作を通してどのような異なる値が作り出されるか試してみましょう。(「数を表示」ブロックを使って現在加速度計が読んでいる数値を表示することができます; その後画面をクリアするので読み取り値を見ることができます。)</target>
+        <note>Context: XPath: /p[20]</note>
+      </trans-unit>
+      <trans-unit id="68481" identifier="7e655434833706a588afe2094ca51225" approved="yes">
+        <source>basic.forever(() =&amp;gt; {
+    basic.showNumber(input.acceleration(Dimension.X))
+    basic.showLeds(`
+        . . . . .
+        . . . . .
+        . . . . .
+        . . . . .
+        . . . . .
+    `)
+})</source>
+        <target>basic.forever(() =&amp;gt; {
+    basic.showNumber(input.acceleration(Dimension.X))
+    basic.showLeds(`
+        . . . . .
+        . . . . .
+        . . . . .
+        . . . . .
+        . . . . .
+    `)
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="68482" identifier="2c6067155cf9befe2d502eb951aabbd2" translate="no">
+        <source>Reflection</source>
+        <target state="translated">ふりかえり</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[4]</note>
+      </trans-unit>
+      <trans-unit id="68483" identifier="26dce5cb7660fbef436f800ee3c5043a" translate="no">
+        <source>Have students write a reflection of about 150–300 words, addressing the following points:</source>
+        <target state="translated">生徒たちに以下の内容を含む１５０～３００字程度のレビューを書いてもらいましょう。:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[21]</note>
+      </trans-unit>
+      <trans-unit id="68484" identifier="10ff8e716e676b968e51e182d2d4c055">
+        <source>What was the problem you were trying to solve with this project?</source>
+        <target state="translated">このプロジェクトでどのような問題を解決しようとしましたか？</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="68485" identifier="71505b94e077a121c39b71739d07dd5c">
+        <source>What were the Variables that you used to keep track of information?</source>
+        <target state="translated">情報を記録するために使用した変数は何でしたか？</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="68486" identifier="e077d9c3f0807724300b5d1f3d57c4f4">
+        <source>What mathematical operations did you perform on your variables? What information did you provide?</source>
+        <target state="translated">どのような数値演算を変数を使ってしましたか？どのような情報を提供しましたか？</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="68487" identifier="5ec54ea1ee1e8cb02e1759708fc8b672">
+        <source>Describe what the physical component of your micro:bit project was (e.g., an armband, a wallet, a holder, etc.)</source>
+        <target state="translated">あなたのmicro:bitプロジェクトの物理的なコンポーネントは何だったか説明しましょう（例：アームバンド、財布、ホルダーなど）</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[4]</note>
+      </trans-unit>
+      <trans-unit id="68488" identifier="c80bbb285465b1ff633de9e87fc01da3" translate="no">
+        <source>How well did your prototype work? What were you happy with? What would you change?</source>
+        <target state="translated">プロトタイプは正常に動きましたか？どの点が良かったですか？変更したい点はありましたか？</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[5]</note>
+      </trans-unit>
+      <trans-unit id="68489" identifier="505f01b3a8322928a9e48d35e20313f9" translate="no">
+        <source>What was something that was surprising to you about the process of creating this project?</source>
+        <target state="translated">プロジェクトを行っていく上で、驚いた点は何かありましたか？</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[6]</note>
+      </trans-unit>
+      <trans-unit id="68490" identifier="0aa7a6c0920773a7f554c9ab4af47364">
+        <source>Describe a difficult point in the process of designing this project, and explain how you resolved it.</source>
+        <target state="translated">このプロジェクトのデザインの過程で、どのようなところが難しかったですか？また、どのようにそれを解決しましたか？</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[7]</note>
+      </trans-unit>
+      <trans-unit id="68491" identifier="b707dee0f09d6e70254a9a6bd6053b33" translate="no" approved="yes">
+        <source>Assessment</source>
+        <target>評価</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[5]</note>
+      </trans-unit>
+      <trans-unit id="68492" identifier="e7dcfc098f3a4e82776924dc2abd7a2c" translate="no">
+        <source>&lt;strong&gt;Competency scores&lt;/strong&gt;: 4, 3, 2, 1</source>
+        <target state="translated">&lt;strong&gt;評価基準&lt;/strong&gt;: 4, 3, 2, 1</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[22]</note>
+      </trans-unit>
+      <trans-unit id="68493" identifier="a5fbe745a647580a1e6a4af1a5177145" translate="no">
+        <source>Variables</source>
+        <target state="translated">変数</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[6]</note>
+      </trans-unit>
+      <trans-unit id="68494" identifier="017d579089f0eed3c0cb13014cba0e09">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; At least 3 different variables are implemented in a meaningful way.&lt;br/&gt;
+  &lt;strong&gt;3 =&lt;/strong&gt; At least 2 variables are implemented in a meaningful way.&lt;br/&gt;
+  &lt;strong&gt;2 =&lt;/strong&gt; At least 1 variable is implemented in a meaningful way.&lt;br/&gt;
+  &lt;strong&gt;1 =&lt;/strong&gt; No variables are implemented.</source>
+        <target state="translated">&lt;strong&gt;4 =&lt;/strong&gt; 少なくとも３つの変数を有意義な方法で実装している&lt;br/&gt;
+  &lt;strong&gt;3 =&lt;/strong&gt; 少なくとも２つの変数を有意義な方法で実装している&lt;br/&gt;
+  &lt;strong&gt;2 =&lt;/strong&gt; 少なくとも１つの変数を有意義な方法で実装している&lt;br/&gt;
+  &lt;strong&gt;1 =&lt;/strong&gt; 変数が実装されていない</target>
+        <note>Context: Paragraph text&#13;
+XPath: /blockquote/p</note>
+      </trans-unit>
+      <trans-unit id="68495" identifier="d0fff51d62dc3525b3fc5872b180cc0b" translate="no">
+        <source>Variable names</source>
+        <target state="translated">変数名</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[7]</note>
+      </trans-unit>
+      <trans-unit id="68496" identifier="c9ca7344ee91dd4e46f872299bb4eb98">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; All variable names are unique and clearly describe what information values the variables hold.&lt;br/&gt;
+  &lt;strong&gt;3 =&lt;/strong&gt; The majority of variable names are unique and clearly describe what information values the variables hold.&lt;br/&gt;
+  &lt;strong&gt;2 =&lt;/strong&gt; A minority of variable names are unique and clearly describe what information values the variables hold.&lt;br/&gt;
+  &lt;strong&gt;1 =&lt;/strong&gt; None of the variable names clearly describe what information values the variables hold.</source>
+        <target state="translated">&lt;strong&gt;4 =&lt;/strong&gt; 全ての変数名が固有で、どのような情報を変数が保持しているか明確に表している&lt;br/&gt;
+  &lt;strong&gt;3 =&lt;/strong&gt; 大多数の変数名が固有で、どのような情報を変数が保持しているか明確に表している&lt;br/&gt;
+  &lt;strong&gt;2 =&lt;/strong&gt;少数の変数名が固有で、どのような情報を変数が保持しているか明確に表している  &lt;br/&gt;
+  &lt;strong&gt;1 =&lt;/strong&gt; どの変数名も固有ではなく、どのような情報を変数が保持しているか明確に表していない</target>
+        <note>Context: Paragraph text&#13;
+XPath: /blockquote[2]/p</note>
+      </trans-unit>
+      <trans-unit id="68497" identifier="3dc36e017071513b7ded2dd74c0556d9">
+        <source>Mathematical operations</source>
+        <target state="translated">数値演算</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[8]</note>
+      </trans-unit>
+      <trans-unit id="68498" identifier="1f6783d3e190d4dd48d8942fb4b55cf8">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; Uses a mathematical operation on at least two variables in a way that is integral to the program.&lt;br/&gt;
+  &lt;strong&gt;3 =&lt;/strong&gt; Uses a mathematical operation on at least one variable in a way that is integral to the program.&lt;br/&gt;
+  &lt;strong&gt;2 =&lt;/strong&gt; Uses a mathematical operation incorrectly or not in a way that is integral to the program.&lt;br/&gt;
+  &lt;strong&gt;1 =&lt;/strong&gt; No mathematical operations are used.</source>
+        <target state="translated">&lt;strong&gt;4 =&lt;/strong&gt; 少なくとも２つの変数に、プログラムに不可欠な方法で数値演算を使用している&lt;br/&gt;
+  &lt;strong&gt;3 =&lt;/strong&gt; 少なくとも１つの変数に、プログラムに不可欠な方法で数値演算を使用している&lt;br/&gt;
+  &lt;strong&gt;2 =&lt;/strong&gt; 数値演算を間違って、またはプログラムに不可欠ではない方法で使用している&lt;br/&gt;
+  &lt;strong&gt;1 =&lt;/strong&gt; 数値演算を使用していない</target>
+        <note>Context: Paragraph text&#13;
+XPath: /blockquote[3]/p</note>
+      </trans-unit>
+      <trans-unit id="68499" identifier="54a2d8275e10d5241b8ca60aaae272f6" translate="no" approved="yes">
+        <source>micro:bit program</source>
+        <target>micro:bit プログラム</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[9]</note>
+      </trans-unit>
+      <trans-unit id="68500" identifier="25583ac9beb5faec167e045a19a8189b">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; micro:bit program:&lt;br/&gt;
+  &lt;code&gt;*&lt;/code&gt; Uses variables in a way that is integral to the program&lt;br/&gt;
+  &lt;code&gt;*&lt;/code&gt; Uses mathematical operations to add, subtract, multiply, and/or divide variables&lt;br/&gt;
+  &lt;code&gt;*&lt;/code&gt; Compiles and runs as intended&lt;br/&gt;
+  &lt;code&gt;*&lt;/code&gt; Meaningful comments in code&lt;br/&gt;
+  &lt;strong&gt;3 =&lt;/strong&gt; micro:bit program lacks 1 of the required elements.&lt;br/&gt;
+  &lt;strong&gt;2 =&lt;/strong&gt; micro:bit program lacks 2 of the required elements.&lt;br/&gt;
+  &lt;strong&gt;1 =&lt;/strong&gt; micro:bit program lacks 3 or more of the required elements.</source>
+        <target state="translated">&lt;strong&gt;4 =&lt;/strong&gt; micro:bit プログラム:&lt;br/&gt;
+  &lt;code&gt;*&lt;/code&gt; 変数をプログラムに不可欠な方法で使用している&lt;br/&gt;
+  &lt;code&gt;*&lt;/code&gt; 変数を加算、減算、乗算、ならびに/または徐算するために数値演算を使用している&lt;br/&gt;
+  &lt;code&gt;*&lt;/code&gt; 目的通りにコンパイル、実行している&lt;br/&gt;
+  &lt;code&gt;*&lt;/code&gt; コードの中に意味のあるコメントがある&lt;br/&gt;
+  &lt;strong&gt;3 =&lt;/strong&gt; micro:bit プラグラムから１つの必要な要素が欠けている &lt;br/&gt;
+  &lt;strong&gt;2 =&lt;/strong&gt; micro:bit プラグラムから２つの必要な要素が欠けている&lt;br/&gt;
+  &lt;strong&gt;1 =&lt;/strong&gt; micro:bit プラグラムから３つまたはより多くの必要な要素が欠けている</target>
+        <note>Context: Paragraph text&#13;
+XPath: /blockquote[4]/p</note>
+      </trans-unit>
+      <trans-unit id="68501" identifier="9e27e212711a0049f301f568439de096" translate="no" approved="yes">
+        <source>Collaboration reflection</source>
+        <target>共同作業と内省</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[10]</note>
+      </trans-unit>
+      <trans-unit id="68502" identifier="bdadd7e9ec12c798669e3012abb2b1a5">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; Reflection piece addresses all prompts.&lt;br/&gt;
+  &lt;strong&gt;3 =&lt;/strong&gt; Reflection piece lacks 1 of the required elements.&lt;br/&gt;
+  &lt;strong&gt;2 =&lt;/strong&gt; Reflection piece lacks 2 of the required elements.&lt;br/&gt;
+  &lt;strong&gt;1 =&lt;/strong&gt; Reflection piece lacks 3 of the required elements.</source>
+        <target state="translated">&lt;strong&gt;4 =&lt;/strong&gt; 全ての項目を満たしている&lt;br/&gt;
+  &lt;strong&gt;3 =&lt;/strong&gt; １つの項目が満たされていない&lt;br/&gt;
+  &lt;strong&gt;2 =&lt;/strong&gt; ２つの項目が満たされていない&lt;br/&gt;
+  &lt;strong&gt;1 =&lt;/strong&gt; ３つの項目が満たされていない</target>
+        <note>Context: Paragraph text&#13;
+XPath: /blockquote[5]/p</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

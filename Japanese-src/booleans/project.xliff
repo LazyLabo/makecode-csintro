@@ -1,0 +1,2966 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1825" original="/microbit/docs/courses/csintro/booleans/project.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="65371" identifier="d82ada5a1870e00c11746927bb7af976">
+        <source>Project: Boolean</source>
+        <target state="needs-translation">Project: Boolean</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="65372" identifier="85c86e161ea7a144164e6f56a69888dc" translate="no">
+        <source>/static/courses/csintro/booleans/two-player.jpg</source>
+        <target>/static/courses/csintro/booleans/two-player.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="65373" identifier="9c7454fe0e7c3c6cdbd4f4f9ed039963">
+        <source>Two-Player Game Example Board</source>
+        <target state="needs-translation">Two-Player Game Example Board</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="65374" identifier="1bae6b92cd2bfb82d8a54af1892e8722">
+        <source>This is an assignment for students to come up with a micro:bit program that uses Boolean variables, Boolean operators, and possibly the random function. 
+ </source>
+        <target state="needs-translation">This is an assignment for students to come up with a micro:bit program that uses Boolean variables, Boolean operators, and possibly the random function. 
+ </target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="65375" identifier="da091d478cedc8ec20cfeb798d79c758" translate="no" approved="yes">
+        <source>Input</source>
+        <target>入力</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="65376" identifier="390663347489df23462cdd2a82b8d201">
+        <source>Remind the students of all the different inputs available to them through the micro:bit.</source>
+        <target state="needs-translation">Remind the students of all the different inputs available to them through the micro:bit.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="65377" identifier="0d94d13fb31817d5ffd5d72daa0e3954" translate="no">
+        <source>/static/courses/csintro/variables/input-list.png</source>
+        <target>/static/courses/csintro/variables/input-list.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[4]/l/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="65378" identifier="e8f28dbf73b58cac10cfcf854f51b494">
+        <source>micro:bit input list</source>
+        <target state="needs-translation">micro:bit input list</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[4]/l/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="65379" identifier="62f3b24e1a89fa435adb8f143c4e3543" translate="no">
+        <source> </source>
+        <target state="translated"> </target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="65380" identifier="01579b537525e60b0a8c05b1499ff9df">
+        <source>Project Ideas</source>
+        <target state="needs-translation">Project Ideas</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="65381" identifier="98f51dc28bc24befb7b11c41cf100c1e">
+        <source>Sunscreen Monitor</source>
+        <target state="needs-translation">Sunscreen Monitor</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3</note>
+      </trans-unit>
+      <trans-unit id="65382" identifier="1ad4c03fb5eae82f69b3b9a3786da8d8">
+        <source>When you shake the micro:bit, it reports the current temperature in degrees Fahrenheit.</source>
+        <target state="needs-translation">When you shake the micro:bit, it reports the current temperature in degrees Fahrenheit.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="65383" identifier="438198fa6efdebad254dd4b044f20d0c">
+        <source>Button B measures the light level and if it is above 70 degrees AND very bright, it will display a sun icon.</source>
+        <target state="needs-translation">Button B measures the light level and if it is above 70 degrees AND very bright, it will display a sun icon.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="65384" identifier="be119583a286ee71e5ebbadd212eca99">
+        <source>If it is above 70 degrees and less bright, it will display a cloudy symbol.</source>
+        <target state="needs-translation">If it is above 70 degrees and less bright, it will display a cloudy symbol.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="65385" identifier="e0adb687c656be14eedd62fdd47d28dc">
+        <source>If it is dark, it will display a nighttime icon.</source>
+        <target state="needs-translation">If it is dark, it will display a nighttime icon.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="65386" identifier="5217cceedee535a4818ecba31fecede3">
+        <source>&lt;a href=&quot;https://youtu.be/VmD-dcZZQFc&quot;&gt;&lt;strong&gt;micro:bit Sunscreen Monitor&lt;/strong&gt;&lt;/a&gt;
+https://youtu.be/VmD-dcZZQFc</source>
+        <target state="needs-translation">&lt;a href=&quot;https://youtu.be/VmD-dcZZQFc&quot;&gt;&lt;strong&gt;micro:bit Sunscreen Monitor&lt;/strong&gt;&lt;/a&gt;
+https://youtu.be/VmD-dcZZQFc</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="65387" identifier="e95c4891f6a7243cf2a2e0bfa9c39caf">
+        <source>Sunscreen code</source>
+        <target state="needs-translation">Sunscreen code</target>
+        <note>Context: Headline 4&#13;
+XPath: /h4</note>
+      </trans-unit>
+      <trans-unit id="71337" identifier="008d2658be2e560abb7f77c84f1b795d">
+        <source>input.onButtonPressed(Button.B, () =&amp;gt; {
+    if (128 &amp;gt; input.lightLevel() &amp;amp;&amp;amp; 0 &amp;lt; input.lightLevel() &amp;amp;&amp;amp; input.temperature() &amp;gt; 22) {
+        basic.showLeds(`
+            .</source>
+        <target state="needs-translation">input.onButtonPressed(Button.B, () =&amp;gt; {
+    if (128 &amp;gt; input.lightLevel() &amp;amp;&amp;amp; 0 &amp;lt; input.lightLevel() &amp;amp;&amp;amp; input.temperature() &amp;gt; 22) {
+        basic.showLeds(`
+            .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65389" identifier="954b51d38260caaac3307c9527ac7c8a" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65390" identifier="ff1d4f6805f2b7271e34c2b46799b82d" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65391" identifier="c5caeb5e38c60fddeff22da7845d74f1" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65392" identifier="614c66d312b6cc72dbfba6c705ef035b" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65393" identifier="db581fd7416c00e139640c2f759502b7" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65394" identifier="9f0ffed1b6cc19f8d7fc36144f8ad139" translate="no">
+        <source>#
+            .</source>
+        <target>#
+            .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65395" identifier="0a490fa443a0f11708ae57178a7a5ccf" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65396" identifier="95743bf03ab211c0fcd3cf296163be3c" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65397" identifier="86c59a5055c4b14c3e759193d176a19c" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65398" identifier="c4cb462a8cd30da7679c9a04b446aade" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65399" identifier="1f3532fdb61581533227da4a6665f1a1" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65400" identifier="3fe88b83040a1acbd009e58a7e093651" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65401" identifier="7971cb148e23de4a822bdd050a2131d3" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65402" identifier="97bec8cb16e622a4c0c8ae9b7bfb8e2b" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65403" identifier="263da662898a3791646d6bb29ab581a6" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65404" identifier="98ef293adec255846829f196ef5e7a07" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65405" identifier="6684c05355be3a41fbf17e639aa848d9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65406" identifier="90d5e4353612a21572f40f6243a4a374" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65407" identifier="407ce8ae032ef9f57c466e199f8323c5" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65408" identifier="f9af6df10ea7ee98e84a0d9133666889" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="71338" identifier="53ab68118677ddd18f84c7545041c75c">
+        <source>`)
+basic.showLeds(`
+            .</source>
+        <target state="needs-translation">`)
+basic.showLeds(`
+            .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65410" identifier="d5e931a0fa5fb556f70fc51189846eb6" translate="no">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65411" identifier="d05324a3cfe61458f70d4d6dcc971a6f" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65412" identifier="d7aa3585663cd0c8c93b95e8526e4105" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65413" identifier="fbecf7b105726ba29ec5c820ddb185fd" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65414" identifier="b1a76bf17f56731c05d5c1ceb3271192" translate="no">
+        <source>#
+            .</source>
+        <target>#
+            .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65415" identifier="f11c669cac4a5d35abb741e41331d9b8" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65416" identifier="bb77b4ec4f3dce6977cf1ce30773aea8" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65417" identifier="2a2fc177ae2ed512adc3c367d5fee9df" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65418" identifier="f15cf7a13d9a2e3c2db5e9a0747ccde6" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65419" identifier="7728ae777802abc647c60983ed194f95" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65420" identifier="825515ec65f5cf513b8a6ac22c273c07" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65421" identifier="20608c8a8148ca1eb451ed6b1a41b773" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65422" identifier="252fe0994cb01986d65eece8679ac109" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65423" identifier="5da5c8b3308d602f9797097742aaef9a" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65424" identifier="6ece41adde01b483aadb0b8e26e6b906" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65425" identifier="7de7d6993fd3dca0b858299c23f74814" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65426" identifier="b65ed170b35ed78a026313d352cf8bdb" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65427" identifier="70a5431075667b736566b6dfb1b71e55" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65428" identifier="54e55e87cff3a2e8e70c164c14a19863" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="71339" identifier="d618ba3ca6bddb4993d188c71aabef54" translate="no">
+        <source>`)
+basic.showLeds(`
+            .</source>
+        <target>`)
+basic.showLeds(`
+            .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65430" identifier="5e2cf68ef6fbcf0e9549f59b20283e52" translate="no">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65431" identifier="13abf09229ead5f9e23dc429b6d58a3a" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65432" identifier="a4c957bba8768ec92cd71dc560fdb48c" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65433" identifier="ba2c1d8630fe4f6aadf53ee242ae405b" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65434" identifier="bb30ddc1092cf81d04325687f9c777ac" translate="no">
+        <source>#
+            .</source>
+        <target>#
+            .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65435" identifier="59acaf0d9d21d29ca26d9ea7f9f45c89" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65436" identifier="e384cfcc41ab422931558197c4b48a31" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65437" identifier="5f7c2d75d6bf06f9b2c551d436ea95b7" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65438" identifier="6dd1755fbde49619cfc5fdd775b2a118" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65439" identifier="56c13ddaf329b3bcd7b2cf3974b73ebe" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65440" identifier="a16967b8c55175bb8ac6928294c99ec0" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65441" identifier="dbff0f3cd025eaf4857eaff80398c652" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65442" identifier="eb8a348eea73fc7c8a79b932aaadbfa7" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65443" identifier="2763562f803b8ee00f875d92d92b0dc5" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65444" identifier="0176a2b6f911a9882abe3978c0201834" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65445" identifier="98a8725c588aeb00d85bd6ca58f300cd" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65446" identifier="c64e5c0fe1a97ffdaec77ec104def988" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="71340" identifier="bda6d54f589c4ee78994186e9caa1f78" translate="no">
+        <source>`)
+basic.showLeds(`
+            .</source>
+        <target>`)
+basic.showLeds(`
+            .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65448" identifier="40932df9d36713569275bc215e4d20db" translate="no">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65449" identifier="00a29dbeb0d353c2b121351910adf14e" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65450" identifier="bebdd7299c405785977cf9b80932c264" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65451" identifier="1d5ab1c37dc01786d8f83a543ac22206" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65452" identifier="65e097b2737270623ec6ad62d1b56131" translate="no">
+        <source>#
+            .</source>
+        <target>#
+            .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65453" identifier="01f3e2ba57d3584a840e3751ce64b296" translate="no">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65454" identifier="c52a56e3b38e1a902ae973e6a7bc0fe5" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65455" identifier="d725893f49918ea03aabf4e3dbcf3e50" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65456" identifier="3197d06ec88f67861c1d9e6f903fa65f" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65457" identifier="13b841f5d59ff1d750ddd2c741941c2e" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65458" identifier="a7bc9db856048d914f5a91699aecb75a" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65459" identifier="d2e900474ccc3e37af0449a845fb436d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65460" identifier="289d8ee9e6cf5a0c991717780c9ab3bc" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65461" identifier="063cbfe2b24ec62b9c952fbb2a92d38a" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65462" identifier="d4b388e84659f235164446aa692798e0" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65463" identifier="57063cf7f17002366f82822f15a0e4b6" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="71341" identifier="be8a3ade29f9b061016ed137631a13dc" translate="no">
+        <source>`)
+basic.showLeds(`
+            .</source>
+        <target>`)
+basic.showLeds(`
+            .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65465" identifier="d2c3db35735c2daf5764c97871cbb33d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65466" identifier="035e349840a4a8950f19716f63b8efb1" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65467" identifier="b26a14b61152cfd5efea32374be464c8" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65468" identifier="895f2feb94e8bc0887155275bfd5c60f" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65469" identifier="97807fe25cb6dec89692ff2870e0cbc3" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65470" identifier="cb57dbe9b9a59d0825deea1487bb2408" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65471" identifier="313a3f79d0ac7fd85d51026c265f09e8" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65472" identifier="694c3651cf31fb574cde417814758351" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65473" identifier="6e72583a6197d3297af23ef562eb7890" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65474" identifier="45adc66fc8265972361fb960b438c9cd" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65475" identifier="ffd083bf71f0d01e8fb2c97a00ffc46a" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65476" identifier="d5c6a487783f52e1af9d6d5925a7ad21" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65477" identifier="7c63f7aa84f9213a37b018781d3955ff" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65478" identifier="a1c94873742ae77aebee5b12f82bc303" translate="no">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65479" identifier="4451fecd9131ecda6b507406d046a5f0" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65480" identifier="27cf2ada801a751aeaac0273c21a5ab2" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65481" identifier="98075e46cbfa603542083123e180a498" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="71342" identifier="d43298276feea90fa91c619f3350f191">
+        <source>#
+            `)
+    } else {
+        basic.showLeds(`
+            # .</source>
+        <target state="needs-translation">#
+            `)
+    } else {
+        basic.showLeds(`
+            # .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65483" identifier="b31435d78b3298f37ad54b1c5decbe52" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65484" identifier="f29736bf55f9bf419d76933335f9f198" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65485" identifier="92e063234424e89a2359da535a652e86" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65486" identifier="207ce076dd61e9190a8ff08c2386bc79" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65487" identifier="617492b25e97ddc4d5750efc6bc6ee86" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65488" identifier="bb21253196577ec01420e99ad8150f63" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65489" identifier="7bb3133de3f00a2487bf2864f4f0f014" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65490" identifier="e0e3d098cedfc7bffbd92edb68654d39" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65491" identifier="d310e4452b6dacbc00fe826056d5e54c" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65492" identifier="f34c927e8ae18e4e70b0feda7d813e3e" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65493" identifier="1d3971dc02820f6ef50a5c25d730cf02" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65494" identifier="8b710ca7e27089be5989483065d296b5" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65495" identifier="6243f8a627bb00a3864fa20ffa1b70c8" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65496" identifier="3d8153d328b1a21c3e726c9bfd7f5d55" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65497" identifier="8dc16e57f008ae2956ae9164913c6627" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65498" identifier="f8d6859ab63c9e4815004e4dad194463" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65499" identifier="0708807a68906a4784c36d86a2e8519b" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65500" identifier="fc2c3f558a99beb9896d4d79c3670afb" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65501" identifier="1ac7a8bc7839a4cc6d27024a72d78286" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65502" identifier="efe06210522961ec71c36e083cde1798" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65503" identifier="7137c501d3763b3f2457a1f37b842916" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65504" identifier="5c5ee21e0c5e1f31707f5b9339b3b9ee" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65505" identifier="79e3947b4a9bd4f4c0588e77b07c7183" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="71343" identifier="601baf9fa3183ddc5619daec07399062" translate="no">
+        <source>`)
+basic.showLeds(`
+            .</source>
+        <target>`)
+basic.showLeds(`
+            .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65507" identifier="0fc9376cc4c41f703db504357146bafa" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65508" identifier="d1c8ee4b6a802da96df3b1de8127d80e" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65509" identifier="d287c4f90149da53b8218d2730d7722c" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65510" identifier="400d1bbd3defd61192dec83c419b482e" translate="no">
+        <source># # .</source>
+        <target># # .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65511" identifier="693144218bc71ce17e2f612aaa8cedca" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65512" identifier="5eb94f413483dc16b32be04c2acb7749" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65513" identifier="449b975cc28f4706849740bc87cfc041" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65514" identifier="b5e6758d669e111aa09ffc00b72c5b29" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65515" identifier="263e993617341f0589183f77b71fad46" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65516" identifier="a1c12c5d3dd0a7e6895bcbd6a09e5821" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65517" identifier="2e362baa2f4942f6350955e2bdf6459d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65518" identifier="36bf9a45b3a7fc727309cd746a1facc7" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65519" identifier="590f1c43ee5cdcdbd9e91fc39263ac20" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65520" identifier="d69e31f3de5566bcd7435b6941ff7acd" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65521" identifier="b91c9d17d00d99808bedbd98404aa16a" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65522" identifier="02efddae47f3bab147ebc10d05fcd6aa" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65523" identifier="b17bd72e34fb3f323ce4cd70b26f30c0" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65524" identifier="a3ada4c2f74de25bb1311fe8bdc2edf6" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65525" identifier="a111555c6c92f90bafe56b9c0b0474d7" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65526" identifier="92a2a61f98d031d4d1d79d7a2a37759d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65527" identifier="fcc40176620e826ee640485785fe4c2e" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="71344" identifier="3e1550b5ca7c77e15c33aa902e4c61bc" translate="no">
+        <source>`)
+basic.showLeds(`
+            .</source>
+        <target>`)
+basic.showLeds(`
+            .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65529" identifier="b9f3af4011a71bb7a090374eb4079d3d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65530" identifier="cd3c99b2aba6dae4cf5b42e6717f4b95" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65531" identifier="f478ddee68211aabd6f66af8e927fecc" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65532" identifier="59faebf4650a848cba6da7c2a0674bcc" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65533" identifier="a879e760d18cbcdb2ff15522324d49b5" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65534" identifier="f24c54a8637a1ba5ef1b1b7ca21ee5db" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65535" identifier="b83925cbaf0ed6494305fa8c0f91ef2f" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65536" identifier="224f3eba9412e7b815699894297d8876" translate="no">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65537" identifier="8f65294870a53dd2cee101e6bbb79737" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65538" identifier="d38fd534060d7dd697f7f46d184f2c08" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65539" identifier="59aab2a800619751ddfbbb52def8c5e0" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65540" identifier="80923a3fb554f9e9571e93c4aff17e2e" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65541" identifier="af1beff1016e6c92bce0ff7917ca6b1b" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65542" identifier="3e80da4c7b464adc2666d83139416747" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65543" identifier="178e4126bfcc239716fbfc580b1caadc" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65544" identifier="1576c6ca0d0419b5bbb7fe61943781f8" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65545" identifier="664ba0dd61427fe7707e9afc77a643af" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65546" identifier="7b2a42c6ed258b3b5711bc9f880e9e9a" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65547" identifier="152ba1198a15ce0be10a1eda153eb3f3" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="71345" identifier="420a68fed2f6f60f7087ba5f9b55771f" translate="no">
+        <source>`)
+basic.showLeds(`
+            .</source>
+        <target>`)
+basic.showLeds(`
+            .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65549" identifier="26715a59f254deba271fc86c8dc6da3b" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65550" identifier="9dcbf358458a5d8043b02a28b94b0ae8" translate="no">
+        <source># # .</source>
+        <target># # .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65551" identifier="2316cc35493881134c60b4767049b49c" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65552" identifier="5348284cacf283d427cb90fa07444830" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65553" identifier="3b2e9c6b780bc002bf62b54f23d37cb9" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65554" identifier="dd7bbf4d21623cb5ae216d8a45c053aa" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65555" identifier="493afe1dca049e308031f6f577cc41a8" translate="no">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65556" identifier="dde09c8f079efbdac9b7375269044cbb" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65557" identifier="a13f58bdaf763d2598f12804414b68b3" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65558" identifier="46644d67a93f1e409ee1a62f01bfaa7b" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65559" identifier="2d3cc30589e6815689c6f7019d40d1c8" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65560" identifier="dd45c45ddfbd3ecb059835daa6765da6" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65561" identifier="18e714887ab2fa8080a2026cf5d52044" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65562" identifier="030587a86d1d3bf9fb9e8090f39fa0c5" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65563" identifier="fe839c56ddaac4eb628e406c1e42e881" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65564" identifier="aca9c61ceabf95dc828d6c2b8c34e221" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="71346" identifier="705baae13cf0ae13655048a27bbc7598" translate="no">
+        <source>`)
+basic.showLeds(`
+            .</source>
+        <target>`)
+basic.showLeds(`
+            .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65566" identifier="aa234b57f10f7e678e2877012441cb37" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65567" identifier="1858b6c5cb98e0666cea3c8718a93311">
+        <source># # #
+            .</source>
+        <target state="needs-translation"># # #
+            .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65568" identifier="666be3faa2b588806742e7817574feae" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65569" identifier="b9fe071170b1dc54a96b16db223c5a54" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65570" identifier="16771099c1f9f8f1c565b42656eccb5f" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65571" identifier="125b610480b90a11f30518ed3a976397" translate="no">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65572" identifier="ac48c660f5f04dbbf50e7d5267ec4859" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65573" identifier="c8fb83f8328c739e272e9421b169b39f" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65574" identifier="da6c4185faa77274e666870b30249348" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65575" identifier="ec4116c7c0eef73753213dfb40dbb214" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65576" identifier="b7bc7cfe34bd146e7d61dd8ccd791b6b" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65577" identifier="2e33efc8be2c02c7d4f0fc22b7e0e0eb" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65578" identifier="0e4146cbfb2486d819d534d72beb50a4" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="71347" identifier="04ca98fc7bd5f515db5f185c9cc9949e">
+        <source>#
+            `)
+basic.showLeds(`
+            .</source>
+        <target state="needs-translation">#
+            `)
+basic.showLeds(`
+            .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65580" identifier="cca9b34946816daf4a1ac6d1636a4800" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65581" identifier="dd0a8127c990acd21a76dfe929ba37bd" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65582" identifier="27b0e9ada2d4a63bd33c858ac97446a3" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65583" identifier="613719a1fdcfa2fe7b4d1d0429a6b477" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65584" identifier="812df3b77f922e6455cd0a90e3cc1791" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65585" identifier="1619399872f0199e458e533aeb3cabc8" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65586" identifier="70249ad688f7fe44ced6962956c3f29f" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65587" identifier="16f827e9d012dd56ed5fe7b280abe20a" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65588" identifier="7e7ca03f52b65686d7d0fbee9d128a9b" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65589" identifier="476c3974d9bcf5fecbdadd017e40dbfa" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65590" identifier="51b6ba9c534c5a8809e0941dc34900a2" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65591" identifier="5c02569fa159b2a1aed1184dab616161" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65592" identifier="105586b9f02b5dee56e657f3892ca886" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65593" identifier="3069d428a1ac9da41e6246fe500cb090" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65594" identifier="d5cfb67e5d190f1d471a68bf2022bc3c" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65595" identifier="8bac118c756bffb14a197d9ebefdedfa" translate="no">
+        <source>#
+            .</source>
+        <target>#
+            .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65596" identifier="58567874b7261b9af8aa16f2432f1dab" translate="no">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="71348" identifier="0b46adb589cda40b54cfafd7184ea43d">
+        <source>`)
+    }
+})
+input.onButtonPressed(Button.A, () =&amp;gt; {
+    if (input.temperature() &amp;lt; 22 &amp;amp;&amp;amp; input.temperature() &amp;gt; 6) {
+        basic.showLeds(`
+            .</source>
+        <target state="needs-translation">`)
+    }
+})
+input.onButtonPressed(Button.A, () =&amp;gt; {
+    if (input.temperature() &amp;lt; 22 &amp;amp;&amp;amp; input.temperature() &amp;gt; 6) {
+        basic.showLeds(`
+            .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65598" identifier="cd334807897d047f22461ed5540da745" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65599" identifier="191e677afa0cf33fdd489833712bdd96" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65600" identifier="e2212b1bf0a0febb43b4eab9698e7c69" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65601" identifier="e1ac4570592b87563d5b27accf418e50" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65602" identifier="283c0681799844a58828a0d65f437d64" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65603" identifier="85cd727da2b8d017557c28394b9029cb" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65604" identifier="f5b5563ff30fcedaea794510a287a878" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65605" identifier="7f0618aada8163a76f73e00d70419632" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65606" identifier="e34eb0e5e959797ad1abbc4ee780a22d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65607" identifier="1d7e52df4a6320b8ad9368cf48199118" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65608" identifier="eee64dbc05db625c465ae9a6c74d841a" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65609" identifier="d0bb507cd72eb1cfceff265db388f5a3" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65610" identifier="6546a1cf4b8e5cbb754bdaf4d56d5058" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65611" identifier="20381cb42a21e3054557dd2c84129175" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65612" identifier="2367414d2773c656db759dec12dfd886" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65613" identifier="56dc159f6cbd249edbbf0f42ae45bc52" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65614" identifier="65fd9083243c5528b18b55c5513dcbe6" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65615" identifier="00bd6fce3d5f9f267abc484032377d67" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65616" identifier="0af88b8d64ab5cb1d2b7da4458794055" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65617" identifier="7a5d52dc6af3dda65261a530294cce70" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65618" identifier="e288a4ed792d51a3a8782e1ca4c2c409" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65619" identifier="9751b0aa8aa87980a78fbced1c519daf" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65620" identifier="c1f11f2fe11762c99b8efe05ef7337f9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="71349" identifier="86197032419dcb35973ce8bc245f894f" translate="no">
+        <source>`)
+basic.showLeds(`
+            .</source>
+        <target>`)
+basic.showLeds(`
+            .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65622" identifier="e62ba525b450aaf4293269a39636160f" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65623" identifier="8b6e8be270540efa2d8422b6e8d9a50d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65624" identifier="0bef7a7710e91881f7dbc333b94ce845" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65625" identifier="ef07a966a66fbcdca9ec411cb1ef7817" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65626" identifier="0be95cd53715f9fbe0301f35e3d66aaf" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65627" identifier="d60d2366bba615cfabc2b5628521199f" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65628" identifier="77caa19eac7aa5c9f0d2874f1e0000ce" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65629" identifier="48ead60c511e483d963a830234577f83" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65630" identifier="0a5170f5ed96b995dc9616b66e8b8e11" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65631" identifier="d74bb32391910c2383b499d81c226300" translate="no">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65632" identifier="900a3f69ac04a4a2493967dbfb70f49c" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65633" identifier="19e402aaae881516bdf682d5a8823cdf" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65634" identifier="328f61a6de02befa1480f2ffd1701499" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65635" identifier="77aab0e2d7f3b3278ef952a462f563ae" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65636" identifier="143c8af60f1ed8edefab7da74b8cf819" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65637" identifier="0f60b2b950ab7dee4715720702d44b88" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65638" identifier="d86318e1b8b8a0d627b02be38d94aae4" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65639" identifier="b03c28a74602ec53cbf09b9824b5df37" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65640" identifier="3ff0d65a808e07630f3034e1c1e2f85e" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="71350" identifier="9ab32e456186c0d993dfba29f7b5e44e" translate="no">
+        <source>`)
+basic.showLeds(`
+            .</source>
+        <target>`)
+basic.showLeds(`
+            .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65642" identifier="66edceeb1476f8e5b4ae56443c7e4c5e" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65643" identifier="f34a767d22fb6685bdcd8c0a2857fb18" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65644" identifier="e2bedae8c092ae678d8e44777b67bfa5" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65645" identifier="fc2226c1cd7b471537b901d2ec70aa30" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65646" identifier="56df4e0aab47ea93b608c76e5ba5c59d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65647" identifier="8c608263d6f39e41995b37114c31cf49" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65648" identifier="859ccad669c186d02a4b1e028f1dbfc9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65649" identifier="0b77ae9c3210f1e6125d47b3b5c7eade" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65650" identifier="4eb03c67436530fc2c41845b5819cac0" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65651" identifier="8794b45edc26bda6cdf67aae37626532" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65652" identifier="b1a533cfeb07d44d5188f609c2d61ce8" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65653" identifier="2d12d67201eb7803971201bc744ed67b" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65654" identifier="81c774ff1b79cd2509c9384e7e5d30cd" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65655" identifier="40ea76ddbd7d1f2cbf0d24a00414f024" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65656" identifier="cf603f5e9e3e618a2f2f6974dee4cad0" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65657" identifier="d8368c516dcbba795db69dadb52c7316" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65658" identifier="2a175324f4a414c4fb52d2f151ca1fbc" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65659" identifier="f9cdddcc8c790616338a079e9a7b6cd0" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65660" identifier="54c5537d8d8d6e11402b2054cd7beead" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65661" identifier="a48e84eed1f87e686e4e6be98ae1fc08" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65662" identifier="3a503ee27808aa37a62c570e0db1f8f6" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65663" identifier="94e8753c966b1f30a860aa810d44103d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65664" identifier="e804943643d3421696ffd45c1fd5f3c1" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65665" identifier="b86a3975b022fd8a3a1869d379a55926" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="71351" identifier="410618d25fba015e7c0ba6e3b87a0a07">
+        <source>`)
+basic.showLeds(`
+            # # # # #
+            # # # # #
+            # # # # #
+            # # # # #
+            # # # # #
+            `)
+    } else {
+        basic.showLeds(`
+            .</source>
+        <target state="needs-translation">`)
+basic.showLeds(`
+            # # # # #
+            # # # # #
+            # # # # #
+            # # # # #
+            # # # # #
+            `)
+    } else {
+        basic.showLeds(`
+            .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65667" identifier="e1a7804355c12ea415372472265e4b6b" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65668" identifier="1b72a25b22cf80104518746cb669cf5d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65669" identifier="3d1c8edc0f02ea7af8355f0582cd5f31" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65670" identifier="2b554ac1c91f24c5b9dc2979afa9d9b9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65671" identifier="74cebe63376d419a06287e44af4f807a" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65672" identifier="a45825c28594e9f195fd6741a3d6c063" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65673" identifier="03062ed381fff304d7e91ec1a40f22eb" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65674" identifier="d43894c6fc52ac44d8dbbb792db3d56e" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65675" identifier="77463a7d4cff2c4dc9405fbbd7d89919" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65676" identifier="f08cd3e25d14bd1248306dab965ab84f" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65677" identifier="45f6cdf14b82455f2a6318f03c9cc263" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65678" identifier="71caf04f24ba646639a509efb6ac649e" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65679" identifier="9e4c7fdbc55825d037e548a9481e8bbd" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65680" identifier="9e9f1a2129bab5884fd1b08671e907d4" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65681" identifier="6d35be467390d451a7332c1a0feb51f2" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65682" identifier="2d67e425282b8a7fc19ca58669c46d9d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65683" identifier="7dcea12d7e5849596e850782686cc2e1" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65684" identifier="be444ca0208145258ffadd209083dd4c" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65685" identifier="ad2bdabc1dc056732848a6b90536b190" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65686" identifier="8e06620f6e013eba20184e0f26b8771d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65687" identifier="0f8dd89ec4e93b0745b75422a2e29cc4" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65688" identifier="1ab26eef084e9b8bbba2a95c965d2e99" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65689" identifier="ad121c27c5f3519672beb773fa55d764" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="71352" identifier="ba3c28448003e0c6649d1fd797a0f488" translate="no">
+        <source>`)
+basic.showLeds(`
+            .</source>
+        <target>`)
+basic.showLeds(`
+            .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65691" identifier="541a4f491b5d426065dedc7cb0f5eb39" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65692" identifier="25365832530ab61ef1f164299e067bcd" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65693" identifier="16f1eaea42de7fcd8665afb16538c756" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65694" identifier="2f1219682483d516af9354414c4c30fe" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65695" identifier="664e1f7702a62e6c686ec39c3d5a8e92" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65696" identifier="ce5b3b9c4f0ed520fd5d32f347057e49" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65697" identifier="fd3a3f9993a6eb0c55e74ae34b8692a3" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65698" identifier="6eadb9c0ccf577e1bd651d4029efaa4b" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65699" identifier="2ea1bc0b53572789ed823029e0d25c48" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65700" identifier="0675287f70aa0bb7a158980d44f05280" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65701" identifier="6631187ebb5436683b34ce8bdeec2480" translate="no">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65702" identifier="a1abecb16be1a8c62e045daf3692e06f" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65703" identifier="82f467b989a8c1b6c4abb122b88b6cd1" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65704" identifier="ee47c2ac4c3357fb4e7eb07c2e812948" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65705" identifier="24fbc1d291591d33ad112c171e822399" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65706" identifier="6cc93e7f3085a1549ae40b6c691645d4" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65707" identifier="bfbabf79f199354148868c2b949f0dad" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65708" identifier="b826a6a8804d0b5d1c81bae4a2aecbdb" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65709" identifier="9af2f35fdd508b4dd6233e948ed906a7" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65710" identifier="0677eb02d1ca7b50add85d4d67399496" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65711" identifier="53ec97e2e3d36ecd1a43f4c8037212e1" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="71353" identifier="c096ccc38ecc1bbbd28e19407fb17924" translate="no">
+        <source>`)
+basic.showLeds(`
+            .</source>
+        <target>`)
+basic.showLeds(`
+            .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65713" identifier="70545110c093ad2b4bec7da0e5d646b6" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65714" identifier="6b080280a513427081d769faec2fdbbe" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65715" identifier="08b5bd7f7d3d0ef106caf16fd0e2ffab" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65716" identifier="1fd1ff19b7303b1eaf363efaf38c95c5" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65717" identifier="6ce44a68e7c77248b432cd4e9bead82b" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65718" identifier="d2f5bc7466b9b3ef96c4692a183b03b0" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65719" identifier="3276871bd711aa819ddcc16204806c89" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65720" identifier="25e4b29d6b4f077efbb4eee62ef36842" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65721" identifier="5c04c4b883391697aaad2a208e0dc9bd" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65722" identifier="ac1dde468d4e7d48c08a95fe2eef143a" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65723" identifier="7b7389d0e3bd5360c065ffae8117815d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65724" identifier="b3d7d949433cca21d5dcbdf9cd14dea7" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65725" identifier="357e82093111658f4791c1d69849ae8a" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65726" identifier="ee6d744f70f495b113db48f1ed5318a9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65727" identifier="b947f8e1a7aed5c3b7d2385bd5cf918f" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65728" identifier="b2f424e444f27e5ca95ac334ec27cb5d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65729" identifier="4277f31cc02536e8ee359990fe02884f" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65730" identifier="1864d28fe766d821ee227a0db4ef2825" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65731" identifier="9945dd852baaed4e8900eabf96154c9c" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65732" identifier="d743a894a712c84f7ab49211c15349c0" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65733" identifier="08ffb0d90cb1044267dc59d2e6ff9441" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65734" identifier="3b9841aac907f08f9076944197d03126" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65735" identifier="ff77057a28340dd76c43bd7fd87dd125" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65736" identifier="4041a5b77c145d4a5be461aa93259aa1" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="71354" identifier="22f79aedc1d94744100c60d74d16a2dc">
+        <source>`)
+basic.showLeds(`
+            # # # # #
+            # .</source>
+        <target state="needs-translation">`)
+basic.showLeds(`
+            # # # # #
+            # .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65738" identifier="d2fbaa12ecef655ee479244ba8f586ba" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65739" identifier="51d553471d4e759608bfab688dabfd72" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65740" identifier="4a21092007ca517ced4bc4466fccd4a1" translate="no">
+        <source>#
+            # .</source>
+        <target>#
+            # .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65741" identifier="9d3b91aaa52daddba961bdc1fb0f0bcb" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65742" identifier="6ebac02dc8340d2f2e5edc50e6acfb49" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65743" identifier="f8a83b22ca6df6c41a343440d87405be" translate="no">
+        <source>#
+            # .</source>
+        <target>#
+            # .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65744" identifier="afbcfeb89db0dbf70329257ed7044ede" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65745" identifier="fbb45876d7a6921d5b6c368d1d17c5a5" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="71355" identifier="39d7039899dd9cf229baee5d8bc1f2f4">
+        <source>#
+            # # # # #
+            `)
+    }
+})
+input.onGesture(Gesture.Shake, () =&amp;gt; {
+    basic.clearScreen()
+    basic.showNumber(input.temperature() * 2 + 32)
+})</source>
+        <target state="needs-translation">#
+            # # # # #
+            `)
+    }
+})
+input.onGesture(Gesture.Shake, () =&amp;gt; {
+    basic.clearScreen()
+    basic.showNumber(input.temperature() * 2 + 32)
+})</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65747" identifier="fce43357d76c6611cb71d3c0f8d36017">
+        <source>Button A displays an animation to tell you whether or not you should use sunscreen (on sunny or cloudy days but not at night or indoors.)</source>
+        <target state="needs-translation">Button A displays an animation to tell you whether or not you should use sunscreen (on sunny or cloudy days but not at night or indoors.)</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="65748" identifier="7c2d2569cc6b6a30d390ce37f2bdd932">
+        <source>Make a holder that can hold the micro:bit and a bottle of sunscreen.</source>
+        <target state="needs-translation">Make a holder that can hold the micro:bit and a bottle of sunscreen.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="65749" identifier="c8e48cc7fb32df47b4f5bf90d0d71206">
+        <source>This example uses boolean operations because both light level AND temperature must be high in order to trigger the sun icon:</source>
+        <target state="needs-translation">This example uses boolean operations because both light level AND temperature must be high in order to trigger the sun icon:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="65750" identifier="f02e8fcb0467849136c1986b4d0eea1a">
+        <source>if (128 &amp;gt; input.lightLevel() &amp;amp;&amp;amp; 0 &amp;lt; input.lightLevel() &amp;amp;&amp;amp; input.temperature() &amp;gt; 22) {}</source>
+        <target state="needs-translation">if (128 &amp;gt; input.lightLevel() &amp;amp;&amp;amp; 0 &amp;lt; input.lightLevel() &amp;amp;&amp;amp; input.temperature() &amp;gt; 22) {}</target>
+        <note>Context: Text&#13;
+XPath: /pre[2]/code</note>
+      </trans-unit>
+      <trans-unit id="65751" identifier="f863124b879e12006247a86162eab46b" translate="no">
+        <source> </source>
+        <target state="translated"> </target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="65752" identifier="8664bd5309ed2a57a2a1a63a8a012a7d">
+        <source>Two-player game</source>
+        <target state="needs-translation">Two-player game</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[2]</note>
+      </trans-unit>
+      <trans-unit id="65753" identifier="86483c263451561c65e1e1044493b0b0">
+        <source>Create a game in which two players take turns on the same micro:bit. You can use a boolean variable called PlayerATurn to keep track of whose turn it is.</source>
+        <target state="needs-translation">Create a game in which two players take turns on the same micro:bit. You can use a boolean variable called PlayerATurn to keep track of whose turn it is.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="65754" identifier="3fc5a692ee31f125801defa678064630">
+        <source>&lt;strong&gt;Board Game:&lt;/strong&gt; Use boolean variables and random values as part of a board game (or improve your Board Game from the Variables lesson).</source>
+        <target state="needs-translation">&lt;strong&gt;Board Game:&lt;/strong&gt; Use boolean variables and random values as part of a board game (or improve your Board Game from the Variables lesson).</target>
+        <note>Context: XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="65755" identifier="b3585ca0da1a60a028ddbcb62077e8ff">
+        <source>Make the board and pieces and a holder for the micro:bit.</source>
+        <target state="needs-translation">Make the board and pieces and a holder for the micro:bit.</target>
+        <note>Context: XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="65756" identifier="89dd0d056ed40667ee93a17bb1dda025">
+        <source>Try modding a current board game.</source>
+        <target state="needs-translation">Try modding a current board game.</target>
+        <note>Context: XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="65757" identifier="57aa85f0b28b5967fb9ad50287198663" translate="no">
+        <source>/static/courses/csintro/booleans/two-player-game.png</source>
+        <target>/static/courses/csintro/booleans/two-player-game.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[13]/l/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="65758" identifier="def7236056e80db28697505f71bffa5f">
+        <source>Two player game project</source>
+        <target state="needs-translation">Two player game project</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[13]/l/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="65759" identifier="39b1525a093ff516623eb9d50d7aece1">
+        <source>Board Game with Arrows</source>
+        <target state="needs-translation">Board Game with Arrows</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="65760" identifier="77d71e88bd3df49de2b47377b113c643">
+        <source>Board game arrow code</source>
+        <target state="needs-translation">Board game arrow code</target>
+        <note>Context: Headline 4&#13;
+XPath: /h4[2]</note>
+      </trans-unit>
+      <trans-unit id="65761" identifier="7ff4ef49d30a3dd1312d3628fc06a56b">
+        <source>let player1Turn = false
+let spin = 0
+let delay = 0
+input.onGesture(Gesture.Shake, () =&amp;gt; {
+    if (player1Turn == true &amp;amp;&amp;amp; Math.random(4) &amp;lt; 3) {
+        basic.clearScreen()
+        delay = 0
+        while (delay &amp;lt; 500) {
+            basic.showLeds(`
+                .</source>
+        <target state="needs-translation">let player1Turn = false
+let spin = 0
+let delay = 0
+input.onGesture(Gesture.Shake, () =&amp;gt; {
+    if (player1Turn == true &amp;amp;&amp;amp; Math.random(4) &amp;lt; 3) {
+        basic.clearScreen()
+        delay = 0
+        while (delay &amp;lt; 500) {
+            basic.showLeds(`
+                .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65762" identifier="17f7512876ef5849e28160be36b82162" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65763" identifier="f1d3e0ea68c1062d132e647ea8255ce5" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65764" identifier="e2dd913e26e80702f14fc5a47983840e" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65765" identifier="a0fae48db460591a674efce473cdbde3" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65766" identifier="8f4a7a17495ec427181473ba7a64e530" translate="no">
+        <source># # .</source>
+        <target># # .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65767" identifier="48c8dcda3df20a4049ea3fe9ec2648c5" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65768" identifier="770bfc283b2ef92c1f3ab0f2c1da3fd7" translate="no">
+        <source># # # # .</source>
+        <target># # # # .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65769" identifier="83d3c152710df01e533be34c4b04ce9e" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65770" identifier="a5a8034d1c5d07de1fc28b410a14884f" translate="no">
+        <source># # .</source>
+        <target># # .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65771" identifier="8895bf17dc7f9e9ab758ace4904e5a07" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65772" identifier="385ddbd3c374901123cf0a0419f6ec46" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65773" identifier="648c41381d18b180de5fa1683b3d719c" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65774" identifier="3ac6d3a660afc8ad92d38c08283d82ed" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65775" identifier="be9791d43654c0e3d36dd0364c572e6b" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65776" identifier="584ce7c78d9f778003b1a9e556121b2f">
+        <source>`)
+            delay += 50
+            basic.pause(delay)
+            basic.showLeds(`
+                .</source>
+        <target state="needs-translation">`)
+            delay += 50
+            basic.pause(delay)
+            basic.showLeds(`
+                .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65777" identifier="0d16ad6c516af4fb2a458356d8d75ca1" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65778" identifier="67a09a27cfa18589793863277cc03e4d" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65779" identifier="a54e3e4bd378483388e60db29edda957" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65780" identifier="f108672632cea22e41171b7eb63a6d35" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65781" identifier="f9a80f329356f8f4b857937ba7ab7d00" translate="no">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65782" identifier="1434936d0011f8d43ecf415bf91c65c0">
+        <source># # # # #
+                .</source>
+        <target state="needs-translation"># # # # #
+                .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65783" identifier="c3a46feccaeb9bfe964f6bbd10599224" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65784" identifier="8c401da3c2dedce1ace1d2076beacafb" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65785" identifier="6269b579e37628eaabb0ddada6ee8598" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65786" identifier="feffcbdda0bdaacf8ec4f1d8d3959c11" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65787" identifier="2c2f742607cbb5457124daf8053d4de9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65788" identifier="9a4ce8c57e358cdc7ad9c049ffff6c08" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65789" identifier="3a433170cd5a7af3dda5df54535dd816" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65790" identifier="8ee181c47d51a58596939d33ba0dc7dc" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65791" identifier="c884b91a8956181798de4a50f97def68" translate="no">
+        <source>`)
+            delay += 50
+            basic.pause(delay)
+            basic.showLeds(`
+                .</source>
+        <target>`)
+            delay += 50
+            basic.pause(delay)
+            basic.showLeds(`
+                .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65792" identifier="75334c079259f7ca4f1c06fc6112e67e" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65793" identifier="9994b393d6e02396d0bb3f23a3692f8f" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65794" identifier="1ca1a6bdada0803e346dc66b31252f8d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65795" identifier="9b849cb7ad4864055ea0cc3e84e5e575" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65796" identifier="c942989ca6d2b7f5e298b561fb7d2e2a" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65797" identifier="f8aa9a7225a865c10c3212500fd2ef8c" translate="no">
+        <source># # .</source>
+        <target># # .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65798" identifier="a7cae64dd34fdb4b193ab35ee6ca0875" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65799" identifier="716bbfc5f73d2fae88087c2d8b862858">
+        <source># # # #
+                .</source>
+        <target state="needs-translation"># # # #
+                .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65800" identifier="fa4deeb830a452d9df59c58f31a6602a" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65801" identifier="2456e6fc4d491fd11673b866565bc758" translate="no">
+        <source># # .</source>
+        <target># # .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65802" identifier="410a69d75b28ea0968e2d9739774295a" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65803" identifier="a6ea3ff4e8fbb3586031ac27062bd96d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65804" identifier="762d5b02918c5b96138f29f7bb03444e" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65805" identifier="fdac4b2c9389c3e0e47a5082717a43f9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65806" identifier="8f662c5333580900abe1dda133f26b37" translate="no">
+        <source>`)
+            delay += 50
+            basic.pause(delay)
+            basic.showLeds(`
+                .</source>
+        <target>`)
+            delay += 50
+            basic.pause(delay)
+            basic.showLeds(`
+                .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65807" identifier="19dcc5ed2e396873b039d227ba9d5023" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65808" identifier="59bb570a965211e7e10fa0de1c82f951" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65809" identifier="1c3f2811b2bb897669ee08300661f708" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65810" identifier="74508967953f9e563c1841cb0d9d43f9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65811" identifier="9d8ae95b94f0f66a4fe568eb43efcefc" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65812" identifier="4df495d7256d7a59a45c9d24d87e27eb" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65813" identifier="cfe8d86e29a872b64b35a399b7f5be69" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65814" identifier="a14a94f1abe45daa224367cf620700c0" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65815" identifier="2114b2b7456b7d4b103a4a524ed6ad2d" translate="no">
+        <source># # # # #
+                .</source>
+        <target># # # # #
+                .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65816" identifier="d95fd2984fc0985ebb05ccc2b88f316e" translate="no">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65817" identifier="c789bfa0b5e2a1599dc47a82e61a3b2d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65818" identifier="0aef3468549f1a3c9fd7e954bc5f15ef" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65819" identifier="32e32647fd012c3c6f6b83a07810530a" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65820" identifier="baca5ae08be1db44b8e549f394af92b5" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65821" identifier="8928fe81222e2c847c1fa1714e1cb050">
+        <source>`)
+            basic.pause(delay)
+            delay += 50
+            player1Turn = false
+        }
+    } else if (player1Turn) {
+        basic.showString(&quot;Crash!&quot;)
+        player1Turn = false
+    } else if (Math.random(4) &amp;lt; 3) {
+        basic.clearScreen()
+        delay = 0
+        while (delay &amp;lt; 500) {
+            basic.showLeds(`
+                .</source>
+        <target state="needs-translation">`)
+            basic.pause(delay)
+            delay += 50
+            player1Turn = false
+        }
+    } else if (player1Turn) {
+        basic.showString(&quot;Crash!&quot;)
+        player1Turn = false
+    } else if (Math.random(4) &amp;lt; 3) {
+        basic.clearScreen()
+        delay = 0
+        while (delay &amp;lt; 500) {
+            basic.showLeds(`
+                .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65822" identifier="7937796a64ae61f842e24874d73d01e3" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65823" identifier="4a1da2cf536dc1743f5d9e2312346746" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65824" identifier="a95615486a1d00169fb0beb0a1fb63fe" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65825" identifier="0c7dedee3bd885760cf881aac81dd3cd" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65826" identifier="03dd08377ec6acd43e83a724552dc020" translate="no">
+        <source># # .</source>
+        <target># # .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65827" identifier="09fde9e7d25ee2516fda95383eb98dd8">
+        <source>#
+                # # # # #
+                .</source>
+        <target state="needs-translation">#
+                # # # # #
+                .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65828" identifier="4857e0da4ab7828ca343943fcbac1231" translate="no">
+        <source># # .</source>
+        <target># # .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65829" identifier="03670bec4adc9f59e2d02bdef5a2ec49">
+        <source>#
+                .</source>
+        <target state="needs-translation">#
+                .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65830" identifier="40d3b15ce12d3dc0714f50056a345832" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65831" identifier="3a4aca56b20444704821d892bd0316c0" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65832" identifier="055afd137b0d2ad404926ca4c09987f2" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65833" identifier="fa49547f8c9dc791fa09807dcbe9be71" translate="no">
+        <source>`)
+            delay += 50
+            basic.pause(delay)
+            basic.showLeds(`
+                .</source>
+        <target>`)
+            delay += 50
+            basic.pause(delay)
+            basic.showLeds(`
+                .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65834" identifier="b9452ed8f15f663c288a78130e62e17d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65835" identifier="5abc036aaa33bee930f7260649bdb447" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65836" identifier="5fbe9f5d6a90418d739c0417d28159ba" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65837" identifier="d715a8cb14845619a5d67246753c5681" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65838" identifier="6dcd2b00a2a838cc9ae08219ca379921" translate="no">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65839" identifier="714aaaa588cfe7f5537b618117bae98d" translate="no">
+        <source># # # # #
+                .</source>
+        <target># # # # #
+                .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65840" identifier="35f13cd4a7b2d7fe445c8b509d89daa9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65841" identifier="efe68eb9afb1a63eef2bb81b9de3c2bc" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65842" identifier="7b1df0cb6eed6e605ebc4577536c0b4d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65843" identifier="d21be0e1895a702550d4d8768cb063ce" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65844" identifier="0ad5546541b97fd68e795f150ddaa8cf" translate="no">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65845" identifier="489d486fbf8cd6ec59224a83bbfc5b95" translate="no">
+        <source>`)
+            delay += 50
+            basic.pause(delay)
+            basic.showLeds(`
+                .</source>
+        <target>`)
+            delay += 50
+            basic.pause(delay)
+            basic.showLeds(`
+                .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65846" identifier="eb17d157d86c958388f9756cfab510ac" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65847" identifier="b5a6026d6faa081e736e579b4e50b05c" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65848" identifier="0e4ce6eab0c3bf533274f92e143e3484" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65849" identifier="e2b874b26a6aef4449b01af44cb0cd18" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65850" identifier="4e6a32b54ab727c1aff90bfe68a9b9ad" translate="no">
+        <source># # .</source>
+        <target># # .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65851" identifier="2f38fe503d8da506e67543414524ccb5">
+        <source># # # # #
+                # .</source>
+        <target state="needs-translation"># # # # #
+                # .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65852" identifier="bc07a87f0fe7fa622ec83927e19424cf" translate="no">
+        <source># # .</source>
+        <target># # .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65853" identifier="6aebc2a99ee346bfd09670c6cf506b2f" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65854" identifier="8fa9a6c192f515d3c643511e5b2ac120" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65855" identifier="2638125f9c80093ce267508e7d5c8ad8" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65856" identifier="1569831b86e5fdad276ec7bc55496cbd" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65857" identifier="71350bedd0169a9ddf0ca0ab85a7ea06" translate="no">
+        <source>`)
+            delay += 50
+            basic.pause(delay)
+            basic.showLeds(`
+                .</source>
+        <target>`)
+            delay += 50
+            basic.pause(delay)
+            basic.showLeds(`
+                .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65858" identifier="f7800530465d805870b5c9068bc980e8" translate="no">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65859" identifier="eecae9ad2f7ac9d52b3f8e34399e553f" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65860" identifier="796ff63a08717d71b30df158f3653d78" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65861" identifier="afa3f8c9e9e63bbda999668ec860ec51" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65862" identifier="da3e1ba5835af8ba9bf45ba6e4699b0c" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65863" identifier="192568f27e9b5db90338a8fb6db1b113" translate="no">
+        <source># # # # #
+                .</source>
+        <target># # # # #
+                .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65864" identifier="0a5e13a2f2695ac8cebf210ed64ac873" translate="no">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65865" identifier="e3208b9d47b4a22565ab3fc42cbba711" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65866" identifier="678baea46610fd086abd4387bdab0374" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65867" identifier="31c53c8011da4422872b6f82f4b9a918" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65868" identifier="8be6b26ef40f90d7ef5cbc46fda102ce" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65869" identifier="e72c34178b00ee7361dd20eaf705f5bf">
+        <source>`)
+            basic.pause(delay)
+            delay += 50
+            player1Turn = true
+        }
+    } else {
+        basic.showString(&quot;Crash!&quot;)
+        player1Turn = true
+    }
+})
+basic.forever(() =&amp;gt; {
+
+})
+delay = 0
+spin = 0
+player1Turn = true</source>
+        <target state="needs-translation">`)
+            basic.pause(delay)
+            delay += 50
+            player1Turn = true
+        }
+    } else {
+        basic.showString(&quot;Crash!&quot;)
+        player1Turn = true
+    }
+})
+basic.forever(() =&amp;gt; {
+
+})
+delay = 0
+spin = 0
+player1Turn = true</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65870" identifier="364b684cfd640d77ebe8a329bffb8ad2">
+        <source>This is an example of a board game in which the micro:bit displays an arrow pointing in a random direction. The paper legend indicates different actions the player must take. </source>
+        <target state="needs-translation">This is an example of a board game in which the micro:bit displays an arrow pointing in a random direction. The paper legend indicates different actions the player must take. </target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[14]</note>
+      </trans-unit>
+      <trans-unit id="65871" identifier="54ab49c028ab34614d115fe64c1f36cf">
+        <source>Here is a portion of the board game's code.</source>
+        <target state="needs-translation">Here is a portion of the board game's code.</target>
+        <note>Context: XPath: /p[15]</note>
+      </trans-unit>
+      <trans-unit id="65872" identifier="e9a3a187f37dce373e580e9507a649d3">
+        <source>A boolean variable is used to determine whose turn it is.</source>
+        <target state="needs-translation">A boolean variable is used to determine whose turn it is.</target>
+        <note>Context: XPath: /p[15]</note>
+      </trans-unit>
+      <trans-unit id="65873" identifier="45144494c81f5f3ad69279ac899732b3">
+        <source>If player1Turn is false, then it's player 2's turn.</source>
+        <target state="needs-translation">If player1Turn is false, then it's player 2's turn.</target>
+        <note>Context: XPath: /p[15]</note>
+      </trans-unit>
+      <trans-unit id="65874" identifier="175fa033214698ea307db688bdc1ba59">
+        <source>A random number is generated to show the arrow seventy-five percent of the time (for values of 0, 1, or 2).</source>
+        <target state="needs-translation">A random number is generated to show the arrow seventy-five percent of the time (for values of 0, 1, or 2).</target>
+        <note>Context: XPath: /p[15]</note>
+      </trans-unit>
+      <trans-unit id="71356" identifier="7e735e53ffd6ac0d909d7abac4bd2e88">
+        <source>let player1Turn = false;
+input.onGesture(Gesture.Shake, () =&amp;gt; {
+    if (player1Turn == true &amp;amp;&amp;amp; Math.random(4) &amp;lt; 3) {
+
+    }
+})</source>
+        <target state="needs-translation">let player1Turn = false;
+input.onGesture(Gesture.Shake, () =&amp;gt; {
+    if (player1Turn == true &amp;amp;&amp;amp; Math.random(4) &amp;lt; 3) {
+
+    }
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65876" identifier="35a761ebe21bdbe0cd8bb3d4e10efabc" translate="no">
+        <source>Reflection</source>
+        <target>Reflection</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="65877" identifier="63a2bbee33a5cbc54376ac9d9e7c86d2" translate="no">
+        <source>Have students write a reflection of about 150–300 words, addressing the following points:</source>
+        <target>Have students write a reflection of about 150–300 words, addressing the following points:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[16]</note>
+      </trans-unit>
+      <trans-unit id="65878" identifier="12d8e65017cfdd0fb7d94540885e3b8b">
+        <source>How did you incorporate boolean variables into your micro:bit program?</source>
+        <target state="needs-translation">How did you incorporate boolean variables into your micro:bit program?</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="65879" identifier="9b962f719b6a0bfd565bb9a4c08c04b4">
+        <source>How did you incorporate boolean operators into your micro:bit program?</source>
+        <target state="needs-translation">How did you incorporate boolean operators into your micro:bit program?</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65880" identifier="3d058d5a5db5921295122a3c4e0ae9d6">
+        <source>Describe something in your project that you are proud of.</source>
+        <target state="needs-translation">Describe something in your project that you are proud of.</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="65881" identifier="98a06687a9ce28458a35f62a5c7e8ed8">
+        <source>If you had more time to work on this project, describe what you might add or change.</source>
+        <target state="needs-translation">If you had more time to work on this project, describe what you might add or change.</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[4]</note>
+      </trans-unit>
+      <trans-unit id="65882" identifier="f76ed130190de24943cd878a359ab65b" translate="no" approved="yes">
+        <source>Assessment</source>
+        <target>評価</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[4]</note>
+      </trans-unit>
+      <trans-unit id="65883" identifier="685231c3a0b071cb490a010c354aa899">
+        <source> 
+&lt;strong&gt;Competency scores&lt;/strong&gt;: 4, 3, 2, 1
+ </source>
+        <target state="needs-translation"> 
+&lt;strong&gt;Competency scores&lt;/strong&gt;: 4, 3, 2, 1
+ </target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[17]</note>
+      </trans-unit>
+      <trans-unit id="65884" identifier="3c1cc53fea7a48765d06ba42278b895e" translate="no">
+        <source>Boolean</source>
+        <target>Boolean</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[3]</note>
+      </trans-unit>
+      <trans-unit id="65885" identifier="d638dc2b42d6369e505fdeba0d9790af">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; More than 2 Boolean variables are implemented in a meaningful way.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; At least 2 Boolean variables are implemented in a meaningful way.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; At least 1 Boolean variable is implemented in a meaningful way.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; No Boolean variables are implemented.</source>
+        <target state="needs-translation">&lt;strong&gt;4 =&lt;/strong&gt; More than 2 Boolean variables are implemented in a meaningful way.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; At least 2 Boolean variables are implemented in a meaningful way.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; At least 1 Boolean variable is implemented in a meaningful way.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; No Boolean variables are implemented.</target>
+        <note>Context: XPath: /p[18]</note>
+      </trans-unit>
+      <trans-unit id="65886" identifier="e02a0859db0e09189f957c3f236cec26" translate="no">
+        <source> </source>
+        <target state="translated"> </target>
+        <note>Context: XPath: /p[18]</note>
+      </trans-unit>
+      <trans-unit id="65887" identifier="55a9f9f9961b04e668c3bc143fc40d85" translate="no" approved="yes">
+        <source>micro:bit program</source>
+        <target>micro:bit プログラム</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[4]</note>
+      </trans-unit>
+      <trans-unit id="65888" identifier="eca610225f0af5f10f801fa07d4e076b">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; micro:bit program:&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Uses Booleans in a way that is integral to the program.&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Compiles and runs as intended&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Meaningful comments in code&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; micro:bit program lacks 1 of the required element.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; micro:bit program lacks 2 of the required elements.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; micro:bit program lacks all of the required elements.</source>
+        <target state="needs-translation">&lt;strong&gt;4 =&lt;/strong&gt; micro:bit program:&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Uses Booleans in a way that is integral to the program.&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Compiles and runs as intended&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Meaningful comments in code&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; micro:bit program lacks 1 of the required element.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; micro:bit program lacks 2 of the required elements.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; micro:bit program lacks all of the required elements.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[19]</note>
+      </trans-unit>
+      <trans-unit id="65889" identifier="19a0f8fdc6ce1ec57e3737e3cfbeff44" translate="no" approved="yes">
+        <source>Collaboration reflection</source>
+        <target>共同作業と内省</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[5]</note>
+      </trans-unit>
+      <trans-unit id="65890" identifier="6ad5e6dc98e43c709cf34e174652a4f9" translate="no">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; Reflection piece addresses all prompts.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Reflection piece lacks 1 of the required elements.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Reflection piece lacks 2 of the required elements.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; Reflection piece lacks 3 of the required elements.</source>
+        <target>&lt;strong&gt;4 =&lt;/strong&gt; Reflection piece addresses all prompts.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Reflection piece lacks 1 of the required elements.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Reflection piece lacks 2 of the required elements.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; Reflection piece lacks 3 of the required elements.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[20]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

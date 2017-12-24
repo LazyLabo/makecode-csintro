@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1830" original="/microbit/docs/courses/csintro/conditionals/activity.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="66033" identifier="35b0ce1039c040d6ea393a398360e7b3">
+        <source>Activity: Rock, paper, scissors</source>
+        <target state="translated">アクティビティ：じゃんけんぽん</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="66034" identifier="86a0da3db1c0faf515f0bde9207ae311" approved="yes">
+        <source>For this activity, each student will need a micro:bit. 
+Everyone will create the same program, the classic rock paper scissor game.</source>
+        <target>このアクティビティでは、各生徒にmicro:bitが必要になります。全員が同じプログラムを作成し、じゃんけんゲームをします。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="71531" identifier="23bf662ee3a1dafb1b85a33a79ba788b" translate="no" approved="yes">
+        <source>/static/courses/csintro/conditionals/rock-paper-scissors-items.png</source>
+        <target>/static/courses/csintro/conditionals/rock-paper-scissors-items.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[2]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66036" identifier="98a864d9d92c00d7e7dfa7cda99b9c7b" approved="yes">
+        <source>Rock, paper, scissors</source>
+        <target>Rock, paper, scissors</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[2]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="66037" identifier="461c2c9c0bc0170c863bc8049b53ee05" approved="yes">
+        <source>Introduce activity</source>
+        <target>アクティビティの紹介</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="66038" identifier="be219f680fdbbd8be6f483cf917f27de" approved="yes">
+        <source>Have students recall the classic rock paper scissors game.</source>
+        <target>生徒は、じゃんけんについて考えてみます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="66039" identifier="76d073fd00935e1830ea12a24c277ecf" approved="yes">
+        <source>What are the rules of the game? What are the conditionals?
+&gt;Example: If Player A gets rock, and Player B gets scissors, Then Player A wins.</source>
+        <target>じゃんけんのルールって何でしょうか？条件は何でしょうか？
+&gt;例：[If] もし、Aさんがグーを出して、Bさんがチョキをだしたら、[Then] Aさんの勝ちです。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66040" identifier="a5cc454012988541543f577a5932f7cc" approved="yes">
+        <source>Have students write the pseudocode for how to play the game on the micro:bit.</source>
+        <target>生徒にmicro:bitでゲームをするための擬似コードを書いてもらいます。</target>
+        <note>Context: XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66041" identifier="7bc21bec25e362a0f94b2663be202f02">
+        <source>&gt;Example pseudocode:&lt;br/&gt;
+On button A press: choose random number from 0-2
+If random number = 0, then display rock icon,
+Else if random number = 1, then display paper icon, 
+Else display scissors icon.</source>
+        <target state="translated">&gt;疑似コードの例&lt;br/&gt;
+Aボタンを押す: 0から2の数のうちランダムにひとつの数を選択する
+
+[If]もし数が0だったら [Then] グーのアイコンを表示する
+
+[Else]でなければ、[If]もし数が1だったら [Then] パーのアイコンを表示する
+
+[Else]でなければチョキのアイコンを表示する。</target>
+        <note>Context: XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66042" identifier="4237baa8ec1dd776d9f96499c37f6b9a">
+        <source>Point out that because there are only three possibilities, we don’t need to do a separate check to see if random number = 2. So we just use an else.</source>
+        <target state="translated">ランダムに選ばれる数の可能性は３つしかないので、選ばれた数＝２であるかどうかはわざわざ確認する必要がないという点に注目させてください。私たちは 「[else] でなければ」を使うだけでよいのです。
+</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[4]</note>
+      </trans-unit>
+      <trans-unit id="66043" identifier="a39a1ed2bd7af83361bbb9871da1aaa1" translate="no" approved="yes">
+        <source>micro:bit</source>
+        <target>micro:bit</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="66044" identifier="cbf9b5c343009875dbd0187e5517d3da">
+        <source>Working from the specifications, have students work in pairs to try to code a Rock Paper Scissors game on their own.</source>
+        <target state="translated">生徒二人一組として、仕様に従って自分たちでじゃんけんゲームのコードを作成するように指示してください。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="66045" identifier="b7ed89eabf46171df48d5e346194e33b">
+        <source>If students get stuck, there is a tutorial at &lt;a href=&quot;/projects/rock-paper-scissors&quot;&gt;rock, paper, scissors&lt;/a&gt; (steps 1 through 4), that leads students step-by-step through the process of coding a working rock paper scissor game for their micro:bit.</source>
+        <target state="translated">もし生徒が進めなくなった場合のために、  micro:bit じゃんけんゲームのコーディングプロセスを段階的に導く&lt;a href=&quot;/projects/rock-paper-scissors&quot;&gt;rock, paper, scissors&lt;/a&gt; (手順 1 ~ 4)というチュートリアルを用意しています。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66046" identifier="2ada644499b0d5a0edf89d2c8e9b00d1" approved="yes">
+        <source>Let them play the game against their program.</source>
+        <target>さあ、作ったゲームで遊んでみましょう</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66047" identifier="32099db2c9c37c026413c760e0226c5a" approved="yes">
+        <source>Ideas for Mods</source>
+        <target>改造のためのアイデア</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="66048" identifier="a5f62dd8f74ecb23c02a27ad24e2fd04">
+        <source>Add a way to keep score: Steps 5 through 7 in the tutorial</source>
+        <target state="translated">スコアを維持する方法を追加: チュートリアルの手順 5から手順７</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li</note>
+      </trans-unit>
+      <trans-unit id="66049" identifier="657a6abcaf7f334df6b222a2a9cac9cd">
+        <source>Mod the game to use different images or to add more options like ‘Rock Paper Scissors Lizard Spock’, Step 8 in the tutorial</source>
+        <target state="translated">異なるイメージを使用してゲームを改造する、もしくは、チュートリアルの手順 8にあるような、' グー、チョキー、パー、トカゲ（ハンドサイン：手をコの字にする） スポック（SFドラマのスタートレックで使用した有名な挨拶のハンドサイン：薬指と中指を離す） 'というようにオプションを増やす。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66050" identifier="f467eb27f50b5b287fbc96bccf2e17d7">
+        <source>Here's an example mod:</source>
+        <target state="translated">ここで改造の例を示します。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="66051" identifier="8a19f8ea93a901fc811210d55e95cbfd" approved="yes">
+        <source>let hand = 0
+input.onGesture(Gesture.Shake, () =&amp;gt; {
+    hand = Math.random(3)
+    if (hand == 0) {
+        basic.showLeds(`
+            # # # # #
+            # .</source>
+        <target>let hand = 0
+input.onGesture(Gesture.Shake, () =&amp;gt; {
+    hand = Math.random(3)
+    if (hand == 0) {
+        basic.showLeds(`
+            # # # # #
+            # .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66052" identifier="b80ea443b72e752feb90e2b89d927d04" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66053" identifier="f96ae9be1682c97741531492bb3756f5" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66054" identifier="61efcb5891c885efc74d53d912681866" translate="no" approved="yes">
+        <source>#
+            # .</source>
+        <target>#
+            # .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66055" identifier="614c66d312b6cc72dbfba6c705ef035b" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66056" identifier="db581fd7416c00e139640c2f759502b7" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66057" identifier="0fb55e06ed2c0986d61a33db32003d32" translate="no" approved="yes">
+        <source>#
+            # .</source>
+        <target>#
+            # .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66058" identifier="0a490fa443a0f11708ae57178a7a5ccf" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66059" identifier="95743bf03ab211c0fcd3cf296163be3c" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66060" identifier="7654ded7e16fc5070db321964d05a607" approved="yes">
+        <source>#
+            # # # # #
+            `)
+    } else if (hand == 1) {
+        basic.showLeds(`
+            .</source>
+        <target> # # # #
+            `)
+    } else if (hand == 1) {
+        basic.showLeds(`
+            .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66061" identifier="c4cb462a8cd30da7679c9a04b446aade" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66062" identifier="1f3532fdb61581533227da4a6665f1a1" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66063" identifier="3fe88b83040a1acbd009e58a7e093651" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66064" identifier="7971cb148e23de4a822bdd050a2131d3" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66065" identifier="97bec8cb16e622a4c0c8ae9b7bfb8e2b" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66066" identifier="38fe876690d5dcda3fc25d981ed4a3d1" translate="no" approved="yes">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66067" identifier="98ef293adec255846829f196ef5e7a07" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66068" identifier="32fb9a976b50f160bb4c59db5b7fcb23" translate="no" approved="yes">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66069" identifier="90d5e4353612a21572f40f6243a4a374" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66070" identifier="af2a6759705808efdc8114ae440cd725" translate="no" approved="yes">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66071" identifier="f9af6df10ea7ee98e84a0d9133666889" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66072" identifier="3bf81ee1af286c6552ab10dcf1e6184d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66073" identifier="aaf3d632c34cda23747b2b77dd8e103f" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66074" identifier="4e35022d78b79f05042afaecc34eded0" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66075" identifier="d7aa3585663cd0c8c93b95e8526e4105" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66076" identifier="53131d669d88fcb801d042693ea1011e" approved="yes">
+        <source>`)
+    } else {
+        basic.showLeds(`
+            # # .</source>
+        <target>`)
+    } else {
+        basic.showLeds(`
+            # # .
+ 
+Context | Request </target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66077" identifier="a144062f5c7c3ecdaca0a5761b737053" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66078" identifier="75bf17f4ca3189e2930f01c15e2e28e9" approved="yes">
+        <source>#
+            # # .</source>
+        <target>#
+            # # .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66079" identifier="5f47f20db009e664789b078322e34a97" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66080" identifier="2a2fc177ae2ed512adc3c367d5fee9df" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66081" identifier="f15cf7a13d9a2e3c2db5e9a0747ccde6" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66082" identifier="4fb9517440a13640fe8ba14451eabaab" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66083" identifier="825515ec65f5cf513b8a6ac22c273c07" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66084" identifier="2db646cdccb2f92b696b6f9a87f74f61" translate="no" approved="yes">
+        <source># # .</source>
+        <target># # .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66085" identifier="6b62c5aec045743cacfd5854074acb61" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66086" identifier="b7137f1d121189449d4cf8a1c5ce5ae3" translate="no">
+        <source># # .</source>
+        <target state="translated"># # .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66087" identifier="6ece41adde01b483aadb0b8e26e6b906" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66088" identifier="b676ff375af687b7d5bb965019f1542b" approved="yes">
+        <source>#
+            `)
+    }
+})
+input.onButtonPressed(Button.A, () =&amp;gt; {
+    game.addScore(1)
+    basic.pause(100)
+    basic.showString(&quot;Wins:&quot;)
+    basic.showNumber(game.score())
+})</source>
+        <target>#
+            `)
+    }
+})
+input.onButtonPressed(Button.A, () =&amp;gt; {
+    game.addScore(1)
+    basic.pause(100)
+    basic.showString(&quot;Wins:&quot;)
+    basic.showNumber(game.score())
+})</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

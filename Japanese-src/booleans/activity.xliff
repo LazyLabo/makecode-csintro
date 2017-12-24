@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1823" original="/microbit/docs/courses/csintro/booleans/activity.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="65156" identifier="7fc33bc246022db14e1c97f3d6df4715">
+        <source>Activity: Double coin flipper</source>
+        <target state="needs-translation">Activity: Double coin flipper</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="65157" identifier="7a469ff7a21f5792f69df42413e3bb79" translate="no">
+        <source>/static/courses/csintro/booleans/fuzzies.jpg</source>
+        <target>/static/courses/csintro/booleans/fuzzies.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="65158" identifier="6e75a926a95502920c8633e50ccb8ec5">
+        <source>Example Board</source>
+        <target state="needs-translation">Example Board</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="65159" identifier="3a8e0ee8952f9323e726c995dfd15e82">
+        <source>Guide the students to create a program using Boolean variables and operators.</source>
+        <target state="needs-translation">Guide the students to create a program using Boolean variables and operators.</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="65160" identifier="b8823f4b7354e03427ed78531a71fa29">
+        <source>We’ll use our pseudocode from the previous activity to code a double coin flipper program.</source>
+        <target state="needs-translation">We’ll use our pseudocode from the previous activity to code a double coin flipper program.</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="65161" identifier="61d4310f55cfb1ef356769807b3fd8d6">
+        <source> 
+For the first step, let’s create our variables.</source>
+        <target state="needs-translation"> 
+For the first step, let’s create our variables.</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="65162" identifier="148cb88b5d8f0b080edab33f7fb9dcf6">
+        <source>Make a variable for each of the following:</source>
+        <target state="needs-translation">Make a variable for each of the following:</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="65163" identifier="1caad589d2f9798b5fba762def2172d1">
+        <source>CoinAHeads</source>
+        <target state="needs-translation">CoinAHeads</target>
+        <note>Context: Text&#13;
+XPath: /ul/li/code</note>
+      </trans-unit>
+      <trans-unit id="65164" identifier="1403b91ceb4ca2c7ae236e7b08f805bf">
+        <source>CoinBHeads</source>
+        <target state="needs-translation">CoinBHeads</target>
+        <note>Context: Text&#13;
+XPath: /ul/li[2]/code</note>
+      </trans-unit>
+      <trans-unit id="65165" identifier="a24051377fa24bd64436084da9b22467">
+        <source>PlayerAScore</source>
+        <target state="needs-translation">PlayerAScore</target>
+        <note>Context: Text&#13;
+XPath: /ul/li[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65166" identifier="fc88e003a2f6bc3156baca85a06f160e">
+        <source>&lt;code&gt;PlayerBScore&lt;/code&gt;
+ 
+Now we need to initialize the variable values.</source>
+        <target state="needs-translation">&lt;code&gt;PlayerBScore&lt;/code&gt;
+ 
+Now we need to initialize the variable values.</target>
+        <note>Context: XPath: /ul/li[4]</note>
+      </trans-unit>
+      <trans-unit id="65167" identifier="ad9fb4fb1d36d217d2dd9d27dfab1b7f">
+        <source>Put a 'set' variable block for each of these 4 variables inside the 'on start' block.</source>
+        <target state="needs-translation">Put a 'set' variable block for each of these 4 variables inside the 'on start' block.</target>
+        <note>Context: XPath: /ul/li[4]</note>
+      </trans-unit>
+      <trans-unit id="65168" identifier="de3072d68578fd4655f57348a9c6613a">
+        <source> 
+The initial value of a variable is the value the variable will hold each time the program starts.</source>
+        <target state="needs-translation"> 
+The initial value of a variable is the value the variable will hold each time the program starts.</target>
+        <note>Context: XPath: /ul/li[4]</note>
+      </trans-unit>
+      <trans-unit id="65169" identifier="43769a4d6a0568a733dc5f0603f13b66">
+        <source>By default:</source>
+        <target state="needs-translation">By default:</target>
+        <note>Context: XPath: /ul/li[4]</note>
+      </trans-unit>
+      <trans-unit id="65170" identifier="e183857ac34cbaa145116135957e836d">
+        <source>a string variable is initialized to an empty string &lt;code&gt;&quot;&quot;&lt;/code&gt;</source>
+        <target state="needs-translation">a string variable is initialized to an empty string &lt;code&gt;&quot;&quot;&lt;/code&gt;</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[5]</note>
+      </trans-unit>
+      <trans-unit id="65171" identifier="9aa9da030d21515a783919ad2acf96b9">
+        <source>a number variable is initialized to &lt;code&gt;0&lt;/code&gt;</source>
+        <target state="needs-translation">a number variable is initialized to &lt;code&gt;0&lt;/code&gt;</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[6]</note>
+      </trans-unit>
+      <trans-unit id="65172" identifier="76c180d25294c7c4e7686d94a94c11c9">
+        <source>a Boolean is initialized to &lt;code&gt;false&lt;/code&gt;
+ 
+Initialize the number variables to zero and the Boolean variables to &lt;code&gt;false&lt;/code&gt;.
+ 
+You can find the false blocks under the Logic menu.</source>
+        <target state="needs-translation">a Boolean is initialized to &lt;code&gt;false&lt;/code&gt;
+ 
+Initialize the number variables to zero and the Boolean variables to &lt;code&gt;false&lt;/code&gt;.
+ 
+You can find the false blocks under the Logic menu.</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[7]</note>
+      </trans-unit>
+      <trans-unit id="65173" identifier="ab034b45a3d03ce2f208ac857b614351" translate="no">
+        <source>/static/courses/csintro/booleans/logic-menu.png</source>
+        <target>/static/courses/csintro/booleans/logic-menu.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[3]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="65174" identifier="d37d3fac904c43b9ba54b661786146a3">
+        <source>Logic menu</source>
+        <target state="needs-translation">Logic menu</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[3]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="65175" identifier="5282686126310f5d4e86afb0185902a4">
+        <source>let CoinAHeads = false
+let CoinBHeads = false
+let PlayerAScore = 0
+let PlayerBScore = 0
+basic.showLeds(`
+    . # . . .
+    # # # . .
+    . # . # .
+    . . # # #
+    . . . # .
+`)</source>
+        <target state="needs-translation">let CoinAHeads = false
+let CoinBHeads = false
+let PlayerAScore = 0
+let PlayerBScore = 0
+basic.showLeds(`
+    . # . . .
+    # # # . .
+    . # . # .
+    . . # # #
+    . . . # .
+`)</target>
+        <note>Context: Text&#13;
+XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65176" identifier="fbe7e1fc984546edd3332b607c3efc94">
+        <source>Notice that we also added an image for the start screen, so the user knows the program has started and is ready. Does the image look like two coins?
+ </source>
+        <target state="needs-translation">Notice that we also added an image for the start screen, so the user knows the program has started and is ready. Does the image look like two coins?
+ </target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="65177" identifier="41fbf8bfb196e6ed9209890b48dd5b82">
+        <source>Random coin flips</source>
+        <target state="needs-translation">Random coin flips</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="65178" identifier="6d85a406b974b6cff62f946992fe6998">
+        <source>When the player shakes the micro:bit, we will code the micro:bit to give each of our Boolean variables a random true/false value.
+ </source>
+        <target state="needs-translation">When the player shakes the micro:bit, we will code the micro:bit to give each of our Boolean variables a random true/false value.
+ </target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="65179" identifier="64b874e65eacb4df4198aa9adee75ef6">
+        <source>From the Input Toolbox drawer, drag an 'on shake' block to the coding workspace</source>
+        <target state="needs-translation">From the Input Toolbox drawer, drag an 'on shake' block to the coding workspace</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="65180" identifier="9acf17b5c4dc0d6fa2d04a6dddd4841a">
+        <source>From the Variables Toolbox drawer, drag 2 'set' variable blocks to the coding workspace</source>
+        <target state="needs-translation">From the Variables Toolbox drawer, drag 2 'set' variable blocks to the coding workspace</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65181" identifier="ae14e546e657265e211f8a3f71e561e9">
+        <source>Drag the 2 'set' blocks into the 'on shake' block</source>
+        <target state="needs-translation">Drag the 2 'set' blocks into the 'on shake' block</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="65182" identifier="5a3df7fd9ca983975ee85d9eec88fd2c">
+        <source>Change the default &lt;code&gt;item&lt;/code&gt; to &lt;code&gt;CoinAHeads&lt;/code&gt; and &lt;code&gt;CoinBHeads&lt;/code&gt;</source>
+        <target state="needs-translation">Change the default &lt;code&gt;item&lt;/code&gt; to &lt;code&gt;CoinAHeads&lt;/code&gt; and &lt;code&gt;CoinBHeads&lt;/code&gt;</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="65183" identifier="d208f1a29a6bf396bd8c769fc1fd20a5">
+        <source>From the Math Toolbox drawer, drag 2 'pick random true or false' blocks to the coding workspace</source>
+        <target state="needs-translation">From the Math Toolbox drawer, drag 2 'pick random true or false' blocks to the coding workspace</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[5]</note>
+      </trans-unit>
+      <trans-unit id="65184" identifier="998f157a9f974214c33f7322dffba313" translate="no">
+        <source>/static/courses/csintro/booleans/math-random-boolean.png</source>
+        <target>/static/courses/csintro/booleans/math-random-boolean.png</target>
+        <note>Context: Image Source&#13;
+XPath: /ul[2]/li[6]/p/r/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="65185" identifier="d3ab42179b77cb8de04ceb97109af4bc">
+        <source>Pick Math random boolean</source>
+        <target state="needs-translation">Pick Math random boolean</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /ul[2]/li[6]/p/r/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="65186" identifier="47e937df64414731c42566272d66706f">
+        <source>Hover over this 'pick random' block and note that its pop-up description mentions coin flipping!
+ 
+</source>
+        <target state="needs-translation">Hover over this 'pick random' block and note that its pop-up description mentions coin flipping!
+ 
+</target>
+        <note>Context: Paragraph text&#13;
+XPath: /ul[2]/li[6]/p</note>
+      </trans-unit>
+      <trans-unit id="65187" identifier="dbce41108f316b5711816acd5a791eb2">
+        <source>Attach these 'pick random' blocks to the 'set' variable blocks in the 'on shake' block</source>
+        <target state="needs-translation">Attach these 'pick random' blocks to the 'set' variable blocks in the 'on shake' block</target>
+        <note>Context: Paragraph text&#13;
+XPath: /ul[2]/li[7]/p</note>
+      </trans-unit>
+      <trans-unit id="65188" identifier="65d6ca1920d1d488feb26b16e332bd1d">
+        <source>let CoinBHeads = false
+let CoinAHeads = false
+input.onGesture(Gesture.Shake, () =&amp;gt; {
+    CoinAHeads = Math.randomBoolean()
+    CoinBHeads = Math.randomBoolean()
+})</source>
+        <target state="needs-translation">let CoinBHeads = false
+let CoinAHeads = false
+input.onGesture(Gesture.Shake, () =&amp;gt; {
+    CoinAHeads = Math.randomBoolean()
+    CoinBHeads = Math.randomBoolean()
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre[2]/code</note>
+      </trans-unit>
+      <trans-unit id="65189" identifier="edd4531e0d2d12b21749baee9ae39fcd">
+        <source>Now that the virtual CoinA and CoinB have been virtually flipped, we need to compare the outcomes to see if they are the same or different.
+ </source>
+        <target state="needs-translation">Now that the virtual CoinA and CoinB have been virtually flipped, we need to compare the outcomes to see if they are the same or different.
+ </target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="65190" identifier="9f665b9b9765db27ad78e01fce8ddae6">
+        <source>From the Logic Toolbox drawer, drag an 'if...then...else' block to the coding workspace</source>
+        <target state="needs-translation">From the Logic Toolbox drawer, drag an 'if...then...else' block to the coding workspace</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li</note>
+      </trans-unit>
+      <trans-unit id="65191" identifier="00ab88ea0a349ce9226f494e6a8b6fe4">
+        <source>Drag the 'if...then...else' block into the 'on shake' block under the 'set' variable blocks</source>
+        <target state="needs-translation">Drag the 'if...then...else' block into the 'on shake' block under the 'set' variable blocks</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="70376" identifier="4dc570374c91c165ec7972a2b158a965">
+        <source>let CoinBHeads = false
+let CoinAHeads = false
+input.onGesture(Gesture.Shake, () =&amp;gt; {
+    CoinAHeads = Math.randomBoolean()
+    CoinBHeads = Math.randomBoolean()
+    if (true) {
+
+    } else {
+
+    }
+})</source>
+        <target state="needs-translation">let CoinBHeads = false
+let CoinAHeads = false
+input.onGesture(Gesture.Shake, () =&amp;gt; {
+    CoinAHeads = Math.randomBoolean()
+    CoinBHeads = Math.randomBoolean()
+    if (true) {
+
+    } else {
+
+    }
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65193" identifier="b18c488d342e53136a48fa8f2191df23">
+        <source>Now our logic block is ready for the next steps of our pseudocode.</source>
+        <target state="needs-translation">Now our logic block is ready for the next steps of our pseudocode.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="65194" identifier="ffd10a63d5a7acecef6031cc941ea286">
+        <source>Compare the current values of Coin A and Coin B.</source>
+        <target state="needs-translation">Compare the current values of Coin A and Coin B.</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li</note>
+      </trans-unit>
+      <trans-unit id="65195" identifier="e2e3a9b6efc58271e4efca9e84f022eb">
+        <source>If the current true/false values of Coin A and Coin B are the same, add a point to Player A’s score.</source>
+        <target state="needs-translation">If the current true/false values of Coin A and Coin B are the same, add a point to Player A’s score.</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65196" identifier="bbe9c857a813f446db39d2c9b521a451">
+        <source>Otherwise, if the current true/false values of Coin A and Coin B are different, add a point to Player B’s score.</source>
+        <target state="needs-translation">Otherwise, if the current true/false values of Coin A and Coin B are different, add a point to Player B’s score.</target>
+        <note>Context: XPath: /ol/li[3]</note>
+      </trans-unit>
+      <trans-unit id="65197" identifier="15ce0a89303e7f4a26ede34f015d0771">
+        <source> 
+Because we were able to visualize our blocks as we wrote our pseudocode, we already know what blocks we will use and also know that we have simplified our code as much as possible!</source>
+        <target state="needs-translation"> 
+Because we were able to visualize our blocks as we wrote our pseudocode, we already know what blocks we will use and also know that we have simplified our code as much as possible!</target>
+        <note>Context: XPath: /ol/li[3]</note>
+      </trans-unit>
+      <trans-unit id="65198" identifier="45bf534a88da75650e24548cec6c8188" translate="no">
+        <source> </source>
+        <target state="translated"> </target>
+        <note>Context: XPath: /ol/li[3]</note>
+      </trans-unit>
+      <trans-unit id="65199" identifier="395a6313ebbd9d5c3e198362390752ba">
+        <source>* We can now simply add this to our current code
+* And provide user feedback by adding some visuals</source>
+        <target state="needs-translation">* We can now simply add this to our current code
+* And provide user feedback by adding some visuals</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="65200" identifier="9dd1f0442281f22dc8b13e2ec08f9b2d">
+        <source>let PlayerBScore = 0
+let PlayerAScore = 0
+let CoinBHeads = false
+let CoinAHeads = false
+input.onGesture(Gesture.Shake, () =&amp;gt; {
+    CoinAHeads = Math.randomBoolean()
+    CoinBHeads = Math.randomBoolean()
+    if (CoinAHeads == CoinBHeads) {
+        basic.showLeds(`
+            .</source>
+        <target state="needs-translation">let PlayerBScore = 0
+let PlayerAScore = 0
+let CoinBHeads = false
+let CoinAHeads = false
+input.onGesture(Gesture.Shake, () =&amp;gt; {
+    CoinAHeads = Math.randomBoolean()
+    CoinBHeads = Math.randomBoolean()
+    if (CoinAHeads == CoinBHeads) {
+        basic.showLeds(`
+            .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65201" identifier="64495e63d239da0cb2db40fe641d8014" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65202" identifier="3da807bd2ba359a5bea77445e73d6216" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65203" identifier="bf22315244937b1a9326ab7776877451" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65204" identifier="813db55627af517888847ea30daaec26" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65205" identifier="aef3a6e75830e74b4b3663dd1e11603f" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65206" identifier="3daff3760a763c681e1e0f61be8d6f40" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65207" identifier="7cece0f3fb08bb79e7e4ecce89c9d830" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65208" identifier="cc2356115a3b427c499be2c176384ce2" translate="no">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65209" identifier="097f82e3c2b31345fe360c71b04f7206" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65210" identifier="da4602f59503936ee6ee9b402758f7d1" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65211" identifier="dae5d43ea716585489bdee6a97df30a7" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65212" identifier="d072cf8d2a36913988418dd5bb5673ba" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65213" identifier="05825531bc745cd98f687dc212edc980" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65214" identifier="deadd5e6c4b4447b78787981106fb604" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65215" identifier="8b4cc3b2e5def107804b0a2107d33da7">
+        <source>`)
+        basic.pause(100)
+        PlayerAScore += 1
+    } else {
+        basic.showLeds(`
+            .</source>
+        <target state="needs-translation">`)
+        basic.pause(100)
+        PlayerAScore += 1
+    } else {
+        basic.showLeds(`
+            .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65216" identifier="1038de6e3b7e2a61865e3fecabee2b40" translate="no">
+        <source># # .</source>
+        <target># # .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65217" identifier="ba84bc31c82e6e29e630010a3d961862" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65218" identifier="49149739e0c24ce37a2b5a7950e487c4" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65219" identifier="1481ab602a51766ee442893b172a6762" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65220" identifier="121ca694851cbe165933c36088427aa1" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65221" identifier="15584ecaccc48ee3e47d47fe56b6400d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65222" identifier="3650bfaaf5c98c7208b07c11539aa9ed" translate="no">
+        <source># # .</source>
+        <target># # .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65223" identifier="eaa803ae509550ba11ff20e977a35fbd" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65224" identifier="799da96d97e6ec88710d10726536c2e4" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65225" identifier="bf64ad81ec9e9baad615e12e9c32f003" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65226" identifier="8e884d4fbd4d62d14c2c3d056ae52c06" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65227" identifier="a9322bb83c7374ecd256abbb0657d5e8" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65228" identifier="8dd67e25e0d570a60781bfad08b13470" translate="no">
+        <source># # .</source>
+        <target># # .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65229" identifier="df6a215a315653800602816877b84ad9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65230" identifier="14d062d7b55c5ec9c2749b2bf9f96e0a">
+        <source>`)
+        basic.pause(100)
+        PlayerBScore += 1
+    }
+    basic.showLeds(`
+        .</source>
+        <target state="needs-translation">`)
+        basic.pause(100)
+        PlayerBScore += 1
+    }
+    basic.showLeds(`
+        .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65231" identifier="83a5f25458224602e19a13efd1972e14" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65232" identifier="1d1785b6c0e70cd73830ebbac784b211" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65233" identifier="9503dba918f3120f4b9261f9649c7e2b" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65234" identifier="0af0429bf390148baa79d25af6009a48" translate="no">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65235" identifier="409589d88ac6db6f6bfe0ebe228a9818" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65236" identifier="39b7128b4552fe3760c0150269a6b45f" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65237" identifier="18b0661535ac300edb5908c368476593" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65238" identifier="d781e4f1a609aeb5eb278b00f029d2bf" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65239" identifier="b28d5d796abdcb4e4502f7ea62c648c4" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65240" identifier="7ae4605356b76614eadf7ff58d109492" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65241" identifier="f860e25297a31edbb0dad4c2700a21de">
+        <source># # #
+        .</source>
+        <target state="needs-translation"># # #
+        .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65242" identifier="891eb36834f4551e4a357470fd60380c" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65243" identifier="9bf95130fe4c017c90f10c763251fb85" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65244" identifier="f4e924d220f22a2391eaccec7a6c26fe" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65245" identifier="c2911c80511d1a43a12d785b37e03616" translate="no">
+        <source>`)
+})</source>
+        <target>`)
+})</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65246" identifier="7d558dcc4b2e847162349712d55ff51b">
+        <source>To finish our program, we’ll display the players’ current scores on button A pressed.</source>
+        <target state="needs-translation">To finish our program, we’ll display the players’ current scores on button A pressed.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="65247" identifier="c3d4a86c892a6939043d21efa05b2c9d">
+        <source>Here is the complete program for our Double Coin Flipper.</source>
+        <target state="needs-translation">Here is the complete program for our Double Coin Flipper.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="65248" identifier="92392675870753911ab3a542dd794219">
+        <source>let PlayerBScore = 0
+let PlayerAScore = 0
+let CoinBHeads = false
+let CoinAHeads = false
+input.onButtonPressed(Button.A, () =&amp;gt; {
+    CoinAHeads = Math.randomBoolean()
+    CoinBHeads = Math.randomBoolean()
+    PlayerAScore = 0
+    PlayerBScore = 0
+    basic.showLeds(`
+        .</source>
+        <target state="needs-translation">let PlayerBScore = 0
+let PlayerAScore = 0
+let CoinBHeads = false
+let CoinAHeads = false
+input.onButtonPressed(Button.A, () =&amp;gt; {
+    CoinAHeads = Math.randomBoolean()
+    CoinBHeads = Math.randomBoolean()
+    PlayerAScore = 0
+    PlayerBScore = 0
+    basic.showLeds(`
+        .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65249" identifier="148ad12b93be820b6c0c6f6b436cfb30" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65250" identifier="f2ca3e46a894b2457f384f9743655de9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65251" identifier="6fbe0a5a1056db6734124f58dd9703db" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65252" identifier="7325589778a357f81bb7ed350f566ff4" translate="no">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65253" identifier="5cfb8d5e86148a1ce6b1bf419efcb652" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65254" identifier="7e91c75a15a2a0adb9c42f1a5bb70064" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65255" identifier="b18eff80e068a5c16f02fc0ae807660b" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65256" identifier="f15687d60a308ae8581484804db13120" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65257" identifier="17551548655a529ef5ff6e0fb4870043" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65258" identifier="d05ea4f81b4d8be52346d3ca4c02a837" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65259" identifier="91341998dbb99967975b742fe12207fd" translate="no">
+        <source># # #
+        .</source>
+        <target># # #
+        .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65260" identifier="b83b443a1738f172540a52831a872375" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65261" identifier="b9f19d17f3ee28e3d6915b70991e5256" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65262" identifier="aeb11c7f063e3548868930a9a9984dda" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65263" identifier="bae3c0f629c166ae55d343fe05b28119">
+        <source>`)
+})
+input.onGesture(Gesture.Shake, () =&amp;gt; {
+    CoinAHeads = true
+    CoinBHeads = true
+    if (CoinAHeads == CoinBHeads) {
+        basic.showLeds(`
+            .</source>
+        <target state="needs-translation">`)
+})
+input.onGesture(Gesture.Shake, () =&amp;gt; {
+    CoinAHeads = true
+    CoinBHeads = true
+    if (CoinAHeads == CoinBHeads) {
+        basic.showLeds(`
+            .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65264" identifier="acaba78c92ce78bccb927c6b71c033e7" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65265" identifier="afe7d9b7f41fbf320b470660de9f8c91" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65266" identifier="1ebb0709ebffd14646c10c783135cd3c" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65267" identifier="5a7b43915e807466c89b1501ec0d8d8d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65268" identifier="53a114a0aab1dc13d3e277c2d54e1443" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65269" identifier="c3ff0ccfa56d992c4651851d18db9760" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65270" identifier="d86a1c030b1232619f796e221d2909d9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65271" identifier="df6bc63452b30d011e0c3439f5122a91" translate="no">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65272" identifier="f46226ddffbdbacec5c0f3701812cce9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65273" identifier="786739fdacc3edbc24d25c27f4a6ae2c" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65274" identifier="63bcc1ca871df694f55a7595345444ce" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65275" identifier="2b09d16a148e15b17b18c6cb8d45e2ed" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65276" identifier="785b5a9185d32563396ddb9e07592547" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65277" identifier="723ba9f8fab0f4e79e028ea03a9ba0b7" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65278" identifier="208f3f8fe799fcf49a9c6e534c5bf7af" translate="no">
+        <source>`)
+        basic.pause(100)
+        PlayerAScore += 1
+    } else {
+        basic.showLeds(`
+            .</source>
+        <target>`)
+        basic.pause(100)
+        PlayerAScore += 1
+    } else {
+        basic.showLeds(`
+            .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65279" identifier="e23e12cd5b00987ce6dd9db4f7a182e1" translate="no">
+        <source># # .</source>
+        <target># # .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65280" identifier="93194aec233a1aa39f9d592f58a72cd6" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65281" identifier="a68a9d8f2748e24ee2ccbb6e06f23962" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65282" identifier="79d923835e82ec2d2699d9fc648cb12f" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65283" identifier="f2f0ad4f2f73cc896766166d35b5d237" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65284" identifier="2c50531c7d6960642012ad6ba55b3906" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65285" identifier="f26a65d623d0c71ca461f5a27c0bd941" translate="no">
+        <source># # .</source>
+        <target># # .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65286" identifier="049010730cc3c96dcb36ed24499624f2" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65287" identifier="38c36180b18df59f2555b6866c7b3dee" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65288" identifier="847f39c3861621f3f3e738f723396fb5" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65289" identifier="2408bc4299b9185054d5e594130a288f" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65290" identifier="c2ce226a8f7e945839e5f0d345910083" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65291" identifier="d3c9328c84d0737e457c60f365e497f6" translate="no">
+        <source># # .</source>
+        <target># # .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65292" identifier="bdaa566f5bb1891098e7e2327b36aa3b" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65293" identifier="2fb907bebc65d1c6a2da00dd83143fb6" translate="no">
+        <source>`)
+        basic.pause(100)
+        PlayerBScore += 1
+    }
+    basic.showLeds(`
+        .</source>
+        <target>`)
+        basic.pause(100)
+        PlayerBScore += 1
+    }
+    basic.showLeds(`
+        .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65294" identifier="5a12a859714d3a0d552e278704881d50" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65295" identifier="d36fa1956aa940f6f131683dba75144c" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65296" identifier="5371ae2a28fa30c81aafa09612aa8c11" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65297" identifier="5e28f9e5070016483215c5cc1362f8da" translate="no">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65298" identifier="ce7ea1c4a6e303a5ff668df341cdbb8d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65299" identifier="ac88e6b9cccf3acb9dac0f0be568763d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65300" identifier="7427959d9b6a267aa8079230bb43f04b" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65301" identifier="d902e6376a2bcf9ebb7baf8c053f0ef9" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65302" identifier="0a4dafb001a507966522078ead817a4b" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65303" identifier="aa6ce750c300f61413905405f84bfa6e" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65304" identifier="45820a93fc1729790fbae44ab0da7a22" translate="no">
+        <source># # #
+        .</source>
+        <target># # #
+        .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65305" identifier="1f5b4567c113305ade7a983819cef37f" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65306" identifier="e3baa90695fc9e1c708a8fefe733007b" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65307" identifier="c4dbc0fa922fb56d8d585470db69d296" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65308" identifier="ef0f452242b1f3978244eb2377e4b0d5">
+        <source>`)
+})
+``` 
+
+Try it out!</source>
+        <target state="needs-translation">`)
+})
+``` 
+
+Try it out!</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65309" identifier="79a346fa3a55bc3e5a48dad6eb47c0c8">
+        <source>Have the students play a few more rounds of the Double Coin Flip using their new micro:bit Double Coin Flipper!</source>
+        <target state="needs-translation">Have the students play a few more rounds of the Double Coin Flip using their new micro:bit Double Coin Flipper!</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65310" identifier="368451a182e09adb96827e1676c8ab71">
+        <source> 
+## Boolean operator NOT in a Loop
+
+```block
+input.onGesture(Gesture.Shake, () =&amp;gt; {
+    while (!(input.buttonIsPressed(Button.A))) {
+        for (let i = 0; i &amp;lt; 2; i++) {
+            music.playTone(262, music.beat(BeatFraction.Half))
+            music.playTone(523, music.beat(BeatFraction.Half))
+        }
+    }
+})</source>
+        <target state="needs-translation"> 
+## Boolean operator NOT in a Loop
+
+```block
+input.onGesture(Gesture.Shake, () =&amp;gt; {
+    while (!(input.buttonIsPressed(Button.A))) {
+        for (let i = 0; i &amp;lt; 2; i++) {
+            music.playTone(262, music.beat(BeatFraction.Half))
+            music.playTone(523, music.beat(BeatFraction.Half))
+        }
+    }
+})</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65311" identifier="64c0c94d93f7697cbc8d7853d4434390">
+        <source>Do you remember this code from our micro:bit Alarm?
+Can you read this code and tell what it does?</source>
+        <target state="needs-translation">Do you remember this code from our micro:bit Alarm?
+Can you read this code and tell what it does?</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="65312" identifier="94d4cd53b89cde64a5cceafa4ee725ac">
+        <source>If the micro:bit is shaken, the micro:bit will play two tones twice and keep repeating this action until button A is pressed.</source>
+        <target state="needs-translation">If the micro:bit is shaken, the micro:bit will play two tones twice and keep repeating this action until button A is pressed.</target>
+        <note>Context: XPath: /p[12]/em</note>
+      </trans-unit>
+      <trans-unit id="65313" identifier="d94119db04998059a676a09d52428971">
+        <source>So, after shaking, as long as ‘is button A pressed?’ is false, the two tone alarm will continue to repeat.</source>
+        <target state="needs-translation">So, after shaking, as long as ‘is button A pressed?’ is false, the two tone alarm will continue to repeat.</target>
+        <note>Context: XPath: /p[12]/em</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

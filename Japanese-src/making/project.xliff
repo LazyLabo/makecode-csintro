@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1860" original="/microbit/docs/courses/csintro/making/project.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="70407" identifier="545eae13c945fb6104f829f030c2274c" approved="yes">
+        <source>Project: micro:pet</source>
+        <target>プロジェクト: マイクロ: ペット</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="67214" identifier="597988b04d0a3bc6e0e26604293f65a0" translate="no" approved="yes">
+        <source>Project</source>
+        <target>プロジェクト</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="67215" identifier="cc3b31b7fc843eb637394229ab7e297d" approved="yes">
+        <source>This project is an opportunity for students to create a micro:pet for the partner they interviewed in the Unplugged activity.</source>
+        <target>このプロジェクトではアンプラグドアクティビティで実施したインタビューの内容を活用して、マイクロ：ペットをつくります。</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="67216" identifier="aa07761e2a52a5d7bed3398bee3fc413" approved="yes">
+        <source>They should review their notes and try to summarize what their partner finds appealing in a pet.</source>
+        <target>プロジェクトを始めるにあたって、生徒にアンプラグドアクティビティでメモした内容をを確認し、自分のパートナーがどのような魅力を持ったペットが欲しいかをまとめてみましょう。</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="67217" identifier="1567adc0f5566c72022e5547370f8bbd" approved="yes">
+        <source>Then, they should use whatever materials are available to create a prototype of a pet their partner would like.</source>
+        <target>そして、どのような素材を使っても構わないので、ペットのプロトタイプをつくります。</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="67218" identifier="33cdf56f7ef83426cb45c1792dfcd195" approved="yes">
+        <source>We often ask students to sketch a few designs on paper first, then consult with their partner to see which aspects of those designs they find most appealing.</source>
+        <target>プロトタイプを作る前に、紙の上でいくつかスケッチをしてみて、その中でどれが魅力的なものかを自分のパートナーに聞いてみるといいでしょう。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="67219" identifier="92433f7404a1b660facaeab45e6a96f5" approved="yes">
+        <source>The purpose of prototyping is to gather more feedback to help you in your final design (“I like this part from Idea A, and I like this part from Idea B…”)</source>
+        <target>プロトタイプを作ることで、最終的なデザインをするにあたってより多くの情報、フィードバックを得ることができます（たとえば、「私はアイデアAのこの部分が好きで、アイデアBのこの部分が好き」といった具合に）。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="67220" identifier="a4e8bae2b208e0928e88ee73984929ef" approved="yes">
+        <source>Build a micro:pet that:</source>
+        <target>アイデアがまとまったら、micro:bitを使ってつくりはじめます。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="67221" identifier="014433eb3822de641950d5f9181499f0" approved="yes">
+        <source>Matches your partner’s needs</source>
+        <target>パートナーのニーズを満たしていること</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="67222" identifier="4c789a3ffca8facc8ef00306877f4ec7" approved="yes">
+        <source>Supports the micro:bit and its battery pack</source>
+        <target>micro:bitとバッテリーパックがきちんと装着されていること</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67223" identifier="583c3c52aef778616227640afa8ead9c" approved="yes">
+        <source>Allows you to easily access the micro:bit to turn it on and off</source>
+        <target>micro:bitに簡単にアクセスして電源をオン・オフに出来ること</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67224" identifier="cf9289fff024d3a01a08231047776e4b" approved="yes">
+        <source>Your design should use whatever materials are available to support the micro:bit so that its face is showing. You can be creative and decide how to mount the board, and how to decorate your critter.</source>
+        <target>micro:bitをサポートできるものであればどのような素材を使っても構いません。できる限りの創造力を使って、micro:bitをどうやって装着するか、そしてペットを作るかを考えてください。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="67225" identifier="3b5fb72a6c6c05538156eb1ebf668fe9" approved="yes">
+        <source>Think about the following questions when you construct it:</source>
+        <target>ペットをつくるときは次のような質問を活用するといいでしょう。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="67226" identifier="945a0afcf4a24ae846390e4bbfabbcbc" approved="yes">
+        <source>Will it be an animal? A plant? A robot? A bug?</source>
+        <target>ペットは動物？植物？ロボット？虫？</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="67227" identifier="90e65914b9dd14ad930b7107b9226c42" approved="yes">
+        <source>Will it have any moving parts?</source>
+        <target>動く部分がある？</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67228" identifier="700a0a871072142364c8ccb42b2374cd" approved="yes">
+        <source>If it moves, how can you hold the micro:bit securely?</source>
+        <target>もし動くのであれば、どうやってmicro:bitが落ちないようにできるか？</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67229" identifier="fb46a8e7ba09d8f38d1603a20397c6a8" approved="yes">
+        <source>Some photos of sample micro:pets below!</source>
+        <target>いくつかの例を下記に添付してあります。参考にしましょう。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="67230" identifier="0acf5e9594adab325256f1b038c1fa1b" translate="no" approved="yes">
+        <source>Ideas for Mods</source>
+        <target>改造のためのアイデア</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="67231" identifier="3f73c859479ea0fefe7052c2e8f2adcf" approved="yes">
+        <source>Find a way to make part of the animal move.</source>
+        <target>ペットの一部分を動かすことができるようにする方法を見つけましょう。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li</note>
+      </trans-unit>
+      <trans-unit id="67232" identifier="79580851ddc12d9dd98fc9cc80d3f69a" approved="yes">
+        <source>Give your animal a natural habitat.</source>
+        <target>ペットの住み家を作ってみましょう。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67233" identifier="90cf830f3bf46ee8d2aaabee9dae51c0" approved="yes">
+        <source>Create a way to carry your animal.</source>
+        <target>ペットを運べるようにしましょう。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67234" identifier="02a3b9a0fe839c25596e6c6f028578bb" approved="yes">
+        <source>Create an animal that reacts when you pet it or move it (find a way to detect when the micro:bit is moved or when its position changes in a certain way.)</source>
+        <target>ペットをかわいがっているときや動かしているときに反応するマイクロ：ペットを作ってみましょう。動いてるときや位置が変わったときにmicro:bitがそれを検知する方法を見つける必要があります。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="67235" identifier="35a761ebe21bdbe0cd8bb3d4e10efabc" translate="no" approved="yes">
+        <source>Reflection</source>
+        <target>ふりかえり</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="67236" identifier="245fc4f30adaeb814b12fdb457f532ce" translate="no" approved="yes">
+        <source>Have students write a reflection of about 150–300 words, addressing the following points:</source>
+        <target>以下の内容を含んだ、150-300字程度のレビューをまとめてみるよう、生徒に指示してください。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="67237" identifier="5b75520a186e2de4f5bb76cc840677a6" approved="yes">
+        <source>Summarize the feedback you got from your partner on your idea. How would you revise your design, if you were to go back and create another version?</source>
+        <target>あなたのアイデアについて、パートナーからどのようなフィードバックを得たか。また、それによってデザインを変更した場合は、どのようにフィードバックを活用したか？</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li</note>
+      </trans-unit>
+      <trans-unit id="67238" identifier="9cb8c4507dceb293482ddd15936a770e" approved="yes">
+        <source>What was it like to have someone designing a pet for you? Was it a pet you would have enjoyed? Why or why not? What advice did you give them that might help them redesign?</source>
+        <target>あなたが欲しかったペットだったか？ペットで楽しむことができましたか？また楽しめた（楽しめなかった）としたらその理由は？再設計するにあたって有益なアドバイスはありましたか？</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67239" identifier="87f40a436f1e4e0dc72ad9b30dc81ba8" approved="yes">
+        <source>What was it like to interview your partner? What was it like to be listened to?</source>
+        <target>インタビューはどうだったか？また、インタビューされたときはどうだったか？</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67240" identifier="efc21154498cf41e00b93677a01910bf" approved="yes">
+        <source>What was something that was surprising to you about the process of designing the micro:pet?</source>
+        <target>マイクロ：ペットをデザインするにあたって、何か驚いたこと、発見したことはあったか？</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="67241" identifier="6efb973d4a984cfde535953866fcc327" approved="yes">
+        <source>Describe a difficult point in the process of designing the micro:pet, and explain how you resolved it.</source>
+        <target>マイクロ：ペットをつくるにあたって難しかったことは？また、どうやって難しい問題を解決したか？</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[5]</note>
+      </trans-unit>
+      <trans-unit id="67242" identifier="263001cdded3737061bd645bfc1e6a22" approved="yes">
+        <source>Rubric</source>
+        <target>評価のポイント</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[4]</note>
+      </trans-unit>
+      <trans-unit id="67243" identifier="9bb577bbf8c91ca1ea528c4c3d48870c" approved="yes">
+        <source>For creative projects such as these, we normally don’t use a qualitative rubric to grade the creativity or the match with their partner’s needs.</source>
+        <target>今回のような創造性を活用するプロジェクトでは、評価にあたっては成果物のクオリティや、どれだけパートナーのニーズを満たしているかを評価するような方法は利用しません。</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="67244" identifier="5daf560f78445b6c04d62118941a187b" approved="yes">
+        <source>We just check to make sure that the micro:pet meets the required specifications:</source>
+        <target>マイクロ：ペットが以下の条件を満たしているかどうかだけを見て、評価してください。</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="67245" identifier="a982d699129c90b99c4f507d5939f9cc" approved="yes">
+        <source>Program properly downloaded to micro:bit</source>
+        <target>プログラムがmicro:bitにダウンロードできていること</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li</note>
+      </trans-unit>
+      <trans-unit id="67246" identifier="8e6bd6e1319ddfb9ee1af1a224f137f7" approved="yes">
+        <source>micro:bit supported so the face is showing</source>
+        <target>micro:bit上に顔アイコンが表示されている</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67247" identifier="5b5ae257b7a78c2339fa8a67c2a6a16c" approved="yes">
+        <source>micro:bit can be turned on and off without taking critter apart</source>
+        <target>作成したペットからmicro:bitを取り外さないでも電源のオン・オフができること</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67248" identifier="bd5b1b5598be822df3fd574be5b92558" approved="yes">
+        <source>Turned in notes on interview process</source>
+        <target>インタビューでメモした内容を活用できていること</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="67249" identifier="583ead509b7f555e5538d618993fed33" approved="yes">
+        <source>Written reflection (prompt is above)</source>
+        <target>自己レビューの内容</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[5]</note>
+      </trans-unit>
+      <trans-unit id="67250" identifier="d7d8eec22d4749455722c9c8255f051d" approved="yes">
+        <source>micro:pet Examples</source>
+        <target>マイクロ: ペットの例</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[5]</note>
+      </trans-unit>
+      <trans-unit id="67251" identifier="e3cb2085d39d379075a9691756b2a573" translate="no" approved="yes">
+        <source>/static/courses/csintro/making/micropet-dog.jpg</source>
+        <target>/static/courses/csintro/making/micropet-dog.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p[9]/l/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67252" identifier="825cbca236793e6bf5dc4c1383cff836" approved="yes">
+        <source>A dog micro:pet</source>
+        <target>A dog micro:pet</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[9]/l/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67253" identifier="357b1a381dc367f96c23a8602a282a3e" approved="yes">
+        <source>Dog</source>
+        <target>犬</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="67254" identifier="a30df025f83608dbb436910a0727b788" approved="yes">
+        <source>https://youtu.be/2ZCDB-a_uRY
+micro:pet Fish Tank</source>
+        <target>https://youtu.be/2ZCDB-a_uRY
+micro:pet Fish Tank</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="67255" identifier="425a5e6eb0b33542adeae20b168cf30d" translate="no" approved="yes">
+        <source>/static/courses/csintro/making/micropet-piggy-bank.jpg</source>
+        <target>/static/courses/csintro/making/micropet-piggy-bank.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p[11]/l/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67256" identifier="5880c0d11769c46b13fae52acac8e744" approved="yes">
+        <source>A piggy bank micro:pet</source>
+        <target>A piggy bank micro:pet</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[11]/l/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67257" identifier="35ec73a042667fc997c70b2da47fff7f" approved="yes">
+        <source>Pink Piggy</source>
+        <target>ピンクの豚</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="67258" identifier="7502b91d83f59dabd6ba915983072c62" translate="no" approved="yes">
+        <source>/static/courses/csintro/making/micropet-ladybug.jpg</source>
+        <target>/static/courses/csintro/making/micropet-ladybug.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p[12]/l/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67259" identifier="98e6af8cf0b518be73b727f8dc4fb2cc" approved="yes">
+        <source>A ladybug micro:pet</source>
+        <target>A ladybug micro:pet</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[12]/l/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67260" identifier="e0e68e8af56fc9a3630c7ea2bed7b55b" approved="yes">
+        <source>Ladybug</source>
+        <target>てんとう虫</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="67261" identifier="d2176fb236f2ec7b372161e6c1d61f28" translate="no" approved="yes">
+        <source>/static/courses/csintro/making/micropet-caterpillar.jpg</source>
+        <target>/static/courses/csintro/making/micropet-caterpillar.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p[13]/l/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67262" identifier="2ad35cc724b9e43c9337d68044222131" approved="yes">
+        <source>A caterpiller micro:pet</source>
+        <target>A caterpiller micro:pet
+</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[13]/l/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67263" identifier="c40aa33f70508de94907999dab566da6" approved="yes">
+        <source>Caterpillar</source>
+        <target>毛虫</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="67264" identifier="50134a3c49522cb75d4212978604595d" translate="no" approved="yes">
+        <source>/static/courses/csintro/making/micropet-fox.jpg</source>
+        <target>/static/courses/csintro/making/micropet-fox.jpg
+</target>
+        <note>Context: Image Source&#13;
+XPath: /p[14]/l/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67265" identifier="518474d3225d29dcab3fb4d10af7d0b9" approved="yes">
+        <source>A fox micro:pet</source>
+        <target>A fox micro:pet
+</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[14]/l/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67266" identifier="98959873fe63eece893d39379f79b4ea" approved="yes">
+        <source>Fox</source>
+        <target>きつね</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[14]</note>
+      </trans-unit>
+      <trans-unit id="67267" identifier="b9a9bb04f9f99d2602f0c78bb7eebebc" translate="no" approved="yes">
+        <source>/static/courses/csintro/making/micropet-robot.jpg</source>
+        <target>/static/courses/csintro/making/micropet-robot.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p[15]/l/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67268" identifier="f225f4dcb10a5fa48f9dbe2a6ebb71c1" approved="yes">
+        <source>A robot micro:pet</source>
+        <target>A robot micro:pet</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[15]/l/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67269" identifier="561bbb6cf37897f22f8558cb0879cd52" approved="yes">
+        <source>Robot</source>
+        <target>ロボット</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[15]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

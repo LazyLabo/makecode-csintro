@@ -1,0 +1,1021 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1813" original="/microbit/docs/courses/csintro/arrays/unplugged.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="64666" identifier="20b407448880c5f95b75b9a12659b33d">
+        <source>Unplugged: Different sorts of people</source>
+        <target state="needs-translation">Unplugged: Different sorts of people</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="64667" identifier="5e53c62ae0a9221c38e4a89896a6c46f">
+        <source>In this activity, you will demonstrate different kinds of sorting methods on your own students.</source>
+        <target state="needs-translation">In this activity, you will demonstrate different kinds of sorting methods on your own students.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="64668" identifier="a2fa7bc7f0cc637686454f6c8ff9854e">
+        <source>This is an unplugged activity, so your students will be standing at the front of the room.</source>
+        <target state="needs-translation">This is an unplugged activity, so your students will be standing at the front of the room.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="64669" identifier="dd5d38bf58aa56fcd4308c12ae9b1c9c">
+        <source>If you or your students are curious to see what these different sorts look like in code, we have included a MakeCode version of each algorithm in this lesson, for you to explore if you choose.</source>
+        <target state="needs-translation">If you or your students are curious to see what these different sorts look like in code, we have included a MakeCode version of each algorithm in this lesson, for you to explore if you choose.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="64670" identifier="ed2b1f74d311178851ed2f518013b140" translate="no">
+        <source> </source>
+        <target state="translated"> </target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="64671" identifier="6f8a503db7afc00765627e613e1ebbdc" translate="no">
+        <source>Materials</source>
+        <target>Materials</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="64672" identifier="f91441e0524a90680986ff24b69e5745">
+        <source>Sheets of paper numbered 1–10, one large printed number to a page</source>
+        <target state="needs-translation">Sheets of paper numbered 1–10, one large printed number to a page</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="64673" identifier="1758ac3eda0c325970c1969684c1ceb7">
+        <source>Set Up</source>
+        <target state="needs-translation">Set Up</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="64674" identifier="068fa311c4b120fde8066efe3130e240">
+        <source>Have up to ten students (the Sortees) stand up at the front of the classroom. Ask another student to volunteer to be the Sorter.</source>
+        <target state="needs-translation">Have up to ten students (the Sortees) stand up at the front of the classroom. Ask another student to volunteer to be the Sorter.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="64675" identifier="a8f15226384582e2e33cdd1321df49aa">
+        <source>Mix up the order of the papers and give each student a piece of paper with a number on it.</source>
+        <target state="needs-translation">Mix up the order of the papers and give each student a piece of paper with a number on it.</target>
+        <note>Context: XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64676" identifier="67b97abff3a0aeee27d0f60a731e37d6">
+        <source>They should hold the paper facing outward so their number is visible.</source>
+        <target state="needs-translation">They should hold the paper facing outward so their number is visible.</target>
+        <note>Context: XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64677" identifier="903913c15ccc9bdd99bbfc4cbe0b8fcd">
+        <source>Each of these students is like an element in an array.</source>
+        <target state="needs-translation">Each of these students is like an element in an array.</target>
+        <note>Context: XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64678" identifier="207170203fb08ca7f762768e7bbcb164" translate="no">
+        <source>/static/courses/csintro/arrays/sorts-people.png</source>
+        <target>/static/courses/csintro/arrays/sorts-people.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[2]/l/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="64679" identifier="d72573fb8a5d59d493874f00855da6ec">
+        <source>Illustration of line of students representing an array</source>
+        <target state="needs-translation">Illustration of line of students representing an array</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[2]/l/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="64680" identifier="bbb6aad3bb73db8b2b9abb0a16996e24" translate="no">
+        <source> </source>
+        <target state="translated"> </target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="64681" identifier="d48e5c040a2e9264d40e5e2930e62793">
+        <source>Initial Sort</source>
+        <target state="needs-translation">Initial Sort</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[4]</note>
+      </trans-unit>
+      <trans-unit id="64682" identifier="0a713275c810a15f6dd83c06f5e0067a">
+        <source>Ask the Sorter to place the students in order by directing them to move, one at a time, to the proper place.</source>
+        <target state="needs-translation">Ask the Sorter to place the students in order by directing them to move, one at a time, to the proper place.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li</note>
+      </trans-unit>
+      <trans-unit id="64683" identifier="9f14e2d411d935c0b3acbac73c0d3910">
+        <source>Once the students are sorted, ask students the following:</source>
+        <target state="needs-translation">Once the students are sorted, ask students the following:</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64684" identifier="d0a79c0b029a4f44a7e624a3aacc7578">
+        <source> How did she sort you into the right order?</source>
+        <target state="needs-translation"> How did she sort you into the right order?</target>
+        <note>Context: List Item&#13;
+XPath: /blockquote/ul/li</note>
+      </trans-unit>
+      <trans-unit id="64685" identifier="354209647367ba74f2f8028e9ad51bfc">
+        <source>Did you see a pattern?</source>
+        <target state="needs-translation">Did you see a pattern?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li</note>
+      </trans-unit>
+      <trans-unit id="64686" identifier="f9f40724396e7c3bce3b35bfc2ab027e">
+        <source>What did she do?
+ 
+Try to get students to be as precise as possible in explaining their thinking. Sometimes it helps to put the steps on the board, in an algorithm:</source>
+        <target state="needs-translation">What did she do?
+ 
+Try to get students to be as precise as possible in explaining their thinking. Sometimes it helps to put the steps on the board, in an algorithm:</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64687" identifier="bfc805d0a2aea0a97dcd8ad1ccd1e542">
+        <source>First, she went to the first student, then put him in the right place.</source>
+        <target state="needs-translation">First, she went to the first student, then put him in the right place.</target>
+        <note>Context: Text&#13;
+XPath: /ul[4]/li[3]/em</note>
+      </trans-unit>
+      <trans-unit id="64688" identifier="366fef002c0827c669a3953ac65ff46c">
+        <source>&lt;em&gt;Then she went to each of the next students and put them in the right place.&lt;/em&gt;
+ 
+Ask for clarification when necessary: &lt;em&gt;What does it mean when you say “put them in the right place”?&lt;/em&gt;
+ 
+&lt;em&gt;To Put Someone in the Right Place:&lt;/em&gt;</source>
+        <target state="needs-translation">&lt;em&gt;Then she went to each of the next students and put them in the right place.&lt;/em&gt;
+ 
+Ask for clarification when necessary: &lt;em&gt;What does it mean when you say “put them in the right place”?&lt;/em&gt;
+ 
+&lt;em&gt;To Put Someone in the Right Place:&lt;/em&gt;</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="64689" identifier="47be9745698583127c42113490d5e212">
+        <source>&lt;em&gt;Bring the person to the front of the line and then compare that person’s number with the first person’s number.</source>
+        <target state="needs-translation">&lt;em&gt;Bring the person to the front of the line and then compare that person’s number with the first person’s number.</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="64690" identifier="de831f704042dca0e39b6a9109c8b641">
+        <source>If it’s larger, then move that person to the right.</source>
+        <target state="needs-translation">If it’s larger, then move that person to the right.</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="64691" identifier="b1bb00f9c181565ab76184dc9a13d65f">
+        <source>K eep doing this as long as the person’s number is larger than the person on the right.&lt;/em&gt;
+ </source>
+        <target state="needs-translation">K eep doing this as long as the person’s number is larger than the person on the right.&lt;/em&gt;
+ </target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="64692" identifier="9c5f4d275779185731f0e6cfafa4e466">
+        <source>Some Different Types of Sorts</source>
+        <target state="needs-translation">Some Different Types of Sorts</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[5]</note>
+      </trans-unit>
+      <trans-unit id="64693" identifier="5f70285f8579a7f1b881bd3781c05dec">
+        <source>In computer science, there are certain common strategies, or algorithms, for sorting a collection of values. Try acting out each of these different sorts with your students.
+ </source>
+        <target state="needs-translation">In computer science, there are certain common strategies, or algorithms, for sorting a collection of values. Try acting out each of these different sorts with your students.
+ </target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="64694" identifier="d7c34c2c55a7f13dad24b06f8a8c47e0">
+        <source>Bubble Sort</source>
+        <target state="needs-translation">Bubble Sort</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3</note>
+      </trans-unit>
+      <trans-unit id="64695" identifier="051830ad5d829ad483fb9e19e50a529b">
+        <source>Compare the first two students.</source>
+        <target state="needs-translation">Compare the first two students.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="64696" identifier="90e6bc9ec17aeb37478fb6ff61d740b7">
+        <source>If the student on the right is smaller than the student on the left, they should swap places.</source>
+        <target state="needs-translation">If the student on the right is smaller than the student on the left, they should swap places.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="64697" identifier="7442ea2585440cc4f0d14ce6f2a7518f">
+        <source>Then compare the second and third students.</source>
+        <target state="needs-translation">Then compare the second and third students.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="64698" identifier="d5aa7345d8541b3359b9cf7163ba4a14" translate="no">
+        <source>If the student on the right is smaller than the student on the left, they should swap places.</source>
+        <target>If the student on the right is smaller than the student on the left, they should swap places.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="64699" identifier="379585e85cd62a1b694617ac7da78fe8">
+        <source>When you reach the end, start over at the beginning again.</source>
+        <target state="needs-translation">When you reach the end, start over at the beginning again.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="64700" identifier="6f20a44ca37a599f3669e38c590e4b32">
+        <source>Continue in this way until you make it through the entire row of students without swapping anybody.</source>
+        <target state="needs-translation">Continue in this way until you make it through the entire row of students without swapping anybody.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="64701" identifier="b047da8808ad62d413380030d9ccf944" translate="no">
+        <source> </source>
+        <target state="translated"> </target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="64702" identifier="23030bebac9164157baf535edac6e3af">
+        <source>In pseudocode:</source>
+        <target state="needs-translation">In pseudocode:</target>
+        <note>Context: Headline 4&#13;
+XPath: /h4</note>
+      </trans-unit>
+      <trans-unit id="64703" identifier="f86c71fa53e138e605e1900fe6fa051c">
+        <source>Create a variable called counter.</source>
+        <target state="needs-translation">Create a variable called counter.</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li</note>
+      </trans-unit>
+      <trans-unit id="64704" identifier="34733993b555bad6155ee715d50e5014">
+        <source>Set the counter to zero.</source>
+        <target state="needs-translation">Set the counter to zero.</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64705" identifier="2d7daf1e2c8abf1dc3abc19f8904f491">
+        <source>Go through the entire array.</source>
+        <target state="needs-translation">Go through the entire array.</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li[3]</note>
+      </trans-unit>
+      <trans-unit id="64706" identifier="e7560fa717299c85b1c25aae967452bb">
+        <source>If the value you are considering is greater than the value to its right:
+&gt;1. Swap them
+&gt;2. Add one to counter</source>
+        <target state="needs-translation">If the value you are considering is greater than the value to its right:
+&gt;1. Swap them
+&gt;2. Add one to counter</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li[4]</note>
+      </trans-unit>
+      <trans-unit id="64707" identifier="a14f8da17bc0049596c0100ef5f32b84" translate="no">
+        <source>/static/courses/csintro/arrays/bubble-sort.gif</source>
+        <target>/static/courses/csintro/arrays/bubble-sort.gif</target>
+        <note>Context: Image Source&#13;
+XPath: /ol/li[5]/r/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="64708" identifier="33340b5152ba8de3ecebc975ca1d3319">
+        <source>Bubble Sort Animation</source>
+        <target state="needs-translation">Bubble Sort Animation</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /ol/li[5]/r/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="64709" identifier="d15a7a8232e6902e12ec31e904869efb">
+        <source>Repeat steps 2 through 4 as long as counter is greater than zero.
+ 
+</source>
+        <target state="needs-translation">Repeat steps 2 through 4 as long as counter is greater than zero.
+ 
+</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li[5]</note>
+      </trans-unit>
+      <trans-unit id="64710" identifier="d70b1117fc2dbda9f389ed7ade9a0b6c">
+        <source>In MakeCode:</source>
+        <target state="needs-translation">In MakeCode:</target>
+        <note>Context: Headline 4&#13;
+XPath: /h4[2]</note>
+      </trans-unit>
+      <trans-unit id="64711" identifier="9310a0a7d5848d71f85fb4e4ea167a73">
+        <source>&lt;strong&gt;Note:&lt;/strong&gt; Press B to display the array visually.</source>
+        <target state="needs-translation">&lt;strong&gt;Note:&lt;/strong&gt; Press B to display the array visually.</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="64712" identifier="14478d2828a95254e704d5b0d896c49a">
+        <source>The length of each vertical bar represents each number in the array, from left to right.</source>
+        <target state="needs-translation">The length of each vertical bar represents each number in the array, from left to right.</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="64713" identifier="a1c307094dbb483803055b5a48feb974">
+        <source>Press A to sort the array using Bubble Sort.</source>
+        <target state="needs-translation">Press A to sort the array using Bubble Sort.</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="64714" identifier="6c01250ca065034815273cc320815c8a">
+        <source>Press A + B to generate new random numbers for the array.</source>
+        <target state="needs-translation">Press A + B to generate new random numbers for the array.</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="64715" identifier="5c101cb98062613701392d86065763a4">
+        <source>let temp = 0
+let row = 0
+let list: number[] = []
+let counter = 0
+let column = 0
+let index = 0
+input.onButtonPressed(Button.AB, () =&amp;gt; {
+    for (let index = 0; index &amp;lt;= 4; index++) {
+        list[index] = Math.random(5) + 1
+    }
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+    basic.clearScreen()
+    for (let column = 0; column &amp;lt;= 4; column++) {
+        row = 0
+        while (row &amp;lt; list[column]) {
+            led.plot(column, 4 - row)
+            row += 1
+        }
+    }
+})
+input.onButtonPressed(Button.A, () =&amp;gt; {
+    while (counter &amp;gt; 0) {
+        counter = 0
+        for (let index = 0; index &amp;lt;= 3; index++) {
+            if (list[index] &amp;gt; list[index + 1]) {
+                temp = list[index]
+                list[index] = list[index + 1]
+                list[index + 1] = temp
+                counter += 1
+            }
+            basic.clearScreen()
+            for (let column = 0; column &amp;lt;= 4; column++) {
+                row = 0
+                while (row &amp;lt; list[column]) {
+                    led.plot(column, 4 - row)
+                    row += 1
+                }
+                basic.pause(100)
+            }
+        }
+    }
+})
+basic.showLeds(`
+    # # # .</source>
+        <target state="needs-translation">let temp = 0
+let row = 0
+let list: number[] = []
+let counter = 0
+let column = 0
+let index = 0
+input.onButtonPressed(Button.AB, () =&amp;gt; {
+    for (let index = 0; index &amp;lt;= 4; index++) {
+        list[index] = Math.random(5) + 1
+    }
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+    basic.clearScreen()
+    for (let column = 0; column &amp;lt;= 4; column++) {
+        row = 0
+        while (row &amp;lt; list[column]) {
+            led.plot(column, 4 - row)
+            row += 1
+        }
+    }
+})
+input.onButtonPressed(Button.A, () =&amp;gt; {
+    while (counter &amp;gt; 0) {
+        counter = 0
+        for (let index = 0; index &amp;lt;= 3; index++) {
+            if (list[index] &amp;gt; list[index + 1]) {
+                temp = list[index]
+                list[index] = list[index + 1]
+                list[index + 1] = temp
+                counter += 1
+            }
+            basic.clearScreen()
+            for (let column = 0; column &amp;lt;= 4; column++) {
+                row = 0
+                while (row &amp;lt; list[column]) {
+                    led.plot(column, 4 - row)
+                    row += 1
+                }
+                basic.pause(100)
+            }
+        }
+    }
+})
+basic.showLeds(`
+    # # # .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="64716" identifier="b80ea443b72e752feb90e2b89d927d04" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="64717" identifier="ff1d4f6805f2b7271e34c2b46799b82d" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="64718" identifier="9e3e0fa6bb4555b32559df3aaa6aa4ff" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="64719" identifier="c2313bb699ef0be96ac687c3708dc06a" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="64720" identifier="d103fc7b3455b529e3a7f0cc0396190f" translate="no">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="64721" identifier="a97f8045a8489f5a8a814f21805157bd" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="64722" identifier="1bac7d157fa857b2a035abe57854dbfc" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="64723" identifier="95743bf03ab211c0fcd3cf296163be3c" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="64724" identifier="8acddae65bf998157ef10c529a7be813" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="64725" identifier="12d8ae9192ef7f923cf88e8167328daa" translate="no">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="64726" identifier="1f3532fdb61581533227da4a6665f1a1" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="64727" identifier="fe0b286898bec6168b04c391a27b6363">
+        <source>`)
+list = [4, 2, 5, 1, 3]
+counter = 1</source>
+        <target state="needs-translation">`)
+list = [4, 2, 5, 1, 3]
+counter = 1</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="64728" identifier="d2f05c60c758f43bfa0805436a329a55">
+        <source>Selection Sort</source>
+        <target state="needs-translation">Selection Sort</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[2]</note>
+      </trans-unit>
+      <trans-unit id="64729" identifier="49953a21d40f1d1f5fd8c48e7c2da9a5">
+        <source>Take the first student on the left and consider that person’s number the smallest number you have found so far.</source>
+        <target state="needs-translation">Take the first student on the left and consider that person’s number the smallest number you have found so far.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="64730" identifier="b38b3b43111614e8a1376ad67d952578">
+        <source>If the next person in line has a number that is smaller than that number, then make that person’s number your new smallest number and continue in this way until you reach the end of the line of students.</source>
+        <target state="needs-translation">If the next person in line has a number that is smaller than that number, then make that person’s number your new smallest number and continue in this way until you reach the end of the line of students.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="64731" identifier="788b96734a2295d66304c7e92cb27e08">
+        <source>Then, move the person with the smallest number all the way to the left.</source>
+        <target state="needs-translation">Then, move the person with the smallest number all the way to the left.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="64732" identifier="85594b18e60e5cc82c5b289c3555c449">
+        <source>Then start over from the second person in line.</source>
+        <target state="needs-translation">Then start over from the second person in line.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="64733" identifier="0acab1c088b9130e6bcead30a227bbbf">
+        <source>Keep going, finding the smallest number each time, and making that person the rightmost person in the sorted line of students.</source>
+        <target state="needs-translation">Keep going, finding the smallest number each time, and making that person the rightmost person in the sorted line of students.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="64734" identifier="df1a0a882b2c7a6ae1c417056835a1b5" translate="no">
+        <source> </source>
+        <target state="translated"> </target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="64735" identifier="5de4b94b9692191b07814c39c64e5715" translate="no">
+        <source>In pseudocode:</source>
+        <target>In pseudocode:</target>
+        <note>Context: Headline 4&#13;
+XPath: /h4[3]</note>
+      </trans-unit>
+      <trans-unit id="64736" identifier="97eb60c6c65cf2e4034eb76447e3a1f2">
+        <source>Find the smallest unsorted value in the array.</source>
+        <target state="needs-translation">Find the smallest unsorted value in the array.</target>
+        <note>Context: List Item&#13;
+XPath: /ol[2]/li</note>
+      </trans-unit>
+      <trans-unit id="64737" identifier="3793c756372f62dad27b57fb49bfb233">
+        <source>Swap that value with the first unsorted value in the array.</source>
+        <target state="needs-translation">Swap that value with the first unsorted value in the array.</target>
+        <note>Context: List Item&#13;
+XPath: /ol[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64738" identifier="7174064a897ab8c3eb16c6f99b684d6b">
+        <source>Repeat steps 1 and 2 while the number of unsorted items is greater than zero.</source>
+        <target state="needs-translation">Repeat steps 1 and 2 while the number of unsorted items is greater than zero.</target>
+        <note>Context: List Item&#13;
+XPath: /ol[2]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="64739" identifier="0f2c811d31871375d3fb7c81fd95e637" translate="no">
+        <source>/static/courses/csintro/arrays/selection-sort.gif</source>
+        <target>/static/courses/csintro/arrays/selection-sort.gif</target>
+        <note>Context: Image Source&#13;
+XPath: /p[8]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="64740" identifier="2735f467aacf2fee8aa4d5b7d4a4cf87">
+        <source>Selection Sort Animation</source>
+        <target state="needs-translation">Selection Sort Animation</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[8]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="64741" identifier="688240acb409037a01e92e6bf171544d" translate="no">
+        <source>In MakeCode:</source>
+        <target>In MakeCode:</target>
+        <note>Context: Headline 4&#13;
+XPath: /h4[4]</note>
+      </trans-unit>
+      <trans-unit id="64742" identifier="96d2aaf73144966d37167452ab6f324a">
+        <source>&lt;strong&gt;Note:&lt;/strong&gt; The inner loop gets smaller as the sorting algorithm runs because the number of unsorted items decreases as you go.</source>
+        <target state="needs-translation">&lt;strong&gt;Note:&lt;/strong&gt; The inner loop gets smaller as the sorting algorithm runs because the number of unsorted items decreases as you go.</target>
+        <note>Context: XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="64743" identifier="7e20ecae766f9a3b7d9f98ee1ab5fecc">
+        <source>The index that the inner loop starts at needs to change as the number of sorted items increases, which is why we have to use a separate counter (item) and compute j every time through the inner loop.</source>
+        <target state="needs-translation">The index that the inner loop starts at needs to change as the number of sorted items increases, which is why we have to use a separate counter (item) and compute j every time through the inner loop.</target>
+        <note>Context: XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="64744" identifier="96828c3cb19e698c911ddbd10e278e8a">
+        <source>let temp = 0
+let j = 0
+let min = 0
+let row = 0
+let list: number[] = []
+let item = 0
+let column = 0
+input.onButtonPressed(Button.B, () =&amp;gt; {
+    basic.clearScreen()
+    for (let column = 0; column &amp;lt;= 4; column++) {
+        row = 0
+        while (row &amp;lt; list[column]) {
+            led.plot(column, 4 - row)
+            row += 1
+        }
+    }
+})
+input.onButtonPressed(Button.AB, () =&amp;gt; {
+    for (let index = 0; index &amp;lt;= 4; index++) {
+        list[index] = Math.random(5) + 1
+    }
+})
+input.onButtonPressed(Button.A, () =&amp;gt; {
+    item = 1
+    for (let i = 0; i &amp;lt;= 3; i++) {
+        min = i
+        for (let inner = 0; inner &amp;lt;= 3 - i; inner++) {
+            j = inner + item
+            if (list[j] &amp;lt; list[min]) {
+                min = j
+            }
+        }
+        if (min != i) {
+            temp = list[min]
+            list[min] = list[i]
+            list[i] = temp
+        }
+        item += 1
+        basic.clearScreen()
+        for (let column = 0; column &amp;lt;= 4; column++) {
+            row = 0
+            while (row &amp;lt; list[column]) {
+                led.plot(column, 4 - row)
+                row += 1
+            }
+            basic.pause(100)
+        }
+    }
+})
+basic.showLeds(`
+    .</source>
+        <target state="needs-translation">let temp = 0
+let j = 0
+let min = 0
+let row = 0
+let list: number[] = []
+let item = 0
+let column = 0
+input.onButtonPressed(Button.B, () =&amp;gt; {
+    basic.clearScreen()
+    for (let column = 0; column &amp;lt;= 4; column++) {
+        row = 0
+        while (row &amp;lt; list[column]) {
+            led.plot(column, 4 - row)
+            row += 1
+        }
+    }
+})
+input.onButtonPressed(Button.AB, () =&amp;gt; {
+    for (let index = 0; index &amp;lt;= 4; index++) {
+        list[index] = Math.random(5) + 1
+    }
+})
+input.onButtonPressed(Button.A, () =&amp;gt; {
+    item = 1
+    for (let i = 0; i &amp;lt;= 3; i++) {
+        min = i
+        for (let inner = 0; inner &amp;lt;= 3 - i; inner++) {
+            j = inner + item
+            if (list[j] &amp;lt; list[min]) {
+                min = j
+            }
+        }
+        if (min != i) {
+            temp = list[min]
+            list[min] = list[i]
+            list[i] = temp
+        }
+        item += 1
+        basic.clearScreen()
+        for (let column = 0; column &amp;lt;= 4; column++) {
+            row = 0
+            while (row &amp;lt; list[column]) {
+                led.plot(column, 4 - row)
+                row += 1
+            }
+            basic.pause(100)
+        }
+    }
+})
+basic.showLeds(`
+    .</target>
+        <note>Context: XPath: /pre[2]/code</note>
+      </trans-unit>
+      <trans-unit id="64745" identifier="ad624198f826a5cdf0411c49cc59738f" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[2]/code</note>
+      </trans-unit>
+      <trans-unit id="64746" identifier="a9c88e94097c90ecf081ed0243f589d5" translate="no">
+        <source># # .</source>
+        <target># # .</target>
+        <note>Context: XPath: /pre[2]/code</note>
+      </trans-unit>
+      <trans-unit id="64747" identifier="3e398a5107cf7597d29f1a3df881b8e4" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[2]/code</note>
+      </trans-unit>
+      <trans-unit id="64748" identifier="5b3d9f52e913546fb53eca4d71d254c7" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[2]/code</note>
+      </trans-unit>
+      <trans-unit id="64749" identifier="3bff2699e716f2964bcc8ab70041e0b6" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[2]/code</note>
+      </trans-unit>
+      <trans-unit id="64750" identifier="d6c9e69a5fb57afba03f1bd7a180cdb2" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[2]/code</note>
+      </trans-unit>
+      <trans-unit id="64751" identifier="ea4a3ab1f87317e1f0e8d27df174a3ab" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[2]/code</note>
+      </trans-unit>
+      <trans-unit id="64752" identifier="efef1948294a16df9b98a065c625f10f" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[2]/code</note>
+      </trans-unit>
+      <trans-unit id="64753" identifier="96b72be079fef7e08e7776d5ea4ed186" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[2]/code</note>
+      </trans-unit>
+      <trans-unit id="64754" identifier="3ba3fc6ac42ce9d8cf145ba39c26de42" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[2]/code</note>
+      </trans-unit>
+      <trans-unit id="64755" identifier="bcf5d0b328ae74d627a9772a66fe5925" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[2]/code</note>
+      </trans-unit>
+      <trans-unit id="64756" identifier="aa080fde5da39696ab9da25d7784d08e" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[2]/code</note>
+      </trans-unit>
+      <trans-unit id="64757" identifier="e4f71fb2cc949d88560b4643ac129ee2" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[2]/code</note>
+      </trans-unit>
+      <trans-unit id="64758" identifier="cda8764309decc63c6e6704fdfac7816" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[2]/code</note>
+      </trans-unit>
+      <trans-unit id="64759" identifier="77a79eb32195cc51593c4f632aedccf7" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[2]/code</note>
+      </trans-unit>
+      <trans-unit id="64760" identifier="8c000ac4d1846775bb37ef8869cc36d6" translate="no">
+        <source># # .</source>
+        <target># # .</target>
+        <note>Context: XPath: /pre[2]/code</note>
+      </trans-unit>
+      <trans-unit id="64761" identifier="ee4369e642be6ad5a2b2d3d210791041" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[2]/code</note>
+      </trans-unit>
+      <trans-unit id="64762" identifier="973367a75250e1bddb5609110cfd30ec">
+        <source>`)
+list = []
+list = [4, 2, 5, 1, 3]
+min = 1</source>
+        <target state="needs-translation">`)
+list = []
+list = [4, 2, 5, 1, 3]
+min = 1</target>
+        <note>Context: XPath: /pre[2]/code</note>
+      </trans-unit>
+      <trans-unit id="64763" identifier="5837bdff7a9e805f6a1a0cd031c8a5e4">
+        <source>Insertion Sort</source>
+        <target state="needs-translation">Insertion Sort</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[3]</note>
+      </trans-unit>
+      <trans-unit id="64764" identifier="4a2bebd0db954498819e8590e5521099">
+        <source>Take the first student on the left and consider that person sorted.</source>
+        <target state="needs-translation">Take the first student on the left and consider that person sorted.</target>
+        <note>Context: XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="64765" identifier="fb931a97cdb21564fcd0e6a45306b98f">
+        <source>Next, take the next student and compare him to the first student in the sorted section.</source>
+        <target state="needs-translation">Next, take the next student and compare him to the first student in the sorted section.</target>
+        <note>Context: XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="64766" identifier="a344a28b81389bc4b04490bfa88b32e8">
+        <source>If he is greater than the first student, then place him to the right of the student in the sorted section.</source>
+        <target state="needs-translation">If he is greater than the first student, then place him to the right of the student in the sorted section.</target>
+        <note>Context: XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="64767" identifier="2a67f81f1fa6c5e67d70c83c4fdccb67">
+        <source>Otherwise, place him to the left of the student in the sorted section.</source>
+        <target state="needs-translation">Otherwise, place him to the left of the student in the sorted section.</target>
+        <note>Context: XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="64768" identifier="6edaa113b0950180bd7752886d95b8a8">
+        <source>Continue down the line, considering each student in turn and then moving from left to right along the students in the sorted section until you find the proper place for each student to go, shifting the other students to the right to make room.</source>
+        <target state="needs-translation">Continue down the line, considering each student in turn and then moving from left to right along the students in the sorted section until you find the proper place for each student to go, shifting the other students to the right to make room.</target>
+        <note>Context: XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="64769" identifier="a5ff5bc9946cffbf4ca1453e6853e931" translate="no">
+        <source> </source>
+        <target state="translated"> </target>
+        <note>Context: XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="64770" identifier="1e459227452dfd7ae1c7832e1d6ccc91" translate="no">
+        <source>In pseudocode:</source>
+        <target>In pseudocode:</target>
+        <note>Context: Headline 4&#13;
+XPath: /h4[5]</note>
+      </trans-unit>
+      <trans-unit id="64771" identifier="16dba9f4e99b4e17f434b3d75d943fb6">
+        <source>For each element in the unsorted section of the list, compare it against each element in the sorted section of the list until you find its proper place.</source>
+        <target state="needs-translation">For each element in the unsorted section of the list, compare it against each element in the sorted section of the list until you find its proper place.</target>
+        <note>Context: List Item&#13;
+XPath: /ol[3]/li</note>
+      </trans-unit>
+      <trans-unit id="64772" identifier="74e53f6d4293e4652eb1df163e78f5dd">
+        <source>Shift the other elements in the sorted list to the right to make room.</source>
+        <target state="needs-translation">Shift the other elements in the sorted list to the right to make room.</target>
+        <note>Context: List Item&#13;
+XPath: /ol[3]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64773" identifier="252f8ba39d379e2e8dd6e1e8084e9105">
+        <source>Insert the element into its proper place in the sorted list.</source>
+        <target state="needs-translation">Insert the element into its proper place in the sorted list.</target>
+        <note>Context: List Item&#13;
+XPath: /ol[3]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="64774" identifier="a00277cdd6977c537ac26101f6048e5a" translate="no">
+        <source>/static/courses/csintro/arrays/insertion-sort.gif</source>
+        <target>/static/courses/csintro/arrays/insertion-sort.gif</target>
+        <note>Context: Image Source&#13;
+XPath: /p[11]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="64775" identifier="33f58b0783bedc26be384644825c16bd">
+        <source>Insertion Sort Animation</source>
+        <target state="needs-translation">Insertion Sort Animation</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[11]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="64776" identifier="94741e528868793045936e5917fb8915" translate="no">
+        <source>In MakeCode:</source>
+        <target>In MakeCode:</target>
+        <note>Context: Headline 4&#13;
+XPath: /h4[6]</note>
+      </trans-unit>
+      <trans-unit id="64777" identifier="98097a70b3b4d0b5782050b513c9e49c">
+        <source>let j = 0
+let row = 0
+let element = 0
+let list: number[] = []
+input.onButtonPressed(Button.A, () =&amp;gt; {
+    for (let i = 0; i &amp;lt;= 4; i++) {
+        element = list[i]
+        j = i
+        while (j &amp;gt; 0 &amp;amp;&amp;amp; list[j - 1] &amp;gt; element) {
+            list[j] = list[j - 1]
+            j += -1
+            list[j] = element
+        }
+        basic.clearScreen()
+        for (let column2 = 0; column2 &amp;lt;= 4; column2++) {
+            row = 0
+            while (row &amp;lt; list[column2]) {
+                led.plot(column2, 4 - row)
+                row += 1
+            }
+            basic.pause(100)
+        }
+    }
+})
+input.onButtonPressed(Button.AB, () =&amp;gt; {
+    for (let index = 0; index &amp;lt;= 4; index++) {
+        list[index] = Math.random(5) + 1
+    }
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+    basic.clearScreen()
+    for (let column = 0; column &amp;lt;= 4; column++) {
+        row = 0
+        while (row &amp;lt; list[column]) {
+            led.plot(column, 4 - row)
+            row += 1
+        }
+    }
+})
+list = []
+basic.showLeds(`
+    .</source>
+        <target state="needs-translation">let j = 0
+let row = 0
+let element = 0
+let list: number[] = []
+input.onButtonPressed(Button.A, () =&amp;gt; {
+    for (let i = 0; i &amp;lt;= 4; i++) {
+        element = list[i]
+        j = i
+        while (j &amp;gt; 0 &amp;amp;&amp;amp; list[j - 1] &amp;gt; element) {
+            list[j] = list[j - 1]
+            j += -1
+            list[j] = element
+        }
+        basic.clearScreen()
+        for (let column2 = 0; column2 &amp;lt;= 4; column2++) {
+            row = 0
+            while (row &amp;lt; list[column2]) {
+                led.plot(column2, 4 - row)
+                row += 1
+            }
+            basic.pause(100)
+        }
+    }
+})
+input.onButtonPressed(Button.AB, () =&amp;gt; {
+    for (let index = 0; index &amp;lt;= 4; index++) {
+        list[index] = Math.random(5) + 1
+    }
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+    basic.clearScreen()
+    for (let column = 0; column &amp;lt;= 4; column++) {
+        row = 0
+        while (row &amp;lt; list[column]) {
+            led.plot(column, 4 - row)
+            row += 1
+        }
+    }
+})
+list = []
+basic.showLeds(`
+    .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64778" identifier="68485487926b30e8c2f23d740a58be17" translate="no">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64779" identifier="c1a9bc8eaaf158e5fc0d112d729f5430" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64780" identifier="e2dd913e26e80702f14fc5a47983840e" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64781" identifier="1f5cecfffefff8d07b1ca2c5cf5ca4dd" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64782" identifier="067219c418189cee85777be857fc176e" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64783" identifier="48c8dcda3df20a4049ea3fe9ec2648c5" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64784" identifier="ab5ea79dfe9c4e20d9697aa466bc64e2" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64785" identifier="77d4fe2ad2448225f0564081157eb807" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64786" identifier="d539fb9d84d1f98119722c3c64d56288" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64787" identifier="8895bf17dc7f9e9ab758ace4904e5a07" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64788" identifier="385ddbd3c374901123cf0a0419f6ec46" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64789" identifier="54d696fd33517289c72d46221899ba71" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64790" identifier="422fb1afce5b1d013413078da8e043a5" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64791" identifier="be9791d43654c0e3d36dd0364c572e6b" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64792" identifier="dd319dd6e56b9394447a280da4a331af" translate="no">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64793" identifier="db61a32463130b0a519f7a2e0e980ad8">
+        <source>`)
+list = []
+list = [4, 2, 5, 1, 3]
+j = 1</source>
+        <target state="needs-translation">`)
+list = []
+list = [4, 2, 5, 1, 3]
+j = 1</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64794" identifier="66d25e6d67ba49965c7b5bd57125bf24">
+        <source>Sidebar</source>
+        <target state="needs-translation">Sidebar</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[6]</note>
+      </trans-unit>
+      <trans-unit id="64795" identifier="51c47f38a4871b18e412bd1dcb99a1e4">
+        <source>In 2008, Illinois Senator Barack Obama was interviewed by Google’s CEO Eric Schmidt, who asks him a computer science interview question. Watch as the interview doesn’t go exactly as planned…</source>
+        <target state="needs-translation">In 2008, Illinois Senator Barack Obama was interviewed by Google’s CEO Eric Schmidt, who asks him a computer science interview question. Watch as the interview doesn’t go exactly as planned…</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="64796" identifier="24e679f640c46bb243fc3cb923a519dd">
+        <source>https://www.youtube.com/watch?v=k4RRi_ntQc8
+&lt;a href=&quot;https://www.youtube.com/watch?v=k4RRi_ntQc8&quot;&gt;Barack Obama interviewed by Eric Schmidt&lt;/a&gt;</source>
+        <target state="needs-translation">https://www.youtube.com/watch?v=k4RRi_ntQc8
+&lt;a href=&quot;https://www.youtube.com/watch?v=k4RRi_ntQc8&quot;&gt;Barack Obama interviewed by Eric Schmidt&lt;/a&gt;</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[13]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

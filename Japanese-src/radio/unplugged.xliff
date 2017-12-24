@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1875" original="/microbit/docs/courses/csintro/radio/unplugged.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="67890" identifier="9a8db3c62775c97488319b89a51f072c">
+        <source>Unplugged: Infection Simulation</source>
+        <target state="needs-translation">Unplugged: Infection Simulation</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="67891" identifier="9668fc7be0b9c3ae2fdc0e26e5b3aeaf">
+        <source>For this activity, each student will need a micro:bit and battery pack, as well as the teacher who will be the Master controller.
+ 
+There are four parts to this unplugged activity:</source>
+        <target state="needs-translation">For this activity, each student will need a micro:bit and battery pack, as well as the teacher who will be the Master controller.
+ 
+There are four parts to this unplugged activity:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="67892" identifier="12bb1326a7c929f4caeb27ed2b75101e">
+        <source>Setup: Set up the code on all micro:bits</source>
+        <target state="needs-translation">Setup: Set up the code on all micro:bits</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="67893" identifier="4822e01e30db309e56c1674b7cd92220">
+        <source>Explore: Let students experience the game first</source>
+        <target state="needs-translation">Explore: Let students experience the game first</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67894" identifier="e1bf38309daeff9fac1f491641dc3e9f">
+        <source>Discuss: Talk about observations, theories, propose strategies</source>
+        <target state="needs-translation">Discuss: Talk about observations, theories, propose strategies</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67895" identifier="505c21409abdcbe8a3790428a05bd6cc">
+        <source>Test: Play again, testing different strategies and approaches for containing outbreak
+ 
+The goals of this activity are:</source>
+        <target state="needs-translation">Test: Play again, testing different strategies and approaches for containing outbreak
+ 
+The goals of this activity are:</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[4]</note>
+      </trans-unit>
+      <trans-unit id="67896" identifier="c787128bbdff54d17321debc94a66e43">
+        <source>Develop a common working vocabulary for talking about disease spread</source>
+        <target state="needs-translation">Develop a common working vocabulary for talking about disease spread</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[5]</note>
+      </trans-unit>
+      <trans-unit id="67897" identifier="405f20ea1e2e08c94980cd8707d11327">
+        <source>Make inferences based on observation</source>
+        <target state="needs-translation">Make inferences based on observation</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[6]</note>
+      </trans-unit>
+      <trans-unit id="67898" identifier="636f8de8c7fad89944bdd41f3e290a15">
+        <source>Propose and test original hypotheses to explain complex behavior</source>
+        <target state="needs-translation">Propose and test original hypotheses to explain complex behavior</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[7]</note>
+      </trans-unit>
+      <trans-unit id="67899" identifier="cae5aaaa2eb7fbd3544f26b215f21e07">
+        <source>Explore a professionally developed micro:bit simulation
+ </source>
+        <target state="needs-translation">Explore a professionally developed micro:bit simulation
+ </target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[8]</note>
+      </trans-unit>
+      <trans-unit id="67900" identifier="eaefa3b65e418e843e1ccbf8736be64e" translate="no">
+        <source>/static/courses/csintro/radio/biohazard.png</source>
+        <target>/static/courses/csintro/radio/biohazard.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[2]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67901" identifier="da9e74c5d187384689dfb55e97091f23">
+        <source>Biohazard symbol</source>
+        <target state="needs-translation">Biohazard symbol</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[2]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67902" identifier="da4cdec33e84190030b434385515d8d9">
+        <source>Setup</source>
+        <target state="needs-translation">Setup</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="67903" identifier="f040d6bd06034807438e519499950064">
+        <source>This site is the home page for the Infection game: &lt;a href=&quot;/projects/infection&quot;&gt;Infection&lt;/a&gt;.</source>
+        <target state="needs-translation">This site is the home page for the Infection game: &lt;a href=&quot;/projects/infection&quot;&gt;Infection&lt;/a&gt;.</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="67904" identifier="670e69fd24954d5ea29b1360f9992707">
+        <source> 
+On that page you should be able to copy the JavaScript code, then go to your MakeCode JavaScript editor and paste the JavaScript code into the window.</source>
+        <target state="needs-translation"> 
+On that page you should be able to copy the JavaScript code, then go to your MakeCode JavaScript editor and paste the JavaScript code into the window.</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="67905" identifier="6c0b683fa746e9a42f8c3026c53434ae">
+        <source> 
+Then click the Download button to download this program onto your micro:bit.</source>
+        <target state="needs-translation"> 
+Then click the Download button to download this program onto your micro:bit.</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="67906" identifier="8ed1d34ba3bf74b977918d7dc4c2a3f6">
+        <source>This code should be downloaded onto all of your students’ micro:bits as well as your own.</source>
+        <target state="needs-translation">This code should be downloaded onto all of your students’ micro:bits as well as your own.</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="67907" identifier="4e787a1da634d07b16e258acd9ca4872">
+        <source> 
+This activity works best in an open area.</source>
+        <target state="needs-translation"> 
+This activity works best in an open area.</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="67908" identifier="6bb3da82530c9a727f0a408aedfc067d">
+        <source>If it’s possible to go outside, that works even better!</source>
+        <target state="needs-translation">If it’s possible to go outside, that works even better!</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="67909" identifier="bd39bd1f7b0b68336fb037b838d893da">
+        <source>To set up the game, the teacher should press the A + B buttons on his or her device.</source>
+        <target state="needs-translation">To set up the game, the teacher should press the A + B buttons on his or her device.</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="67910" identifier="0de3a713ebd217632944cfa96f0ea1a5">
+        <source>This will register all of the student devices and establish the teacher’s micro:bit as the Master device.</source>
+        <target state="needs-translation">This will register all of the student devices and establish the teacher’s micro:bit as the Master device.</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="67911" identifier="5d6374aa03b4e421dd247dd23a1b8b50" translate="no">
+        <source> </source>
+        <target state="translated"> </target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="67912" identifier="8ea8f1460f91440d803be77e213f0160">
+        <source>Explore</source>
+        <target state="needs-translation">Explore</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="67913" identifier="9145e6583e5d018b1158d7cc539ca20e">
+        <source>In this phase, students should just play the game to get a feel for how it works.</source>
+        <target state="needs-translation">In this phase, students should just play the game to get a feel for how it works.</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="67914" identifier="e3f112232d110409c260fc235d479165">
+        <source>The object of the game is to meet as many people as possible without getting sick.</source>
+        <target state="needs-translation">The object of the game is to meet as many people as possible without getting sick.</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="67915" identifier="7ce73b28003ff66194583ad594f44945">
+        <source>If at any time players decide to stop meeting people, they should sit down and cover their micro:bit.</source>
+        <target state="needs-translation">If at any time players decide to stop meeting people, they should sit down and cover their micro:bit.</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="67916" identifier="161e8e7d1d216cb33f377cd88067309f">
+        <source> 
+To start the game, students should take their devices and spread out.</source>
+        <target state="needs-translation"> 
+To start the game, students should take their devices and spread out.</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="67917" identifier="0e23a8d8ec574ba89b7f339274a4ebee">
+        <source>When everyone is ready to begin, the teacher should press the A + B buttons again.</source>
+        <target state="needs-translation">When everyone is ready to begin, the teacher should press the A + B buttons again.</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="67918" identifier="71723706046f133710f3bae31c9e9e5a">
+        <source>All of the student devices will show a unique player icon.</source>
+        <target state="needs-translation">All of the student devices will show a unique player icon.</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="67919" identifier="fa76c836ccca81a73eb6d5b0ca4c6de6">
+        <source> 
+One of the players is randomly chosen to have a virus that is transmitted when they meet other players.</source>
+        <target state="needs-translation"> 
+One of the players is randomly chosen to have a virus that is transmitted when they meet other players.</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="67920" identifier="f76697197484bb64d5e9dacc17d55a63">
+        <source>Players can meet each other by going up to another player and placing the two devices next to each other.</source>
+        <target state="needs-translation">Players can meet each other by going up to another player and placing the two devices next to each other.</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="67921" identifier="f09fb9aa7f7d8cf5f6ad60b1e350ba22">
+        <source>Players who are healthy, or who are infected but are not showing symptoms yet, will have a smile.</source>
+        <target state="needs-translation">Players who are healthy, or who are infected but are not showing symptoms yet, will have a smile.</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="67922" identifier="87b8c9351c7448acfd8b55c8e2cedd58">
+        <source>Once a player is sick, their micro:bit will display a frowny face.</source>
+        <target state="needs-translation">Once a player is sick, their micro:bit will display a frowny face.</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="67923" identifier="6fdebe49650ce969e1f6d4ddd2334941">
+        <source> 
+After a certain period of time being sick, the player dies and the micro:bit will display a skull icon.</source>
+        <target state="needs-translation"> 
+After a certain period of time being sick, the player dies and the micro:bit will display a skull icon.</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="67924" identifier="0b27c8178ba0034a7452961a999d6c59">
+        <source>That player should sit down and wait for the game to end, when all players are dead or the virus stops spreading.</source>
+        <target state="needs-translation">That player should sit down and wait for the game to end, when all players are dead or the virus stops spreading.</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="67925" identifier="0dfc556b8e5935c6ad4033da36fa3c9a" translate="no">
+        <source> </source>
+        <target state="translated"> </target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="67926" identifier="60e7461e9db2ee75e8f759375b0f87b2">
+        <source>Discuss</source>
+        <target state="needs-translation">Discuss</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[4]</note>
+      </trans-unit>
+      <trans-unit id="67927" identifier="60d608ef3ed7052e51c90f9be84a5a22">
+        <source>After one round, it is good to have a discussion with the players:</source>
+        <target state="needs-translation">After one round, it is good to have a discussion with the players:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="67928" identifier="391c682426d0f51bb5e6526b424f22f0">
+        <source>Did anyone manage to stay healthy? If so, how? If not, why not?</source>
+        <target state="needs-translation">Did anyone manage to stay healthy? If so, how? If not, why not?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="67929" identifier="bc13f298bec09602f941866f0654cfe6">
+        <source>How do you think the disease spread?</source>
+        <target state="needs-translation">How do you think the disease spread?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67930" identifier="ddf6412a9481aea8f540d1a848b2d6fc">
+        <source>Who do you think started it?</source>
+        <target state="needs-translation">Who do you think started it?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67931" identifier="78b0aff3315d1365fdffafa9453d55c7">
+        <source>What could we do to find out?</source>
+        <target state="needs-translation">What could we do to find out?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="67932" identifier="5271f150c6852a3e9615152519fa358e">
+        <source>What strategies might we adopt next time, to have a better outcome?
+ </source>
+        <target state="needs-translation">What strategies might we adopt next time, to have a better outcome?
+ </target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[5]</note>
+      </trans-unit>
+      <trans-unit id="67933" identifier="f0f4a7f3c28b29c224867dc5920bde4c">
+        <source>Test</source>
+        <target state="needs-translation">Test</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[5]</note>
+      </trans-unit>
+      <trans-unit id="67934" identifier="0cf779509147706f80ef705b8104d144">
+        <source>Play the game one more time, or more depending on available time, and attempt to test some of the theories students came up with.</source>
+        <target state="needs-translation">Play the game one more time, or more depending on available time, and attempt to test some of the theories students came up with.</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="67935" identifier="2aeb3bb2689546e656837c0a1bd7a07f">
+        <source>* What strategies worked well?</source>
+        <target state="needs-translation">* What strategies worked well?</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="67936" identifier="1c9d909282814a51836f0ca7c459a992">
+        <source>* Which strategies seemed like a good idea at the time, but in practice, were less effective?</source>
+        <target state="needs-translation">* Which strategies seemed like a good idea at the time, but in practice, were less effective?</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="67937" identifier="31340a6cc228d2e35e01814c187eae16">
+        <source>Why?</source>
+        <target state="needs-translation">Why?</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="67938" identifier="1b2a36a25a60e77d8a92a9a370add93d">
+        <source>* Are there any real-world situations that this might remind you of?</source>
+        <target state="needs-translation">* Are there any real-world situations that this might remind you of?</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="67939" identifier="158e69e7064d238ec220c3a7ea509ab7" translate="no">
+        <source> </source>
+        <target state="translated"> </target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="67940" identifier="6fd4f2620e97dcc640393aa184cf1c1e">
+        <source>Vocabulary</source>
+        <target state="needs-translation">Vocabulary</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[6]</note>
+      </trans-unit>
+      <trans-unit id="67941" identifier="f075a8fcdefc3802c7d886cdd1339369">
+        <source>As students talk through their theories, they will often talk about a scientific idea without knowing the specific word for it.</source>
+        <target state="needs-translation">As students talk through their theories, they will often talk about a scientific idea without knowing the specific word for it.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="67942" identifier="443aca2130dcb1ef6d360f0016354029">
+        <source>This presents a nice opportunity, once students have surfaced an idea, to give it a proper name so that you can start to develop a common working vocabulary for talking about the problem.</source>
+        <target state="needs-translation">This presents a nice opportunity, once students have surfaced an idea, to give it a proper name so that you can start to develop a common working vocabulary for talking about the problem.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="67943" identifier="da7cc3edd9de5ff0c3cd890495ce6026">
+        <source> 
+Here are some common terms that come up in discussion:
+* Asymptomatic: Someone who has the virus but is not showing outward symptoms of being sick.</source>
+        <target state="needs-translation"> 
+Here are some common terms that come up in discussion:
+* Asymptomatic: Someone who has the virus but is not showing outward symptoms of being sick.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="67944" identifier="b0cd6b03523860df09c282503aa18c2f">
+        <source>* Carrier: Someone who has the virus and can transmit it to others.</source>
+        <target state="needs-translation">* Carrier: Someone who has the virus and can transmit it to others.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="67945" identifier="40b4d48559dcf37a0cbdcf59676dda39">
+        <source>* Immunity: Someone who cannot contract or transmit the virus.</source>
+        <target state="needs-translation">* Immunity: Someone who cannot contract or transmit the virus.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="67946" identifier="25fe92c1a9bc0ea143778656b41eae51">
+        <source>* Incubation: The period of time between when a person contracts the virus and when the person starts to show symptoms of being sick.</source>
+        <target state="needs-translation">* Incubation: The period of time between when a person contracts the virus and when the person starts to show symptoms of being sick.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="67947" identifier="2ad0fe7fa04a456686275ab7bf2d75ab">
+        <source>* Inoculation: Make someone immune to the virus.</source>
+        <target state="needs-translation">* Inoculation: Make someone immune to the virus.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="67948" identifier="b718e9b23f6da06db7aecf6a64775e61">
+        <source>* Patient Zero: The first person to introduce a virus to a community.</source>
+        <target state="needs-translation">* Patient Zero: The first person to introduce a virus to a community.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="67949" identifier="6b75013718ed11b71f620fe636a1def9">
+        <source>* Quarantine: A strategy to isolate those who are suspected of carrying a virus
+ </source>
+        <target state="needs-translation">* Quarantine: A strategy to isolate those who are suspected of carrying a virus
+ </target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="67950" identifier="e23e7bedcaaf1a56234b0e90840f13ee" translate="no" approved="yes">
+        <source>Reference</source>
+        <target>リファレンス</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[7]</note>
+      </trans-unit>
+      <trans-unit id="67951" identifier="5c1bf4b18802b8cd95bc04c849869e2f">
+        <source>This game is a distributed simulation of a viral outbreak.</source>
+        <target state="needs-translation">This game is a distributed simulation of a viral outbreak.</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="67952" identifier="9c2c2f53caaf2ce1c75e788aeeb605b0">
+        <source>It is modeled after the Thinking Tags participatory simulations developed at MIT Media Lab.</source>
+        <target state="needs-translation">It is modeled after the Thinking Tags participatory simulations developed at MIT Media Lab.</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="67953" identifier="0dfb30ea40f0aa55cce5758c0e6542cb">
+        <source>Participatory Simulations have been found to enhance student understanding of complex dynamic relationships, inquiry skills, and scientific understanding.</source>
+        <target state="needs-translation">Participatory Simulations have been found to enhance student understanding of complex dynamic relationships, inquiry skills, and scientific understanding.</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="67954" identifier="4ee1b312ace5454d0c3dda193f972b5a">
+        <source>(Colella, V.</source>
+        <target state="needs-translation">(Colella, V.</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="67955" identifier="f97a1652bcd2cbfe4a1dc3b55737a0c2">
+        <source>(2000).</source>
+        <target state="needs-translation">(2000).</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="67956" identifier="f189d18b40fbe28b8723c477b0b2cf57">
+        <source>Participatory Simulations: Building Collaborative Understanding Through Immersive Dynamic Modeling.</source>
+        <target state="needs-translation">Participatory Simulations: Building Collaborative Understanding Through Immersive Dynamic Modeling.</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="67957" identifier="ad99ac0c92467b32f5a6e8fd01473d38">
+        <source>&lt;em&gt;Journal of the Learning Sciences, 9(4), 471–500.&lt;/em&gt; http://dx.doi.org/10.1207/S15327809JLS0904_4)</source>
+        <target state="needs-translation">&lt;em&gt;Journal of the Learning Sciences, 9(4), 471–500.&lt;/em&gt; http://dx.doi.org/10.1207/S15327809JLS0904_4)</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

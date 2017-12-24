@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1824" original="/microbit/docs/courses/csintro/booleans/overview.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="65314" identifier="913f6422d41f0413a2feb499068e4895" translate="no">
+        <source>Introduction</source>
+        <target>Introduction</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="65315" identifier="eec85ac5d0fadf682c347c2bbb13802f">
+        <source>There are several different data types used in computer programming. We have already used two of these types:</source>
+        <target state="translated">コンピューター プログラミングでは、いくつかの異なるデータ型があります。わたしたちは、すでに以下の2 つの型を使用しています。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="65316" identifier="91337c9352d5366eb8760a7f4ee466de">
+        <source>&lt;a href=&quot;/types/string&quot;&gt;String&lt;/a&gt; (for text)</source>
+        <target state="translated">&lt;a href=&quot;/types/string&quot;&gt;文字列型&lt;/a&gt; (文字を扱う)</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="65317" identifier="4a698802650403b8d9a748e59dc123b8">
+        <source>&lt;a href=&quot;/types/number&quot;&gt;Integer&lt;/a&gt; (for numbers)</source>
+        <target state="translated">&lt;a href=&quot;/types/number&quot;&gt;整数型&lt;/a&gt; (数字を扱う)</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65318" identifier="c489358cbd540018b4dae3dc48f5b044">
+        <source>Boolean is another type of data.</source>
+        <target state="translated">ブール型はこれらとは別のデータ型です。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="65319" identifier="b24bfdcb3b56b07ef60a39a7cb9100a8">
+        <source>A boolean data type has only two values: true or false.</source>
+        <target state="translated">ブール型では 2 つの値を扱います: true(真) または false(偽)。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="65320" identifier="c86565016764351597b72407ab68d69c">
+        <source>In true binary fashion, these two values can be represented by the numbers 1 = true, and 0 = false.</source>
+        <target state="translated">二進数として、1 = True(真)と0 = false(偽)というこれらの２つの値で表すことができます。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="65321" identifier="44505be61ab5a7917476b2338eecf9ed">
+        <source> 
+Booleans are useful in programming for decision-making, often deciding when certain functions and parts of programs should start or stop running and are also used in database searches.</source>
+        <target state="translated">ブール型は、特定の機能やプログラミングのパーツがはじめるべきか止めるべきかの意思決定のためのプログラミングやデータベース検索で使われれるプログラミングで重宝されます。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="65322" identifier="2fb5cdc32dd8186cbb5637f7a021da9f">
+        <source> 
+Ask the students to think of things in daily life that have only two values or states.</source>
+        <target state="translated">日常生活の中で、２つだけの値や状態で物事を考えることについて生徒にきいてみましょう。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="65323" identifier="b9bd9222318219438072434ace730d1a">
+        <source>The status is always one value or the other value.</source>
+        <target state="translated">状態は、常に二種類の値で表すことができます。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="65324" identifier="25a6e627bfd7fcc5a929c9df620bccb1">
+        <source> 
+Examples of Booleans in daily life</source>
+        <target state="translated">以下は、日常生活のブール型の例です。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="65325" identifier="c170865133758d0dde325cb7fac82f9c">
+        <source>Lights: On or Off</source>
+        <target state="translated">電気：オン/オフ</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="65326" identifier="bc8a208aeb244e6dacdaa96882e29a7b">
+        <source>Time: AM or PM</source>
+        <target state="translated">時間：午前/午後</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65327" identifier="b77fac74f793afd69f47a84de1c32dfe">
+        <source>You!: Asleep or Awake</source>
+        <target state="translated">あなた！：寝てる/起きてる</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="65328" identifier="c49ad1a4cdacffd14f29ca129051b0a8">
+        <source>Weather: Raining or Not Raining</source>
+        <target state="translated">天気：雨/雨じゃない</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="65329" identifier="12b88c82e5a803d1c67d60ab9681d1ef">
+        <source>Math: Equal to or Not Equal to</source>
+        <target state="translated">算数：等しい/等しくない</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[5]</note>
+      </trans-unit>
+      <trans-unit id="65330" identifier="6d71d4588d9d0b5c355d468238ddb0d8">
+        <source>Game: Truth or Dare</source>
+        <target state="translated">ゲーム：真実/挑戦(Truth or Dareというゲームの名前から)</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[6]</note>
+      </trans-unit>
+      <trans-unit id="65331" identifier="cbfca2c6f4b816c0dc37f5aebb55f30f">
+        <source>Soda: Coke or Pepsi</source>
+        <target state="translated">ソーダ：コカ・コーラ/ペプシ</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[7]</note>
+      </trans-unit>
+      <trans-unit id="65332" identifier="54faac0ba56790d3ff1e49471082dcd3">
+        <source>At the store: Paper or Plastic?</source>
+        <target state="translated">お店のレジで：紙袋かビニール袋のどちらにしますか？</target>
+        <note>Context: XPath: /ul[2]/li[8]</note>
+      </trans-unit>
+      <trans-unit id="65333" identifier="0f10d2f9bea56259a4980808044e30a4">
+        <source>Cash or Credit?</source>
+        <target state="translated">お支払いは現金ですか、それともクレジットカードですか？</target>
+        <note>Context: XPath: /ul[2]/li[8]</note>
+      </trans-unit>
+      <trans-unit id="65334" identifier="5300ff44af0d86ca6ad8bd0d132e8a53">
+        <source>Chip or Swipe?</source>
+        <target state="translated">クレジットカードはICチップ搭載ですか、それともICチップ非搭載ですか？</target>
+        <note>Context: XPath: /ul[2]/li[8]</note>
+      </trans-unit>
+      <trans-unit id="65335" identifier="5232da9cb18e101c4811349bfa648bca">
+        <source> 
+Note:
+Arguments can be made that some of these can have more than two values.</source>
+        <target state="translated">注: これらのいくつかは 2 つ以上の値を持つことができます。</target>
+        <note>Context: XPath: /ul[2]/li[8]</note>
+      </trans-unit>
+      <trans-unit id="65336" identifier="1f5e622f8c46ce25761c090a00f3018a">
+        <source>For example: At the store, you may have brought your own reusable bags or pay by check.</source>
+        <target state="translated">たとえば: お店のレジでは、あなたはエコバックを持っていくこともできますし、支払いに商品券を使って支払いすることもできますね。</target>
+        <note>Context: XPath: /ul[2]/li[8]</note>
+      </trans-unit>
+      <trans-unit id="65337" identifier="dcf00885ab567073884a7dfceb65c230">
+        <source>Let the students discuss these to help them hone in on which examples best represent Booleans.</source>
+        <target state="translated">生徒の議論を助けるために、一番良いブール型の例について焦点を合わせましょう。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="65338" identifier="da7021a439ab4b4e0d98c88b636ca410">
+        <source>A student might argue that a dimmer switch on a light or the brightness value on the micro:bit LEDs allow the lights to be in a state between on and off.</source>
+        <target state="translated">ある生徒は、光を照明調整のスイッチや micro:bit のLEDの輝度値がオンとオフの間で調整できることを主張するかもしれません。</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="65339" identifier="aa412ca398544cf32ac1486704f2ee96">
+        <source>One could respond that you can classify ‘on’ as the state where any electricity at all is running through the bulb (on) versus no electricity at all (off).</source>
+        <target state="translated">1 つは 'オン' を任意の電気が通電している (オン)状態と電気が (オフ) 状態として分類できる、と回答することができます。</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="65340" identifier="b3bdaff2439bab804607be8e920cba79">
+        <source> 
+In programming, if you have worked with conditionals or loops, you have already worked with this type of logic:</source>
+        <target state="translated">プログラミングでは、もし条件文やループを使ったことがあるならば、もうすでにこのタイプのロジックを使っています：</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="65341" identifier="3512f9539ac9d77c84cbe36d1d84f855">
+        <source>If a certain condition is true, do this, otherwise (if condition is false), do something else.</source>
+        <target state="translated">もし[If] 特定の条件が true（真） の場合はこれを実行し、それ以外の場合 (false(偽))は、[else]を実行する。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li</note>
+      </trans-unit>
+      <trans-unit id="65342" identifier="d22277b57c3f47fe9148b3a59dc482cf">
+        <source>While a certain condition is true, do this
+ 
+Boolean Operators: AND, OR, and NOT
+To make working with Booleans useful for solving more complex decisions and searches, we can connect two or more Booleans into one decision statement.</source>
+        <target state="needs-translation">While a certain condition is true, do this
+ 
+Boolean Operators: AND, OR, and NOT
+To make working with Booleans useful for solving more complex decisions and searches, we can connect two or more Booleans into one decision statement.</target>
+        <note>Context: XPath: /ul[3]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65343" identifier="fd2711d1d4582b25f3983ac3a192fa5f">
+        <source>To do this, we use what are known as Boolean operators.</source>
+        <target state="needs-translation">To do this, we use what are known as Boolean operators.</target>
+        <note>Context: XPath: /ul[3]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65344" identifier="9d15bc5fa9eef229ad63d614658c55a7">
+        <source>The three most common and the ones we will use with the micro:bit are And, Or, and Not.</source>
+        <target state="needs-translation">The three most common and the ones we will use with the micro:bit are And, Or, and Not.</target>
+        <note>Context: XPath: /ul[3]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65345" identifier="84d53ffe6a2a9f9701c1155e58f1fefe">
+        <source>These operators can be used in conditionals and loops, like so:</source>
+        <target state="needs-translation">These operators can be used in conditionals and loops, like so:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="65346" identifier="0597092b32347e8244266f23ce6e56a5">
+        <source>If condition A is true AND condition B is true</source>
+        <target state="needs-translation">If condition A is true AND condition B is true</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li</note>
+      </trans-unit>
+      <trans-unit id="65347" identifier="5550b04a51e6ce387fc014607b71fa78">
+        <source>If condition A is true OR condition B is true</source>
+        <target state="needs-translation">If condition A is true OR condition B is true</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65348" identifier="51c516f7cc5b43f8a7b60a97e6109f8b">
+        <source>While event A has NOT happened
+ 
+Let’s look at how each of these work.</source>
+        <target state="needs-translation">While event A has NOT happened
+ 
+Let’s look at how each of these work.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="65349" identifier="07f1f891d09838e00662340af94a75c2">
+        <source>AND</source>
+        <target state="needs-translation">AND</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="65350" identifier="5ef42d10b8d5740c086a35e318d939f6">
+        <source>(Condition A AND Condition B)
+For this expression to evaluate as true, both conditions in the expression need to be true.</source>
+        <target state="needs-translation">(Condition A AND Condition B)
+For this expression to evaluate as true, both conditions in the expression need to be true.</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="65351" identifier="351f6376402cbf671376e125ae8c1e64">
+        <source>So, if both Condition A AND Condition B are true, the expression will evaluate as or return true.</source>
+        <target state="needs-translation">So, if both Condition A AND Condition B are true, the expression will evaluate as or return true.</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="65352" identifier="0f50fdbe3d40031c7ba4b36121460254" translate="no">
+        <source> </source>
+        <target state="translated"> </target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="65353" identifier="bab8921e75d4a1f26c8a32bbad963af1">
+        <source>OR</source>
+        <target state="needs-translation">OR</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="65354" identifier="60412177f1ff8f6cac937dee5e2c2c6f">
+        <source>(Condition A OR Condition B)
+For this expression to evaluate as true, only one of the conditions in the expression needs to be true.</source>
+        <target state="needs-translation">(Condition A OR Condition B)
+For this expression to evaluate as true, only one of the conditions in the expression needs to be true.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="65355" identifier="b25465aef4d93ed5eb017b121be0bc08">
+        <source>If Condition A is true, the expression will return true regardless of whether Condition B is true or false.</source>
+        <target state="needs-translation">If Condition A is true, the expression will return true regardless of whether Condition B is true or false.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="65356" identifier="ae6793351ad8524cba0e005071aed036">
+        <source>If Condition B is true, the expression will return true regardless of whether Condition A is true or false.</source>
+        <target state="needs-translation">If Condition B is true, the expression will return true regardless of whether Condition A is true or false.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="65357" identifier="ff73c9f96d51eff75ecc3635d8f08e7e" translate="no">
+        <source> </source>
+        <target state="translated"> </target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="65358" identifier="4803bed0163c7072655c4a803463c133">
+        <source>NOT</source>
+        <target state="needs-translation">NOT</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="65359" identifier="51bb7b9da2c4feb2c4d8498e75b5f98a">
+        <source>NOT can be used when checking that a condition is false (or not true).
+For example:</source>
+        <target state="needs-translation">NOT can be used when checking that a condition is false (or not true).
+For example:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="65360" identifier="d728cb58aabb5e86f213cd87e5ede5e2">
+        <source>(NOT Condition A and Condition B) evaluates as true only if Condition A is false and Condition B is true.</source>
+        <target state="needs-translation">(NOT Condition A and Condition B) evaluates as true only if Condition A is false and Condition B is true.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li</note>
+      </trans-unit>
+      <trans-unit id="65361" identifier="e7a49dee8404f33b0387d6849d1dcc33">
+        <source>(Condition A and NOT Condition B) evaluates as true only if Condition A is true and Condition B is false.</source>
+        <target state="needs-translation">(Condition A and NOT Condition B) evaluates as true only if Condition A is true and Condition B is false.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65362" identifier="9635a28178f6860c7d551d5c949421fc">
+        <source>(NOT Condition A and NOT Condition B) evaluates as true only if both Condition A and Condition B are true.</source>
+        <target state="needs-translation">(NOT Condition A and NOT Condition B) evaluates as true only if both Condition A and Condition B are true.</target>
+        <note>Context: XPath: /ul[5]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="65363" identifier="c5af4a773765f4b77098698c9d92aa7d">
+        <source>NOT is also useful when using a loop.</source>
+        <target state="needs-translation">NOT is also useful when using a loop.</target>
+        <note>Context: XPath: /ul[5]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="65364" identifier="d1421c6b7e4fc338d98ce8ac3534b46f">
+        <source>For example, you can use a NOT to check  
+While button A is NOT pressed, continue to run this code…
+ 
+Note: ‘False’ can be thought of as equivalent to ‘NOT true’.</source>
+        <target state="needs-translation">For example, you can use a NOT to check  
+While button A is NOT pressed, continue to run this code…
+ 
+Note: ‘False’ can be thought of as equivalent to ‘NOT true’.</target>
+        <note>Context: XPath: /ul[5]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="65365" identifier="771ec80e4c38f165469c70eb14852132">
+        <source>Sidebar material</source>
+        <target state="needs-translation">Sidebar material</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[4]</note>
+      </trans-unit>
+      <trans-unit id="65366" identifier="40105aea466e8bb82a902338dffdbcff" translate="no">
+        <source>/static/courses/csintro/booleans/george-boole.jpg</source>
+        <target>/static/courses/csintro/booleans/george-boole.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p[9]/l/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="65367" identifier="5741ff5a378e503f16dbf99ce6398df6">
+        <source>George Boole</source>
+        <target state="needs-translation">George Boole</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[9]/l/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="65368" identifier="8c61dc87ec5f9e907c42a4b3642b2034">
+        <source>Image credit: Wikimedia Commons</source>
+        <target state="needs-translation">Image credit: Wikimedia Commons</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="65369" identifier="5757c2bc6cdcbb3e5a3901ca35a64e8e">
+        <source>George Boole (2 November 1815 – 8 December 1864) was an English mathematician, educator, philosopher and &lt;strong&gt;logician&lt;/strong&gt;.</source>
+        <target state="needs-translation">George Boole (2 November 1815 – 8 December 1864) was an English mathematician, educator, philosopher and &lt;strong&gt;logician&lt;/strong&gt;.</target>
+        <note>Context: XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="65370" identifier="7ec8f2fc5ddff3e66d1634800e6495c4">
+        <source>He worked in the fields of differential equations and algebraic &lt;strong&gt;logic&lt;/strong&gt;, and is best known as the author of The Laws of Thought (1854) which contains &lt;strong&gt;Boolean&lt;/strong&gt; algebra.</source>
+        <target state="needs-translation">He worked in the fields of differential equations and algebraic &lt;strong&gt;logic&lt;/strong&gt;, and is best known as the author of The Laws of Thought (1854) which contains &lt;strong&gt;Boolean&lt;/strong&gt; algebra.</target>
+        <note>Context: XPath: /p[10]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

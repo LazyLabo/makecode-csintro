@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1820" original="/microbit/docs/courses/csintro/binary/unplugged.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="65027" identifier="256d8a520312e49f2ac19dfbf6f1dddd">
+        <source>Unplugged: Binary vending machine</source>
+        <target state="needs-translation">Unplugged: Binary vending machine</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="65028" identifier="b8cb3ec603ebbddadf50b31ed74372a1">
+        <source>In this activity, students will explore the concept of binary numbers by experimenting with a very odd vending machine that only accepts Base-2 coins and doesn’t give change!</source>
+        <target state="needs-translation">In this activity, students will explore the concept of binary numbers by experimenting with a very odd vending machine that only accepts Base-2 coins and doesn’t give change!</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="65029" identifier="b6272fece4b2657b9e9a663ad1f1e2b5">
+        <source>In the process, students will become familiar with an alternate numbering system, in this case binary (Base-2).</source>
+        <target state="needs-translation">In the process, students will become familiar with an alternate numbering system, in this case binary (Base-2).</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="65030" identifier="2e9fc20a369735a2836f7833088f40fc">
+        <source>Students will learn how binary relates to decimal, and will be able to convert between the two systems.</source>
+        <target state="needs-translation">Students will learn how binary relates to decimal, and will be able to convert between the two systems.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="65031" identifier="bb36a8bcdd6b0714b7412878074d4b34" translate="no">
+        <source>Materials</source>
+        <target>Materials</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="65032" identifier="8db5774e5073d8a79adc0631fe217215" translate="no" approved="yes">
+        <source>Paper</source>
+        <target>紙</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="65033" identifier="54cf02e71fe3c29fbb0eae9d89f509b9">
+        <source>Pencil</source>
+        <target state="needs-translation">Pencil</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65034" identifier="d9085a2162e2177da7ce83864da065bf">
+        <source>Set of ‘coins’ - these could be checkers/chess pieces, cardboard rounds, or even post-it notes</source>
+        <target state="needs-translation">Set of ‘coins’ - these could be checkers/chess pieces, cardboard rounds, or even post-it notes</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="65035" identifier="17a47f0bcd577cf3a2300e8eedf5ed8c">
+        <source>Vending machine visual (optional)</source>
+        <target state="needs-translation">Vending machine visual (optional)</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[4]</note>
+      </trans-unit>
+      <trans-unit id="65036" identifier="dee6949ef17199ce862bbf36e46a5818">
+        <source>Pre-activity preparation</source>
+        <target state="needs-translation">Pre-activity preparation</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="65037" identifier="678f4dec85ea415f2673c43bb3d6fb70">
+        <source>Gather or create small counters or ‘coins’ in the following denominations: 1, 2, 4, 8, 16, 32
+Plastic white poker chips work well as coins.</source>
+        <target state="needs-translation">Gather or create small counters or ‘coins’ in the following denominations: 1, 2, 4, 8, 16, 32
+Plastic white poker chips work well as coins.</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="65038" identifier="b7eba742c1c7f4e8c8adeb400671aef6">
+        <source>You can write the denominations onto one side of the coins with a whiteboard marker.</source>
+        <target state="needs-translation">You can write the denominations onto one side of the coins with a whiteboard marker.</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="65039" identifier="4923c29d0d9299000cbd6f41863a7ab1">
+        <source>You can also use small index cards or paper squares.</source>
+        <target state="needs-translation">You can also use small index cards or paper squares.</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="65040" identifier="4af0eada24bd27b24ade894bf34682a7">
+        <source>Make sure to leave one side of each coin blank.</source>
+        <target state="needs-translation">Make sure to leave one side of each coin blank.</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="65041" identifier="b6a4c1df5e9774a58629e0d88b5fcd46">
+        <source>Amount: One set of coins (with one coin of each of the first four denominations in it) for each student or each pair of students.</source>
+        <target state="needs-translation">Amount: One set of coins (with one coin of each of the first four denominations in it) for each student or each pair of students.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="65042" identifier="f1bb0825d88d9594f9ebe0f49a96a3aa">
+        <source>Hold onto the 16 and 32 unit coins for later.</source>
+        <target state="needs-translation">Hold onto the 16 and 32 unit coins for later.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="65043" identifier="512d1d38171b6bfa0d0c5e0932c8fac6" translate="no">
+        <source>~hint</source>
+        <target>~hint</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3</note>
+      </trans-unit>
+      <trans-unit id="65044" identifier="276e1ef8c8c8c3ef7043cb4a998d667a">
+        <source>Tip</source>
+        <target state="needs-translation">Tip</target>
+        <note>Context: Text&#13;
+XPath: /p[5]/strong</note>
+      </trans-unit>
+      <trans-unit id="65045" identifier="34b2b84e4b93a8950b24d376ea6b903d">
+        <source>If you have time, create on a poster board, on the whiteboard, or on paper as a handout, a big rectangle representing a vending machine.</source>
+        <target state="needs-translation">If you have time, create on a poster board, on the whiteboard, or on paper as a handout, a big rectangle representing a vending machine.</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="65046" identifier="4840f221bdb3126be7e01f695b23ee70">
+        <source>Draw in different items for purchase that would appeal to the students.</source>
+        <target state="needs-translation">Draw in different items for purchase that would appeal to the students.</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="65047" identifier="a6c3f0453952c56bd5f8d8d84740f55c">
+        <source>Have the different items priced differently from 1 unit to 15 units.</source>
+        <target state="needs-translation">Have the different items priced differently from 1 unit to 15 units.</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="65048" identifier="a777971933fd9ec3c2695bccd39a587a">
+        <source>This is particularly good to have for younger and more visually oriented students.</source>
+        <target state="needs-translation">This is particularly good to have for younger and more visually oriented students.</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="65049" identifier="2297409bc8b9e08cb60bcdb2149db30d">
+        <source>You can also just make a very simple vending machine diagram like the one below:</source>
+        <target state="needs-translation">You can also just make a very simple vending machine diagram like the one below:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="65050" identifier="0eef5f2efe68047c2e13addfad23a1ac" translate="no">
+        <source>/static/courses/csintro/binary/vendomatic.png</source>
+        <target>/static/courses/csintro/binary/vendomatic.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[8]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="65051" identifier="f7effe805fe0f2cfd334403e3c7396b1">
+        <source>Vend-o-matic diagram</source>
+        <target state="needs-translation">Vend-o-matic diagram</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[8]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="65052" identifier="a65da2119a142848d503587f7599f1de" translate="no">
+        <source>Introduction</source>
+        <target>Introduction</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="65053" identifier="8828fc563a426df9a4f9ee43a360218a">
+        <source>Ask the students the following questions to spark discussion:</source>
+        <target state="needs-translation">Ask the students the following questions to spark discussion:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="65054" identifier="fb6fad2aaedafa24ffb2643c8d74879c">
+        <source>Have any of them bought anything in the last 24 hours? &lt;em&gt;Usually they have bought a snack or perhaps lunch.&lt;/em&gt;</source>
+        <target state="needs-translation">Have any of them bought anything in the last 24 hours? &lt;em&gt;Usually they have bought a snack or perhaps lunch.&lt;/em&gt;</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="65055" identifier="8adec5bac78a34cc46ff24111e62e54a">
+        <source>Did any of them use cash?</source>
+        <target state="needs-translation">Did any of them use cash?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65056" identifier="096240e1b3075ef35b26f95858eb864e">
+        <source>What bills or coins did they use?</source>
+        <target state="needs-translation">What bills or coins did they use?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="65057" identifier="7a96a846df2b8592cb492d9567fa6e43">
+        <source>What are the core denominations of money in the United States?</source>
+        <target state="needs-translation">What are the core denominations of money in the United States?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="65058" identifier="4fe0368bb3d1c738eafbee3acd19afa9">
+        <source>Lead the students to realize that our core monetary denominations, like our number system are based on ten.</source>
+        <target state="needs-translation">Lead the students to realize that our core monetary denominations, like our number system are based on ten.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="65059" identifier="6d3d9878cf53603854348854f70bf05d">
+        <source>1 penny</source>
+        <target state="needs-translation">1 penny</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li</note>
+      </trans-unit>
+      <trans-unit id="65060" identifier="ee79d8b098dd5fedad8bc7c5d2ecacf4">
+        <source>1 dime = 10 pennies</source>
+        <target state="needs-translation">1 dime = 10 pennies</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65061" identifier="717ce92ae2e71effdc66d4177bd8f92f">
+        <source>1 one dollar bill = 10 dimes (or 100 pennies)</source>
+        <target state="needs-translation">1 one dollar bill = 10 dimes (or 100 pennies)</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="65062" identifier="a5606a354c05f7ac07b343727ce7f1f9">
+        <source>1 ten dollar bill = 10 one dollar bills</source>
+        <target state="needs-translation">1 ten dollar bill = 10 one dollar bills</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="65063" identifier="6a6c351c8d202a23d76a0b97107c71bb">
+        <source>1 hundred dollar bill = 10 ten dollar bills</source>
+        <target state="needs-translation">1 hundred dollar bill = 10 ten dollar bills</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[5]</note>
+      </trans-unit>
+      <trans-unit id="65064" identifier="305cf9cc4a879f033671c09f701a6a67">
+        <source>Our money system is based on our number system, the decimal system. The &lt;em&gt;deci-&lt;/em&gt; prefix means ‘one tenth’. Each place value in the decimal is one tenth of the place value to its left.</source>
+        <target state="needs-translation">Our money system is based on our number system, the decimal system. The &lt;em&gt;deci-&lt;/em&gt; prefix means ‘one tenth’. Each place value in the decimal is one tenth of the place value to its left.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="65065" identifier="2e38a87e33825323b2e7940a6a6d200b">
+        <source>&lt;strong&gt;Example:&lt;/strong&gt; The amount eleven is written in decimal notation as 11.</source>
+        <target state="needs-translation">&lt;strong&gt;Example:&lt;/strong&gt; The amount eleven is written in decimal notation as 11.</target>
+        <note>Context: XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="65066" identifier="d685ed51252bb57f61eb49cc6a6d75a5">
+        <source>There is a numeral one in the ‘tens place’ and a numeral one in the ‘ones place’.</source>
+        <target state="needs-translation">There is a numeral one in the ‘tens place’ and a numeral one in the ‘ones place’.</target>
+        <note>Context: XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="65067" identifier="bf790cf3ec142ceef889864ef00c42f5">
+        <source>The leftmost numeral one in the ‘tens place’ represents one ten.</source>
+        <target state="needs-translation">The leftmost numeral one in the ‘tens place’ represents one ten.</target>
+        <note>Context: XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="65068" identifier="c2d31793ebaf04589c74b27fc4b3d856">
+        <source>The next numeral one represents an amount that is one tenth the amount of the place value to its left; in this case, one tenth of ten, or one.</source>
+        <target state="needs-translation">The next numeral one represents an amount that is one tenth the amount of the place value to its left; in this case, one tenth of ten, or one.</target>
+        <note>Context: XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="65069" identifier="308dd0a072be63f5038527c43629e94c">
+        <source>But what is it like to use a different monetary system? A monetary system that has a base other than ten?</source>
+        <target state="needs-translation">But what is it like to use a different monetary system? A monetary system that has a base other than ten?</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="65070" identifier="5a939f93338d4a8814bc150e6cd64182">
+        <source>Process</source>
+        <target state="needs-translation">Process</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[4]</note>
+      </trans-unit>
+      <trans-unit id="65071" identifier="1d6616a039bd8a42eef3265616dd5666">
+        <source>Give a set of the coins you prepared earlier to each student or pair of students</source>
+        <target state="needs-translation">Give a set of the coins you prepared earlier to each student or pair of students</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li</note>
+      </trans-unit>
+      <trans-unit id="65072" identifier="da58ad372660abcec6d72b25ffae48d6">
+        <source>Remember to hold onto the 16-unit and 32-unit coins for now</source>
+        <target state="needs-translation">Remember to hold onto the 16-unit and 32-unit coins for now</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65073" identifier="d775af5a546a90183ee4c850633df83f">
+        <source>Present the following scenario:</source>
+        <target state="needs-translation">Present the following scenario:</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="65074" identifier="01654a6bab1408ad8b8c129a2a1ea566">
+        <source>There is a vending machine that sells items of all prices</source>
+        <target state="needs-translation">There is a vending machine that sells items of all prices</target>
+        <note>Context: List Item&#13;
+XPath: /blockquote/ul/li</note>
+      </trans-unit>
+      <trans-unit id="65075" identifier="9c03ed80571cbdbb2c5049a0685ab00f">
+        <source>However, the machine cannot give change</source>
+        <target state="needs-translation">However, the machine cannot give change</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li</note>
+      </trans-unit>
+      <trans-unit id="65076" identifier="9a17bb31b19d999910f9947b72c9f3a9">
+        <source>Therefore, you must pay for everything in exact amounts</source>
+        <target state="needs-translation">Therefore, you must pay for everything in exact amounts</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65077" identifier="8541e2d805c670b672213b753b6b1842">
+        <source>You have one of each coin: 1, 2, 4, 8.</source>
+        <target state="needs-translation">You have one of each coin: 1, 2, 4, 8.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="65078" identifier="c8dc6001d73c2e0d549d894601f40ec5">
+        <source>Questions</source>
+        <target state="needs-translation">Questions</target>
+        <note>Context: Text&#13;
+XPath: /p[14]/strong</note>
+      </trans-unit>
+      <trans-unit id="65079" identifier="a71e3b8c1a8996adc0e105aafd350ffc">
+        <source>What is the price of the least expensive item you can buy? (1 unit)</source>
+        <target state="needs-translation">What is the price of the least expensive item you can buy? (1 unit)</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li</note>
+      </trans-unit>
+      <trans-unit id="65080" identifier="428a43e3ee18c139348998f14ddb01a3">
+        <source>What is the price of the most expensive item you can buy? (15 units)</source>
+        <target state="needs-translation">What is the price of the most expensive item you can buy? (15 units)</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65081" identifier="74281a4b2224a60b8aece94eaa23bdff">
+        <source>What else can you buy? What coin(s) would you use to do this?</source>
+        <target state="needs-translation">What else can you buy? What coin(s) would you use to do this?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="65082" identifier="e1984f452e7a1aa57dff005f8235a5e9">
+        <source>What is the price of something you cannot buy, because you don’t have exact change?</source>
+        <target state="needs-translation">What is the price of something you cannot buy, because you don’t have exact change?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="65083" identifier="f7c8f13812fd6b5b00da4dfa6fa8e7e0">
+        <source>Here is where students will start to figure out the different combined sums of different coins.</source>
+        <target state="needs-translation">Here is where students will start to figure out the different combined sums of different coins.</target>
+        <note>Context: XPath: /p[15]</note>
+      </trans-unit>
+      <trans-unit id="65084" identifier="2dde331bf08ae35649e030458d1f9ce0">
+        <source>You can also prompt them by saying, for example, “It’s impossible to buy something that costs 11 units, isn’t it?” Someone will immediately point out that you CAN buy an 11-unit item with 8 + 2 + 1.</source>
+        <target state="needs-translation">You can also prompt them by saying, for example, “It’s impossible to buy something that costs 11 units, isn’t it?” Someone will immediately point out that you CAN buy an 11-unit item with 8 + 2 + 1.</target>
+        <note>Context: XPath: /p[15]</note>
+      </trans-unit>
+      <trans-unit id="65085" identifier="ed758f868270a7826e504a6a037889b7">
+        <source>You can now have the students write down how they could pay, what coin(s) could they use to purchase each of the items priced 1 unit through 15 units with the coins they have OR have a whole class discussion with you keeping track of their methods of payment on the whiteboard.</source>
+        <target state="needs-translation">You can now have the students write down how they could pay, what coin(s) could they use to purchase each of the items priced 1 unit through 15 units with the coins they have OR have a whole class discussion with you keeping track of their methods of payment on the whiteboard.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[16]</note>
+      </trans-unit>
+      <trans-unit id="65086" identifier="c6c43fb034eac06d800bd0a5b6da4cfb">
+        <source>There will soon be a general agreement among the students that:</source>
+        <target state="needs-translation">There will soon be a general agreement among the students that:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[17]</note>
+      </trans-unit>
+      <trans-unit id="65087" identifier="67e259950c09ae7506c0b0f51876a701">
+        <source>You can make every amount between 1 unit and 15 units with the 4 coins in their set</source>
+        <target state="needs-translation">You can make every amount between 1 unit and 15 units with the 4 coins in their set</target>
+        <note>Context: List Item&#13;
+XPath: /ul[7]/li</note>
+      </trans-unit>
+      <trans-unit id="65088" identifier="160c41355b956b89b02a39b3190f6763">
+        <source>There is only one way to make each of those amounts.</source>
+        <target state="needs-translation">There is only one way to make each of those amounts.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[7]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65089" identifier="bd6e186be9c8a99915ea1cfb3abed09f">
+        <source>Have students line up the coins in their set from greatest to least denomination, left to right.</source>
+        <target state="needs-translation">Have students line up the coins in their set from greatest to least denomination, left to right.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[18]</note>
+      </trans-unit>
+      <trans-unit id="65090" identifier="133acbad51fc28272bb0317bbaf6ba0e" translate="no">
+        <source>Questions</source>
+        <target>Questions</target>
+        <note>Context: Text&#13;
+XPath: /p[19]/strong</note>
+      </trans-unit>
+      <trans-unit id="65091" identifier="86a6c8e4937371e847b57627de26f4c9">
+        <source>What do you notice about the denominations as they increase from right to left? &lt;em&gt;Each amount is double (or times 2 or twice) the denomination before it (to its right).&lt;/em&gt;</source>
+        <target state="needs-translation">What do you notice about the denominations as they increase from right to left? &lt;em&gt;Each amount is double (or times 2 or twice) the denomination before it (to its right).&lt;/em&gt;</target>
+        <note>Context: List Item&#13;
+XPath: /ul[8]/li</note>
+      </trans-unit>
+      <trans-unit id="65092" identifier="13a3c45aac3f17c2c35cde5058aea294">
+        <source>If we added one more coin to your set of coins that is greater than the 8 unit coin, what is the next logical coin denomination? 16. Why? &lt;em&gt;Because 16 is ‘2 times’ greater than 8.&lt;/em&gt;</source>
+        <target state="needs-translation">If we added one more coin to your set of coins that is greater than the 8 unit coin, what is the next logical coin denomination? 16. Why? &lt;em&gt;Because 16 is ‘2 times’ greater than 8.&lt;/em&gt;</target>
+        <note>Context: List Item&#13;
+XPath: /ul[8]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65093" identifier="8c28e212fdf48be86291a4626056bb58">
+        <source>Hand out the 16 unit coins, one to each student or pair of students.</source>
+        <target state="needs-translation">Hand out the 16 unit coins, one to each student or pair of students.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[20]</note>
+      </trans-unit>
+      <trans-unit id="65094" identifier="fc7bd4860641a3b69c159b4a900e0de9" translate="no">
+        <source>Questions</source>
+        <target>Questions</target>
+        <note>Context: Text&#13;
+XPath: /p[21]/strong</note>
+      </trans-unit>
+      <trans-unit id="65095" identifier="71be4f46ff0eda53569f9346867ef536">
+        <source>What is the new maximum price you could pay for an item? &lt;em&gt;31&lt;/em&gt;</source>
+        <target state="needs-translation">What is the new maximum price you could pay for an item? &lt;em&gt;31&lt;/em&gt;</target>
+        <note>Context: List Item&#13;
+XPath: /ul[9]/li</note>
+      </trans-unit>
+      <trans-unit id="65096" identifier="a768fe9bf4c1bbc97c8a5251d79bc150">
+        <source>What combinations of coins can you use to pay for an item priced from 16 units to this new maximum price?</source>
+        <target state="needs-translation">What combinations of coins can you use to pay for an item priced from 16 units to this new maximum price?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[9]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65097" identifier="cbf54cd12c4cb920f28dd5f38e72f6b9">
+        <source>Once again, you can now have the students write down how they could pay, what coin(s) could they use to purchase each of the items priced 16 units through the new maximum price with the coins they have, OR have a whole class discussion with you keeping track of their methods of payment on the whiteboard.</source>
+        <target state="needs-translation">Once again, you can now have the students write down how they could pay, what coin(s) could they use to purchase each of the items priced 16 units through the new maximum price with the coins they have, OR have a whole class discussion with you keeping track of their methods of payment on the whiteboard.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[22]</note>
+      </trans-unit>
+      <trans-unit id="65098" identifier="cb863be25f95467ab015b709f8f2e726">
+        <source>Again, there will soon be a general agreement among the students that:</source>
+        <target state="needs-translation">Again, there will soon be a general agreement among the students that:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[23]</note>
+      </trans-unit>
+      <trans-unit id="65099" identifier="25f4e6c87b297fa887e69c353a42ccf3">
+        <source>You can make every amount between 16 units and the new maximum with the 5 coins now in their set.</source>
+        <target state="needs-translation">You can make every amount between 16 units and the new maximum with the 5 coins now in their set.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[10]/li</note>
+      </trans-unit>
+      <trans-unit id="65100" identifier="2e474560af9b50269918f31f157d78a2" translate="no">
+        <source>There is only one way to make each of those amounts.</source>
+        <target>There is only one way to make each of those amounts.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[10]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65101" identifier="6bd02fefb27cd71a435e634137cdf8a0" translate="no">
+        <source>Questions</source>
+        <target>Questions</target>
+        <note>Context: Text&#13;
+XPath: /p[24]/strong</note>
+      </trans-unit>
+      <trans-unit id="65102" identifier="ebc820aedbc76a229fde955ff5cd9b3d">
+        <source>If we added one more coin to your set of coins that is greater than the 16 unit coin, what is the next logical coin denomination?  32. Why? _Because 32 is ‘2 times’ greater than 16. _</source>
+        <target state="needs-translation">If we added one more coin to your set of coins that is greater than the 16 unit coin, what is the next logical coin denomination?  32. Why? _Because 32 is ‘2 times’ greater than 16. _</target>
+        <note>Context: List Item&#13;
+XPath: /ul[11]/li</note>
+      </trans-unit>
+      <trans-unit id="65103" identifier="0c09636154e5e3e6f778f9d3e3f5def3">
+        <source>Hand out the 32 unit coins, one to each student or pair of students.</source>
+        <target state="needs-translation">Hand out the 32 unit coins, one to each student or pair of students.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[25]</note>
+      </trans-unit>
+      <trans-unit id="65104" identifier="2d1e664870ae2b31305245797ab3a62b" translate="no">
+        <source>Questions</source>
+        <target>Questions</target>
+        <note>Context: Text&#13;
+XPath: /p[26]/strong</note>
+      </trans-unit>
+      <trans-unit id="65105" identifier="b792f245a0616a7f931916360417b68b">
+        <source>What is the new maximum price you could pay for an item? &lt;em&gt;63&lt;/em&gt;</source>
+        <target state="needs-translation">What is the new maximum price you could pay for an item? &lt;em&gt;63&lt;/em&gt;</target>
+        <note>Context: List Item&#13;
+XPath: /ul[12]/li</note>
+      </trans-unit>
+      <trans-unit id="65106" identifier="e00f82e05c2865254c12e58df2404121">
+        <source>What combinations of coins can you use to pay for an item priced from 32 units to this new maximum price?</source>
+        <target state="needs-translation">What combinations of coins can you use to pay for an item priced from 32 units to this new maximum price?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[12]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65107" identifier="34e1c151c0aacf487937afc57465fe33" translate="no">
+        <source>/static/courses/csintro/binary/binary-place-values.png</source>
+        <target>/static/courses/csintro/binary/binary-place-values.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[27]/l/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="65108" identifier="4f1065740bd32ed04873db4d6bf228e4">
+        <source>Coins representing binary digits</source>
+        <target state="needs-translation">Coins representing binary digits</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[27]/l/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="65109" identifier="2cc99a195fa35c5af5785b8046a4b3ac">
+        <source>From coins to binary notation - the number 45</source>
+        <target state="needs-translation">From coins to binary notation - the number 45</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[27]</note>
+      </trans-unit>
+      <trans-unit id="65110" identifier="5299126e10ac4cee00d45dbf304cf956">
+        <source>Once students are comfortable making combinations of numbers, encourage them to use ones and zeroes to represent the numbers instead.</source>
+        <target state="needs-translation">Once students are comfortable making combinations of numbers, encourage them to use ones and zeroes to represent the numbers instead.</target>
+        <note>Context: XPath: /p[28]</note>
+      </trans-unit>
+      <trans-unit id="65111" identifier="f287d8062d93463554ad7b60b54422ec">
+        <source>This number system uses the number 2 as its base (each place is two times the one before it.) It is called the Base-2 system, or binary system.</source>
+        <target state="needs-translation">This number system uses the number 2 as its base (each place is two times the one before it.) It is called the Base-2 system, or binary system.</target>
+        <note>Context: XPath: /p[28]</note>
+      </trans-unit>
+      <trans-unit id="65112" identifier="e98947114d3d246aa4216a722162bbe0">
+        <source>The number system we are normally familiar with is the Base-10 system, or decimal system (each place is ten times the one before it.)</source>
+        <target state="needs-translation">The number system we are normally familiar with is the Base-10 system, or decimal system (each place is ten times the one before it.)</target>
+        <note>Context: XPath: /p[28]</note>
+      </trans-unit>
+      <trans-unit id="65113" identifier="f35f224e27ed664dfafa7b37b5f38559">
+        <source>With their coins in a line in descending order from right to left on a piece of paper, ask students to represent a given number by keeping face up the coins they would use to make this amount and flipping over or putting face down the coins not used.</source>
+        <target state="needs-translation">With their coins in a line in descending order from right to left on a piece of paper, ask students to represent a given number by keeping face up the coins they would use to make this amount and flipping over or putting face down the coins not used.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[29]</note>
+      </trans-unit>
+      <trans-unit id="65114" identifier="33366f275b5df17101adfa5865c032af">
+        <source>&lt;strong&gt;Example:&lt;/strong&gt; Ask them to represent the number 45. &lt;em&gt;See image above.&lt;/em&gt;</source>
+        <target state="needs-translation">&lt;strong&gt;Example:&lt;/strong&gt; Ask them to represent the number 45. &lt;em&gt;See image above.&lt;/em&gt;</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[30]</note>
+      </trans-unit>
+      <trans-unit id="65115" identifier="8dd84fde3b3461a080f7b9c31a9288a1">
+        <source>They should have the 32, 8, 4, and 1 coins face up and the 16 and 2 coins face down.</source>
+        <target state="needs-translation">They should have the 32, 8, 4, and 1 coins face up and the 16 and 2 coins face down.</target>
+        <note>Context: XPath: /p[31]</note>
+      </trans-unit>
+      <trans-unit id="65116" identifier="d80fccd56234f72d2a099f85d4e5c07c">
+        <source>Ask the students to place a numeral 1 above the coins that are face up and a numeral zero over the coins that are face down.</source>
+        <target state="needs-translation">Ask the students to place a numeral 1 above the coins that are face up and a numeral zero over the coins that are face down.</target>
+        <note>Context: XPath: /p[31]</note>
+      </trans-unit>
+      <trans-unit id="65117" identifier="062650d4bb1e27696c27f5ded18fed2b">
+        <source>The ones and zeros they just drew are the binary number version of the amount represented by the flipped-up coins. For the example: 45 in Base-10 = 101101 in Base-2</source>
+        <target state="needs-translation">The ones and zeros they just drew are the binary number version of the amount represented by the flipped-up coins. For the example: 45 in Base-10 = 101101 in Base-2</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[32]</note>
+      </trans-unit>
+      <trans-unit id="65118" identifier="731c33b7609e2b9f8358b4eb62672fa3">
+        <source>Practice translating numbers from Base-10 to Base-2
+The students can now use this same method to translate other numbers from Base-10 to Base-2.</source>
+        <target state="needs-translation">Practice translating numbers from Base-10 to Base-2
+The students can now use this same method to translate other numbers from Base-10 to Base-2.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[33]</note>
+      </trans-unit>
+      <trans-unit id="65119" identifier="16f1bf766b82e5442ad3e1f737b033ce">
+        <source>Examples:</source>
+        <target state="needs-translation">Examples:</target>
+        <note>Context: Text&#13;
+XPath: /p[34]/strong</note>
+      </trans-unit>
+      <trans-unit id="65120" identifier="c73f4126aa47a93274a0b7ec7b8e6068">
+        <source>22 (&lt;em&gt;1 0 1 1 0&lt;/em&gt; )&lt;br/&gt;
+  37 (&lt;em&gt;1 0 0 1 0 1&lt;/em&gt; )</source>
+        <target state="needs-translation">22 (&lt;em&gt;1 0 1 1 0&lt;/em&gt; )&lt;br/&gt;
+  37 (&lt;em&gt;1 0 0 1 0 1&lt;/em&gt; )</target>
+        <note>Context: Paragraph text&#13;
+XPath: /blockquote[2]/p</note>
+      </trans-unit>
+      <trans-unit id="65121" identifier="17c6a12dbd06676d0f116b5df3e2e7ba">
+        <source>Practice translating numbers from Base-2 to Base-10 
+Next, have the students use the above method in reverse to translate numbers from Base-2 to Base-10.</source>
+        <target state="needs-translation">Practice translating numbers from Base-2 to Base-10 
+Next, have the students use the above method in reverse to translate numbers from Base-2 to Base-10.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[35]</note>
+      </trans-unit>
+      <trans-unit id="65122" identifier="bdcaacd195e7c4eb891918b2d6799fef">
+        <source>Start with all the coins face up in a line from greatest to least denomination from left to right.</source>
+        <target state="needs-translation">Start with all the coins face up in a line from greatest to least denomination from left to right.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[13]/li</note>
+      </trans-unit>
+      <trans-unit id="65123" identifier="e735153c08956fd46914134189e64100">
+        <source>Write the ones and zeros representing the binary number being translated above the coins.</source>
+        <target state="needs-translation">Write the ones and zeros representing the binary number being translated above the coins.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[13]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65124" identifier="810a19914bddb3e4dd5cb558f9d8c4db">
+        <source>Flip to face down any coin with a zero above it.</source>
+        <target state="needs-translation">Flip to face down any coin with a zero above it.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[13]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="65125" identifier="1e46649cf42cfbd98c0709ee69db230e">
+        <source>Add up the remaining face up coins.</source>
+        <target state="needs-translation">Add up the remaining face up coins.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[13]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="65126" identifier="e7c2a25c00a23f32dfb9c81f8ab70ffc" translate="no">
+        <source>Examples:</source>
+        <target>Examples:</target>
+        <note>Context: Text&#13;
+XPath: /p[36]/strong</note>
+      </trans-unit>
+      <trans-unit id="65127" identifier="76f2903df741ea0965c654e33e2d38f5">
+        <source>0 1 0 1 0 (&lt;em&gt;10&lt;/em&gt; )&lt;br/&gt;
+  1 1 0 1 1 0 (&lt;em&gt;54&lt;/em&gt; )</source>
+        <target state="needs-translation">0 1 0 1 0 (&lt;em&gt;10&lt;/em&gt; )&lt;br/&gt;
+  1 1 0 1 1 0 (&lt;em&gt;54&lt;/em&gt; )</target>
+        <note>Context: Paragraph text&#13;
+XPath: /blockquote[3]/p</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

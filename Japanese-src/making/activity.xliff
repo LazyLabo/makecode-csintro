@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1858" original="/microbit/docs/courses/csintro/making/activity.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="67145" identifier="f407c5bd978fe1df27115d377e2c4ac6" approved="yes">
+        <source>Activity: Installing a program</source>
+        <target>アクティビティ: プログラムのインストール</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="67146" identifier="80bc08bf27e190651ff811bfbf95d9b0" approved="yes">
+        <source>&lt;strong&gt;micro:bit activity:&lt;/strong&gt; Installing a Microsoft MakeCode Program on the micro:bit</source>
+        <target>&lt;strong&gt;micro:bitアクティビティ&lt;/strong&gt; マイクロソフト MakeCode プログラムをmicro:bitにインストールします。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="67147" identifier="4260ab53b248e41ec86d15d576b4a774" approved="yes">
+        <source>&lt;strong&gt;Objective:&lt;/strong&gt; Learn how to download programs from the MakeCode tool.</source>
+        <target>&lt;strong&gt;目的:&lt;/strong&gt; MakeCodeツールを使ってどうやってプログラムをダウンロードするかを学習します。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="67148" identifier="37524ffbbb8d31a40bb548e96ec702c0" approved="yes">
+        <source>&lt;strong&gt;Overview:&lt;/strong&gt; Students will create a simple program in Microsoft MakeCode and download it to their micro:bit using a USB cable.</source>
+        <target>&lt;strong&gt;概要:&lt;/strong&gt; マイクロソフト MakeCode で簡単なプログラムを作成し、USB ケーブルを使用してmicro:bitにダウンロードします。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="67149" identifier="3ecb844c8568b253288d202f529828e2" approved="yes">
+        <source>For this activity, students will each need a micro:bit, a micro-USB cable, a computer, and a battery pack.</source>
+        <target>このアクティビティを行うために生徒一人ずつに micro:bit本体、micro USB ケーブル、コンピューター、およびmicro:bit用のバッテリーを用意してください。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="67150" identifier="38ef029859dd269f1617596219dd3827" translate="no" approved="yes">
+        <source>/static/courses/csintro/making/microbit-kit.jpg</source>
+        <target>/static/courses/csintro/making/microbit-kit.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p[5]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67151" identifier="abdca9875e645c782ce27fb568e81b80" approved="yes">
+        <source>micro:bit kit</source>
+        <target>micro:bit kit</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[5]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67152" identifier="3507634a27fe73176c541d8ddaf301da" approved="yes">
+        <source>Open a browser window to &lt;a href=&quot;http://makecode.com&quot;&gt;makecode.com&lt;/a&gt;, and select the micro:bit code editor</source>
+        <target>Chrome, Edge などのインターネットブラウザで &lt;a href=&quot;http://makecode.com&quot;&gt;Makecode.com&lt;/a&gt; をロードし 、micro:bit コード エディターを実行します。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="67153" identifier="f7447e3bdf1ca599fa869288c9096559" translate="no" approved="yes">
+        <source>/static/courses/csintro/making/microbit-card-icon.png</source>
+        <target>/static/courses/csintro/making/microbit-card-icon.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[7]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67154" identifier="9f4f80a2b3e77a0179f2d9751e7bd2f4" approved="yes">
+        <source>micro:bit card icon</source>
+        <target>micro:bit card icon</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[7]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67155" identifier="2625bd8b46a095e92af9183e8a4305e5" approved="yes">
+        <source>From the top left corner of the screen, select the &lt;strong&gt;Projects&lt;/strong&gt; Menu, and click on &lt;strong&gt;Import File&lt;/strong&gt;.  Select the file that you saved on your computer in the previous step.</source>
+        <target>コードエディタ上の左上隅から&lt;strong&gt;プロジェクト&lt;/strong&gt;メニューを選択し、&lt;strong&gt;ファイルを読み込む&lt;/strong&gt;をクリックします。 前の手順でコンピューター上に保存したファイルを選択します。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="67156" identifier="a808d4997974fde88d1f6330381aa891" translate="no" approved="yes">
+        <source>/static/courses/csintro/making/projects-folder.png</source>
+        <target>/static/courses/csintro/making/projects-folder.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[9]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67157" identifier="cf44e76d0c01fd5f2e24cb162cb5fc6d" approved="yes">
+        <source>Projects folder</source>
+        <target>Projects folder</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[9]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67158" identifier="1d4d0cc964cffdaa038b0c6d2df23c2e" translate="no" approved="yes">
+        <source>/static/courses/csintro/making/import-file.png</source>
+        <target>/static/courses/csintro/making/import-file.png
+</target>
+        <note>Context: Image Source&#13;
+XPath: /p[10]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67159" identifier="787688a2b93e4a6a551f4e4f7bdb6103" approved="yes">
+        <source>Import file</source>
+        <target>Import file</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[10]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67160" identifier="0d9696031f9f61335fd09027db6da23d" approved="yes">
+        <source>The program should look like the following in MakeCode. 
+It shows a repeating series of faces:</source>
+        <target>次のようなプログラムが画面上に表示されているはずです。このプログラムは、いくつかの顔アイコンを繰り返し表示します。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="67161" identifier="d6b87dc19455b039273170ac89eada5c" approved="yes">
+        <source>basic.forever(() =&amp;gt; {
+   basic.showIcon(IconNames.Happy)
+   basic.pause(5000)
+   basic.showIcon(IconNames.Sad)
+   basic.pause(5000)
+})</source>
+        <target>basic.forever(() =&amp;gt; {
+   basic.showIcon(IconNames.Happy)
+   basic.pause(5000)
+   basic.showIcon(IconNames.Sad)
+   basic.pause(5000)
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67162" identifier="418aa8fad1ecd5a8562393580a2fef9e" translate="no" approved="yes">
+        <source>Tour of Microsoft MakeCode</source>
+        <target>マイクロソフト MakeCode を見てみよう</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="67163" identifier="7cdd923b4642c7381b592d9840463e0b" approved="yes">
+        <source>&lt;strong&gt;Simulator&lt;/strong&gt;  - on the left side of the screen, you will see a virtual micro:bit that will show what your program will look like running on a micro:bit.</source>
+        <target>&lt;strong&gt;シミュレータ&lt;/strong&gt; - 画面の左側にあるmicro:bitシミュレータでは実際にmicro:bit上で実行されるのと同じ結果が確認できます。</target>
+        <note>Context: XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="67164" identifier="ce5e3382a9ce64d78e066628e5f57bcc" translate="no" approved="yes">
+        <source>This is helpful for debugging, and instant feedback on program execution.</source>
+        <target>これはプログラムのデバッグや、実行のフィードバックをすばやく得るのに便利です。</target>
+        <note>Context: XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="67165" identifier="71c36f9689b2946d3bdd55cba5a367de" approved="yes">
+        <source>&lt;strong&gt;Toolbox&lt;/strong&gt; - in the middle of the screen, there are a number of different categories, each containing a number of blocks that can be dragged into the programming workspace on the right.</source>
+        <target>&lt;strong&gt;ツールボックス&lt;/strong&gt;- 画面の真ん中にはいくつかのカテゴリに分かれて異なる形のブロックがあります。これをプログラムを作るワークスペースにドラッグして、プログラムを作っていきます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67166" identifier="0d2fff3b444bc8104376144416cf08ae" approved="yes">
+        <source>&lt;strong&gt;Workspace&lt;/strong&gt; - on the right side of the screen is the Programming Workspace where you will create your program.  Programs are constructed by snapping blocks together in this area.</source>
+        <target>&lt;strong&gt;ワークスペース&lt;/strong&gt;- 画面の右側がプログラムを作成するワークスペースです。 ワークスペース上でブロックを組み合わせてプログラムを作成していきます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67167" identifier="23c9c9a4a17c08e6d491cd54c11a8e16" translate="no" approved="yes">
+        <source>/static/courses/csintro/making/ide-tour.png</source>
+        <target>/static/courses/csintro/making/ide-tour.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[12]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67168" identifier="f91e81f8acbc9fba804242cdf40f9535" translate="no">
+        <source>IDE tour</source>
+        <target state="translated">IDE tour</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[12]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67169" identifier="36928ec13dbf48089e1268a4be6dabd6" approved="yes">
+        <source>The color of the blocks identifies their category. All of the blocks that make up the program above come from the &lt;strong&gt;Basic&lt;/strong&gt; Toolbox category, which is light blue.</source>
+        <target>ブロックの色はそのブロックのカテゴリを意味します。たとえば&lt;strong&gt;基本&lt;/strong&gt;ツールボックス カテゴリのブロックはすべて水色です。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="67170" identifier="da22ccbfe49b9804319c4bea8edf664d" approved="yes">
+        <source>Downloading a MakeCode program to the micro:bit</source>
+        <target>micro:bitに MakeCode プログラムをダウンロードする</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="67171" identifier="f765d6ddc7488d2396c3bf9cbf8a6466" approved="yes">
+        <source>To download the file to your micro:bit, you must connect it to your computer’s USB port using a micro-USB cable.</source>
+        <target>micro:bitにファイルをダウンロードするには、 マイクロ USB ケーブルを使用して、コンピューターの USB ポートに接続する必要があります。</target>
+        <note>Context: XPath: /p[14]</note>
+      </trans-unit>
+      <trans-unit id="67172" identifier="a79dff8df8ac6b6fa5af3478d241cbb4" approved="yes">
+        <source>The micro:bit will draw power from your computer through the USB connection, or you can connect an optional battery pack so it can function even after it is unplugged from the computer.</source>
+        <target>micro:bitは USB 接続を介してコンピューターから給電できますが、オプションのバッテリーボックスを付けることでコンピュータから切断した状態でも単体で稼働できるようになります。</target>
+        <note>Context: XPath: /p[14]</note>
+      </trans-unit>
+      <trans-unit id="67173" identifier="53f4781f46d2bf01900374c3b4da9e10" approved="yes">
+        <source>Once plugged in, the micro:bit shows up on your computer like a USB flash drive.</source>
+        <target>コンピューターに接続すると、micro:bitはUSBフラッシュドライブのように表示されます。</target>
+        <note>Context: XPath: /p[14]</note>
+      </trans-unit>
+      <trans-unit id="67174" identifier="33b8a0d32e4df1ace242749524337ceb" translate="no" approved="yes">
+        <source>/static/courses/csintro/making/microbit-usb.jpg</source>
+        <target>/static/courses/csintro/making/microbit-usb.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p[15]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67175" identifier="3b1b727d762282db812f14484ae8f4bd" approved="yes">
+        <source>USB connection</source>
+        <target>USB connection</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[15]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67176" identifier="e68b5034e55b230f2a8229765a296b73" approved="yes">
+        <source>Click the purple Download button in the lower left of the MakeCode screen. This will download the file to your computer, to the location where your browser is set to save downloads.</source>
+        <target>画面の左下にある紫のダウンロードボタンをクリックします。クリックすると、利用しているブラウザーでデフォルトとして指定されている場所にファイルがダウンロードされます。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[16]</note>
+      </trans-unit>
+      <trans-unit id="67177" identifier="68c6c24192d2ead4f4f876e79d24671b" translate="no" approved="yes">
+        <source>/static/courses/csintro/making/download-button.png</source>
+        <target>/static/courses/csintro/making/download-button.png
+</target>
+        <note>Context: Image Source&#13;
+XPath: /p[17]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67178" identifier="9df76e68699a2f48e9bb584fe552d726" approved="yes">
+        <source>Download button</source>
+        <target>Download button</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[17]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67179" identifier="4ca15a93a5da636066da7092d09e4296" approved="yes">
+        <source>To move the program to your micro:bit, drag the downloaded &quot;microbit-xxxx.hex&quot; file to the MICROBIT drive, as if you were copying a file to a flash drive.</source>
+        <target>micro:bitにプログラムをロードするには、フラッシュドライブのように表示されているmicro:bitアイコンにダウンロードした&quot;microbit xxxx.hex&quot;ファイルをドラッグします。</target>
+        <note>Context: XPath: /p[18]</note>
+      </trans-unit>
+      <trans-unit id="67180" identifier="f7e5c3c8aca72acd668f980825441ff3" approved="yes">
+        <source>The program will copy over, and it will begin running on the micro:bit immediately.</source>
+        <target>プログラムのコピーが終わると、即座にmicro:bit上でプログラムが実行されます。</target>
+        <note>Context: XPath: /p[18]</note>
+      </trans-unit>
+      <trans-unit id="67181" identifier="c57c8c59d887a93e0f731296f4f7fba9" translate="no" approved="yes">
+        <source>/static/courses/csintro/making/microbit-drive.jpg</source>
+        <target>/static/courses/csintro/making/microbit-drive.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p[19]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67182" identifier="61389987713b0d7a3dac796bb1138b10" approved="yes">
+        <source>micro:bit drive</source>
+        <target>micro:bit drive</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[19]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67183" identifier="eb0c7b0fb61053f949f5c25b682d739e" approved="yes">
+        <source>The micro:bit will hold one program at a time. It is not necessary to delete files off the micro:bit before you copy another onto the micro:bit; a new file will just replace the old one.</source>
+        <target>micro:bitは一度に一つだけのプログラムを保存、実行することができます。ロードしたプログラムをmicro:bit上から削除する必要はありません。新しいプログラムがロードされると前のプログラムは削除されます。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[20]</note>
+      </trans-unit>
+      <trans-unit id="67184" identifier="b3e4b4b424e876b867019a4d07ffe86b" approved="yes">
+        <source>For the next project, your students should attach the battery pack (it takes 2 AAA batteries) to the micro:bit using the white connector.</source>
+        <target>次のプロジェクトでは２つの単4形乾電池を利用したバッテリーバックを利用する必要があります。バッテリーパックは白い端子を介して接続します。</target>
+        <note>Context: XPath: /p[21]</note>
+      </trans-unit>
+      <trans-unit id="67185" identifier="e51e260740b4d98928613b5c2b2b67fd" approved="yes">
+        <source>That way they can build it into their design without having to connect it to the computer.</source>
+        <target>このバッテリーを利用することで、コンピューターに接続することなく自由にデザインをすることが可能になります。</target>
+        <note>Context: XPath: /p[21]</note>
+      </trans-unit>
+      <trans-unit id="67186" identifier="232ea45d0ee074211ee15f60d65a50dc" translate="no" approved="yes">
+        <source>/static/courses/csintro/making/battery-pack.jpg</source>
+        <target>/static/courses/csintro/making/battery-pack.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p[22]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67187" identifier="83b84a0d06a621b5cefd41c76058e3af" approved="yes">
+        <source>Battery pack</source>
+        <target>Battery pack</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[22]/img[@alt]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

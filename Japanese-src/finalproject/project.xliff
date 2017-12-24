@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1845" original="/microbit/docs/courses/csintro/finalproject/project.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="66535" identifier="8f2ce28e827cced91f8d6e38405d0425">
+        <source>Final project</source>
+        <target state="needs-translation">Final project</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="66536" identifier="5900fdb3d44d3270a34f6559805cd34e">
+        <source>The final project is a chance for you to use all of the skills you have been learning throughout the semester to create something that is original, and that solves a problem or serves a purpose.</source>
+        <target state="needs-translation">The final project is a chance for you to use all of the skills you have been learning throughout the semester to create something that is original, and that solves a problem or serves a purpose.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="66537" identifier="381032665f1838ff006d1fd291b52e6c">
+        <source>Possible ideas</source>
+        <target state="needs-translation">Possible ideas</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="66538" identifier="3b47ca405ea377af27b6573650fdeef5">
+        <source>Create a game</source>
+        <target state="needs-translation">Create a game</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="66539" identifier="8bb888ef55b2163027504130533e85ac">
+        <source>Create something that helps somebody by solving a problem</source>
+        <target state="needs-translation">Create something that helps somebody by solving a problem</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66540" identifier="81321f0d60fd39d1ec5888d179df7382">
+        <source>Create something beautiful</source>
+        <target state="needs-translation">Create something beautiful</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66541" identifier="5c43a83e24417b22fab04bf80c0b4af1">
+        <source>Create a musical instrument</source>
+        <target state="needs-translation">Create a musical instrument</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[4]</note>
+      </trans-unit>
+      <trans-unit id="66542" identifier="22e68a3846d5fc2b2f3e6297c6478686">
+        <source>In addition, your project code must do each of the following things:</source>
+        <target state="needs-translation">In addition, your project code must do each of the following things:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="66543" identifier="b71b12acc4d16295e760fa650e054e40">
+        <source>Show something you already know</source>
+        <target state="needs-translation">Show something you already know</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="66544" identifier="beeebd8a5905e774220027873b3c599d">
+        <source>You should demonstrate your knowledge of one or more concepts we have covered in these lessons.</source>
+        <target state="needs-translation">You should demonstrate your knowledge of one or more concepts we have covered in these lessons.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="66545" identifier="6dc830186b04433d2470994e52ace090">
+        <source>Show something new</source>
+        <target state="needs-translation">Show something new</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="66546" identifier="99ffe6d821f9fd69e2f6536941aac31d">
+        <source>You should demonstrate a technique, efficiency, or block that you went out and learned how to do on your own, either from the documentation, or from another classmate.</source>
+        <target state="needs-translation">You should demonstrate a technique, efficiency, or block that you went out and learned how to do on your own, either from the documentation, or from another classmate.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="66547" identifier="72afc2b07ad31037c94289e88146f17c">
+        <source>Incorporate a maker component</source>
+        <target state="needs-translation">Incorporate a maker component</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[4]</note>
+      </trans-unit>
+      <trans-unit id="66548" identifier="e052eaa30bb6554efd068d431aec05de">
+        <source>You should not create a project that exists solely and independently on the micro:bit.</source>
+        <target state="needs-translation">You should not create a project that exists solely and independently on the micro:bit.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="66549" identifier="045153a3d6a91b031400da4233e24630">
+        <source>Your project should work together with tangible components such as servos, real buttons, switches, to do something unique.</source>
+        <target state="needs-translation">Your project should work together with tangible components such as servos, real buttons, switches, to do something unique.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="66550" identifier="e8fc7db0a83951fb4d22c2f06e2ffd85">
+        <source>Timeframe</source>
+        <target state="needs-translation">Timeframe</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[5]</note>
+      </trans-unit>
+      <trans-unit id="66551" identifier="e84aba45b5c7dac8423c2a54a72c8cee">
+        <source>Three weeks of in-class work and activities</source>
+        <target state="needs-translation">Three weeks of in-class work and activities</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="66552" identifier="60e81aff19a314d032c1a51be2e3b18d">
+        <source>Due each week:</source>
+        <target state="needs-translation">Due each week:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="66553" identifier="50daec8c2b0a6649667fca5ea1219bf0">
+        <source>2–3 work logs</source>
+        <target state="needs-translation">2–3 work logs</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="66554" identifier="c6e642ebf419dfbc7d01e0a8bbe8bd6e">
+        <source>1 Record of Thinking</source>
+        <target state="needs-translation">1 Record of Thinking</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66555" identifier="59f5cc7eef35f052ab1fa9ca3ef876d8">
+        <source>Due in three weeks:</source>
+        <target state="needs-translation">Due in three weeks:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="66556" identifier="ecf3e0ca7ff641e062c65526f0a827de">
+        <source>Beta testing period</source>
+        <target state="needs-translation">Beta testing period</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li</note>
+      </trans-unit>
+      <trans-unit id="66557" identifier="b49aab921e7d0d6b0aee27089901dafa">
+        <source>Final Narrative</source>
+        <target state="needs-translation">Final Narrative</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66558" identifier="a7d44303ebe98d52e3d2358fe9ea6387">
+        <source>Final Project Code</source>
+        <target state="needs-translation">Final Project Code</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66559" identifier="9d344b3b53414eab98ea108200b0933e">
+        <source>Final project showcase and celebration at the end</source>
+        <target state="needs-translation">Final project showcase and celebration at the end</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="66560" identifier="7fdb21c4a2b413ea9e4a9f2edf70e472">
+        <source>Assessment:</source>
+        <target state="needs-translation">Assessment:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="66561" identifier="092a0a490e42a3fc211924f69f2dc927">
+        <source>50% Process (initial proposal, work logs, records of thinking, final narrative)</source>
+        <target state="needs-translation">50% Process (initial proposal, work logs, records of thinking, final narrative)</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li</note>
+      </trans-unit>
+      <trans-unit id="66562" identifier="fc6dcd4a985f88b251988432a3681556">
+        <source>50% Product (project code and maker component)</source>
+        <target state="needs-translation">50% Product (project code and maker component)</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66563" identifier="6f27a50a35dd38495f703172235ece39">
+        <source>Teacher Note: This form of assessment places just as much weight on documenting the process of designing the project, as it does on the finished product itself.</source>
+        <target state="needs-translation">Teacher Note: This form of assessment places just as much weight on documenting the process of designing the project, as it does on the finished product itself.</target>
+        <note>Context: XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="66564" identifier="48055a848d4ba48dc66ec590e6ae7176">
+        <source>This is because in my classroom I want to prioritize &quot;sustained effort over an extended period of time&quot; over a project that might have resulted from three all-nighters in the final week it is due.</source>
+        <target state="needs-translation">This is because in my classroom I want to prioritize &quot;sustained effort over an extended period of time&quot; over a project that might have resulted from three all-nighters in the final week it is due.</target>
+        <note>Context: XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="66565" identifier="cd1d26536c64ed8e0ee23b4c4776268c">
+        <source>However, you may decide to assign more or less weight to each of these pieces, and you should certainly feel free to scale up or down the documentation piece as appropriate for your classroom, grade level, and teaching priorities.</source>
+        <target state="needs-translation">However, you may decide to assign more or less weight to each of these pieces, and you should certainly feel free to scale up or down the documentation piece as appropriate for your classroom, grade level, and teaching priorities.</target>
+        <note>Context: XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="66566" identifier="f79485dcf7234039d7b9e2a1898d5f2a" translate="no">
+        <source> </source>
+        <target state="translated"> </target>
+        <note>Context: XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="66567" identifier="1b9796b47a397dbf0e0c462309dc2f02">
+        <source>While working on the project</source>
+        <target state="needs-translation">While working on the project</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[6]</note>
+      </trans-unit>
+      <trans-unit id="66568" identifier="585dfa223436ca47b6c98f51ba69fe47">
+        <source>The expectation is that you are working steadily on your independent project for three weeks, testing out ideas, trying things out, getting stuck, and getting yourself unstuck.</source>
+        <target state="needs-translation">The expectation is that you are working steadily on your independent project for three weeks, testing out ideas, trying things out, getting stuck, and getting yourself unstuck.</target>
+        <note>Context: XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="66569" identifier="e3667459ddc65a950ed95fd38fa4de00">
+        <source>Because everyone is working on a different project, we can't assign the same homework to everybody so besides the project work itself, you are also responsible for documenting the work you are doing on the project using work logs, and reflecting on the process of your learning in a record of thinking.</source>
+        <target state="needs-translation">Because everyone is working on a different project, we can't assign the same homework to everybody so besides the project work itself, you are also responsible for documenting the work you are doing on the project using work logs, and reflecting on the process of your learning in a record of thinking.</target>
+        <note>Context: XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="66570" identifier="de6885ff8b92557b83f34cd7dc5ff977">
+        <source>Here are more details on these.</source>
+        <target state="needs-translation">Here are more details on these.</target>
+        <note>Context: XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="66571" identifier="0d97907d654fb38164f1db2ba56b63ad">
+        <source>Work logs</source>
+        <target state="needs-translation">Work logs</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[7]</note>
+      </trans-unit>
+      <trans-unit id="66572" identifier="1dbf7b14f32167d11342711b53fcec4e">
+        <source>A work log is a short, bullet point list of what you worked on, and how long it took.</source>
+        <target state="needs-translation">A work log is a short, bullet point list of what you worked on, and how long it took.</target>
+        <note>Context: XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="66573" identifier="33856b328964ef17f34d6afbe5f4ea4e">
+        <source>Stick to just the facts.</source>
+        <target state="needs-translation">Stick to just the facts.</target>
+        <note>Context: XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="66574" identifier="191cebf6e7104a0de5a59eaefcf57a6d">
+        <source>It shouldn’t take more than thirty seconds or so to write up a work log.</source>
+        <target state="needs-translation">It shouldn’t take more than thirty seconds or so to write up a work log.</target>
+        <note>Context: XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="66575" identifier="91ba3e8a8e505d29628385031ac1d185">
+        <source>Students should do one for every class, several times a week.</source>
+        <target state="needs-translation">Students should do one for every class, several times a week.</target>
+        <note>Context: XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="66576" identifier="f57ef8b9883de43f8dd61f6ff296425c">
+        <source>A shared Microsoft OneNote notebook is a great way to keep a work log that students can update regularly.</source>
+        <target state="needs-translation">A shared Microsoft OneNote notebook is a great way to keep a work log that students can update regularly.</target>
+        <note>Context: XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="66577" identifier="00ac244acc854e8d16e447a42f969a30">
+        <source>Alternately, you might use a collaborative shared document, or your classroom management system, or even e-mail.</source>
+        <target state="needs-translation">Alternately, you might use a collaborative shared document, or your classroom management system, or even e-mail.</target>
+        <note>Context: XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="66578" identifier="21f540a6a7089e5fc0faa4693a675670">
+        <source>Sample Work Log:</source>
+        <target state="needs-translation">Sample Work Log:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[14]</note>
+      </trans-unit>
+      <trans-unit id="66579" identifier="a056c48b2c877c8408306b167d06bc0e">
+        <source>Flappy Dino Project&lt;br/&gt;
+  3/31: 45 min. Worked on attaching cardboard arm to servo and mounting servo to inside&lt;br/&gt;
+  4/1: 30 min. Looked up documentation on talking to NeoPixel strip, worked through demos&lt;br/&gt;
+  4/3: 45 min. Hot glued NeoPixel strip to outside of dinosaur, finished painting&lt;br/&gt;
+  4/4: 30 min. Coded lighting patterns in MakeCode.</source>
+        <target state="needs-translation">Flappy Dino Project&lt;br/&gt;
+  3/31: 45 min. Worked on attaching cardboard arm to servo and mounting servo to inside&lt;br/&gt;
+  4/1: 30 min. Looked up documentation on talking to NeoPixel strip, worked through demos&lt;br/&gt;
+  4/3: 45 min. Hot glued NeoPixel strip to outside of dinosaur, finished painting&lt;br/&gt;
+  4/4: 30 min. Coded lighting patterns in MakeCode.</target>
+        <note>Context: Text&#13;
+XPath: /blockquote/p/em</note>
+      </trans-unit>
+      <trans-unit id="66580" identifier="c4cb802315be6ffc43363a92f0861b90">
+        <source>&lt;strong&gt;Teacher note:&lt;/strong&gt; We generally don't accept late work logs.</source>
+        <target state="needs-translation">&lt;strong&gt;Teacher note:&lt;/strong&gt; We generally don't accept late work logs.</target>
+        <note>Context: XPath: /p[15]</note>
+      </trans-unit>
+      <trans-unit id="66581" identifier="7c2143c1b95fa7be62545a2a7f3de807">
+        <source>If a student simply didn't have time to do any work on the project, he should still file a work log, and report that no work got done.</source>
+        <target state="needs-translation">If a student simply didn't have time to do any work on the project, he should still file a work log, and report that no work got done.</target>
+        <note>Context: XPath: /p[15]</note>
+      </trans-unit>
+      <trans-unit id="66582" identifier="3674a39a951d7609232663d7fcf2589d">
+        <source>Work logs are worth a few points each, so missing one or two isn't a problem, but if it happens a lot it's usually time to do a check-in with that student and see where she is with the project.</source>
+        <target state="needs-translation">Work logs are worth a few points each, so missing one or two isn't a problem, but if it happens a lot it's usually time to do a check-in with that student and see where she is with the project.</target>
+        <note>Context: XPath: /p[15]</note>
+      </trans-unit>
+      <trans-unit id="66583" identifier="2747851fd6b22c17e238bbed0ec89bbf">
+        <source>Record of thinking</source>
+        <target state="needs-translation">Record of thinking</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[8]</note>
+      </trans-unit>
+      <trans-unit id="66584" identifier="fbbd077a69fb9a3a9bfbaa3cfc368641">
+        <source>A Record of Thinking is like a journal entry (or like the reflection that you did for the mini-project) that tells the story of your learning throughout the past week.</source>
+        <target state="needs-translation">A Record of Thinking is like a journal entry (or like the reflection that you did for the mini-project) that tells the story of your learning throughout the past week.</target>
+        <note>Context: XPath: /p[16]</note>
+      </trans-unit>
+      <trans-unit id="66585" identifier="85edd6e3b9688bd154e145a8e7c87986">
+        <source>Go through your work logs for the week and look at what you did, where you got stuck, and how you figured it out.</source>
+        <target state="needs-translation">Go through your work logs for the week and look at what you did, where you got stuck, and how you figured it out.</target>
+        <note>Context: XPath: /p[16]</note>
+      </trans-unit>
+      <trans-unit id="66586" identifier="038a46f7bd8770be4fc247c3a44e1e37">
+        <source>Then write a 150- to 300-word Record of Thinking addressing the following:</source>
+        <target state="needs-translation">Then write a 150- to 300-word Record of Thinking addressing the following:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[17]</note>
+      </trans-unit>
+      <trans-unit id="66587" identifier="3a360b304b3d25a487aab73e4932047a">
+        <source>Describe something that surprised you this week as you worked on your project.</source>
+        <target state="needs-translation">Describe something that surprised you this week as you worked on your project.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li</note>
+      </trans-unit>
+      <trans-unit id="66588" identifier="095cfa248b5ef0cbd3fa932e8316a617">
+        <source>Describe a moment where you go stuck. How did you get unstuck?</source>
+        <target state="needs-translation">Describe a moment where you go stuck. How did you get unstuck?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66589" identifier="319b1940b72f7e6c8ebc122c27be19c0">
+        <source>Did anyone help you this week? Who and how?</source>
+        <target state="needs-translation">Did anyone help you this week? Who and how?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66590" identifier="bef4703a7a4585a65254bdf88c6e11f2">
+        <source>Choose an adjective that describes how you are feeling about your project this week. Explain why you chose this word.</source>
+        <target state="needs-translation">Choose an adjective that describes how you are feeling about your project this week. Explain why you chose this word.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="66591" identifier="b719000d38e60c5be0e0dca8accaab50">
+        <source>What are you working on next week? (for weeks 1 and 2)</source>
+        <target state="needs-translation">What are you working on next week? (for weeks 1 and 2)</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[5]</note>
+      </trans-unit>
+      <trans-unit id="66592" identifier="c82e1d2d96d9e29b9d3c0b8ea066d2e6">
+        <source>If you had more time to work on this project, what would you add? (for week 3)</source>
+        <target state="needs-translation">If you had more time to work on this project, what would you add? (for week 3)</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[6]</note>
+      </trans-unit>
+      <trans-unit id="66593" identifier="aefd785949a04ca9865750f3131eb093">
+        <source>Sample Record of Thinking Excerpt:</source>
+        <target state="needs-translation">Sample Record of Thinking Excerpt:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[18]</note>
+      </trans-unit>
+      <trans-unit id="66594" identifier="79eefb656f6f6b7ae6878761d51e2b1c">
+        <source>Week of April 6&lt;br/&gt;
+  I guess I would choose the word &quot;elated&quot; because that's what I am feeling right now.</source>
+        <target state="needs-translation">Week of April 6&lt;br/&gt;
+  I guess I would choose the word &quot;elated&quot; because that's what I am feeling right now.</target>
+        <note>Context: XPath: /blockquote[2]/p/em</note>
+      </trans-unit>
+      <trans-unit id="66595" identifier="1a722774643ffe32f60a644506445b72">
+        <source>After Mr. Kiang helped me figure out why my code wasn't working I was able to see it working exactly how I pictured it last week!</source>
+        <target state="needs-translation">After Mr. Kiang helped me figure out why my code wasn't working I was able to see it working exactly how I pictured it last week!</target>
+        <note>Context: XPath: /blockquote[2]/p/em</note>
+      </trans-unit>
+      <trans-unit id="66596" identifier="03207e46ff7413743c9ef22d09c624cf">
+        <source>That was a great moment.</source>
+        <target state="needs-translation">That was a great moment.</target>
+        <note>Context: XPath: /blockquote[2]/p/em</note>
+      </trans-unit>
+      <trans-unit id="66597" identifier="b129c3e781f675ea40717f6df9ecec20">
+        <source>I was surprised how hard writing code that works is.</source>
+        <target state="needs-translation">I was surprised how hard writing code that works is.</target>
+        <note>Context: XPath: /blockquote[2]/p/em</note>
+      </trans-unit>
+      <trans-unit id="66598" identifier="85eb80bd660f1fac262d4d069eeeb2a0">
+        <source>I planned out the steps I wanted it to do but I didn't realize that the loops had to be nested one inside the other so I was stuck for a while.</source>
+        <target state="needs-translation">I planned out the steps I wanted it to do but I didn't realize that the loops had to be nested one inside the other so I was stuck for a while.</target>
+        <note>Context: XPath: /blockquote[2]/p/em</note>
+      </trans-unit>
+      <trans-unit id="66599" identifier="b1bc65f557dbc1edcc48c8de31a28130">
+        <source>It always seems more simple than it is, that's one thought I will take into next week.</source>
+        <target state="needs-translation">It always seems more simple than it is, that's one thought I will take into next week.</target>
+        <note>Context: XPath: /blockquote[2]/p/em</note>
+      </trans-unit>
+      <trans-unit id="66600" identifier="b76321f3c47eb32193b889f2ce86f1a7">
+        <source>Now I have the head attached to the body and the jaws work.</source>
+        <target state="needs-translation">Now I have the head attached to the body and the jaws work.</target>
+        <note>Context: XPath: /blockquote[2]/p/em</note>
+      </trans-unit>
+      <trans-unit id="66601" identifier="681f99598717033b08d44ce7b74a9b03">
+        <source>I'm going to keep trying to get the lights working.</source>
+        <target state="needs-translation">I'm going to keep trying to get the lights working.</target>
+        <note>Context: XPath: /blockquote[2]/p/em</note>
+      </trans-unit>
+      <trans-unit id="66602" identifier="56e14a2db9d7daf8dfebaa33cfe17d35">
+        <source>Teacher Note: A Record of Thinking is not an expanded work log!</source>
+        <target state="needs-translation">Teacher Note: A Record of Thinking is not an expanded work log!</target>
+        <note>Context: XPath: /p[19]</note>
+      </trans-unit>
+      <trans-unit id="66603" identifier="8cf1e82bd43c23debdb2131d5612f854">
+        <source>Students will sometimes just write a more detailed list of all of the tasks they completed over the week, and that's not the point of the Record of Thinking.</source>
+        <target state="needs-translation">Students will sometimes just write a more detailed list of all of the tasks they completed over the week, and that's not the point of the Record of Thinking.</target>
+        <note>Context: XPath: /p[19]</note>
+      </trans-unit>
+      <trans-unit id="66604" identifier="354a938e55158f72bcc207665b3a17de">
+        <source>The Work Logs are to show WHAT you did.</source>
+        <target state="needs-translation">The Work Logs are to show WHAT you did.</target>
+        <note>Context: XPath: /p[19]</note>
+      </trans-unit>
+      <trans-unit id="66605" identifier="2289ad1d4e5f647fc917257010b077ea">
+        <source>The Record of Thinking is to show HOW you learned how to do it.</source>
+        <target state="needs-translation">The Record of Thinking is to show HOW you learned how to do it.</target>
+        <note>Context: XPath: /p[19]</note>
+      </trans-unit>
+      <trans-unit id="66606" identifier="35e80cbdc01657cc8667f013f52afa7e">
+        <source>Unlike Work Logs, I will accept late Records of Thinking as long as they come no later than the due date for the next week’s Record of Thinking.</source>
+        <target state="needs-translation">Unlike Work Logs, I will accept late Records of Thinking as long as they come no later than the due date for the next week’s Record of Thinking.</target>
+        <note>Context: XPath: /p[19]</note>
+      </trans-unit>
+      <trans-unit id="66607" identifier="54ea6d6846c1fffe2d467ec1d7094997">
+        <source>It is an important form of documentation of the learning process.</source>
+        <target state="needs-translation">It is an important form of documentation of the learning process.</target>
+        <note>Context: XPath: /p[19]</note>
+      </trans-unit>
+      <trans-unit id="66608" identifier="b75ad024f78b24bd49c01b68c8a3deb4">
+        <source>Turning in the final project</source>
+        <target state="needs-translation">Turning in the final project</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[9]</note>
+      </trans-unit>
+      <trans-unit id="66609" identifier="cc6df277d10ab5251dd70c9d47d224e9">
+        <source>When you turn in the final project, you should turn in your code, and a final narrative.</source>
+        <target state="needs-translation">When you turn in the final project, you should turn in your code, and a final narrative.</target>
+        <note>Context: XPath: /p[20]</note>
+      </trans-unit>
+      <trans-unit id="66610" identifier="45f51c5ed08ec3717604d0472526aa3e">
+        <source>To turn in your code, you can Share the code by clicking the Share button at the top of the MakeCode window (next to Projects).</source>
+        <target state="needs-translation">To turn in your code, you can Share the code by clicking the Share button at the top of the MakeCode window (next to Projects).</target>
+        <note>Context: XPath: /p[20]</note>
+      </trans-unit>
+      <trans-unit id="66611" identifier="7bee806c5f81cc7122a412b2d7f5b3d5" translate="no">
+        <source>/static/courses/csintro/finalproject/share-button.png</source>
+        <target>/static/courses/csintro/finalproject/share-button.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[21]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66612" identifier="d6ac3ac029f475ebf66b9117a5d86323">
+        <source>Share project button</source>
+        <target state="needs-translation">Share project button</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[21]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="66613" identifier="000b3f78fd9f148044cbfc94d6f2fa24">
+        <source>You acknowledge that you have consented to sharing your code by clicking Publish project.</source>
+        <target state="needs-translation">You acknowledge that you have consented to sharing your code by clicking Publish project.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[22]</note>
+      </trans-unit>
+      <trans-unit id="66614" identifier="43ea767b7110f70dd84dc3ee36cac329" translate="no">
+        <source>/static/courses/csintro/finalproject/publish-dialog.png</source>
+        <target>/static/courses/csintro/finalproject/publish-dialog.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[23]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66615" identifier="eadde42e38d5d97e38e5e7bec904e7b5">
+        <source>Publish project dialog</source>
+        <target state="needs-translation">Publish project dialog</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[23]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="66616" identifier="acb7963675ad6099c612051e2004e0ab">
+        <source>You can then copy the URL, paste it into a OneNote page, or send it to your teacher.</source>
+        <target state="needs-translation">You can then copy the URL, paste it into a OneNote page, or send it to your teacher.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[24]</note>
+      </trans-unit>
+      <trans-unit id="66617" identifier="ccfc687655405fc2d8e828017cd2abdf" translate="no">
+        <source>/static/courses/csintro/finalproject/share-dialog.png</source>
+        <target>/static/courses/csintro/finalproject/share-dialog.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[25]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66618" identifier="082f9546975d5121b248a36625650791">
+        <source>Share project dialog</source>
+        <target state="needs-translation">Share project dialog</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[25]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="66619" identifier="7ab4ebd67a884790a8ee6592b250597c">
+        <source>You also need to create a written final narrative to accompany your code.</source>
+        <target state="needs-translation">You also need to create a written final narrative to accompany your code.</target>
+        <note>Context: XPath: /p[26]</note>
+      </trans-unit>
+      <trans-unit id="66620" identifier="efa96675362319751dc8a17304914ef5">
+        <source> 
+You have worked for the past three weeks to propose, design, and test an original micro:bit independent project.</source>
+        <target state="needs-translation"> 
+You have worked for the past three weeks to propose, design, and test an original micro:bit independent project.</target>
+        <note>Context: XPath: /p[26]</note>
+      </trans-unit>
+      <trans-unit id="66621" identifier="6d41a475bec7ed7ebfede312e308cc78">
+        <source>I am looking for an honest, accurate assessment of your work over this time.</source>
+        <target state="needs-translation">I am looking for an honest, accurate assessment of your work over this time.</target>
+        <note>Context: XPath: /p[26]</note>
+      </trans-unit>
+      <trans-unit id="66622" identifier="a595051806a85a149f5c729c0d948d72">
+        <source> 
+Please go back and read through all of your Work Logs, Records of Thinking, Beta Testing feedback, and any notes from teacher conferences.</source>
+        <target state="needs-translation"> 
+Please go back and read through all of your Work Logs, Records of Thinking, Beta Testing feedback, and any notes from teacher conferences.</target>
+        <note>Context: XPath: /p[26]</note>
+      </trans-unit>
+      <trans-unit id="66623" identifier="6b9435af48b077425845b4d4a7759f27">
+        <source> 
+Then, compose a comprehensive narrative that tells the story of the development of this app, and your progress toward your goals along the way.</source>
+        <target state="needs-translation"> 
+Then, compose a comprehensive narrative that tells the story of the development of this app, and your progress toward your goals along the way.</target>
+        <note>Context: XPath: /p[26]</note>
+      </trans-unit>
+      <trans-unit id="66624" identifier="cd9c3da76c724a553e4c3de1619359a2">
+        <source> How you tell the story is up to you, but you might consider following most, if not all, of the following questions:</source>
+        <target state="needs-translation"> How you tell the story is up to you, but you might consider following most, if not all, of the following questions:</target>
+        <note>Context: XPath: /p[26]</note>
+      </trans-unit>
+      <trans-unit id="66625" identifier="7957061b2893baa311dc712a91ec9c3e">
+        <source>How did you start the process of designing the product/meeting your goals?</source>
+        <target state="needs-translation">How did you start the process of designing the product/meeting your goals?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li</note>
+      </trans-unit>
+      <trans-unit id="66626" identifier="f7d88a3607acf66866faea3b1a1787a1">
+        <source>What did you hope to learn?</source>
+        <target state="needs-translation">What did you hope to learn?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66627" identifier="029a7d8652f804791c46f093f74fbb79">
+        <source>What challenges did you face? How did you overcome them?</source>
+        <target state="needs-translation">What challenges did you face? How did you overcome them?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66628" identifier="d1bb2fc19f8bdf7021fa97f6d0c9c8c3">
+        <source>What was the outcome?</source>
+        <target state="needs-translation">What was the outcome?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="66629" identifier="82c3a117413087ebefb28863b6979cc5">
+        <source>What did you learn in the end?</source>
+        <target state="needs-translation">What did you learn in the end?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li[5]</note>
+      </trans-unit>
+      <trans-unit id="66630" identifier="043bc4b205bf4687e997797b88eb6d4e">
+        <source>Who in the class provided help to you along the way? How?</source>
+        <target state="needs-translation">Who in the class provided help to you along the way? How?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li[6]</note>
+      </trans-unit>
+      <trans-unit id="66631" identifier="665196203f8fbf2e0281989fe46fb534">
+        <source>What were you proud of?</source>
+        <target state="needs-translation">What were you proud of?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li[7]</note>
+      </trans-unit>
+      <trans-unit id="66632" identifier="119f0810623084df49fe07cfa4f1ee11">
+        <source>What would you do differently next time?</source>
+        <target state="needs-translation">What would you do differently next time?</target>
+        <note>Context: XPath: /ul[6]/li[8]</note>
+      </trans-unit>
+      <trans-unit id="66633" identifier="d8c9b02481342be8267a6c04b60c713b">
+        <source> 
+Throughout your narrative, you must cite evidence from your work logs and records of thinking (e.g., Record of Thinking 4/17, Work Log #3, Conference notes, etc.)  You may use footnotes for this or add it in parentheses after the material you are citing.</source>
+        <target state="needs-translation"> 
+Throughout your narrative, you must cite evidence from your work logs and records of thinking (e.g., Record of Thinking 4/17, Work Log #3, Conference notes, etc.)  You may use footnotes for this or add it in parentheses after the material you are citing.</target>
+        <note>Context: XPath: /ul[6]/li[8]</note>
+      </trans-unit>
+      <trans-unit id="66634" identifier="fd2553e1b0d017c101a60462d50113cb">
+        <source> 
+I will read this carefully and grade it along with your final project code and average it with the total of your work logs and records of thinking to come up with your final grade for the project.</source>
+        <target state="needs-translation"> 
+I will read this carefully and grade it along with your final project code and average it with the total of your work logs and records of thinking to come up with your final grade for the project.</target>
+        <note>Context: XPath: /ul[6]/li[8]</note>
+      </trans-unit>
+      <trans-unit id="66635" identifier="d5c08f3ef032476dc24e8d7f7cdb5115">
+        <source> 
+Sample Final Narrative:</source>
+        <target state="needs-translation"> 
+Sample Final Narrative:</target>
+        <note>Context: XPath: /ul[6]/li[8]</note>
+      </trans-unit>
+      <trans-unit id="66636" identifier="27f37d6bf62412d188e0e243e8e55432">
+        <source>&lt;em&gt;It’s clear to me now that in the second week, I was a little lost and confused with the direction my project was taking.</source>
+        <target state="needs-translation">&lt;em&gt;It’s clear to me now that in the second week, I was a little lost and confused with the direction my project was taking.</target>
+        <note>Context: XPath: /blockquote[3]/p</note>
+      </trans-unit>
+      <trans-unit id="66637" identifier="0d5c1d84d4e35809e804ad84d3fa6ae9">
+        <source>I can see now that in my chats with Mr. Kiang and with classmates (Conference Notes 4/3) I was not being very precise in my questions, and I didn’t totally understand what he was explaining.&lt;/em&gt;
+   
+  &lt;em&gt;Looking back, one of my goals was to meet more regularly with my table mates.</source>
+        <target state="needs-translation">I can see now that in my chats with Mr. Kiang and with classmates (Conference Notes 4/3) I was not being very precise in my questions, and I didn’t totally understand what he was explaining.&lt;/em&gt;
+   
+  &lt;em&gt;Looking back, one of my goals was to meet more regularly with my table mates.</target>
+        <note>Context: XPath: /blockquote[3]/p</note>
+      </trans-unit>
+      <trans-unit id="66638" identifier="55aa507a2500fde9a688509e77ffa42c">
+        <source>Hopefully I would be a lot less confused and at least this time when I got stuck, we would be able to solve it together.</source>
+        <target state="needs-translation">Hopefully I would be a lot less confused and at least this time when I got stuck, we would be able to solve it together.</target>
+        <note>Context: XPath: /blockquote[3]/p</note>
+      </trans-unit>
+      <trans-unit id="66639" identifier="7d7f2b6cc7303e4369ea4eaacf7549c3">
+        <source>I wrote about this in my Record of Thinking (Record of Thinking #2) but I am surprised that things cleared up for me so quickly once we did start meeting together.</source>
+        <target state="needs-translation">I wrote about this in my Record of Thinking (Record of Thinking #2) but I am surprised that things cleared up for me so quickly once we did start meeting together.</target>
+        <note>Context: XPath: /blockquote[3]/p</note>
+      </trans-unit>
+      <trans-unit id="66640" identifier="ac3f694d858ea49b2c4adb093ac871a9">
+        <source>This allowed me to get past something that was really bothering me, specifically adding and removing things from an array, and I was able to complete that in less than a day after having been stuck for more than a week (Work Log #4).&lt;/em&gt;
+       
+  &lt;em&gt;Once I started to get a little more clear on what to do, I was able to get more effective help from my classmates.</source>
+        <target state="needs-translation">This allowed me to get past something that was really bothering me, specifically adding and removing things from an array, and I was able to complete that in less than a day after having been stuck for more than a week (Work Log #4).&lt;/em&gt;
+       
+  &lt;em&gt;Once I started to get a little more clear on what to do, I was able to get more effective help from my classmates.</target>
+        <note>Context: XPath: /blockquote[3]/p</note>
+      </trans-unit>
+      <trans-unit id="66641" identifier="e24b053dea81e66b047b17233cb91e2b">
+        <source>Specifically, Jordan helped me a lot with figuring out how to get an image to display properly on the screen.</source>
+        <target state="needs-translation">Specifically, Jordan helped me a lot with figuring out how to get an image to display properly on the screen.</target>
+        <note>Context: XPath: /blockquote[3]/p</note>
+      </trans-unit>
+      <trans-unit id="66642" identifier="dc330f57816d9b824818bccd662b3b96">
+        <source>He also showed me how to search through the online documentation more effectively.</source>
+        <target state="needs-translation">He also showed me how to search through the online documentation more effectively.</target>
+        <note>Context: XPath: /blockquote[3]/p</note>
+      </trans-unit>
+      <trans-unit id="66643" identifier="6472f8e1f642e8ff5f5321faf05ac5b1">
+        <source>I think if I could do this over again, I would have scheduled more time earlier to meet with Mr. Kiang and/or found a better way to share the different online sites with my table mates because we all found different places to go.</source>
+        <target state="needs-translation">I think if I could do this over again, I would have scheduled more time earlier to meet with Mr. Kiang and/or found a better way to share the different online sites with my table mates because we all found different places to go.</target>
+        <note>Context: XPath: /blockquote[3]/p</note>
+      </trans-unit>
+      <trans-unit id="66644" identifier="069c1ea8a770f56dedab9eb4865f6906">
+        <source>I didn’t even find out until the end that you could jump into JavaScript to make changes to the code, and it makes it all with the right blocks when you go back!</source>
+        <target state="needs-translation">I didn’t even find out until the end that you could jump into JavaScript to make changes to the code, and it makes it all with the right blocks when you go back!</target>
+        <note>Context: XPath: /blockquote[3]/p</note>
+      </trans-unit>
+      <trans-unit id="66645" identifier="9d2728b0fb7352b6bc1331f2ba70cc00">
+        <source>(Beta Testing notes) That would have saved me a lot of time.&lt;/em&gt;</source>
+        <target state="needs-translation">(Beta Testing notes) That would have saved me a lot of time.&lt;/em&gt;</target>
+        <note>Context: XPath: /blockquote[3]/p</note>
+      </trans-unit>
+      <trans-unit id="66646" identifier="1a614fd0ac9b1547ddccfcc3d7224b3c">
+        <source>Beta testing</source>
+        <target state="needs-translation">Beta testing</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[10]</note>
+      </trans-unit>
+      <trans-unit id="66647" identifier="357fed0dc88b3474487e508d3c260a51">
+        <source>Beta testing is an important part of testing the final projects to uncover bugs or design issues that could make the projects difficult to use.</source>
+        <target state="needs-translation">Beta testing is an important part of testing the final projects to uncover bugs or design issues that could make the projects difficult to use.</target>
+        <note>Context: XPath: /p[27]</note>
+      </trans-unit>
+      <trans-unit id="66648" identifier="bed98e8f2f91f77d3beda520011c6191">
+        <source>One way to test the projects is to ask all students to come in to class on a specific day with the projects ready to test.</source>
+        <target state="needs-translation">One way to test the projects is to ask all students to come in to class on a specific day with the projects ready to test.</target>
+        <note>Context: XPath: /p[27]</note>
+      </trans-unit>
+      <trans-unit id="66649" identifier="0159bcd88f5522979008cf30a3c931d6">
+        <source>This is not the final deadline, but projects should be &quot;feature-complete&quot; i.e., all features need to be incorporated into the micro:bit, and the construction of the real world elements of the project need to be done or almost done.</source>
+        <target state="needs-translation">This is not the final deadline, but projects should be &quot;feature-complete&quot; i.e., all features need to be incorporated into the micro:bit, and the construction of the real world elements of the project need to be done or almost done.</target>
+        <note>Context: XPath: /p[27]</note>
+      </trans-unit>
+      <trans-unit id="66650" identifier="12fabb9383bcc7630e18095c8f330247">
+        <source>Students can take turns presenting their projects to the entire class, or they can work in pairs to take turns trying their partner's project out and offering feedback.</source>
+        <target state="needs-translation">Students can take turns presenting their projects to the entire class, or they can work in pairs to take turns trying their partner's project out and offering feedback.</target>
+        <note>Context: XPath: /p[28]</note>
+      </trans-unit>
+      <trans-unit id="66651" identifier="0aabdcbdb83bfa34ef0e49a9f8f97609">
+        <source>Students who are being critiqued should take beta testing feedback notes and turn them in as part of their final project narrative.</source>
+        <target state="needs-translation">Students who are being critiqued should take beta testing feedback notes and turn them in as part of their final project narrative.</target>
+        <note>Context: XPath: /p[28]</note>
+      </trans-unit>
+      <trans-unit id="66652" identifier="fadf6006c5e6fbe1eaf7624d1e7d33bc">
+        <source>Final showcase</source>
+        <target state="needs-translation">Final showcase</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[11]</note>
+      </trans-unit>
+      <trans-unit id="66653" identifier="5c8e124c2cd4447bb5b0ce9f613678e5">
+        <source>Have a celebration of your students' hard work and hold an event at your school for parents, administrators, and other community members to appreciate all of the hard work that went into making each of the final projects.</source>
+        <target state="needs-translation">Have a celebration of your students' hard work and hold an event at your school for parents, administrators, and other community members to appreciate all of the hard work that went into making each of the final projects.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[29]</note>
+      </trans-unit>
+      <trans-unit id="66654" identifier="4270911c4625a6c16cd3079a5190ed64">
+        <source>We have found that a &quot;science fair&quot; format works nicely, with students sitting at tables where they can demonstrate their projects and answer questions.</source>
+        <target state="needs-translation">We have found that a &quot;science fair&quot; format works nicely, with students sitting at tables where they can demonstrate their projects and answer questions.</target>
+        <note>Context: XPath: /p[30]</note>
+      </trans-unit>
+      <trans-unit id="66655" identifier="f705efb7c6834130c393503ec15305bb">
+        <source>Some schools do a &quot;shark tank&quot; type of event where students take turns &quot;pitching&quot; their project ideas to a panel composed of local software developers, entrepreneurs, and investors.</source>
+        <target state="needs-translation">Some schools do a &quot;shark tank&quot; type of event where students take turns &quot;pitching&quot; their project ideas to a panel composed of local software developers, entrepreneurs, and investors.</target>
+        <note>Context: XPath: /p[30]</note>
+      </trans-unit>
+      <trans-unit id="66656" identifier="c0a3e7452f7a6224ea1419618ad84371">
+        <source>Either way, a little public recognition of all of your students' hard work goes a long way!</source>
+        <target state="needs-translation">Either way, a little public recognition of all of your students' hard work goes a long way!</target>
+        <note>Context: XPath: /p[30]</note>
+      </trans-unit>
+      <trans-unit id="66657" identifier="7549231c9ce392a1a0f1aeaf19b32dc5" translate="no" approved="yes">
+        <source>Assessment</source>
+        <target>評価</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[12]</note>
+      </trans-unit>
+      <trans-unit id="66658" identifier="f7231ae23f9585b8e5c869c361a34f8d" translate="no">
+        <source>&lt;strong&gt;Competency scores&lt;/strong&gt;: 4, 3, 2, 1</source>
+        <target>&lt;strong&gt;Competency scores&lt;/strong&gt;: 4, 3, 2, 1</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[31]</note>
+      </trans-unit>
+      <trans-unit id="66659" identifier="eb1496592b265c0cff27ce605a052faf">
+        <source>Code - Show what you know</source>
+        <target state="needs-translation">Code - Show what you know</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3</note>
+      </trans-unit>
+      <trans-unit id="66660" identifier="17315f28a1965c83f9c4a40d722714e2">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; Code very effectively demonstrates the use of previous concept(s).</source>
+        <target state="needs-translation">&lt;strong&gt;4 =&lt;/strong&gt; Code very effectively demonstrates the use of previous concept(s).</target>
+        <note>Context: XPath: /p[32]</note>
+      </trans-unit>
+      <trans-unit id="66661" identifier="76667b406d19dc6d65561c87458e50c3">
+        <source>All variable names are unique and clearly describe what information values the variables hold.</source>
+        <target state="needs-translation">All variable names are unique and clearly describe what information values the variables hold.</target>
+        <note>Context: XPath: /p[32]</note>
+      </trans-unit>
+      <trans-unit id="66662" identifier="bf5c7f507af083023e94b4c9ff72e663">
+        <source>Code is highly efficient.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Code effectively demonstrates the use of previous concept(s).</source>
+        <target state="needs-translation">Code is highly efficient.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Code effectively demonstrates the use of previous concept(s).</target>
+        <note>Context: XPath: /p[32]</note>
+      </trans-unit>
+      <trans-unit id="66663" identifier="fce0fd223240670dd51d0e7b6aef57b3">
+        <source>Most variable names are unique and/or clearly describe what information values the variables hold.</source>
+        <target state="needs-translation">Most variable names are unique and/or clearly describe what information values the variables hold.</target>
+        <note>Context: XPath: /p[32]</note>
+      </trans-unit>
+      <trans-unit id="66664" identifier="f8dfd70d4b28030d44fddc27d13f90b5">
+        <source>Code is mostly efficient.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Code somewhat effectively demonstrates the use of previous concept(s).</source>
+        <target state="needs-translation">Code is mostly efficient.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Code somewhat effectively demonstrates the use of previous concept(s).</target>
+        <note>Context: XPath: /p[32]</note>
+      </trans-unit>
+      <trans-unit id="66665" identifier="8f76ce43bbb827d11a61bec0e566603e">
+        <source>Only some variable names are unique and/or clearly describe what information values the variables hold.</source>
+        <target state="needs-translation">Only some variable names are unique and/or clearly describe what information values the variables hold.</target>
+        <note>Context: XPath: /p[32]</note>
+      </trans-unit>
+      <trans-unit id="66666" identifier="a8e9c9748b638595fcf1ddc375bfe12e">
+        <source>Code is somewhat efficient.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; Code demonstrates the use of previous concept(s), yet is not effective.</source>
+        <target state="needs-translation">Code is somewhat efficient.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; Code demonstrates the use of previous concept(s), yet is not effective.</target>
+        <note>Context: XPath: /p[32]</note>
+      </trans-unit>
+      <trans-unit id="66667" identifier="0e85ab45ed725ade9fac6ab05a737367">
+        <source>Few or no variable names are unique and/or clearly describe what information values the variables hold.</source>
+        <target state="needs-translation">Few or no variable names are unique and/or clearly describe what information values the variables hold.</target>
+        <note>Context: XPath: /p[32]</note>
+      </trans-unit>
+      <trans-unit id="66668" identifier="0f42d9ce44cdac3cefed52d7c4db2e2e">
+        <source>Code is not efficient.</source>
+        <target state="needs-translation">Code is not efficient.</target>
+        <note>Context: XPath: /p[32]</note>
+      </trans-unit>
+      <trans-unit id="66669" identifier="05f2490914594b317d14ee8d88560380">
+        <source>Code - Show something new</source>
+        <target state="needs-translation">Code - Show something new</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[2]</note>
+      </trans-unit>
+      <trans-unit id="66670" identifier="758a8e9e9792d5501cc84fde1bc1fdc5">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; Code very effectively demonstrates the use of new concept(s).</source>
+        <target state="needs-translation">&lt;strong&gt;4 =&lt;/strong&gt; Code very effectively demonstrates the use of new concept(s).</target>
+        <note>Context: XPath: /p[33]</note>
+      </trans-unit>
+      <trans-unit id="66671" identifier="26f74a0a9e3070fea31bf813d7820e75" translate="no">
+        <source>All variable names are unique and clearly describe what information values the variables hold.</source>
+        <target>All variable names are unique and clearly describe what information values the variables hold.</target>
+        <note>Context: XPath: /p[33]</note>
+      </trans-unit>
+      <trans-unit id="66672" identifier="3a64a8c64817800a0d4db08b9a0a01e8">
+        <source>Code is highly efficient.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Code effectively demonstrates the use of new concept(s).</source>
+        <target state="needs-translation">Code is highly efficient.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Code effectively demonstrates the use of new concept(s).</target>
+        <note>Context: XPath: /p[33]</note>
+      </trans-unit>
+      <trans-unit id="66673" identifier="86f77786202e514308b68461be7eeaef" translate="no">
+        <source>Most variable names are unique and/or clearly describe what information values the variables hold.</source>
+        <target>Most variable names are unique and/or clearly describe what information values the variables hold.</target>
+        <note>Context: XPath: /p[33]</note>
+      </trans-unit>
+      <trans-unit id="66674" identifier="98de6789cba2f485ecbefdf1d386c418">
+        <source>Code is mostly efficient.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Code somewhat effectively demonstrates the use of new concept(s).</source>
+        <target state="needs-translation">Code is mostly efficient.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Code somewhat effectively demonstrates the use of new concept(s).</target>
+        <note>Context: XPath: /p[33]</note>
+      </trans-unit>
+      <trans-unit id="66675" identifier="500ac2d527b4034d14316f9601aafead" translate="no">
+        <source>Only some variable names are unique and/or clearly describe what information values the variables hold.</source>
+        <target>Only some variable names are unique and/or clearly describe what information values the variables hold.</target>
+        <note>Context: XPath: /p[33]</note>
+      </trans-unit>
+      <trans-unit id="66676" identifier="c5774684ce5b7c110320541899ca8587">
+        <source>Code is somewhat efficient.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; Code demonstrates the use of new concept(s), yet is not effective.</source>
+        <target state="needs-translation">Code is somewhat efficient.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; Code demonstrates the use of new concept(s), yet is not effective.</target>
+        <note>Context: XPath: /p[33]</note>
+      </trans-unit>
+      <trans-unit id="66677" identifier="7501d30282f298ae2499d1801e8431e9" translate="no">
+        <source>Few or no variable names are unique and/or clearly describe what information values the variables hold.</source>
+        <target>Few or no variable names are unique and/or clearly describe what information values the variables hold.</target>
+        <note>Context: XPath: /p[33]</note>
+      </trans-unit>
+      <trans-unit id="66678" identifier="6f4ee7ba5070ab679253304a730582e3" translate="no">
+        <source>Code is not efficient.</source>
+        <target>Code is not efficient.</target>
+        <note>Context: XPath: /p[33]</note>
+      </trans-unit>
+      <trans-unit id="66679" identifier="44576b4929d103b46126777c7bcb887f">
+        <source>Variable names</source>
+        <target state="needs-translation">Variable names</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[3]</note>
+      </trans-unit>
+      <trans-unit id="66680" identifier="b49e8e1f88bb71bad7e3363b50de1df5">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; All variable names are unique and clearly describe what information values the variables hold.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Most variable names are unique and/or clearly describe what information values the variables hold.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Only some variable names are unique and/or clearly describe what information values the variables hold.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; Few or no variable names are unique and/or clearly describe what information values the variables hold.</source>
+        <target state="needs-translation">&lt;strong&gt;4 =&lt;/strong&gt; All variable names are unique and clearly describe what information values the variables hold.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Most variable names are unique and/or clearly describe what information values the variables hold.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Only some variable names are unique and/or clearly describe what information values the variables hold.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; Few or no variable names are unique and/or clearly describe what information values the variables hold.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[34]</note>
+      </trans-unit>
+      <trans-unit id="66681" identifier="13465b68a875e4e411a60ec9131c971e" translate="no">
+        <source>Maker component</source>
+        <target>Maker component</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[4]</note>
+      </trans-unit>
+      <trans-unit id="66682" identifier="1bd32cf48dcb35df70fa68cb55c738ee">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; Tangible component is tightly integrated with the micro:bit and each relies heavily on the other to make the project complete.</source>
+        <target state="needs-translation">&lt;strong&gt;4 =&lt;/strong&gt; Tangible component is tightly integrated with the micro:bit and each relies heavily on the other to make the project complete.</target>
+        <note>Context: XPath: /p[35]</note>
+      </trans-unit>
+      <trans-unit id="66683" identifier="31cab2cebca5c9b31ff4e1ffad3c9da1">
+        <source>&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Tangible component is somewhat integrated with the micro:bit but is not essential.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Tangible component does not add to the functionality of the program.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; No tangible component.</source>
+        <target state="needs-translation">&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Tangible component is somewhat integrated with the micro:bit but is not essential.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Tangible component does not add to the functionality of the program.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; No tangible component.</target>
+        <note>Context: XPath: /p[35]</note>
+      </trans-unit>
+      <trans-unit id="66684" identifier="d9e4e68d6c47bc1e14eda9b337adca87">
+        <source>Work Logs</source>
+        <target state="needs-translation">Work Logs</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[5]</note>
+      </trans-unit>
+      <trans-unit id="66685" identifier="7567fd7f7ea180f76640da8e64a254d5">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; All work logs submitted on time, and accurate.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Two late or missing work log and/or work logs not accurate nor sufficiently detailed.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Four late or missing work logs and/or work logs not accurate nor sufficiently detailed.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; More than four late or missing work logs and/or not accurate nor sufficiently detailed.</source>
+        <target state="needs-translation">&lt;strong&gt;4 =&lt;/strong&gt; All work logs submitted on time, and accurate.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Two late or missing work log and/or work logs not accurate nor sufficiently detailed.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Four late or missing work logs and/or work logs not accurate nor sufficiently detailed.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; More than four late or missing work logs and/or not accurate nor sufficiently detailed.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[36]</note>
+      </trans-unit>
+      <trans-unit id="66686" identifier="a8e17d77093f4615cb41aa20c7a95963">
+        <source>Final narrative</source>
+        <target state="needs-translation">Final narrative</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[6]</note>
+      </trans-unit>
+      <trans-unit id="66687" identifier="45a1ab897c3263890259cc3ef405deb3">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; Narrative piece is thoughtful and detailed and contains all required elements.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Reflection piece is mostly thoughtful and/or lacks 1 of the required elements.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Reflection piece is superficial and lacks 2 of the required elements.&lt;br/&gt;
+&lt;strong&gt;4 =&lt;/strong&gt; Reflection piece is trivial and lacks 3 of the required elements.</source>
+        <target state="needs-translation">&lt;strong&gt;4 =&lt;/strong&gt; Narrative piece is thoughtful and detailed and contains all required elements.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Reflection piece is mostly thoughtful and/or lacks 1 of the required elements.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Reflection piece is superficial and lacks 2 of the required elements.&lt;br/&gt;
+&lt;strong&gt;4 =&lt;/strong&gt; Reflection piece is trivial and lacks 3 of the required elements.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[37]</note>
+      </trans-unit>
+      <trans-unit id="66688" identifier="93ca4ab4be826f047ae3d18b528b5d89">
+        <source>As always, these rubrics are just a starting point and you should certainly feel free to adjust them as appropriate for your own classroom or learning environment.</source>
+        <target state="needs-translation">As always, these rubrics are just a starting point and you should certainly feel free to adjust them as appropriate for your own classroom or learning environment.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[38]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

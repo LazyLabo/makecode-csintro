@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1862" original="/microbit/docs/courses/csintro/making/unplugged.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="67274" identifier="6374f8e5c3601044d2bfd2e1718abc83" approved="yes">
+        <source>Unplugged: Design Thinking</source>
+        <target>アンプラグド: デザインシンキング</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="67275" identifier="9f97ab0941afb2a6afa14eb0e93898af" translate="no" approved="yes">
+        <source>/static/courses/csintro/making/design-thinking.png</source>
+        <target>/static/courses/csintro/making/design-thinking.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67276" identifier="4aab21d66b63c0da7b71188f86b2bd8e" approved="yes">
+        <source>Design thinking</source>
+        <target>Design thinking</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67277" identifier="89d79516f2e265640766414d4ad9888a" approved="yes">
+        <source>&lt;strong&gt;Objective:&lt;/strong&gt; To introduce a process of design that starts with talking to one another.</source>
+        <target>&lt;strong&gt;目的:&lt;/strong&gt;ペアを組んでデザインを行うプロセスをディスカッションしながら理解します。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="67278" identifier="c105a440baaae4584c34d79b07446277" approved="yes">
+        <source>Whatever you build with code should serve a purpose or fill a need.</source>
+        <target>コーディングされたアプリケーションは、どのようなものでも与えられた目的を達成する、もしくはニーズを満たす必要があります。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="67279" identifier="992064499234aad9e6b5254cabb53833" approved="yes">
+        <source>Sometimes what you build will make the world more beautiful, or help somebody else.</source>
+        <target>世界を美しくするためのアプリケーションかもしれませんし、誰かを助けるためのものかもしれません。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="67280" identifier="008c30d25e3f28f8a2ceae009724abc1" approved="yes">
+        <source>Our design process, based on a process called design thinking, can give students a specific framework for thinking purposefully about design.</source>
+        <target>ここで学習するプロセス、デザインシンキングはソリューションを設計するために必要な枠組みを提供します。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="67281" identifier="5dd860aeb79332f0b7d603b159d694a4" approved="yes">
+        <source>&lt;strong&gt;Overview:&lt;/strong&gt; In this activity, students will interview each other about their ideal pet.</source>
+        <target>&lt;strong&gt;概要:&lt;/strong&gt;このアクティビティでは、生徒どうしで理想的なペットについてお互いをインタビューします。</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="67282" identifier="16801a8c70d5f6977953b73f86b0d77d" approved="yes">
+        <source>They should take notes.</source>
+        <target>インタビュアーはノートにメモをとり、その後のステップで活用します。</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="67283" identifier="441ee37799c4368b8d6aa57d11d195d5" approved="yes">
+        <source>The first step in coding by design involves understanding someone else’s need.</source>
+        <target>コーディングの最初のステップは、どんなニーズがあるかを理解することです。</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="67284" identifier="253e3c5606fd9cf818cbcdb013839e4c" approved="yes">
+        <source>Then, you can create prototypes that get you closer and closer to the best solution.</source>
+        <target>ニーズをより理解することで、それを解決するためのよりベストなソリューションを提供することができます。</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="67285" identifier="081ddb0b33075ce685a654bd9aba5eb7" approved="yes">
+        <source>&lt;strong&gt;Materials:&lt;/strong&gt; Pairs of students, something to take notes on</source>
+        <target>&lt;strong&gt;アクティビティに必要なもの:&lt;/strong&gt;生徒どうしでペアを組みます。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="67286" identifier="775177e42ca5f756c93c2d941812b51d" approved="yes">
+        <source>&lt;strong&gt;Getting started:&lt;/strong&gt;
+Pair students up with each other.</source>
+        <target>&lt;strong&gt;はじめかた:&lt;/strong&gt;
+学生どうしでペアを組ませます。
+</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="67287" identifier="8307b3a9dfe11e42a0b80378296cd4ce" approved="yes">
+        <source>One is Student A, the other is Student B. The goal of this activity is to gather information from their partner that will help them to design a micro:bit pet for their partner.</source>
+        <target>ここでは生徒A、もう一人を生徒Bとします。このアクティビティのゴールはお互いに理想のペットについてインタビューを行い、このあとmicro:bitを利用して作るペットを製作するのに役立つ情報を得ることです。</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="67288" identifier="eaf42f0e80d39a8bf1f2348a256f6dc9" approved="yes">
+        <source>&lt;strong&gt;5 minutes:&lt;/strong&gt; Student A interviews Student B. The goal is to find out what Student B considers to be their ideal pet.</source>
+        <target>&lt;strong&gt;5 分:&lt;/strong&gt;生徒Aが生徒Bをインタビューします。5分の間に生徒Bの理想のペット像を聞き出します。</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="67289" identifier="77a54e53c06f6e3c4475d2f1ca19c894" approved="yes">
+        <source>Student A should mostly listen, and ask questions to keep Student B talking for the entire time.</source>
+        <target>生徒Aはいくつかの質問を与える以外は聞き役に徹し、できる限り生徒Bからニーズを聞き出します。</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="67290" identifier="26c900652b0aa0e2adfe84a38c68b93b" approved="yes">
+        <source>Here are some questions to start with:</source>
+        <target>以下が質問の例です。</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="67291" identifier="1c5cb9bc0c77542648e1cee4403beb89" approved="yes">
+        <source>Do you have a pet? What is it?</source>
+        <target>ペットを飼っていますか？どんなペットですか？</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="67292" identifier="09a54ffb324dd9273f2c825a9c937250" approved="yes">
+        <source>What do you like about your pet? What do you dislike?</source>
+        <target>ペットのどんなところが好きですか？どんなところが嫌いですか？</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67293" identifier="adab698c5d0774a7a517a8335349ccab" approved="yes">
+        <source>Is there anything you wish your pet could do? Why?</source>
+        <target>もしあなたのペットが何でもできるとしたら、どんなことをしてもらいたいですか？また、それはなぜですか？</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67294" identifier="4f86d4b96f9860b9430012660d90e813" approved="yes">
+        <source>Tell me about your ideal pet.</source>
+        <target>あなたの理想的なペットを教えてください。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[4]</note>
+      </trans-unit>
+      <trans-unit id="67295" identifier="80338f4bb9a951d161869a169dede811" approved="yes">
+        <source>&lt;strong&gt;5 minutes:&lt;/strong&gt; Student B interviews Student A, as above.</source>
+        <target>&lt;strong&gt; 5分 &lt;/strong&gt; 生徒Bは生徒Aをインタビューします。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="67296" identifier="1792719427435834525affa149480a56" approved="yes">
+        <source>The goal is to find out more about your partner by asking questions.</source>
+        <target>このアクティビティのゴールは適切な質問をすることによってより多くのニーズを聞き出すことにあります。</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="67297" identifier="e564d92e5c187591610be7ecb4901f44" approved="yes">
+        <source>Try to ask “Why?” as much as possible.</source>
+        <target>”なぜそう思うのか？ (Why) ”をできるかぎり多く聞いてみてください。</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="67298" identifier="a82534fa2da9fa58695c25a1da4b681f" approved="yes">
+        <source>Your partner will tell you about his or her ideal pet, but you are really finding out more about your partner’s likes and dislikes.</source>
+        <target>良いインタビューができれば、インタビューのパートナーが描く理想のペットを理解するとともに、パートナーの好きなもの、嫌いなものについてより多くの情報が得られるはずです。</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="67299" identifier="fb66e3c585d43dd1853858d3ffb6dfa5" approved="yes">
+        <source>When we design, we create real things for real people.</source>
+        <target>デザインしたものはその人が実際に使うものになります。</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="67300" identifier="2aa20605a2b40613055516fd427ef2ac" approved="yes">
+        <source>So we need to start with understanding them first.</source>
+        <target>そのため、その人がどんなニーズを持っているのかを理解することから始める必要があるのです。</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="67301" identifier="5d09bd0938da458fec7506abd6aa8e25" approved="yes">
+        <source>&lt;strong&gt;5 minutes:&lt;/strong&gt; Student A and Student B review their notes, and circle anything that seems as if it will be important to understanding how to create the ideal pet for their partner.</source>
+        <target>&lt;strong&gt;5 分:&lt;/strong&gt;生徒 AとBがお互いのノートを確認しあいながら、理想のペットをつくるために重要だと思われるポイントにマークをしていきます。</target>
+        <note>Context: XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="67302" identifier="5b6ccab5f68bf18323cc6012070a1b82" approved="yes">
+        <source>Circle ideas, advice, anything that could be helpful when they start building.</source>
+        <target>また、理想のペットをつくるにあたって役に立ちそうなアイデアやアドバイスにもマークをしておきます。</target>
+        <note>Context: XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="67303" identifier="285ca821f5ab57bf13d43924048fe245" approved="yes">
+        <source>Then, they should use what they have discovered about their partner to fill in the blanks:</source>
+        <target>重要な項目をマークし終えたら、次のフォーマットでパートナーが必要とするものとその理由をまとめてみましょう。</target>
+        <note>Context: XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="67304" identifier="6f2e2259da733a2330b39c53e84bca84" approved="yes">
+        <source>&quot;My partner needs a &lt;code&gt;__________________&lt;/code&gt; because &lt;code&gt;__________________&lt;/code&gt;.&quot;</source>
+        <target>「私のパートナーは&lt;code&gt;__________________&lt;/code&gt;が必要です。理由は&lt;code&gt;__________________&lt;/code&gt;です。」</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="67305" identifier="241a84d43ecbf4c4c036e8a72c25dc6f" approved="yes">
+        <source>This definition statement should draw some conclusions about their partner's need based on the conversation they have had with that person.</source>
+        <target>このフォーマットを利用することで、インタビューから得られたニーズとそれがなぜ必要かを簡潔にまとめることができます。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="67306" identifier="2a919738cc8ee7d552a6e26038b49a8f" approved="yes">
+        <source>&lt;strong&gt;5 minutes:&lt;/strong&gt; Student A and Student B sketch at least 5 ideas of pets that would meet their partner's needs.</source>
+        <target>&lt;strong&gt;5 分:&lt;/strong&gt;生徒 A, Bそれぞれが、お互いの理想のペットについて最低でも5つのスケッチを描きます。</target>
+        <note>Context: XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="67307" identifier="478ddd8849fe0dc7c68cc34f9aa4b3c1" approved="yes">
+        <source>Stick figures and diagrams are okay.</source>
+        <target>限られた時間なので、凝った絵でなく、簡単な絵もしくは図で構いません。</target>
+        <note>Context: XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="67308" identifier="f0814261edcbc0ac306afe980968938f" approved="yes">
+        <source>At this point, quantity is more important than quality.</source>
+        <target>絵のクオリティよりも、最低でも５つのアイデアを提示できることに注力しましょう。</target>
+        <note>Context: XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="67309" identifier="c13d9e89de9dd4d2f8a3afb0a0dc9c20" approved="yes">
+        <source>Students shouldn't limit themselves to real animals; unicorns and mashups are totally fine!</source>
+        <target>また、現実にいる動物、ペットに縛られる必要はありません。架空のもの、新しいものを作りあげるのももちろんかまいません。</target>
+        <note>Context: XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="67310" identifier="ae7bf7a43e61822cda8c302265ebdb9e" approved="yes">
+        <source>Make sure students keep their notes and sketches! They will use them in the project for this lesson.</source>
+        <target>生徒がノートとスケッチを取っていることを確認してください。ノートとスケッチはこのレッスンの中のプロジェクトで活用します。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="67311" identifier="b200587a5a9b95374513da70bbc0a96a" translate="no" approved="yes">
+        <source>Examples</source>
+        <target>例</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="67312" identifier="0f1e41284d622015de55bf4338fdf3b8" translate="no" approved="yes">
+        <source>/static/courses/csintro/making/dt-sketch1.jpg</source>
+        <target>/static/courses/csintro/making/dt-sketch1.jpg
+</target>
+        <note>Context: Image Source&#13;
+XPath: /p[14]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67313" identifier="528e43d59dda7c80ada9a1085a386e80" approved="yes">
+        <source>Design thinking sketch 1</source>
+        <target>Design thinking sketch 1</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[14]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67314" identifier="8ae0c9075d7ab30c66d3114322c72afa" translate="no" approved="yes">
+        <source>/static/courses/csintro/making/dt-sketch2.jpg</source>
+        <target>/static/courses/csintro/making/dt-sketch2.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p[15]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67315" identifier="a4a609a68878a41fa243205717858516" approved="yes">
+        <source>Design thinking sketch 2</source>
+        <target>Design thinking sketch 2</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[15]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67316" identifier="4f85ed5d0a26a2c92f9a3aa7224d19d9" translate="no" approved="yes">
+        <source>/static/courses/csintro/making/dt-sketch3.jpg</source>
+        <target>/static/courses/csintro/making/dt-sketch3.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p[16]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67317" identifier="eca2d0d6254ba81f280e9bed419c2d7e" approved="yes">
+        <source>Design thinking sketch 3</source>
+        <target>Design thinking sketch 3
+</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[16]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67318" identifier="286f99215d145f54f86c462a43f48e02" translate="no" approved="yes">
+        <source>/static/courses/csintro/making/dt-sketch4.jpg</source>
+        <target>/static/courses/csintro/making/dt-sketch4.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p[17]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67319" identifier="c951f74c4bf1d232f168b234c3093971" approved="yes">
+        <source>Design thinking sketch 4</source>
+        <target>Design thinking sketch 4</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[17]/img[@alt]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

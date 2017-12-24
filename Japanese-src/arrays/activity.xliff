@@ -1,0 +1,1035 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1809" original="/microbit/docs/courses/csintro/arrays/activity.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="64399" identifier="90dbd649a1922a159de239f83e83802d">
+        <source>Activity: Headband charades and starry starry night</source>
+        <target state="needs-translation">Activity: Headband charades and starry starry night</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="64400" identifier="c8996fea63bf89470987ce57cca58a0b" translate="no">
+        <source>/static/courses/csintro/arrays/starry-night.png</source>
+        <target>/static/courses/csintro/arrays/starry-night.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="64401" identifier="a04cbe5057497ebd94fc8823b99bb17d">
+        <source>Starry Night</source>
+        <target state="needs-translation">Starry Night</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="64402" identifier="45d6514ba2c766da48d3db9e12358ee8">
+        <source>Create an array of words that can be used as part of a charades-type game.</source>
+        <target state="needs-translation">Create an array of words that can be used as part of a charades-type game.</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="64403" identifier="95e4b019106b8c2209d5a3e006119c92">
+        <source>This activity is based on a very popular phone app invented by Ellen DeGeneres (https://bits.blogs.nytimes.com/2013/05/03/ellen-degeneres-iphone-game/).</source>
+        <target state="needs-translation">This activity is based on a very popular phone app invented by Ellen DeGeneres (https://bits.blogs.nytimes.com/2013/05/03/ellen-degeneres-iphone-game/).</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="64404" identifier="e288237388d623ba46f1c220a0f60036" translate="no">
+        <source>/static/courses/csintro/arrays/headband-charades.png</source>
+        <target>/static/courses/csintro/arrays/headband-charades.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[3]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="64405" identifier="a6b0703597f29b037ac4e24d7c70e4fc">
+        <source>Heads up game</source>
+        <target state="needs-translation">Heads up game</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[3]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="64406" identifier="5c77b1f7c316ab072b8a4229b5f1dd95">
+        <source>Create a new variable and give it a name like arrayWords.</source>
+        <target state="needs-translation">Create a new variable and give it a name like arrayWords.</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="64407" identifier="54a96d5381a3fff3492f1268583affa8">
+        <source>Insert a 'set' variable block into the 'on start' block.</source>
+        <target state="needs-translation">Insert a 'set' variable block into the 'on start' block.</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64408" identifier="498337786c440c12677b5a25da5d7614">
+        <source>Change the default variable name to this new variable name.</source>
+        <target state="needs-translation">Change the default variable name to this new variable name.</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="64409" identifier="dde9e3b6c07ca812cf9f79007a4d3924">
+        <source>From the Array Toolbox drawer, drag a 'create array' block to the coding workspace.</source>
+        <target state="needs-translation">From the Array Toolbox drawer, drag a 'create array' block to the coding workspace.</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[4]</note>
+      </trans-unit>
+      <trans-unit id="64410" identifier="9c69a1456956769cd34dc0fd6c4e6939">
+        <source>Attach this array block to the end of the 'set' variable block.</source>
+        <target state="needs-translation">Attach this array block to the end of the 'set' variable block.</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[5]</note>
+      </trans-unit>
+      <trans-unit id="64411" identifier="29c1aa232bca2ace05e423e03b5436c7">
+        <source>let arrayWords = [&quot;&quot;, &quot;&quot;]</source>
+        <target state="needs-translation">let arrayWords = [&quot;&quot;, &quot;&quot;]</target>
+        <note>Context: Text&#13;
+XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="64412" identifier="05b5525265c276af353b053e8f2171b6">
+        <source>Notice that the array comes with 2 string blocks. We’ll want more for our charades game.</source>
+        <target state="needs-translation">Notice that the array comes with 2 string blocks. We’ll want more for our charades game.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="64413" identifier="4438e1b9e43a2fe845ba0e2c69bed138">
+        <source>Click on the blue gear-wheel icon in the top left corner of the 'create array' block.</source>
+        <target state="needs-translation">Click on the blue gear-wheel icon in the top left corner of the 'create array' block.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="64414" identifier="d4e444982662109e536cd31394a685dd">
+        <source>From the pop up window, add as many values (elements) as you'd like to the array block by dragging the value block from the left side of the window to the array block on the right side of the window.</source>
+        <target state="needs-translation">From the pop up window, add as many values (elements) as you'd like to the array block by dragging the value block from the left side of the window to the array block on the right side of the window.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64415" identifier="ed8e3a3215c54e5a21843866badce199">
+        <source>For now, we’ll add 4 more values for a total of 6 values.</source>
+        <target state="needs-translation">For now, we’ll add 4 more values for a total of 6 values.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="64416" identifier="0ec9ce62c0ebb0151a7202080d175e1f" translate="no">
+        <source>/static/courses/csintro/arrays/array-add-value.png</source>
+        <target>/static/courses/csintro/arrays/array-add-value.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[5]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="64417" identifier="83231f5d9536020260d6d66cdedfc82c">
+        <source>Add values to array</source>
+        <target state="needs-translation">Add values to array</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[5]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="64418" identifier="4809027916777094ffe014f2bbaf5cde">
+        <source>Drag 4 string blocks from the Text Toolbox drawer, and place them in the empty array slots.</source>
+        <target state="needs-translation">Drag 4 string blocks from the Text Toolbox drawer, and place them in the empty array slots.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li</note>
+      </trans-unit>
+      <trans-unit id="64419" identifier="6e89c6cbf6bb802dffa81436afcf99f8">
+        <source>let arrayWords = [&quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;]</source>
+        <target state="needs-translation">let arrayWords = [&quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;]</target>
+        <note>Context: Text&#13;
+XPath: /pre[2]/code</note>
+      </trans-unit>
+      <trans-unit id="64420" identifier="57bf2d694216dabbba7e0e5d2f4df6eb">
+        <source>Fill each string with one word. Choose words that will be fun for a game of charades. Example:</source>
+        <target state="needs-translation">Fill each string with one word. Choose words that will be fun for a game of charades. Example:</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li</note>
+      </trans-unit>
+      <trans-unit id="64421" identifier="66fb60639d1f804168eabd06edc7e441">
+        <source>let arrayWords = [&quot;cat&quot;, &quot;guitar&quot;, &quot;flashlight&quot;, &quot;cupcake&quot;, &quot;tree&quot;, &quot;frisbee&quot;]</source>
+        <target state="needs-translation">let arrayWords = [&quot;cat&quot;, &quot;guitar&quot;, &quot;flashlight&quot;, &quot;cupcake&quot;, &quot;tree&quot;, &quot;frisbee&quot;]</target>
+        <note>Context: Text&#13;
+XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64422" identifier="9d27af93435fb68c74c2aeff91199803">
+        <source>Now, we need a way to access one word at a time from this array of words.</source>
+        <target state="needs-translation">Now, we need a way to access one word at a time from this array of words.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="64423" identifier="8c636d8ad83eec6843e4736fef29b056">
+        <source>We can use the 'show string' block from the Basic Toolbox drawer, and the 'on screen up' event handler from the Input Toolbox drawer (this is a drop-down menu choice of the 'on shake' block) to tell the micro:bit to display a word when we tilt the micro:bit up.</source>
+        <target state="needs-translation">We can use the 'show string' block from the Basic Toolbox drawer, and the 'on screen up' event handler from the Input Toolbox drawer (this is a drop-down menu choice of the 'on shake' block) to tell the micro:bit to display a word when we tilt the micro:bit up.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li</note>
+      </trans-unit>
+      <trans-unit id="64424" identifier="f6e5f10187e5e3af16cf38cad7e978ad">
+        <source>For this version, we’ll display the words one at a time in the order they were first placed into the array.</source>
+        <target state="needs-translation">For this version, we’ll display the words one at a time in the order they were first placed into the array.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64425" identifier="c07926b81d31c72e1c76933d725c10a7">
+        <source>We’ll use the index of the array to keep track of what word to display at any given time, so you'll need to create an 'index' variable.</source>
+        <target state="needs-translation">We’ll use the index of the array to keep track of what word to display at any given time, so you'll need to create an 'index' variable.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="64426" identifier="52334c14651999dfef7eb45ac2a2fabb">
+        <source>let arrayWords: string[] = []
+let index = 0
+input.onGesture(Gesture.ScreenUp, () =&amp;gt; {
+    basic.showString(arrayWords[index])
+})</source>
+        <target state="needs-translation">let arrayWords: string[] = []
+let index = 0
+input.onGesture(Gesture.ScreenUp, () =&amp;gt; {
+    basic.showString(arrayWords[index])
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="64427" identifier="3c3d53372a25d9bc45996b9f60d29ff3">
+        <source>To start the game with the index at zero, add a 'set' variable block to the 'on' start block.</source>
+        <target state="needs-translation">To start the game with the index at zero, add a 'set' variable block to the 'on' start block.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li</note>
+      </trans-unit>
+      <trans-unit id="64428" identifier="1244d2d44c3a36fd579a4e2a05d42edc">
+        <source>Next, add the following:</source>
+        <target state="needs-translation">Next, add the following:</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64429" identifier="71a5b7ab3a537cff9d11a284d1b2a51a">
+        <source>an image as a placeholder for when the program has started. Since charades is a guessing game, we made one that looks like a question mark (?),</source>
+        <target state="needs-translation">an image as a placeholder for when the program has started. Since charades is a guessing game, we made one that looks like a question mark (?),</target>
+        <note>Context: List Item&#13;
+XPath: /blockquote/ul/li</note>
+      </trans-unit>
+      <trans-unit id="64430" identifier="5011b276deaa2cccc576b0a9c0a55d27">
+        <source>a countdown to the first word using show number blocks and pause blocks</source>
+        <target state="needs-translation">a countdown to the first word using show number blocks and pause blocks</target>
+        <note>Context: List Item&#13;
+XPath: /ul[7]/li</note>
+      </trans-unit>
+      <trans-unit id="64431" identifier="91bfcc6b720b2516486708f94c9f7b52">
+        <source>And show the first word in the array</source>
+        <target state="needs-translation">And show the first word in the array</target>
+        <note>Context: List Item&#13;
+XPath: /ul[7]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64432" identifier="d331b7c246dc928679115795191c5621">
+        <source>let index = 0
+let arrayWords: string[] = []
+         
+arrayWords = [&quot;cat&quot;, &quot;guitar&quot;, &quot;flashlight&quot;, &quot;cupcake&quot;, &quot;tree&quot;, &quot;frisbee&quot;]
+index = 0
+basic.showLeds(`
+    .</source>
+        <target state="needs-translation">let index = 0
+let arrayWords: string[] = []
+         
+arrayWords = [&quot;cat&quot;, &quot;guitar&quot;, &quot;flashlight&quot;, &quot;cupcake&quot;, &quot;tree&quot;, &quot;frisbee&quot;]
+index = 0
+basic.showLeds(`
+    .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="64433" identifier="d9e61601dc114bbe40b92140362c83d3" translate="no">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="64434" identifier="f2ca3e46a894b2457f384f9743655de9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="64435" identifier="6fbe0a5a1056db6734124f58dd9703db" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="64436" identifier="009eb4fe94b108f7990c8fca8fcaa5e1" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="64437" identifier="f1f352a47f0d7244b4c6f4f61ecf3263" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="64438" identifier="7e91c75a15a2a0adb9c42f1a5bb70064" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="64439" identifier="91d469178f8bf46ef420fadae8fb770a" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="64440" identifier="1152421d21cb339581929279cf5123f5" translate="no">
+        <source># # .</source>
+        <target># # .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="64441" identifier="17551548655a529ef5ff6e0fb4870043" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="64442" identifier="d05ea4f81b4d8be52346d3ca4c02a837" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="64443" identifier="719793771eddd136360ea50c6a37e907" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="64444" identifier="b83b443a1738f172540a52831a872375" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="64445" identifier="b9f19d17f3ee28e3d6915b70991e5256" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="64446" identifier="e9fc61dc3f10b145fd51dc7b3d22abff" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="64447" identifier="42bf05bbfb8d67094b43bda333bd4c86" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="64448" identifier="6a72b8053ab8c0f85d8e8f1d79355cef" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="64449" identifier="ae6ced127847aafc586c840a643eb407" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="64450" identifier="534153386ea811be05c5e46fba63950f">
+        <source>`)
+basic.pause(100)
+basic.showNumber(3)
+basic.pause(100)
+basic.showNumber(2)
+basic.pause(100)
+basic.showNumber(1)
+basic.showString(arrayWords[index])</source>
+        <target state="needs-translation">`)
+basic.pause(100)
+basic.showNumber(3)
+basic.pause(100)
+basic.showNumber(2)
+basic.pause(100)
+basic.showNumber(1)
+basic.showString(arrayWords[index])</target>
+        <note>Context: XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="64451" identifier="54c1d4e39b230515dc2d510a4c87bd09">
+        <source>So far we have a start to our game and a way to display the first word.</source>
+        <target state="needs-translation">So far we have a start to our game and a way to display the first word.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="64452" identifier="390e0165d034649b699edc0fcf8c262f">
+        <source>Once that word has been guessed (or passed), we need a way to advance to the next word in the array.</source>
+        <target state="needs-translation">Once that word has been guessed (or passed), we need a way to advance to the next word in the array.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="64453" identifier="626d86e7c2e3c3748c6b42d3d1740c55">
+        <source>We can do this by changing the index of the array with the 'on screen down' event handler from the Input Toolbox drawer (this is a drop-down menu choice of the 'on shake' block) to advance to the next word when we tilt the micro:bit down.</source>
+        <target state="needs-translation">We can do this by changing the index of the array with the 'on screen down' event handler from the Input Toolbox drawer (this is a drop-down menu choice of the 'on shake' block) to advance to the next word when we tilt the micro:bit down.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[8]/li</note>
+      </trans-unit>
+      <trans-unit id="64454" identifier="f18b099d6a654b7f36dbbdac49945751">
+        <source>let index = 0
+input.onGesture(Gesture.ScreenDown, () =&amp;gt; {
+    index += 1
+})</source>
+        <target state="needs-translation">let index = 0
+input.onGesture(Gesture.ScreenDown, () =&amp;gt; {
+    index += 1
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre[6]/code</note>
+      </trans-unit>
+      <trans-unit id="64455" identifier="1d8fd92b31601f1c8d130f56ba93b2d2">
+        <source>We have a limited number of elements in our array, so to avoid an error, we need to check and make sure we are not already at the end of the array before we change the index.
+ </source>
+        <target state="needs-translation">We have a limited number of elements in our array, so to avoid an error, we need to check and make sure we are not already at the end of the array before we change the index.
+ </target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="64456" identifier="5f6128e97d1f8f1a6435920c9cb29ca9">
+        <source>Under the Arrays Toolbox drawer, drag out a 'length of' block. The 'length of' block returns the number of items (elements) in an array. For our array, the length of block will return the value 6.</source>
+        <target state="needs-translation">Under the Arrays Toolbox drawer, drag out a 'length of' block. The 'length of' block returns the number of items (elements) in an array. For our array, the length of block will return the value 6.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[9]/li</note>
+      </trans-unit>
+      <trans-unit id="64457" identifier="a7ab55ad67c7f645238607dc9ea7b0e4">
+        <source>But because computer programmers start counting at zero, the index of the final (6th) element is 5. 
+ 
+Some pseudocode for our algorithm logic:</source>
+        <target state="needs-translation">But because computer programmers start counting at zero, the index of the final (6th) element is 5. 
+ 
+Some pseudocode for our algorithm logic:</target>
+        <note>Context: List Item&#13;
+XPath: /ul[9]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64458" identifier="94d6ebe444c76a1307b2b45e0e1c4e21">
+        <source>When the player places the micro:bit screen down:
+&gt;Check the current value of the index.</source>
+        <target state="needs-translation">When the player places the micro:bit screen down:
+&gt;Check the current value of the index.</target>
+        <note>Context: XPath: /ul[9]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="64459" identifier="6f7b6b35586a71ab03007f61ef1d45db">
+        <source>&gt;&gt; &lt;strong&gt;If:&lt;/strong&gt; the current value of the index is less than the length of the array minus one (see &lt;strong&gt;array bounds&lt;/strong&gt; note),&lt;br/&gt;
+&lt;strong&gt;Then:&lt;/strong&gt; change the value of the index by one,&lt;br/&gt;
+&lt;strong&gt;Else:&lt;/strong&gt; indicate that it is the end of the game.</source>
+        <target state="needs-translation">&gt;&gt; &lt;strong&gt;If:&lt;/strong&gt; the current value of the index is less than the length of the array minus one (see &lt;strong&gt;array bounds&lt;/strong&gt; note),&lt;br/&gt;
+&lt;strong&gt;Then:&lt;/strong&gt; change the value of the index by one,&lt;br/&gt;
+&lt;strong&gt;Else:&lt;/strong&gt; indicate that it is the end of the game.</target>
+        <note>Context: XPath: /ul[9]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="64460" identifier="5a41eae35a68142059c468b56cf0e4e9" translate="no">
+        <source>~hint</source>
+        <target>~hint</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="64461" identifier="ae90b3f9a457e9770c0f5634c804829f">
+        <source>Array bounds</source>
+        <target state="needs-translation">Array bounds</target>
+        <note>Context: Text&#13;
+XPath: /p[10]/strong</note>
+      </trans-unit>
+      <trans-unit id="64462" identifier="2ed79ef6e004d47a5662df351d922551">
+        <source>Our array has a length 6, so this will mean that as long as the current value of the index is less than 5, we will change the array by one.</source>
+        <target state="needs-translation">Our array has a length 6, so this will mean that as long as the current value of the index is less than 5, we will change the array by one.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="64463" identifier="7a91de99961c219b2310704da56b867f">
+        <source>Using ‘less than the length of the array minus one’ instead of the actual numbers for our array makes this code more flexible and easier to maintain.</source>
+        <target state="needs-translation">Using ‘less than the length of the array minus one’ instead of the actual numbers for our array makes this code more flexible and easier to maintain.</target>
+        <note>Context: XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="64464" identifier="f5b8fd8ee9f3994862e97179d3c0e7e6">
+        <source>We can easily add more elements to our array and not have to worry about changing numbers elsewhere in the code.</source>
+        <target state="needs-translation">We can easily add more elements to our array and not have to worry about changing numbers elsewhere in the code.</target>
+        <note>Context: XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="64465" identifier="441c09ef6e498d8d7290c27e70470329">
+        <source>~ </source>
+        <target state="needs-translation">~ </target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="64466" identifier="9492c092702b73225f7d889af023e6ab">
+        <source>We can put this all together with an 'if...then...else' block and a 'less than' comparison block from the Logic Toolbox drawer, a subtraction block from the Math Toolbox drawer, and a 'game over' block from the Game Toolbox drawer (located under the Advanced menu).</source>
+        <target state="needs-translation">We can put this all together with an 'if...then...else' block and a 'less than' comparison block from the Logic Toolbox drawer, a subtraction block from the Math Toolbox drawer, and a 'game over' block from the Game Toolbox drawer (located under the Advanced menu).</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="64467" identifier="2dff755196377473e152dd53f9cf23eb">
+        <source>let index = 0
+let arrayWords: string[] = []
+input.onGesture(Gesture.ScreenDown, () =&amp;gt; {
+   if (index &amp;lt; arrayWords.length - 1) {
+       index += 1
+   } else {
+       game.gameOver()
+   }
+})</source>
+        <target state="needs-translation">let index = 0
+let arrayWords: string[] = []
+input.onGesture(Gesture.ScreenDown, () =&amp;gt; {
+   if (index &amp;lt; arrayWords.length - 1) {
+       index += 1
+   } else {
+       game.gameOver()
+   }
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="64468" identifier="804db34037b57b06f7945a2beda33f8c">
+        <source>To make our game more polished, we’ll add 2 more blocks for smoother game play.</source>
+        <target state="needs-translation">To make our game more polished, we’ll add 2 more blocks for smoother game play.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[14]</note>
+      </trans-unit>
+      <trans-unit id="64469" identifier="a18f9bb6d51dacdc2c6a18d0e2c97c9d">
+        <source>In case a word is already scrolling on the screen when a player places the micro:bit screen down, we can stop this animation and clear the screen for the next word by using a 'stop animation' block from the Led More Toolbox drawer, and a 'clear screen' block from the Basic More Toolbox drawer.</source>
+        <target state="needs-translation">In case a word is already scrolling on the screen when a player places the micro:bit screen down, we can stop this animation and clear the screen for the next word by using a 'stop animation' block from the Led More Toolbox drawer, and a 'clear screen' block from the Basic More Toolbox drawer.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[10]/li</note>
+      </trans-unit>
+      <trans-unit id="64470" identifier="f7a6d598caf61073dea32648e7b29404">
+        <source>let index = 0
+let arrayWords: string[] = []
+input.onGesture(Gesture.ScreenDown, () =&amp;gt; {
+    led.stopAnimation()
+    basic.clearScreen()
+    if (index &amp;lt; arrayWords.length - 1) {
+        index += 1
+    } else {
+        game.gameOver()
+    }
+})</source>
+        <target state="needs-translation">let index = 0
+let arrayWords: string[] = []
+input.onGesture(Gesture.ScreenDown, () =&amp;gt; {
+    led.stopAnimation()
+    basic.clearScreen()
+    if (index &amp;lt; arrayWords.length - 1) {
+        index += 1
+    } else {
+        game.gameOver()
+    }
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre[8]/code</note>
+      </trans-unit>
+      <trans-unit id="64471" identifier="433ad720d74349e14da90a56d76d6abd">
+        <source>Game Play</source>
+        <target state="needs-translation">Game Play</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[4]</note>
+      </trans-unit>
+      <trans-unit id="64472" identifier="3bf72445660207ab3a6621bd09ad30e0">
+        <source>There are different ways you can play charades with our program.  Here is one way you can play with a group of friends.</source>
+        <target state="needs-translation">There are different ways you can play charades with our program.  Here is one way you can play with a group of friends.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[15]</note>
+      </trans-unit>
+      <trans-unit id="64473" identifier="ed80c409522176fa6120a0560d84b632">
+        <source>With the micro:bit on and held so Player A cannot see the screen, another player starts the program to see the first word.</source>
+        <target state="needs-translation">With the micro:bit on and held so Player A cannot see the screen, another player starts the program to see the first word.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[11]/li</note>
+      </trans-unit>
+      <trans-unit id="64474" identifier="28bd83b2483a17ef9d5d0a26fe40ff54">
+        <source>The other players act out this word charades-style for Player A to guess.</source>
+        <target state="needs-translation">The other players act out this word charades-style for Player A to guess.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[11]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64475" identifier="e0606795b95406bb460e8ba17f1376f8">
+        <source>When Player A guesses correctly or decides to pass on this word, a player places the micro:bit screen down.</source>
+        <target state="needs-translation">When Player A guesses correctly or decides to pass on this word, a player places the micro:bit screen down.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[11]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="64476" identifier="84ab2de2f4b3858d354721aee070c115">
+        <source>When ready for the next word, a player turns the micro:bit screen up. Play continues until all the words in the array have been used.
+ </source>
+        <target state="needs-translation">When ready for the next word, a player turns the micro:bit screen up. Play continues until all the words in the array have been used.
+ </target>
+        <note>Context: List Item&#13;
+XPath: /ul[11]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="64477" identifier="71af7d122efeb3bda88c581c70f98aa3">
+        <source>Mod this!</source>
+        <target state="needs-translation">Mod this!</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[5]</note>
+      </trans-unit>
+      <trans-unit id="64478" identifier="be7087af0bf668c68458a5b3dcc6ce38">
+        <source>Add a headband to hold the micro:bit on the Players' foreheads (using cardboard, paper, rubber bands, etc.)</source>
+        <target state="needs-translation">Add a headband to hold the micro:bit on the Players' foreheads (using cardboard, paper, rubber bands, etc.)</target>
+        <note>Context: List Item&#13;
+XPath: /ul[12]/li</note>
+      </trans-unit>
+      <trans-unit id="64479" identifier="e059d3c18c358cc51b7adc2204396ba4">
+        <source>Add a way to keep score</source>
+        <target state="needs-translation">Add a way to keep score</target>
+        <note>Context: List Item&#13;
+XPath: /ul[12]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64480" identifier="767c130dda47d0227bd8a0cec9565685">
+        <source>Keep track of the number of correct guesses and passes</source>
+        <target state="needs-translation">Keep track of the number of correct guesses and passes</target>
+        <note>Context: List Item&#13;
+XPath: /ul[12]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="64481" identifier="6c5e6aef84a4337a1db72a7bfa78d410">
+        <source>Add a time limit
+ 
+Headband Charades Complete Program (simple version - no time limit or scoring):
+ </source>
+        <target state="needs-translation">Add a time limit
+ 
+Headband Charades Complete Program (simple version - no time limit or scoring):
+ </target>
+        <note>Context: List Item&#13;
+XPath: /ul[12]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="71525" identifier="f0553686b8f9decc443933385b616b61">
+        <source>let index = 0
+let arrayWords: string[] = []
+input.onGesture(Gesture.ScreenUp, () =&amp;gt; {
+    basic.showString(arrayWords[index])
+})
+input.onGesture(Gesture.ScreenDown, () =&amp;gt; {
+    led.stopAnimation()
+    basic.clearScreen()
+    if (index &amp;lt; arrayWords.length - 1) {
+        index += 1
+    } else {
+        game.gameOver()
+    }
+})
+arrayWords = [&quot;cat&quot;, &quot;guitar&quot;, &quot;flashlight&quot;, &quot;cupcake&quot;, &quot;tree&quot;, &quot;frisbee&quot;]
+index = 0
+basic.showLeds(`
+    .</source>
+        <target state="needs-translation">let index = 0
+let arrayWords: string[] = []
+input.onGesture(Gesture.ScreenUp, () =&amp;gt; {
+    basic.showString(arrayWords[index])
+})
+input.onGesture(Gesture.ScreenDown, () =&amp;gt; {
+    led.stopAnimation()
+    basic.clearScreen()
+    if (index &amp;lt; arrayWords.length - 1) {
+        index += 1
+    } else {
+        game.gameOver()
+    }
+})
+arrayWords = [&quot;cat&quot;, &quot;guitar&quot;, &quot;flashlight&quot;, &quot;cupcake&quot;, &quot;tree&quot;, &quot;frisbee&quot;]
+index = 0
+basic.showLeds(`
+    .</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="64483" identifier="d8d80e4023bd09b745ef278a4e79bf49" translate="no">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="71526" identifier="ed25d6276f012b684295f2a0164f16b9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="64485" identifier="ee2a2daff91a7786c246b8641a3c2047" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="64486" identifier="bd67cbbea2921e97d2bc9e8234bda95b" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="64487" identifier="d23706c616f209e70b9db873b3d9bad0" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="71527" identifier="6af6ee4bca5588887c18188aaa459aae" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="64489" identifier="1302becd22d070c1ac9d03f6a90f9f38" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="64490" identifier="3770a71b441789bc8716a712d7e38f1d" translate="no">
+        <source># # .</source>
+        <target># # .</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="71528" identifier="064e557d510ad269b675163dc45e4d52" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="64492" identifier="9aabaa4b1739c3b6e8cb392fc991ba17" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="64493" identifier="c673687b984c151a2a443c1c94c1dd35" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="64494" identifier="e87f0a13065a801837b476063227db5a" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="64495" identifier="0c0858f2440a33abdfd2d532a0b4d0b9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="71529" identifier="c59152de6c913d8bd1bb9508f2c75040" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="64497" identifier="adb24bbcc7a80dbaeaf479688dc01266" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="64498" identifier="de1f410cbb715dff3490167ef4d1fc80" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="71530" identifier="37a8f6a938fe60e18d88016b5e80045e">
+        <source>.`)
+basic.pause(100)
+basic.showNumber(3)
+basic.pause(100)
+basic.showNumber(2)
+basic.pause(100)
+basic.showNumber(1)
+basic.showString(arrayWords[index])</source>
+        <target state="needs-translation">.`)
+basic.pause(100)
+basic.showNumber(3)
+basic.pause(100)
+basic.showNumber(2)
+basic.pause(100)
+basic.showNumber(1)
+basic.showString(arrayWords[index])</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="64501" identifier="41d98f84e27a7a7b398a94643c362b63" translate="no">
+        <source>/static/courses/csintro/arrays/starry-night.gif</source>
+        <target>/static/courses/csintro/arrays/starry-night.gif</target>
+        <note>Context: Image Source&#13;
+XPath: /p[16]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="64502" identifier="76ba31730d013e41d61b27d8562d0de4">
+        <source>Random stars</source>
+        <target state="needs-translation">Random stars</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[16]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="64503" identifier="78688be8561585641462ba82b34c681f">
+        <source>Activity: Starry starry night</source>
+        <target state="needs-translation">Activity: Starry starry night</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[6]</note>
+      </trans-unit>
+      <trans-unit id="64504" identifier="7c34bfc64118c078532393a8fd47af89">
+        <source>In this micro:bit activity, we will create a set of random constellations on the micro:bit screen.</source>
+        <target state="needs-translation">In this micro:bit activity, we will create a set of random constellations on the micro:bit screen.</target>
+        <note>Context: XPath: /p[17]</note>
+      </trans-unit>
+      <trans-unit id="64505" identifier="311f15eccc7cd9ad248e91bcfd82743e">
+        <source>We will use an array filled with numbers to tell us how many stars (dots) should be in each constellation.</source>
+        <target state="needs-translation">We will use an array filled with numbers to tell us how many stars (dots) should be in each constellation.</target>
+        <note>Context: XPath: /p[17]</note>
+      </trans-unit>
+      <trans-unit id="64506" identifier="5a650398d0a7f0f7b3467f3228460294">
+        <source>Review the use of the random block in the Math category.</source>
+        <target state="needs-translation">Review the use of the random block in the Math category.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[18]</note>
+      </trans-unit>
+      <trans-unit id="64507" identifier="8f0511cd27f503204896d37763d79352">
+        <source>Create a block that will plot a single dot at a random location on the screen by choosing a random number from 0 to 4 for the x axis and a random number from 0 to 4 for the y axis.</source>
+        <target state="needs-translation">Create a block that will plot a single dot at a random location on the screen by choosing a random number from 0 to 4 for the x axis and a random number from 0 to 4 for the y axis.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[13]/li</note>
+      </trans-unit>
+      <trans-unit id="64508" identifier="d07cf2243be822fa8cadba224c93fe5c">
+        <source>led.plot(Math.random(5), Math.random(5))</source>
+        <target state="needs-translation">led.plot(Math.random(5), Math.random(5))</target>
+        <note>Context: Text&#13;
+XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="64509" identifier="22b9fcefdca49d229dee593783870bb1">
+        <source>Next, let’s create a loop that will repeat the above code five times, for a constellation with five stars.</source>
+        <target state="needs-translation">Next, let’s create a loop that will repeat the above code five times, for a constellation with five stars.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[19]</note>
+      </trans-unit>
+      <trans-unit id="64510" identifier="938e1f161469c864afa0a69db160d7a9">
+        <source>for (let index = 0; index &amp;lt;= 4; index++) {
+    led.plot(Math.random(5), Math.random(5))
+    }</source>
+        <target state="needs-translation">for (let index = 0; index &amp;lt;= 4; index++) {
+    led.plot(Math.random(5), Math.random(5))
+    }</target>
+        <note>Context: Text&#13;
+XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="64511" identifier="3185963a2819284b7624371bf7d91690">
+        <source>Note that to keep things simple we don’t check for duplicates, so it’s possible you may end up with fewer than five visible stars. That’s okay.</source>
+        <target state="needs-translation">Note that to keep things simple we don’t check for duplicates, so it’s possible you may end up with fewer than five visible stars. That’s okay.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[20]</note>
+      </trans-unit>
+      <trans-unit id="64512" identifier="7d06869a9b390ded417e5e798ca811bf">
+        <source>Next, let’s create an array with five numbers in it.</source>
+        <target state="needs-translation">Next, let’s create an array with five numbers in it.</target>
+        <note>Context: XPath: /p[21]</note>
+      </trans-unit>
+      <trans-unit id="64513" identifier="6ae7e1c3a73e4e7c75174d2988768ce0">
+        <source>We will loop through the array and create five separate constellations, using the numbers in the array to represent the number of stars in each of the five constellations.</source>
+        <target state="needs-translation">We will loop through the array and create five separate constellations, using the numbers in the array to represent the number of stars in each of the five constellations.</target>
+        <note>Context: XPath: /p[21]</note>
+      </trans-unit>
+      <trans-unit id="64514" identifier="d93724120d8ecda268e189c412289624">
+        <source>To create an array, you need to set the value of a variable to the array.</source>
+        <target state="needs-translation">To create an array, you need to set the value of a variable to the array.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[22]</note>
+      </trans-unit>
+      <trans-unit id="64515" identifier="f18aa4580597ebc3438b0effae0f9f98">
+        <source>From the Variables Toolbox drawer, drag out the ‘set item’ block and attach a ‘create array with number’ block to it.</source>
+        <target state="needs-translation">From the Variables Toolbox drawer, drag out the ‘set item’ block and attach a ‘create array with number’ block to it.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[14]/li</note>
+      </trans-unit>
+      <trans-unit id="64516" identifier="7be887ba64369b6892af73c0ac05f899">
+        <source>Then click on the blue Gear icon and add four more values to the block, for a total of five.</source>
+        <target state="needs-translation">Then click on the blue Gear icon and add four more values to the block, for a total of five.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[14]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64517" identifier="f0f7a75383278b6282db8d1732a4d4a4" translate="no">
+        <source>/static/courses/csintro/arrays/gear-values.png</source>
+        <target>/static/courses/csintro/arrays/gear-values.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[23]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="64518" identifier="c5444a49c565af693807a97af612f717">
+        <source>Gear icon on array block</source>
+        <target state="needs-translation">Gear icon on array block</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[23]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="64519" identifier="968626b86bfff81ec48ee6dfb28534d8">
+        <source>You can put the Gear view away by clicking on the Gear again.</source>
+        <target state="needs-translation">You can put the Gear view away by clicking on the Gear again.</target>
+        <note>Context: XPath: /p[24]</note>
+      </trans-unit>
+      <trans-unit id="64520" identifier="79638de0ae361e742de907e7ee001cfb">
+        <source>You can drag additional numbers out of the Math category and snap them to the open slots in the Create array with block.</source>
+        <target state="needs-translation">You can drag additional numbers out of the Math category and snap them to the open slots in the Create array with block.</target>
+        <note>Context: XPath: /p[24]</note>
+      </trans-unit>
+      <trans-unit id="64521" identifier="e78a95b89d6d92c2fd4c120f017e90bf">
+        <source>Go ahead and change them to some random values, then attach the whole thing to the ‘on start’ event handler block.</source>
+        <target state="needs-translation">Go ahead and change them to some random values, then attach the whole thing to the ‘on start’ event handler block.</target>
+        <note>Context: XPath: /p[24]</note>
+      </trans-unit>
+      <trans-unit id="64522" identifier="b6d892a243bd95876da6252c41641ecd">
+        <source>Now, when the micro:bit starts, it will create an array with those five values.</source>
+        <target state="needs-translation">Now, when the micro:bit starts, it will create an array with those five values.</target>
+        <note>Context: XPath: /p[25]</note>
+      </trans-unit>
+      <trans-unit id="64523" identifier="d90e7638c9692b43360c0e20986145f8">
+        <source>Let’s create the constellations when the A button is pressed.</source>
+        <target state="needs-translation">Let’s create the constellations when the A button is pressed.</target>
+        <note>Context: XPath: /p[25]</note>
+      </trans-unit>
+      <trans-unit id="64524" identifier="913a8ff483b8d4dcb415d9244544549b">
+        <source>Looking at our loop, instead of repeating 0 to 4 times, we actually want to use the value from the array to figure out how many stars to create.</source>
+        <target state="needs-translation">Looking at our loop, instead of repeating 0 to 4 times, we actually want to use the value from the array to figure out how many stars to create.</target>
+        <note>Context: XPath: /p[25]</note>
+      </trans-unit>
+      <trans-unit id="64525" identifier="9b528338d4f922e3a8a63cbb970bdf80">
+        <source>Drag the ‘get value from list’ block from the Arrays Toolbox drawer and replace the 4 with that block.</source>
+        <target state="needs-translation">Drag the ‘get value from list’ block from the Arrays Toolbox drawer and replace the 4 with that block.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[15]/li</note>
+      </trans-unit>
+      <trans-unit id="64526" identifier="ac3301d1c2919474d1ded0498e682b42">
+        <source>You should see that there are more stars printed now, although there is an extra star; if the first value in the array is 5, you will actually see 6 stars because the loop runs when index is 0.</source>
+        <target state="needs-translation">You should see that there are more stars printed now, although there is an extra star; if the first value in the array is 5, you will actually see 6 stars because the loop runs when index is 0.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[26]</note>
+      </trans-unit>
+      <trans-unit id="64527" identifier="d7a83c617efd1c1ec7895a900a01ed2f">
+        <source>To fix this, we need to do a little math by subtracting 1 from whatever the value in the array is. You can use a Math operation block to do this.</source>
+        <target state="needs-translation">To fix this, we need to do a little math by subtracting 1 from whatever the value in the array is. You can use a Math operation block to do this.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[27]</note>
+      </trans-unit>
+      <trans-unit id="64528" identifier="d0d85f3f7f66b7460b278331a54e8e9d">
+        <source>&lt;strong&gt;Note:&lt;/strong&gt; Be sure to hit Refresh a few times on the simulator, because sometimes some stars get hidden behind other stars.</source>
+        <target state="needs-translation">&lt;strong&gt;Note:&lt;/strong&gt; Be sure to hit Refresh a few times on the simulator, because sometimes some stars get hidden behind other stars.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[28]</note>
+      </trans-unit>
+      <trans-unit id="70358" identifier="1ef80c0f105b0b68814f914e99f9cb9f">
+        <source>let list = [5, 2, 1, 3, 4]
+
+for (let index = 0; index &amp;lt; list[0] - 1; index++) {
+    led.plot(Math.random(5), Math.random(5))
+}</source>
+        <target state="needs-translation">let list = [5, 2, 1, 3, 4]
+
+for (let index = 0; index &amp;lt; list[0] - 1; index++) {
+    led.plot(Math.random(5), Math.random(5))
+}</target>
+        <note>Context: Text&#13;
+XPath: /pre[12]/code</note>
+      </trans-unit>
+      <trans-unit id="70359" identifier="a5c3c3335da36be58839b779bd88dc51">
+        <source>The above code takes the first value in the array and creates that many stars at random locations.</source>
+        <target state="needs-translation">The above code takes the first value in the array and creates that many stars at random locations.</target>
+        <note>Context: XPath: /p[29]</note>
+      </trans-unit>
+      <trans-unit id="70360" identifier="da0e67eeafaaea0edec89237288046f2">
+        <source>Now, all we need to do is iterate through the entire array and do the same thing for each of the values.</source>
+        <target state="needs-translation">Now, all we need to do is iterate through the entire array and do the same thing for each of the values.</target>
+        <note>Context: XPath: /p[29]</note>
+      </trans-unit>
+      <trans-unit id="70361" identifier="5c2f56ee89f7a1b5a9de3e8fb87167fe">
+        <source>We will put the above code inside another loop that will run the same number of times as the length of the array (in this case, 5).</source>
+        <target state="needs-translation">We will put the above code inside another loop that will run the same number of times as the length of the array (in this case, 5).</target>
+        <note>Context: XPath: /p[29]</note>
+      </trans-unit>
+      <trans-unit id="70362" identifier="5514c42b7a7598203522113aca05778d">
+        <source>You should also use a 'pause' block and a 'clear screen' block in between each constellation.</source>
+        <target state="needs-translation">You should also use a 'pause' block and a 'clear screen' block in between each constellation.</target>
+        <note>Context: XPath: /p[29]</note>
+      </trans-unit>
+      <trans-unit id="70363" identifier="2b659cf12e9323fa0fe02a5387f8596b">
+        <source>Finally, you might attach the code that shows the constellations to an 'on button A pressed' event handler.</source>
+        <target state="needs-translation">Finally, you might attach the code that shows the constellations to an 'on button A pressed' event handler.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[30]</note>
+      </trans-unit>
+      <trans-unit id="70364" identifier="37f76975a5a3ab0a4cd8de02a29b9d10" translate="no">
+        <source>Here is the complete program.</source>
+        <target state="translated">こちらが完全なプログラムです。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[31]</note>
+      </trans-unit>
+      <trans-unit id="70365" identifier="7d88fd626b9e9c66d6aaf4c25478bbaa">
+        <source>let list: number[] = []
+input.onButtonPressed(Button.A, () =&amp;gt; {
+    for (let i = 0; i &amp;lt;= list.length - 1; i++) {
+        for (let j = 0; j &amp;lt;= list[i] - 1; j++) {
+            led.plot(Math.random(5), Math.random(5))
+        }
+        basic.pause(1000)
+        basic.clearScreen()
+    }
+})
+list = [5, 2, 1, 3, 4]</source>
+        <target state="needs-translation">let list: number[] = []
+input.onButtonPressed(Button.A, () =&amp;gt; {
+    for (let i = 0; i &amp;lt;= list.length - 1; i++) {
+        for (let j = 0; j &amp;lt;= list[i] - 1; j++) {
+            led.plot(Math.random(5), Math.random(5))
+        }
+        basic.pause(1000)
+        basic.clearScreen()
+    }
+})
+list = [5, 2, 1, 3, 4]</target>
+        <note>Context: Text&#13;
+XPath: /pre[13]/code</note>
+      </trans-unit>
+      <trans-unit id="64538" identifier="7cec4dc3bb705f8aab970698fb14958b">
+        <source>Traversing an array</source>
+        <target state="needs-translation">Traversing an array</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[7]</note>
+      </trans-unit>
+      <trans-unit id="70366" identifier="d0c2d94320d8cd4f829c4729c0b16018">
+        <source>Traversing an array means proceeding through the elements of the array in sequence.</source>
+        <target state="needs-translation">Traversing an array means proceeding through the elements of the array in sequence.</target>
+        <note>Context: XPath: /p[32]</note>
+      </trans-unit>
+      <trans-unit id="70367" identifier="1b11f61206fe73bf99b4bcc003abcd63">
+        <source>Note that there is a special loop in the Loops Toolbox drawer called ‘for element value of list’.</source>
+        <target state="needs-translation">Note that there is a special loop in the Loops Toolbox drawer called ‘for element value of list’.</target>
+        <note>Context: XPath: /p[32]</note>
+      </trans-unit>
+      <trans-unit id="70368" identifier="ae15285fb61ea0c9372492eabc1234fb">
+        <source>This loop automatically takes each element of your array in turn and copies it into a variable called value.</source>
+        <target state="needs-translation">This loop automatically takes each element of your array in turn and copies it into a variable called value.</target>
+        <note>Context: XPath: /p[32]</note>
+      </trans-unit>
+      <trans-unit id="70369" identifier="30dc4cf66f6355440f2e800fd55c4e37">
+        <source>for (let index = 0; index &amp;lt;= 4; index++){
+
+}</source>
+        <target state="needs-translation">for (let index = 0; index &amp;lt;= 4; index++){
+
+}</target>
+        <note>Context: Text&#13;
+XPath: /pre[14]/code</note>
+      </trans-unit>
+      <trans-unit id="70370" identifier="73cff148430e0c84e70b30b7cc64fa50">
+        <source>The following code is useful for printing out the values of the elements in your array:</source>
+        <target state="needs-translation">The following code is useful for printing out the values of the elements in your array:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[33]</note>
+      </trans-unit>
+      <trans-unit id="70371" identifier="973a279840310f3eb449b45a11fcb5cd">
+        <source>let list = [5, 2, 1, 3, 4]
+
+input.onButtonPressed(Button.B, () =&amp;gt; {
+   for (let value of list) {
+       basic.showNumber(value)
+   }
+   basic.clearScreen()
+})</source>
+        <target state="needs-translation">let list = [5, 2, 1, 3, 4]
+
+input.onButtonPressed(Button.B, () =&amp;gt; {
+   for (let value of list) {
+       basic.showNumber(value)
+   }
+   basic.clearScreen()
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre[15]/code</note>
+      </trans-unit>
+      <trans-unit id="70372" identifier="f70c92bf5f670ca147e25cee606a4919">
+        <source>However, note that value holds a copy of the element in the array, so changing value doesn’t affect the original element.</source>
+        <target state="needs-translation">However, note that value holds a copy of the element in the array, so changing value doesn’t affect the original element.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[34]</note>
+      </trans-unit>
+      <trans-unit id="70373" identifier="07654a9c9d804a9726be5658e354ad1b">
+        <source>If you run the code below, then print out the array again, you will see that it is unchanged.</source>
+        <target state="needs-translation">If you run the code below, then print out the array again, you will see that it is unchanged.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[35]</note>
+      </trans-unit>
+      <trans-unit id="70374" identifier="e464b65118ab99b89d00a1886fcbc1c2">
+        <source>let list = [5, 2, 1, 3, 4]
+
+input.onButtonPressed(Button.A, () =&amp;gt; {
+   for (let value of list) {
+       value += 1
+   }
+})</source>
+        <target state="needs-translation">let list = [5, 2, 1, 3, 4]
+
+input.onButtonPressed(Button.A, () =&amp;gt; {
+   for (let value of list) {
+       value += 1
+   }
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre[16]/code</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

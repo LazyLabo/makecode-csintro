@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1806" original="/microbit/docs/courses/csintro/algorithms/unplugged.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="64298" identifier="9b4af925f4459867e67c681d23148371" approved="yes">
+        <source>Unplugged: What's your function &amp;amp; crazy conditionals</source>
+        <target>アンプラグド：関数とクレイジー条件文</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="64299" identifier="3277f1f0697d8e53bbf446c2fb3f7f92" translate="no" approved="yes">
+        <source>Materials</source>
+        <target>教材</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="64300" identifier="9eada186806b95a6879ee26b00c3101e" approved="yes">
+        <source>Pencils</source>
+        <target>鉛筆</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="64301" identifier="164176aba060f4a8df9e1c7dd3988bf7" approved="yes">
+        <source>Paper (or index cards)</source>
+        <target>紙 (もしくはインデックス・カード)</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64302" identifier="2da67783deb9574a2750c471797376b9" translate="no" approved="yes">
+        <source>/static/courses/csintro/algorithms/inputs-process-outputs.png</source>
+        <target>/static/courses/csintro/algorithms/inputs-process-outputs.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[2]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="64303" identifier="1a7cdb2573c3ff9f01c7ff29149c5fda">
+        <source>Inputs process outputs</source>
+        <target state="translated">Inputs process outputs</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[2]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="64304" identifier="e50268986b190e7737aef0c62532eb1d" approved="yes">
+        <source>In computer programming, algorithms are sets of instructions.</source>
+        <target>コンピュータ・プログラミングでは、アルゴリズムはひとまとまりの命令語のことを指します。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="64305" identifier="be8b70d41e06b97c81967008d0929354" approved="yes">
+        <source>Algorithms ‘tell’ the computer how to process input and what, if any, output to produce.</source>
+        <target>アルゴリズムは、コンピュータに対して入力をどのように処理するかを指示し、さらに出力がある場合はどのような出力するかを指示します。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="64306" identifier="95785205cb6417cdbfb3b314f63c17a9" approved="yes">
+        <source>An example of an algorithm you have seen in math class is the ‘function machine’.</source>
+        <target>算数のクラスで「関数マシーン」というものを見たことがあるかもしれませんが、それもアルゴリズムの１例です。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="64307" identifier="62b3c68bd19c5c9b2061e3cd522d8008" translate="no" approved="yes">
+        <source>/static/courses/csintro/algorithms/input-function-output.png</source>
+        <target>/static/courses/csintro/algorithms/input-function-output.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[6]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="64308" identifier="a75f53a8bc8dd12c3a0531cfb2376a25">
+        <source>Inputs function output</source>
+        <target state="translated">Inputs function output</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[6]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="64309" identifier="85ae13f51e6184da382fbfaa16ef88b6" approved="yes">
+        <source>A function machine takes an input, processes the input, and then delivers an output.</source>
+        <target>関数マシーンは入力情報を取り入れて、それを処理し、出力を生成します。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="64310" identifier="293c1ff7360c1c6e1b3072f4525cd75a" approved="yes">
+        <source>The inputs and their outputs are usually recorded in an input output table, where the value of x represents the input and the value of y represents the output. See example.</source>
+        <target>入力をx、出力をｙで表す「入出力表」に、入力と出力の情報を記録することが出来ます。例えば：</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="64311" identifier="8f94eac0445657636868017cbd364755" approved="yes">
+        <source>Input (x)   Output (y)
+======================
+    1           2
+    2           4
+    3           6
+    4           8</source>
+        <target>入力 (x)   出力 (y)
+======================
+    1           2
+    2           4
+    3           6
+    4           8</target>
+        <note>Context: Text&#13;
+XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="64312" identifier="bb1247bd82872a6dc85e3e0178432660" approved="yes">
+        <source>A common math problem is to determine what processing is happening to the input that results in the given output.</source>
+        <target>特定の出力結果を得るために、入力がどのように処理されているかを判断する、というのは算数のごく一般的な問題です。</target>
+        <note>Context: XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="64313" identifier="9749742ab0c5ca8e701c5a488f716c21" approved="yes">
+        <source>In the example above, each input is being doubled (multiplied by 2) to produce the corresponding output.</source>
+        <target>上の例の場合、それぞれの入力値は2倍（２を掛ける）になっていることがわかります。</target>
+        <note>Context: XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="64314" identifier="208cee1b1c94a731ada61b4ba90f9893" approved="yes">
+        <source>Input (x)   Processing =&amp;gt;   Output (y)
+======================================
+    1            * 2             2
+    2            * 2             4
+    3            * 2             6
+    4            * 2             8</source>
+        <target>入力(x)          処理 =&amp;gt;       出力 (y)
+======================================
+    1            * 2             2
+    2            * 2             4
+    3            * 2             6
+    4            * 2             8</target>
+        <note>Context: Text&#13;
+XPath: /pre[2]/code</note>
+      </trans-unit>
+      <trans-unit id="64315" identifier="f0e65c49c1da0591827ced6c912a8b7d" approved="yes">
+        <source>Unplugged: What's your function?</source>
+        <target>アンプラグド： あなたは何の関数？</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="64316" identifier="facd6fc52366e6485b2ecc032566765b" approved="yes">
+        <source>For this activity, the students can work in pairs, Player A and Player B. The pairs will take turns being the function machine for their partner who will be providing input to be processed.</source>
+        <target>このアクティビティでは生徒はプレイヤーAとプレイヤーBとして二人一組のペアで行います。ペアのひとりが関数マシーンになって、もう片方のパートナーからの入力を処理します。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="64317" identifier="67fa3eb679bd803fd35ec29054402969" approved="yes">
+        <source>Direct the students how you would like them to record their work.</source>
+        <target>生徒に、処理結果の記録の仕方を指導します。</target>
+        <note>Context: XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="64318" identifier="095bc1c9de608f07546ba6415e18c6aa" approved="yes">
+        <source>They can use pencil and paper or index cards.</source>
+        <target>鉛筆と紙を使うやり方でも、紙の代わりにインデックス・カードを使用するやり方でも構いません。</target>
+        <note>Context: XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="64319" identifier="058d63f59ffdb54481cfa91a20941557" approved="yes">
+        <source>On paper, they can keep track of inputs and outputs in a table (see example above).</source>
+        <target>紙に書く場合は、入力と出力の値が表になるように記録していきます (上の例を参考にしましょう)。</target>
+        <note>Context: XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="64320" identifier="e51fd79b4660017563751bd14485c56e" approved="yes">
+        <source>With index cards, Player A can write each input on one side of an index card, hand the card to Player B, who then writes the corresponding output on the other side of the card.</source>
+        <target>インデックス・カードを使う場合はプレイヤーAがインデックス・カードの表に入力の値をひとつ書いた後、プレイヤーBに渡します。プレイヤーBはその裏に出力の値を書き込みます。</target>
+        <note>Context: XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="64321" identifier="fcb5ab99706c8c79f2426729bb24a342" approved="yes">
+        <source>To begin:</source>
+        <target>始め方:</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3</note>
+      </trans-unit>
+      <trans-unit id="64322" identifier="616d3228c12678da61703706272fd33c" approved="yes">
+        <source>Player B decides on a mathematical function or bit of processing* that will be done on whatever input she receives from Player A.</source>
+        <target>まずプレイヤーBは、プレイヤーAから渡される入力を処理するための、算数の関数または簡単な数の操作をあらかじめひとつ選びます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="64323" identifier="393b54a19574e461247eb515a5f1bc45" approved="yes">
+        <source>Player B should write down the function or bit of processing and set it aside, out of sight of Player A.</source>
+        <target>プレイヤーBは使用する関数（もしくは数の操作）を別の紙に書いて、プレイヤーAからは見えない場所に置いておきます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64324" identifier="ffa096141a48a95c1997eaf1d84ebb44" approved="yes">
+        <source>Player A then gives Player B a number to process.</source>
+        <target>プレイヤーAはプレイヤーBに処理する数を伝えます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="64325" identifier="6bd7edd75c29c5919b320443d3e75b35" approved="yes">
+        <source>Player B processes the number and returns an output to Player A.</source>
+        <target>プレイヤーBはその数に処理を加え、結果を出力としてプレイヤーAに返します。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="64326" identifier="b2a4e1e4c5e5d31e6e5a9ca2a46cd878" approved="yes">
+        <source>Player A can then state what function or bit of processing she thinks Player B is using on the input to produce the given output. One try per round of input/output.</source>
+        <target>次に、プレイヤー A はプレイヤー Bがどのような関数（もしくは数の操作）を使って、与えられた入力から出力を生成したのか当てようとします。１回の入力と出力を１ラウンドとして、ラウンドにつき一度だけ挑戦できます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[5]</note>
+      </trans-unit>
+      <trans-unit id="64327" identifier="2f1b5f0ae5aac071cb3f5ce72fbe3520" approved="yes">
+        <source>If Player A states the correct function, Player B confirms that it is correct by showing the previously hidden function and the players switch roles and start the game over.</source>
+        <target>プレイヤー Aが正しく言い当てることが出来たら、プレイヤー B はそれまで隠しておいた関数を見せて正しいことを確認し、役割を交代して新しいゲームを始めます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[6]</note>
+      </trans-unit>
+      <trans-unit id="64328" identifier="2514e0c9eecdb9a49773042ad773ee6c" approved="yes">
+        <source>If Player A does not guess correctly, Player A provides another input that Player B processes and provides an output for.</source>
+        <target>プレイヤー A が当てることが出来なかった場合は、プレイヤー Aは新しい別の入力をプレイヤー Bに与え、プレイヤー Bはそれを処理して出力を返します。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[7]</note>
+      </trans-unit>
+      <trans-unit id="64329" identifier="25ef98b058542e27a7633b83beac1f43" approved="yes">
+        <source>The goal is for Player A to figure out what function or bit of processing Player B is using in the fewest number of rounds of input/output possible.</source>
+        <target>プレイヤーBがどんな関数（もしくは数の操作）を使っているかを、プレイヤーAが出来るだけ少ないラウンド数で言い当てることがゴールです。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[8]</note>
+      </trans-unit>
+      <trans-unit id="64330" identifier="5e5fa9727435260dc7cb92b40fe08a4a" approved="yes">
+        <source>After each student has had at least one chance to be the function machine, play more rounds as time permits.</source>
+        <target>最低でも1回、それぞれの生徒が関数マシーンとしてプレイしたら、時間の許す限り多くのラウンドをプレイします。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[9]</note>
+      </trans-unit>
+      <trans-unit id="64331" identifier="6ae6da5d1a78ca2663fd29a19ad5ee4b" translate="no" approved="yes">
+        <source>Notes:</source>
+        <target>追加情報：</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[2]</note>
+      </trans-unit>
+      <trans-unit id="64332" identifier="4e591978224016d94d70c5b24b718131">
+        <source>The difficulty level of the possible functions should be determined by the teacher and shared with the students ahead of playing.</source>
+        <target state="translated">使用できる関数の難易度に関しては、教師と生徒と話し合ったうえであらかじめプレイ開始前に決めておきます。</target>
+        <note>Context: XPath: /ul[3]/li</note>
+      </trans-unit>
+      <trans-unit id="64333" identifier="78aac8b36ef631c25a71177738e664a4">
+        <source>Alternately, the teacher can provide function cards that are handed out at random to be used by the players, rather than the players creating their own.</source>
+        <target state="translated">それ以外の方法としては、プレイヤーが自分で作成するかわりに、教師がランダムに選んだ関数カードを生徒たちに配るというのもあります。</target>
+        <note>Context: XPath: /ul[3]/li</note>
+      </trans-unit>
+      <trans-unit id="64334" identifier="c793719b828f2e36d956ef9506859f44">
+        <source>The player providing the input should not just guess what the function is. She should be able to explain why she thinks her input resulted in the given output.</source>
+        <target state="translated">入力データを与える役割のプレーヤーは勘に頼って関数を言い当てはいけません。なぜ与えられた入力がそのような出力になるかをきちんと説明できなくてはなりません。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64335" identifier="f889b567b62e29eb1a3a2d4a03a67cbe">
+        <source>Examples of ‘easier’ functions: 
+&gt; * [ ] Add 8
+&gt; * [ ] Subtract 6
+&gt; * [ ] Multiply by 3
+&gt; * [ ] Divide by 2</source>
+        <target state="translated">簡単な関数の例：
+&gt; * [ ] 8を足す
+&gt; * [ ] 6を引く
+&gt; * [ ] 3を掛ける
+&gt; * [ ] 2で割る</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="64336" identifier="26f44e55625b32e09699532e51b3ec28">
+        <source>Examples of more difficult functions:
+&gt; * [ ] Multiply by 2 and then subtract 1
+&gt; * [ ] Square the input
+&gt; * [ ] Return 20% of the input</source>
+        <target state="translated">より複雑な関数の例: 
+&gt; * [ ] 2を掛けて、1を引く
+&gt; * [ ] インプットを2乗する
+&gt; * [ ] インプットの20%を返す</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="64337" identifier="7481c41f1cd658a863fd66f3daeefad8">
+        <source>Unplugged: Crazy Conditionals</source>
+        <target state="translated">アンプラグド： クレイジーな条件文</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="64338" identifier="9153a4f9e88aa1d1fe9874a6923be78b">
+        <source>This is a fun, interactive exercise to introduce conditionals and event handlers as computer processing.  Read through the entire activity and adjust as needed for your class and classroom.
+ </source>
+        <target state="translated">このインタラクティブで楽しいアクティビティは、コンピューター処理としての条件文とイベント ハンドラーを生徒たちに紹介するのに適しています。 アクティビティ全体を読んで、あなたのクラスや教室の必要に応じて調整しましょう。
+ </target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="64339" identifier="9238c488eca067004a648cf2ff56f342">
+        <source>Preparation:</source>
+        <target state="translated">準備</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[3]</note>
+      </trans-unit>
+      <trans-unit id="64340" identifier="9f2f385f406ae1f86d339a11814a3b52">
+        <source>Print &amp;amp; cut into strips with one conditional on each strip</source>
+        <target state="translated">印刷した条件文が別々の札になるようにバラバラに切り取ります。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li</note>
+      </trans-unit>
+      <trans-unit id="64341" identifier="a6a972d9e5564fc684310181de55ff1c">
+        <source>Note that some of the same conditionals can be given to multiple students, while other conditionals are to be given to just one student.</source>
+        <target state="translated">いくつかの条件文は複数の生徒に与えられますが、別のいくつかの条件文は生徒ひとりにだけ与えることが出来ることに注意してください。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64342" identifier="493849d798b78eacbd5b0585a546e211">
+        <source>Except for the first ‘BEGIN’ conditional, hand out the conditionals PRINT SIDE DOWN.</source>
+        <target state="translated">最初に使う 'BEGIN' 以外の条件文を、印刷面が下になるように配ります。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="64343" identifier="b9d8e9016f075e6dc0fc7cd8a59617e9">
+        <source>Besides the ‘BEGIN’ and ‘STOP’ conditional, give at least two other conditionals to each student.</source>
+        <target state="translated">'BEGIN'条件文と'STOP'条件文とは別に、少なくとも 2 つの異なる条件文を各生徒に与えます。</target>
+        <note>Context: XPath: /ul[4]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="64344" identifier="32b516db5913346cb96af8b2be0c8b0d">
+        <source>A lesson from this is that it is challenging for a student to keep track of a lot of different conditionals, though not so for a computer!</source>
+        <target state="translated">このレッスンで生徒たちは、多くの条件文を取り扱うことがとても大変であると実感するでしょう。コンピューターにとっては大したことはないですが！</target>
+        <note>Context: XPath: /ul[4]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="64345" identifier="c253f07b288bcbef21b9888cf58b6ab4">
+        <source>: )
+ </source>
+        <target state="translated">: ) </target>
+        <note>Context: XPath: /ul[4]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="64346" identifier="453bb67d4ccc6df609be3f5ea583471b" translate="no">
+        <source>Notes:</source>
+        <target state="translated">注意点：</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[4]</note>
+      </trans-unit>
+      <trans-unit id="64347" identifier="246bf497c6d508e5b4d70e45333593c1">
+        <source>Some of the same conditionals can be given to multiple students, while other conditionals are to be given to just one student.</source>
+        <target state="translated">いくつかの条件文は複数の生徒に与えられますが、別のいくつかの条件文は生徒ひとりにだけ与えることが出来ることに注意してください。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li</note>
+      </trans-unit>
+      <trans-unit id="64348" identifier="442a3658aecac410fa10a3f69f7e3a42">
+        <source>Technically these conditionals are all event handlers because the students are simply waiting for a specific event to trigger them into action.</source>
+        <target state="translated">専門的には、これらの条件文はイベント ハンドラーと呼ばれます。生徒たちは行動の引き金となるイベントが発生するのを待っているのです。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64349" identifier="d938d462a09cd97459e67047f12d81c9">
+        <source>Unless instructed otherwise, students do not speak or make noise during this activity.</source>
+        <target state="translated">特に指示がない限り、学生は話しをしたり、アクティビティ中に大きな音を立ててはいけません。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="64350" identifier="aa120b0a42174946470a0078d2333483">
+        <source>Extensions/Variations:</source>
+        <target state="translated">拡張/バリエーション:</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[5]</note>
+      </trans-unit>
+      <trans-unit id="64351" identifier="f7b2dbeae4c1956ac45ec13d77f52da6">
+        <source>Add AND, OR, AND/OR statements to the conditionals.</source>
+        <target state="translated">AND、OR、またはその両方のステートメントを条件文に加えてみましょう。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li</note>
+      </trans-unit>
+      <trans-unit id="64352" identifier="b266b5183f2983151a49f5a9d9ff4f57">
+        <source>Create nested IF’s</source>
+        <target state="translated">入れ子になったIF条件文を作成してみましょう。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64353" identifier="217b1994fc067b024dfb0c8f2e9fe0f2">
+        <source>Let students create the IF’s</source>
+        <target state="translated">生徒たちにIF条件文を作らせてみましょう。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="64354" identifier="cf518ec03df89ed841fc4460598745b4">
+        <source>Relate this activity to a system and have the students create the conditionals that would end in a product of some kind or the completion of some task.
+ 
+Give these 2 conditionals to all students.</source>
+        <target state="translated">このアクティビティを身近なプロセスあてはめてみます。そして、完了した時になんらかの製品出来上がるような、もしくは完了した時になんらかのタスクが終了しているような、ひとまとまりの条件文を生徒に作らせてみましょう
+ 
+下のふたつの条件文を生徒全員に渡します。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="64355" identifier="ff53c72b04de1a6db26ac1d148d481ff">
+        <source>These 2 conditionals will be triggered only once.</source>
+        <target state="translated">これらふたつの条件文は一度しか発生しません。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li[5]</note>
+      </trans-unit>
+      <trans-unit id="64356" identifier="5d2785466b1fa1b8d86f1cf714b2eb87">
+        <source>These conditionals start and stop this activity.</source>
+        <target state="translated">これらふたつの条件文がアクティビティを開始し、終了しします。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li[6]</note>
+      </trans-unit>
+      <trans-unit id="64357" identifier="8792a34531000e5f441d1b209793150d">
+        <source>Give the first ‘BEGIN’ conditional to the students PRINT SIDE UP.</source>
+        <target state="translated">「BEGIN」の条件文だけは、印刷面を上にして生徒に渡します。</target>
+        <note>Context: XPath: /ul[6]/li[7]</note>
+      </trans-unit>
+      <trans-unit id="64358" identifier="bad819a68d2bc4213b6df9b51f848288">
+        <source> 
+&lt;strong&gt;IF&lt;/strong&gt; the teacher writes the word ‘&lt;strong&gt;BEGIN&lt;/strong&gt;’ on the whiteboard,&lt;br/&gt;
+&lt;strong&gt;THEN&lt;/strong&gt; flip over the conditionals in front of you and follow the directions.</source>
+        <target state="translated">&lt;strong&gt;IF&lt;/strong&gt; 先生が 「&lt;strong&gt;BEGIN&lt;/strong&gt;」という単語をホワイトボードに書く&lt;br/&gt;
+&lt;strong&gt;THEN&lt;/strong&gt; 手元にある条件文をすべて表にして、条件文に従う準備をする。&lt;/0&gt;</target>
+        <note>Context: XPath: /ul[6]/li[7]</note>
+      </trans-unit>
+      <trans-unit id="64359" identifier="0e2bd62acc092f60dc491912143be7d8">
+        <source> 
+&lt;strong&gt;IF&lt;/strong&gt; you see the word ‘&lt;strong&gt;STOP&lt;/strong&gt;’ on the whiteboard,&lt;br/&gt;
+&lt;strong&gt;THEN&lt;/strong&gt; sit back, cross your arms, and look at the teacher (smile!).</source>
+        <target state="translated">&lt;strong&gt;IF&lt;/strong&gt; ホワイトボードに ‘&lt;strong&gt;STOP&lt;/strong&gt;’ という単語が書かれる&lt;br/&gt;
+&lt;strong&gt;THEN&lt;/strong&gt; 腕組をして深く椅子に座り、先生の方に注目しましょう（笑顔で！）。</target>
+        <note>Context: XPath: /ul[6]/li[7]</note>
+      </trans-unit>
+      <trans-unit id="64360" identifier="75e85ba9ed7439381d7fa87cc9786c2c">
+        <source>Give these 6 conditionals to multiple students.</source>
+        <target state="translated">以下の 6 つの条件文をそれぞれ複数の生徒に与えます。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[14]</note>
+      </trans-unit>
+      <trans-unit id="64361" identifier="63856662e6aaa37c10b59a5fa32994cc">
+        <source>These 6 conditionals may be triggered more than once.</source>
+        <target state="translated">これら 6つの 条件文は、何度も引き金が引かれて実行しても良いです。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[7]/li</note>
+      </trans-unit>
+      <trans-unit id="64362" identifier="fed10735151a65c5bfef37861abcae84">
+        <source>Walk around the classroom during the activity to trigger some of these conditionals.</source>
+        <target state="translated">教室内を歩き回って、これらの条件文のいくつかを発生させてみましょう。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[7]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64363" identifier="2ca337327fda4010a4b20cc102e4e155">
+        <source>&lt;strong&gt;IF&lt;/strong&gt; the teacher says the word ‘popcorn’,&lt;br/&gt;
+&lt;strong&gt;THEN&lt;/strong&gt; stand up and say ‘Pop!’ once and sit back down.</source>
+        <target state="translated">&lt;strong&gt;IF&lt;/strong&gt; 先生が「ポップコーン」と言う&lt;br/&gt;
+&lt;strong&gt;THEN&lt;/strong&gt; 席から立って「ポップコーン」と言い、また座る</target>
+        <note>Context: XPath: /p[15]</note>
+      </trans-unit>
+      <trans-unit id="64364" identifier="fdf6203d9996c7afec3a769e3999695c">
+        <source> 
+&lt;strong&gt;IF&lt;/strong&gt; any student stands up for any reason,&lt;br/&gt;
+&lt;strong&gt;THEN&lt;/strong&gt; clap 3 times.</source>
+        <target state="translated">&lt;strong&gt;IF&lt;/strong&gt; 生徒のひとりがどんな理由かにかかわらず立つ
+&lt;strong&gt;THEN&lt;/strong&gt;3回拍手する&lt;/0&gt;</target>
+        <note>Context: XPath: /p[15]</note>
+      </trans-unit>
+      <trans-unit id="64365" identifier="f11636c9df0e113f4a3cfc023d35d8ec">
+        <source> 
+&lt;strong&gt;IF&lt;/strong&gt; anyone writes on the whiteboard with a GREEN marker,&lt;br/&gt;
+&lt;strong&gt;THEN&lt;/strong&gt; get up and touch something GREEN in the room and sit back down.</source>
+        <target state="translated">&lt;strong&gt;IF&lt;/strong&gt;誰かが緑のマーカーでホワイトボードに何かを書く&lt;br/&gt;
+&lt;strong&gt;THEN&lt;/strong&gt; 立ち上がって部屋の中にある緑色のものを触り、座る。&lt;1/&gt;</target>
+        <note>Context: XPath: /p[15]</note>
+      </trans-unit>
+      <trans-unit id="64366" identifier="657063887005dd8b2bd0140420e69025">
+        <source> 
+&lt;strong&gt;IF&lt;/strong&gt; anyone walks past you while you are seated,&lt;br/&gt;
+&lt;strong&gt;THEN&lt;/strong&gt; snap your fingers 3 times.</source>
+        <target state="translated">&lt;strong&gt;IF&lt;/strong&gt; あなたが座ってる脇を誰かが歩いていく&lt;br/&gt;
+&lt;strong&gt;THEN&lt;/strong&gt; 3回指を鳴らす。</target>
+        <note>Context: XPath: /p[15]</note>
+      </trans-unit>
+      <trans-unit id="64367" identifier="a09814533d12ab655ea645f8944ea37d">
+        <source> 
+&lt;strong&gt;IF&lt;/strong&gt; someone snaps their fingers &lt;strong&gt;AND&lt;/strong&gt; you have the letter ‘e’ in your first name,&lt;br/&gt;
+&lt;strong&gt;THEN&lt;/strong&gt; select a book from the bookcase and sit back down.</source>
+        <target state="translated">&lt;strong&gt;IF&lt;/strong&gt; 誰かが指を鳴らす &lt;strong&gt;AND&lt;/strong&gt; あなたのローマ字の名前に「e」が含まれる&lt;br/&gt;
+&lt;strong&gt;THEN&lt;/strong&gt; 本棚から本を一冊選んで坐る。</target>
+        <note>Context: XPath: /p[15]</note>
+      </trans-unit>
+      <trans-unit id="64368" identifier="fbdcc2fe2ab08ecc35d538bf303af267">
+        <source> 
+&lt;strong&gt;IF&lt;/strong&gt; anyone writes anything on the whiteboard,&lt;br/&gt;
+&lt;strong&gt;THEN&lt;/strong&gt; get up and turn around in place one full turn and sit back down.</source>
+        <target state="translated">&lt;strong&gt;IF&lt;/strong&gt; 誰かがホワイトボードに何かを書く&lt;br/&gt;
+&lt;strong&gt;THEN&lt;/strong&gt; 立ち上がってその場で一周して、座る。</target>
+        <note>Context: XPath: /p[15]</note>
+      </trans-unit>
+      <trans-unit id="64369" identifier="50b5f58d386f2d7a6ae0a8ec0c8f685a">
+        <source> </source>
+        <target state="translated"> </target>
+        <note>Context: Headline 1&#13;
+XPath: /h1[2]</note>
+      </trans-unit>
+      <trans-unit id="64370" identifier="b8a245b41a97a8d23d85a41c85130b7a">
+        <source>Give one student each of the following 7 conditionals.</source>
+        <target state="translated">以下の７つの条件文を生徒ひとりひとりに渡します</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[16]</note>
+      </trans-unit>
+      <trans-unit id="64371" identifier="9f7b66e81b8b5001e254dafde5faa2ed">
+        <source>These 7 conditionals will be triggered only once and set in motion the spelling of STOP on the whiteboard.</source>
+        <target state="translated">この7つの条件文は それぞれ1 回だけ発動し、ホワイト ボードに「STOP」という綴りが完成するまで実行されます。</target>
+        <note>Context: XPath: /ul[8]/li</note>
+      </trans-unit>
+      <trans-unit id="64372" identifier="6b28d36f2a3dfaff5001364f90ca9f6f">
+        <source> 
+&lt;strong&gt;IF&lt;/strong&gt; the teacher picks up a book,&lt;br/&gt;
+&lt;strong&gt;THEN&lt;/strong&gt; get up and write the letter S on the whiteboard and sit back down.</source>
+        <target state="translated"> 
+&lt;strong&gt;IF&lt;/strong&gt;先生が本を手に取る&lt;br/&gt;
+&lt;strong&gt;THEN&lt;/strong&gt;ホワイト ボードの前に出て、文字 S を書き、また自分の席に座る。</target>
+        <note>Context: XPath: /ul[8]/li</note>
+      </trans-unit>
+      <trans-unit id="64373" identifier="e3c3549d8151af0200d848fcff2fbf07">
+        <source> 
+&lt;strong&gt;IF&lt;/strong&gt; someone writes the letter S on the whiteboard,&lt;br/&gt;
+&lt;strong&gt;THEN&lt;/strong&gt; go open and close the classroom door and sit back down.</source>
+        <target state="translated"> 
+&lt;strong&gt;IF&lt;/strong&gt;誰かがホワイトボードに文字Sを書く&lt;br/&gt;
+&lt;strong&gt;THEN&lt;/strong&gt;教室のドアを開けて、また閉めて、席に戻って座る。</target>
+        <note>Context: XPath: /ul[8]/li</note>
+      </trans-unit>
+      <trans-unit id="64374" identifier="f65f32e31f75de78eb538be1a1eb6782">
+        <source> 
+&lt;strong&gt;IF&lt;/strong&gt; someone opens and closes the classroom door,&lt;br/&gt;
+&lt;strong&gt;THEN&lt;/strong&gt; get up and write the letter T (after the letter S) on the whiteboard.</source>
+        <target state="translated"> 
+&lt;strong&gt;IF&lt;/strong&gt;誰かが教室のドアを開け閉めする&lt;br/&gt;
+&lt;strong&gt;THEN&lt;/strong&gt;ホワイトボードに文字Tを（文字Sのすぐ後に）書く。</target>
+        <note>Context: XPath: /ul[8]/li</note>
+      </trans-unit>
+      <trans-unit id="64375" identifier="a2eb085f1244a226dd64b0342f9e158d">
+        <source> 
+&lt;strong&gt;IF&lt;/strong&gt; someone writes the letter T on the whiteboard,&lt;br/&gt;
+&lt;strong&gt;THEN&lt;/strong&gt; get up and turn the lights on and off and sit back down.</source>
+        <target state="translated"> 
+&lt;strong&gt;IF&lt;/strong&gt;誰かがホワイトボードに文字Tを書く&lt;br/&gt;
+&lt;strong&gt;THEN&lt;/strong&gt;教室の明かりを点けて、また消して、席に戻って座る。</target>
+        <note>Context: XPath: /ul[8]/li</note>
+      </trans-unit>
+      <trans-unit id="64376" identifier="9f706799dafad5ca8b417b57f4309f0a">
+        <source> 
+&lt;strong&gt;IF&lt;/strong&gt; someone turns on and off the lights,&lt;br/&gt;
+&lt;strong&gt;THEN&lt;/strong&gt; get up and write the letter O (after the letter T) on the whiteboard.</source>
+        <target state="translated"> 
+&lt;strong&gt;IF&lt;/strong&gt;誰かが教室の明かりを点滅する&lt;br/&gt;
+&lt;strong&gt;THEN&lt;/strong&gt;ホワイトボードに文字Oを（文字Tのすぐ後に）書く。</target>
+        <note>Context: XPath: /ul[8]/li</note>
+      </trans-unit>
+      <trans-unit id="64377" identifier="5cf2683a1a6353da7fb521f9abbd4617">
+        <source> 
+&lt;strong&gt;IF&lt;/strong&gt; someone writes the letter O on the whiteboard,&lt;br/&gt;
+&lt;strong&gt;THEN&lt;/strong&gt; get up and sharpen a pencil.</source>
+        <target state="translated"> 
+&lt;strong&gt;IF&lt;/strong&gt;誰かがホワイトボードに文字Oを書く&lt;br/&gt;
+&lt;strong&gt;THEN&lt;/strong&gt;教室の鉛筆削り器に行って、鉛筆を削る。</target>
+        <note>Context: XPath: /ul[8]/li</note>
+      </trans-unit>
+      <trans-unit id="64378" identifier="f99f5a7900daacc13fb71096655efa8f">
+        <source> 
+&lt;strong&gt;IF&lt;/strong&gt; someone sharpens a pencil,&lt;br/&gt;
+&lt;strong&gt;THEN&lt;/strong&gt; get up and write the letter P (after the letter O) on the whiteboard.</source>
+        <target state="translated"> 
+&lt;strong&gt;IF&lt;/strong&gt;誰かが鉛筆を削る&lt;br/&gt;
+&lt;strong&gt;THEN&lt;/strong&gt;ホワイトボードに文字Pを（文字Oのすぐ後に）書く。</target>
+        <note>Context: XPath: /ul[8]/li</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

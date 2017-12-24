@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1846" original="/microbit/docs/courses/csintro/finalproject/review.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="66689" identifier="0e983c65bb3080496d3943eb0b707933" translate="no">
+        <source>Review</source>
+        <target>Review</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="70386" identifier="b5cd47a6bae3cb02d3a4071153ee698f" translate="no">
+        <source>/static/courses/csintro/miniproject/review.png</source>
+        <target>/static/courses/csintro/miniproject/review.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66691" identifier="f4c2af46c1a9306070ae4e761a4ccc86" translate="no">
+        <source>Review</source>
+        <target>Review</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="66692" identifier="2d8492519b130938812f473e65b53507">
+        <source>Here is a brief review of the topics we covered in lessons 7–12.
+ </source>
+        <target state="needs-translation">Here is a brief review of the topics we covered in lessons 7–12.
+ </target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="66693" identifier="7547a9d217d7068a6e89470662b53752">
+        <source>Coordinate Grid and LEDs</source>
+        <target state="needs-translation">Coordinate Grid and LEDs</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="66694" identifier="8a0fc48eb28932253c042d2c8b1ef69e">
+        <source>The micro:bit’s 25 LEDs are arranged in a 5x5 grid, with the origin at the top left.</source>
+        <target state="needs-translation">The micro:bit’s 25 LEDs are arranged in a 5x5 grid, with the origin at the top left.</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="66695" identifier="f16d1efa13f75924c1df72816cc0753f">
+        <source>Values for both the x and y axes start at zero and increase as you move down and to the right.</source>
+        <target state="needs-translation">Values for both the x and y axes start at zero and increase as you move down and to the right.</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="66696" identifier="0d95309c33d1fd2d2b3da3c949904262">
+        <source>Individual LEDs can be turned off and on by specifying a pair of coordinates.</source>
+        <target state="needs-translation">Individual LEDs can be turned off and on by specifying a pair of coordinates.</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="66697" identifier="9c4de37476b4edb08f3573cc6b0bc3ad">
+        <source>The current value of an LED can be checked, and its brightness can be changed, as well.</source>
+        <target state="needs-translation">The current value of an LED can be checked, and its brightness can be changed, as well.</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="66698" identifier="2634c0e7704b910ff6792208b6f0af5b" translate="no">
+        <source> </source>
+        <target state="translated"> </target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="66699" identifier="616aafc75dcd79b5268e66976714537a" translate="no" approved="yes">
+        <source>Booleans</source>
+        <target>ブール値</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="66700" identifier="a810bfb3bca61f2cc7c8567f7c6a1c45">
+        <source>A Boolean is a data type that only has two possible values: True or False.</source>
+        <target state="needs-translation">A Boolean is a data type that only has two possible values: True or False.</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="66701" identifier="3fa9a1f2c7fac716e2a41facdc1508fd">
+        <source>You can use &lt;a href=&quot;/types/boolean&quot;&gt;boolean&lt;/a&gt; variables to keep track of the state of a game (&lt;code&gt;gameOver&lt;/code&gt; is either &lt;code&gt;true&lt;/code&gt; or &lt;code&gt;false&lt;/code&gt;) or check to see whether a certain action has taken place yet (&lt;code&gt;messageSent&lt;/code&gt; is either &lt;code&gt;true&lt;/code&gt; or &lt;code&gt;false&lt;/code&gt;).</source>
+        <target state="needs-translation">You can use &lt;a href=&quot;/types/boolean&quot;&gt;boolean&lt;/a&gt; variables to keep track of the state of a game (&lt;code&gt;gameOver&lt;/code&gt; is either &lt;code&gt;true&lt;/code&gt; or &lt;code&gt;false&lt;/code&gt;) or check to see whether a certain action has taken place yet (&lt;code&gt;messageSent&lt;/code&gt; is either &lt;code&gt;true&lt;/code&gt; or &lt;code&gt;false&lt;/code&gt;).</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="66702" identifier="8f4befd500674682baed438bcc67e62b">
+        <source>Boolean operators such as AND OR and NOT allow you to combine &lt;a href=&quot;/blocks/logic/boolean&quot;&gt;boolean expressions&lt;/a&gt; to make more complex conditions.</source>
+        <target state="needs-translation">Boolean operators such as AND OR and NOT allow you to combine &lt;a href=&quot;/blocks/logic/boolean&quot;&gt;boolean expressions&lt;/a&gt; to make more complex conditions.</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="66703" identifier="661a63aa5d85f8befe8931eedeec042c" translate="no">
+        <source> </source>
+        <target state="translated"> </target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="66704" identifier="058fd43c7a94721897d4d91ab424b753">
+        <source>Bits, bytes, and binary</source>
+        <target state="needs-translation">Bits, bytes, and binary</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="66705" identifier="f45f3093a3d6a09cbd86ab15ff9aac04">
+        <source>Computers work with &lt;em&gt;base-2&lt;/em&gt;, which uses binary numbers. Binary numbers only have two possible values: 0 or 1. 
+ </source>
+        <target state="needs-translation">Computers work with &lt;em&gt;base-2&lt;/em&gt;, which uses binary numbers. Binary numbers only have two possible values: 0 or 1. 
+ </target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="66706" identifier="16aed003b058018862094b89736750f8">
+        <source>Radio communication</source>
+        <target state="needs-translation">Radio communication</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[4]</note>
+      </trans-unit>
+      <trans-unit id="66707" identifier="32887bdc28b7e98e8138a59c9cebfc7a">
+        <source>A micro:bits can send a combination of strings and numbers using the Radio blocks.</source>
+        <target state="needs-translation">A micro:bits can send a combination of strings and numbers using the Radio blocks.</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="66708" identifier="a21aaf19c32a33988a700589f6d9ff37">
+        <source>The &lt;a href=&quot;/projects/infection&quot;&gt;Infection&lt;/a&gt; activity is an example of a thought-provoking group simulation that uses the Radio to send and receive data between micro:bits.</source>
+        <target state="needs-translation">The &lt;a href=&quot;/projects/infection&quot;&gt;Infection&lt;/a&gt; activity is an example of a thought-provoking group simulation that uses the Radio to send and receive data between micro:bits.</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="66709" identifier="0f50fdbe3d40031c7ba4b36121460254" translate="no">
+        <source> </source>
+        <target state="translated"> </target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="66710" identifier="b6948824a48faaf652614ae22680de79" translate="no">
+        <source>Arrays</source>
+        <target>Arrays</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[5]</note>
+      </trans-unit>
+      <trans-unit id="66711" identifier="810b104f5a949683da8c4fb93177e556">
+        <source>Arrays in MakeCode are used to store and retrieve numbers, strings, musical notes, or sprites.</source>
+        <target state="needs-translation">Arrays in MakeCode are used to store and retrieve numbers, strings, musical notes, or sprites.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="66712" identifier="af00eb660db6b45146465ecdfc8b4c43">
+        <source>Everything in a particular array needs to be the same data type and elements in an array are numbered starting from zero, also called the &lt;em&gt;index&lt;/em&gt;.</source>
+        <target state="needs-translation">Everything in a particular array needs to be the same data type and elements in an array are numbered starting from zero, also called the &lt;em&gt;index&lt;/em&gt;.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="66713" identifier="992d57993fb3d4a3887e5e7c7fbf55fb">
+        <source>Objects can be accessed, changed, added to, or removed from an array using their index.</source>
+        <target state="needs-translation">Objects can be accessed, changed, added to, or removed from an array using their index.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="70387" identifier="8f73acbc0e5984bb40a0d99b8b4fce80">
+        <source>Three common methods of sorting elements in an array are bubble sort, selection sort, and insertion sort.</source>
+        <target state="needs-translation">Three common methods of sorting elements in an array are bubble sort, selection sort, and insertion sort.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

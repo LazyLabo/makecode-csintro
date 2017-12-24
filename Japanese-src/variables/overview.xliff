@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1881" original="/microbit/docs/courses/csintro/variables/overview.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="68406" identifier="913f6422d41f0413a2feb499068e4895" translate="no" approved="yes">
+        <source>Introduction</source>
+        <target>はじめに</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="68407" identifier="37ef58eae7903b3bc5c39e230a17a98f" approved="yes">
+        <source>Computer programs process information.</source>
+        <target>コンピュータプログラムは情報の処理を行います。</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="68408" identifier="c412bc497fcafcd04bde5f74c8ab8c08" approved="yes">
+        <source>Some of the information that is input, stored, and used in a computer program has a value that is &lt;strong&gt;constant&lt;/strong&gt;, meaning it does not change throughout the course of the program.</source>
+        <target>コンピュータプログラムで入力、格納、使用されるいくつかの情報は 、プログラムの流れ全体で変化しない&lt;strong&gt;定数&lt;/strong&gt;という値を持っています。</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="68409" identifier="217b1ca3e5a6b64a1b1b1113813fa04a">
+        <source>An example of a &lt;strong&gt;constant&lt;/strong&gt; in math is ‘pi’ because ‘pi’ has one value that never changes.</source>
+        <target state="translated">数学での例は 「pi(円周率)」が&lt;strong&gt;定数&lt;/strong&gt;にあたります。「pi(円周率)」は決して変化しない一つの値を持っています。</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="68410" identifier="4979485ce55f3d66cce07fdf4a2ee9ac" approved="yes">
+        <source>Other pieces of information have values that &lt;strong&gt;vary&lt;/strong&gt; or change during the running of a program.</source>
+        <target>情報の他の部分には、プログラムの実行中に&lt;strong&gt;変化する&lt;/strong&gt;
+値を持っています。</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="68411" identifier="0d10909a5909895f99236e6354c635bf" approved="yes">
+        <source>Programmers create &lt;strong&gt;variables&lt;/strong&gt; to hold the value of information that may change.</source>
+        <target>プログラマーは変化する可能性がある情報を保持するため、 &lt;strong&gt;変数&lt;/strong&gt;を作成します。</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="68412" identifier="c514f14796cac322f7146aeb5d0f9efa" approved="yes">
+        <source>In a game program, a variable may be created to hold the player’s current score, since that value would change (hopefully!) during the course of the game.</source>
+        <target>ゲームプログラムでは、ゲーム中のスコアは変化するので(うまくいけば！)、変数はプレイヤーの現在のスコアを保持するために使用されるでしょう。</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="68413" identifier="35505cd7da426b702cf8d63373a2f3d6" approved="yes">
+        <source>Ask the students to think of some pieces of information in their daily life that are &lt;strong&gt;constants&lt;/strong&gt; and others that are &lt;strong&gt;variables&lt;/strong&gt;.</source>
+        <target>日常生活の中で、どの情報が &lt;strong&gt;定数&lt;/strong&gt;で、他のどの情報が &lt;strong&gt;変数&lt;/strong&gt;だと思うか、生徒たちに聞いてみましょう。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="68414" identifier="d2f59c9bd55f5ea36701be53230d8748" approved="yes">
+        <source>What pieces of information have values that don’t change during the course of a single day (constants)?</source>
+        <target>1日の流れの中で変化しない値(定数) を持っているのは、どのような情報でしょうか。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="68415" identifier="b04c8fe4a4614a41d9833b80e0ce2435">
+        <source>What pieces of information have values that do change during the course of a single day (variables)
+Constants and variables can be numbers and/or text.</source>
+        <target state="translated">1日の流れの中で変化する値(変数) を持っているのは、どのような情報でしょうか。定数と変数は数値ならびに/またはテキストです。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="68416" identifier="b200587a5a9b95374513da70bbc0a96a" translate="no" approved="yes">
+        <source>Examples</source>
+        <target>例</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="68417" identifier="51a239252e3988f150ead81da59390d2" approved="yes">
+        <source>In one school day...</source>
+        <target>学校での一日…</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="68418" identifier="72e9102b102219ec79e85f7c980514d8" approved="yes">
+        <source>Constants: The day of the week, the year, student’s name, the school’s address</source>
+        <target>定数：曜日、年、生徒の名前、学校の住所</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="68419" identifier="6b63cdcb72e866a2ae1e6e828f53a951" approved="yes">
+        <source>Variables: The temperature/weather, the current time, the current class, whether they are standing or sitting...</source>
+        <target>変数：気温/天気、現在の時間、現在のクラス、生徒たちが立っているか、座っているか</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="68420" identifier="edb018a37982006f1733e26f3ba83983" approved="yes">
+        <source>Variables hold a specific type of information.</source>
+        <target>変数は特定の型の情報を保持します。</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="68421" identifier="0a81dd7f9a35218576be3a53f58dbaf8">
+        <source>The micro:bit's variables can keep track of numbers, strings, booleans, and sprites.</source>
+        <target state="translated">micro:bitの変数は、数値、文字列、ブール値、スプライトの追跡が可能です。</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="68422" identifier="3c06fb03736f0aa1386e8a54076800c0" approved="yes">
+        <source>The first time you use a variable, its type is assigned to match whatever it is holding.</source>
+        <target>初めて変数を使用する際には、型はそれが保持しているものに合うように割り当てられます。</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="68423" identifier="7dcf6c855e0c11ead998db12523ffa03" approved="yes">
+        <source>From that point forward, you can only change the value of that variable to another value of that same type.</source>
+        <target>それ以降は、その変数の値を、同じ型の違う値にのみ変更できます。</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="68424" identifier="75c2d0fffd2aedf9fc4f334085edffa8" approved="yes">
+        <source>A number variable could hold numerical data such as the year, the temperature, or the degree of acceleration.</source>
+        <target>数値型の変数には、年、温度、加速度などの数値データを保持することができます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li</note>
+      </trans-unit>
+      <trans-unit id="68425" identifier="c5f9a7ed7582f91b101f00800cf054d6" approved="yes">
+        <source>A string variable holds a string of alphanumeric characters such as a person's name, a password, or the day of the week.</source>
+        <target>文字列型の変数には、名前、パスワード、曜日など英数字の文字列を保持することができます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="68426" identifier="45745b933193b826cae52150b837bf69" approved="yes">
+        <source>A boolean variable has only two values: true or false. You might have certain things that happen only when the variable called &lt;em&gt;gameOver&lt;/em&gt; is false, for example.</source>
+        <target>ブール型の変数は、trueまたはfalse、2つの値しか持っていません。例えば、&lt;em&gt;gameOver&lt;/em&gt;という変数がfalseがのときにだけ、あることが発生する 、などです。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="68427" identifier="dd95a22d50e059c43e5c9756818f9901">
+        <source>A sprite is a special variable that represents a single dot on the screen and holds two separate values for the row and column the dot is currently in.</source>
+        <target state="translated">スプライトは特別な変数で、画面に1つのドット（点）を表します。ドットが現在入っている行と列、2つの独立した値を持っています。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[4]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
