@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1878" original="/microbit/docs/courses/csintro/SUMMARY.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="68034" identifier="6da18996bfc0e28c4de674c53350d1be" translate="no">
+        <source>/courses/csintro</source>
+        <target>/courses/csintro</target>
+        <note>Context: Link Resource&#13;
+XPath: /h1/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68035" identifier="1c74ea41193df400448f3b851905fb03" translate="no" approved="yes">
+        <source>CS Intro</source>
+        <target>はじめてのコンピュータサイエンス</target>
+        <note>Context: Anchor Link&#13;
+XPath: /h1/a</note>
+      </trans-unit>
+      <trans-unit id="68036" identifier="1df47932edbdb307b05a4b5b8fa00d65" translate="no">
+        <source>/courses/csintro</source>
+        <target>/courses/csintro</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68037" identifier="fd400953b614ad6accbce602c982ca24" translate="no" approved="yes">
+        <source>CS Intro</source>
+        <target>はじめてのコンピュータサイエンス</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul/li/a</note>
+      </trans-unit>
+      <trans-unit id="68038" identifier="67426f0575310fb5e705dbb70e6ff1b1" translate="no" approved="yes">
+        <source>About</source>
+        <target>このコースについて</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="68039" identifier="c4a7c1e2703c01c56e28cc50a80c07ae" translate="no">
+        <source>/courses/csintro/about</source>
+        <target>/courses/csintro/about</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[2]/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68040" identifier="81c830fb0e769f0fe61b311f00ed58ad" translate="no" approved="yes">
+        <source>About</source>
+        <target>このコースについて</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[2]/li/a</note>
+      </trans-unit>
+      <trans-unit id="68041" identifier="d1ae97b5a7bb47066e25c54d17e7a73d" translate="no" approved="yes">
+        <source>Introduction</source>
+        <target>はじめに</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="68042" identifier="6237fff13fb7f3b6131ecccd45dbbdc1" translate="no">
+        <source>/courses/csintro/introduction</source>
+        <target>/courses/csintro/introduction</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[3]/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68043" identifier="187317ad97e3f6a8352ec8fca4065bdb" translate="no" approved="yes">
+        <source>Introduction</source>
+        <target>はじめに</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[3]/li/a</note>
+      </trans-unit>
+      <trans-unit id="68044" identifier="6441c322eee6a32ebdb66702fe72616e" translate="no" approved="yes">
+        <source>References</source>
+        <target>参考資料</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="68045" identifier="15ad25f4f67a0b555a7450a1cd74b962" translate="no">
+        <source>/courses/csintro/references</source>
+        <target>/courses/csintro/references</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[4]/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68046" identifier="2511cbf1583e399d797b49c5ef81102d" translate="no" approved="yes">
+        <source>References</source>
+        <target>参考資料</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[4]/li/a</note>
+      </trans-unit>
+      <trans-unit id="68047" identifier="a29e89ebfce2d3477b9d785a7e2ee7c4" translate="no" approved="yes">
+        <source>Acknowledgements</source>
+        <target>謝辞</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[4]</note>
+      </trans-unit>
+      <trans-unit id="68048" identifier="ebd5b6f39124a6ae6af92d12015eac55" translate="no">
+        <source>/courses/csintro/acknowledgements</source>
+        <target>/courses/csintro/acknowledgements</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[5]/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68049" identifier="0faf10655c16a1df307a443409d9a538" translate="no" approved="yes">
+        <source>Acknowledgements</source>
+        <target>謝辞</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[5]/li/a</note>
+      </trans-unit>
+      <trans-unit id="68050" identifier="36e04c6cf206bfa2270536758e646184" translate="no" approved="yes">
+        <source>Making</source>
+        <target>はじめてみよう</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[5]</note>
+      </trans-unit>
+      <trans-unit id="68051" identifier="ef3713dc5db8ee1107589f630633c877" translate="no">
+        <source>/courses/csintro/making</source>
+        <target>/courses/csintro/making</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[6]/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68052" identifier="8faa8cd50decc1e6175d1ccdf03fd60c" translate="no" approved="yes">
+        <source>Making</source>
+        <target>はじめてみよう</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[6]/li/a</note>
+      </trans-unit>
+      <trans-unit id="68053" identifier="7e674dd5c48dfd8ac09ec0e3f3f7424d" translate="no">
+        <source>/courses/csintro/making/introduction</source>
+        <target>/courses/csintro/making/introduction</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[6]/li/ul/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68054" identifier="0319df49d860920b81337b91f92913b1" translate="no" approved="yes">
+        <source>Introduction</source>
+        <target>はじめに</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[6]/li/ul/li/a</note>
+      </trans-unit>
+      <trans-unit id="68055" identifier="727a487e8c13b15ed38289a06db19e94" translate="no">
+        <source>/courses/csintro/making/unplugged</source>
+        <target>/courses/csintro/making/unplugged</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[6]/li/ul/li[2]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68056" identifier="21cbf776f0843124d6dc57a54b8e65aa" translate="no" approved="yes">
+        <source>Unplugged</source>
+        <target>アンプラグド</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[6]/li/ul/li[2]/a</note>
+      </trans-unit>
+      <trans-unit id="68057" identifier="b88ece771d99dace166b889bfe71653b" translate="no">
+        <source>/courses/csintro/making/activity</source>
+        <target>/courses/csintro/making/activity</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[6]/li/ul/li[3]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68058" identifier="28766f9920bdf455df2d19a26b4609bd" approved="yes">
+        <source>Walkthrough</source>
+        <target>使ってみよう</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[6]/li/ul/li[3]/a</note>
+      </trans-unit>
+      <trans-unit id="68059" identifier="e1f0891a51214d9c74cee4ddffc10f0a" translate="no">
+        <source>/courses/csintro/making/project</source>
+        <target>/courses/csintro/making/project</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[6]/li/ul/li[4]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68060" identifier="c7b142e36bf8634bf733d43182ec1a91" translate="no" approved="yes">
+        <source>Project</source>
+        <target>プロジェクト</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[6]/li/ul/li[4]/a</note>
+      </trans-unit>
+      <trans-unit id="68061" identifier="32f0738f0d7ff8ac27884397b2a70d8d" translate="no">
+        <source>/courses/csintro/making/standards</source>
+        <target>/courses/csintro/making/standards</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[6]/li/ul/li[5]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68062" identifier="f5998aae724929f3a878dce5d77616b2" translate="no" approved="yes">
+        <source>Standards</source>
+        <target>CSTA標準</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[6]/li/ul/li[5]/a</note>
+      </trans-unit>
+      <trans-unit id="68063" identifier="14d609594517eece3708eb9beec5bd25" translate="no">
+        <source>/courses/csintro/algorithms</source>
+        <target>/courses/csintro/algorithms</target>
+        <note>Context: Link Resource&#13;
+XPath: /h2[6]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68064" identifier="fd66d30ed0177ca1016113aab1d380d1" translate="no" approved="yes">
+        <source>Algorithms</source>
+        <target>アルゴリズム</target>
+        <note>Context: Anchor Link&#13;
+XPath: /h2[6]/a</note>
+      </trans-unit>
+      <trans-unit id="68065" identifier="25011b014e968c7a7d944cffae7e31a7" translate="no">
+        <source>/courses/csintro/algorithms</source>
+        <target>/courses/csintro/algorithms</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[7]/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68066" identifier="b019a6a8582d578f064680b62e1bbe4d" translate="no" approved="yes">
+        <source>Algorithms</source>
+        <target>アルゴリズム</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[7]/li/a</note>
+      </trans-unit>
+      <trans-unit id="68067" identifier="e96e54d609c484666dd11e645614c1bc" translate="no" approved="yes">
+        <source>/courses/csintro/algorithms/overview</source>
+        <target>/courses/csintro/algorithms/overview</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[7]/li/ul/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68068" identifier="7410d767df00ccd3e8ae3786c42e7e3c" translate="no" approved="yes">
+        <source>Overview</source>
+        <target>概要</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[7]/li/ul/li/a</note>
+      </trans-unit>
+      <trans-unit id="68069" identifier="9ab8fb526f23e9d8a3d6c2bef2917f8d" translate="no" approved="yes">
+        <source>/courses/csintro/algorithms/unplugged</source>
+        <target>/courses/csintro/algorithms/unplugged</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[7]/li/ul/li[2]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68070" identifier="9ed2d03dbc39033646c961afbdc0b70c" translate="no" approved="yes">
+        <source>Unplugged</source>
+        <target>アンプラグド</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[7]/li/ul/li[2]/a</note>
+      </trans-unit>
+      <trans-unit id="68071" identifier="6218fb158b9258d614311240f68979ca" translate="no" approved="yes">
+        <source>/courses/csintro/algorithms/activity</source>
+        <target>/courses/csintro/algorithms/activity</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[7]/li/ul/li[3]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68072" identifier="6199222628012c5a8aa04d5af692df35" translate="no" approved="yes">
+        <source>Activity</source>
+        <target>アクティビティ</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[7]/li/ul/li[3]/a</note>
+      </trans-unit>
+      <trans-unit id="68073" identifier="9da703e68829c4f1c799c68bd5ab1591" translate="no" approved="yes">
+        <source>/courses/csintro/algorithms/project</source>
+        <target>/courses/csintro/algorithms/project</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[7]/li/ul/li[4]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68074" identifier="d9859dc8523e6d5b0d26e47561fbda38" translate="no" approved="yes">
+        <source>Project</source>
+        <target>プロジェクト</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[7]/li/ul/li[4]/a</note>
+      </trans-unit>
+      <trans-unit id="68075" identifier="0c63c10511d0473592621970aa039e9f" translate="no" approved="yes">
+        <source>/courses/csintro/algorithms/standards</source>
+        <target>/courses/csintro/algorithms/standards</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[7]/li/ul/li[5]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68076" identifier="e641def4bd06f770ceafa960d4a5609d" translate="no" approved="yes">
+        <source>Standards</source>
+        <target>CSTA標準</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[7]/li/ul/li[5]/a</note>
+      </trans-unit>
+      <trans-unit id="68077" identifier="d2a126ea07085570476a45e09ec52987" translate="no" approved="yes">
+        <source>Variables</source>
+        <target>変数</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[7]</note>
+      </trans-unit>
+      <trans-unit id="68078" identifier="ff93f6dee0f1674cec8c3b7a1bd369a5" translate="no">
+        <source>/courses/csintro/variables</source>
+        <target>/courses/csintro/variables</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[8]/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68079" identifier="6186fd281c02e5014e7d33cf879b4bf7" translate="no" approved="yes">
+        <source>Variables</source>
+        <target>変数</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[8]/li/a</note>
+      </trans-unit>
+      <trans-unit id="68080" identifier="34dc454cbe4c16456c182b9c10229105" translate="no">
+        <source>/courses/csintro/variables/overview</source>
+        <target>/courses/csintro/variables/overview</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[8]/li/ul/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68081" identifier="809e707b7c332c48e1a820dc73730f50" translate="no" approved="yes">
+        <source>Overview</source>
+        <target>概要</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[8]/li/ul/li/a</note>
+      </trans-unit>
+      <trans-unit id="68082" identifier="e13fe88d9b1079786a6348ca04638e0a" translate="no">
+        <source>/courses/csintro/variables/unplugged</source>
+        <target>/courses/csintro/variables/unplugged</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[8]/li/ul/li[2]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68083" identifier="16f98e77f98ffa6296de238c9bf4b295" translate="no" approved="yes">
+        <source>Unplugged</source>
+        <target>アンプラグド</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[8]/li/ul/li[2]/a</note>
+      </trans-unit>
+      <trans-unit id="68084" identifier="0322a28cb70f6448d18bf98f58c5a056" translate="no">
+        <source>/courses/csintro/variables/activity</source>
+        <target>/courses/csintro/variables/activity</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[8]/li/ul/li[3]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68085" identifier="210ed4b938e75473183a6c8c99b2c943" translate="no" approved="yes">
+        <source>Activity</source>
+        <target>アクティビティ</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[8]/li/ul/li[3]/a</note>
+      </trans-unit>
+      <trans-unit id="68086" identifier="c1b4550a2d6cbf64ea552b703adbb422" translate="no">
+        <source>/courses/csintro/variables/project</source>
+        <target>/courses/csintro/variables/project</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[8]/li/ul/li[4]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68087" identifier="1bcb0e99425b43761bdb358a9b77b78d" translate="no" approved="yes">
+        <source>Project</source>
+        <target>プロジェクト</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[8]/li/ul/li[4]/a</note>
+      </trans-unit>
+      <trans-unit id="68088" identifier="1af4e819bd3dc775c6efd6eb29b50431" translate="no">
+        <source>/courses/csintro/variables/standards</source>
+        <target>/courses/csintro/variables/standards</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[8]/li/ul/li[5]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68089" identifier="4072cd9ed9c12e6b365f7b0c2c151bb6" translate="no" approved="yes">
+        <source>Standards</source>
+        <target>CSTA標準</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[8]/li/ul/li[5]/a</note>
+      </trans-unit>
+      <trans-unit id="68090" identifier="ead546b19e4673939577fc30d2d686b0" translate="no" approved="yes">
+        <source>Conditionals</source>
+        <target>条件</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[8]</note>
+      </trans-unit>
+      <trans-unit id="68091" identifier="751acb4258801afa695b27b294078d14" translate="no">
+        <source>/courses/csintro/conditionals</source>
+        <target>/courses/csintro/conditionals</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[9]/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68092" identifier="6d570fb84d32f0685e6947af79f1a9fd" translate="no" approved="yes">
+        <source>Conditionals</source>
+        <target>条件</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[9]/li/a</note>
+      </trans-unit>
+      <trans-unit id="68093" identifier="5486ed99b0c593d396784fe23a57836c" translate="no">
+        <source>/courses/csintro/conditionals/overview</source>
+        <target>/courses/csintro/conditionals/overview</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[9]/li/ul/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68094" identifier="db367d265cb5406031871ab5a01b3687" translate="no" approved="yes">
+        <source>Overview</source>
+        <target>概要</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[9]/li/ul/li/a</note>
+      </trans-unit>
+      <trans-unit id="68095" identifier="1c34ffbd8c84fcd3ecd77d5fdd629a85" translate="no">
+        <source>/courses/csintro/conditionals/unplugged</source>
+        <target>/courses/csintro/conditionals/unplugged</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[9]/li/ul/li[2]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68096" identifier="a434d0ec6a97a09def8548a1de66f0e6" translate="no" approved="yes">
+        <source>Unplugged</source>
+        <target>アンプラグド</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[9]/li/ul/li[2]/a</note>
+      </trans-unit>
+      <trans-unit id="68097" identifier="b5883fe95f801a548a3c6051b9b77910" translate="no">
+        <source>/courses/csintro/conditionals/activity</source>
+        <target>/courses/csintro/conditionals/activity</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[9]/li/ul/li[3]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68098" identifier="30925e8e937f48b535036efdaf87d545" translate="no" approved="yes">
+        <source>Activity</source>
+        <target>アクティビティ</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[9]/li/ul/li[3]/a</note>
+      </trans-unit>
+      <trans-unit id="68099" identifier="2eeb9ad172a664bc34533c332dbe3e8a" translate="no">
+        <source>/courses/csintro/conditionals/project</source>
+        <target>/courses/csintro/conditionals/project</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[9]/li/ul/li[4]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68100" identifier="4ee511b775cfc0a4873c6778e6c4ae24" translate="no" approved="yes">
+        <source>Project</source>
+        <target>プロジェクト</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[9]/li/ul/li[4]/a</note>
+      </trans-unit>
+      <trans-unit id="68101" identifier="fbe1b9016b158605cb96440e2ec0d2d3" translate="no">
+        <source>/courses/csintro/conditionals/standards</source>
+        <target>/courses/csintro/conditionals/standards</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[9]/li/ul/li[5]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68102" identifier="b49cee2c564e21a33f76915beeda73ef" translate="no" approved="yes">
+        <source>Standards</source>
+        <target>CSTA標準</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[9]/li/ul/li[5]/a</note>
+      </trans-unit>
+      <trans-unit id="68103" identifier="afe5c030be2f393eb051fdf319b8c9cf" translate="no" approved="yes">
+        <source>Iteration</source>
+        <target>繰り返し</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[9]</note>
+      </trans-unit>
+      <trans-unit id="68104" identifier="ceaf0ecec267582dc77384c99050aa26" translate="no">
+        <source>/courses/csintro/iteration</source>
+        <target>/courses/csintro/iteration</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[10]/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68105" identifier="5e901a0d383984cf1e6fef43afe39c17" translate="no" approved="yes">
+        <source>Iteration</source>
+        <target>繰り返し</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[10]/li/a</note>
+      </trans-unit>
+      <trans-unit id="68106" identifier="3494f5a884c1144c9cbbf56eff5d7c4f" translate="no">
+        <source>/courses/csintro/iteration/overview</source>
+        <target>/courses/csintro/iteration/overview</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[10]/li/ul/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68107" identifier="ccf3e5f774d944e87aa2b72762faf44c" translate="no" approved="yes">
+        <source>Overview</source>
+        <target>概要</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[10]/li/ul/li/a</note>
+      </trans-unit>
+      <trans-unit id="68108" identifier="1ad3f9dc0ad1d612fb261048afba6542" translate="no">
+        <source>/courses/csintro/iteration/unplugged</source>
+        <target>/courses/csintro/iteration/unplugged</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[10]/li/ul/li[2]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68109" identifier="40d9422e57bb620aa56de998fb93af2f" translate="no" approved="yes">
+        <source>Unplugged</source>
+        <target>アンプラグド</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[10]/li/ul/li[2]/a</note>
+      </trans-unit>
+      <trans-unit id="68110" identifier="1d72b998292da7e062041dc3544ee936" translate="no">
+        <source>/courses/csintro/iteration/activity</source>
+        <target>/courses/csintro/iteration/activity</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[10]/li/ul/li[3]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68111" identifier="c7a2a7b8cd4e20d5188d7099de484d2c" translate="no" approved="yes">
+        <source>Activity</source>
+        <target>アクティビティ</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[10]/li/ul/li[3]/a</note>
+      </trans-unit>
+      <trans-unit id="68112" identifier="1f17888ed7f88384605495a575bfc652" translate="no">
+        <source>/courses/csintro/iteration/project</source>
+        <target>/courses/csintro/iteration/project</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[10]/li/ul/li[4]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68113" identifier="a4cc16033dc5325edf4e458d01d880ae" translate="no" approved="yes">
+        <source>Project</source>
+        <target>プロジェクト</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[10]/li/ul/li[4]/a</note>
+      </trans-unit>
+      <trans-unit id="68114" identifier="eac055435de3e348513a121c1b898d2b" translate="no">
+        <source>/courses/csintro/iteration/standards</source>
+        <target>/courses/csintro/iteration/standards</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[10]/li/ul/li[5]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68115" identifier="750355e581f6b265648d312f037e5b90" translate="no" approved="yes">
+        <source>Standards</source>
+        <target>CSTA標準</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[10]/li/ul/li[5]/a</note>
+      </trans-unit>
+      <trans-unit id="68116" identifier="9c0f7b8ba8cec3d5be2afaa3372d5ac4" translate="no" approved="yes">
+        <source>Mini-project</source>
+        <target>ミニプロジェクト</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[10]</note>
+      </trans-unit>
+      <trans-unit id="68117" identifier="6c3ca399b17c9367e3d417a439cae1b1" translate="no">
+        <source>/courses/csintro/miniproject</source>
+        <target>/courses/csintro/miniproject</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[11]/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68118" identifier="f00051c50879c50e3d8894c02cf97c03" translate="no" approved="yes">
+        <source>Mini-project</source>
+        <target>ミニプロジェクト</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[11]/li/a</note>
+      </trans-unit>
+      <trans-unit id="68119" identifier="1450350f32e50d50a4fbe55ed7b230d5" translate="no">
+        <source>/courses/csintro/miniproject/review</source>
+        <target>/courses/csintro/miniproject/review</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[11]/li/ul/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68120" identifier="c9abfea57677863fcc5bdfe7ebdc6c7c" translate="no" approved="yes">
+        <source>Review</source>
+        <target>これまでのまとめ</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[11]/li/ul/li/a</note>
+      </trans-unit>
+      <trans-unit id="68121" identifier="764c8171244d167010e6b147de36963a" translate="no">
+        <source>/courses/csintro/miniproject/activity</source>
+        <target>/courses/csintro/miniproject/activity</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[11]/li/ul/li[2]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68122" identifier="da672b8f7e8b3b994b5b83a390fc5c06" translate="no" approved="yes">
+        <source>Activity</source>
+        <target>アクティビティ</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[11]/li/ul/li[2]/a</note>
+      </trans-unit>
+      <trans-unit id="68123" identifier="63ea072239f7aec6a7d2245e22c42ae0" translate="no">
+        <source>/courses/csintro/miniproject/project</source>
+        <target>/courses/csintro/miniproject/project</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[11]/li/ul/li[3]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68124" identifier="183a00a29f6c3bd6fc2fb80327200562" translate="no" approved="yes">
+        <source>Project</source>
+        <target>プロジェクト</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[11]/li/ul/li[3]/a</note>
+      </trans-unit>
+      <trans-unit id="68125" identifier="76895c58ea34e876e263d4e0f71bf02d" translate="no">
+        <source>/courses/csintro/miniproject/standards</source>
+        <target>/courses/csintro/miniproject/standards</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[11]/li/ul/li[4]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68126" identifier="866df689b063d542e95cd2303a9d7907" translate="no" approved="yes">
+        <source>Standards</source>
+        <target>CSTA標準</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[11]/li/ul/li[4]/a</note>
+      </trans-unit>
+      <trans-unit id="68127" identifier="9c95e26d801a62fa634c09349e481408" approved="yes">
+        <source>Coordinates</source>
+        <target>座標</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[11]</note>
+      </trans-unit>
+      <trans-unit id="68128" identifier="34bc3e1db28e2b5a88625d3c35afba08" translate="no">
+        <source>/courses/csintro/coordinates</source>
+        <target>/courses/csintro/coordinates</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[12]/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68129" identifier="8b3af4fc83d9e19cec065cf1890465d8" translate="no" approved="yes">
+        <source>Coordinates</source>
+        <target>座標</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[12]/li/a</note>
+      </trans-unit>
+      <trans-unit id="68130" identifier="b4ad0a59ee5fce848157eabdb0219bd7" translate="no">
+        <source>/courses/csintro/coordinates/overview</source>
+        <target>/courses/csintro/coordinates/overview</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[12]/li/ul/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68131" identifier="e8ae3e248190531e2d369d0a58fb891f" translate="no" approved="yes">
+        <source>Overview</source>
+        <target>概要</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[12]/li/ul/li/a</note>
+      </trans-unit>
+      <trans-unit id="68132" identifier="dc7d17e6d8e0dd4977a4755f5e0e66fc" translate="no">
+        <source>/courses/csintro/coordinates/unplugged</source>
+        <target>/courses/csintro/coordinates/unplugged</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[12]/li/ul/li[2]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68133" identifier="074ad1f0b27c9de3f26682b789b3355f" translate="no" approved="yes">
+        <source>Unplugged</source>
+        <target>アンプラグド</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[12]/li/ul/li[2]/a</note>
+      </trans-unit>
+      <trans-unit id="68134" identifier="aa971a178ff582a78c0a30126b405384" translate="no">
+        <source>/courses/csintro/coordinates/activity</source>
+        <target>/courses/csintro/coordinates/activity</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[12]/li/ul/li[3]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68135" identifier="ec0dc335a8f8e0c3916ac875ed4b0a99" translate="no" approved="yes">
+        <source>Activity</source>
+        <target>アクティビティ</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[12]/li/ul/li[3]/a</note>
+      </trans-unit>
+      <trans-unit id="68136" identifier="5b6d99aff0ffb50e7f9c4a89fc80aeb7" translate="no">
+        <source>/courses/csintro/coordinates/project</source>
+        <target>/courses/csintro/coordinates/project</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[12]/li/ul/li[4]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68137" identifier="2bb6de2bf3247ab573b16d988de4f92d" translate="no" approved="yes">
+        <source>Project</source>
+        <target>プロジェクト</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[12]/li/ul/li[4]/a</note>
+      </trans-unit>
+      <trans-unit id="68138" identifier="0f6a208bce6b614f00b77bd2127a214e" translate="no">
+        <source>/courses/csintro/coordinates/standards</source>
+        <target>/courses/csintro/coordinates/standards</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[12]/li/ul/li[5]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68139" identifier="e370b0965424e2e649e71b6e30c9e56d" translate="no" approved="yes">
+        <source>Standards</source>
+        <target>CSTA標準</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[12]/li/ul/li[5]/a</note>
+      </trans-unit>
+      <trans-unit id="68140" identifier="645b11bf24f203a2c8470d258645b767" translate="no" approved="yes">
+        <source>Booleans</source>
+        <target>ブール値</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[12]</note>
+      </trans-unit>
+      <trans-unit id="68141" identifier="34be66c5e2d5773c2d313adb27ff0d63" translate="no">
+        <source>/courses/csintro/booleans</source>
+        <target>/courses/csintro/booleans</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[13]/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68142" identifier="177ceac8806b041082d7ac49f1d82a64" translate="no" approved="yes">
+        <source>Booleans</source>
+        <target>ブール値</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[13]/li/a</note>
+      </trans-unit>
+      <trans-unit id="68143" identifier="7de6a8a811b73ae6b9bba00532f4059e" translate="no">
+        <source>/courses/csintro/booleans/overview</source>
+        <target>/courses/csintro/booleans/overview</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[13]/li/ul/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68144" identifier="1ce961beaaea8b049e4d7e0d13021c56" translate="no" approved="yes">
+        <source>Overview</source>
+        <target>概要</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[13]/li/ul/li/a</note>
+      </trans-unit>
+      <trans-unit id="68145" identifier="05e0f9f5645b3db802c8f75c5b3fd731" translate="no">
+        <source>/courses/csintro/booleans/unplugged</source>
+        <target>/courses/csintro/booleans/unplugged</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[13]/li/ul/li[2]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68146" identifier="5bb2b433e14029124348d7de9fd91b10" translate="no" approved="yes">
+        <source>Unplugged</source>
+        <target>アンプラグド</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[13]/li/ul/li[2]/a</note>
+      </trans-unit>
+      <trans-unit id="68147" identifier="de7e5656ac95b13e8a14964174c085c5" translate="no">
+        <source>/courses/csintro/booleans/activity</source>
+        <target>/courses/csintro/booleans/activity</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[13]/li/ul/li[3]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68148" identifier="39ba21bf268466753d458c6d0757eee3" translate="no" approved="yes">
+        <source>Activity</source>
+        <target>アクティビティ</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[13]/li/ul/li[3]/a</note>
+      </trans-unit>
+      <trans-unit id="68149" identifier="4eeb912766285dff1ebd11841adbfa30" translate="no">
+        <source>/courses/csintro/booleans/project</source>
+        <target>/courses/csintro/booleans/project</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[13]/li/ul/li[4]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68150" identifier="da99d3c5a5b1c6db6d88701476a9d116" translate="no" approved="yes">
+        <source>Project</source>
+        <target>プロジェクト</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[13]/li/ul/li[4]/a</note>
+      </trans-unit>
+      <trans-unit id="68151" identifier="da50ed661d2501d29bb612e3340acc28" translate="no">
+        <source>/courses/csintro/booleans/standards</source>
+        <target>/courses/csintro/booleans/standards</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[13]/li/ul/li[5]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68152" identifier="f2404b57b3ea118401c2306a22483015" translate="no" approved="yes">
+        <source>Standards</source>
+        <target>CSTA標準</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[13]/li/ul/li[5]/a</note>
+      </trans-unit>
+      <trans-unit id="68153" identifier="41ef2b335c7f1404139ee57e9a6b6035" translate="no" approved="yes">
+        <source>Binary</source>
+        <target>2進法</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[13]</note>
+      </trans-unit>
+      <trans-unit id="68154" identifier="435f85eddd894ec87b389d50260c986b" translate="no">
+        <source>/courses/csintro/binary</source>
+        <target>/courses/csintro/binary</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[14]/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68155" identifier="609fb17a17e37ee17a2f83b6fcd2f6d0" translate="no" approved="yes">
+        <source>Binary</source>
+        <target>2進法</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[14]/li/a</note>
+      </trans-unit>
+      <trans-unit id="68156" identifier="b18c9f0ff74ce3abb5b0eb287f484f40" translate="no">
+        <source>/courses/csintro/binary/overview</source>
+        <target>/courses/csintro/binary/overview</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[14]/li/ul/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68157" identifier="a39a85840e7624d562656df621d6a9c7" translate="no" approved="yes">
+        <source>Overview</source>
+        <target>概要</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[14]/li/ul/li/a</note>
+      </trans-unit>
+      <trans-unit id="68158" identifier="b9224b0a108648bc04255470608da4a1" translate="no">
+        <source>/courses/csintro/binary/unplugged</source>
+        <target>/courses/csintro/binary/unplugged</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[14]/li/ul/li[2]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68159" identifier="9fa029667900047188d3ca57b0d85930" translate="no" approved="yes">
+        <source>Unplugged</source>
+        <target>アンプラグド</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[14]/li/ul/li[2]/a</note>
+      </trans-unit>
+      <trans-unit id="68160" identifier="8ceaf198f64d8c9a0cf77679d54db913" translate="no">
+        <source>/courses/csintro/binary/activity</source>
+        <target>/courses/csintro/binary/activity</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[14]/li/ul/li[3]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68161" identifier="4dc70f6ed882698f39f2744f557df09e" translate="no" approved="yes">
+        <source>Activity</source>
+        <target>アクティビティ</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[14]/li/ul/li[3]/a</note>
+      </trans-unit>
+      <trans-unit id="68162" identifier="a0ef79ca47da3ebaacdb3ab597bcdf4a" translate="no">
+        <source>/courses/csintro/binary/project</source>
+        <target>/courses/csintro/binary/project</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[14]/li/ul/li[4]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68163" identifier="022b545df7b39f5c0edb9927c4d6a39a" translate="no" approved="yes">
+        <source>Project</source>
+        <target>プロジェクト</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[14]/li/ul/li[4]/a</note>
+      </trans-unit>
+      <trans-unit id="68164" identifier="b281e57c8051fb8c20b8e09dd0e015f2" translate="no">
+        <source>/courses/csintro/binary/standards</source>
+        <target>/courses/csintro/binary/standards</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[14]/li/ul/li[5]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68165" identifier="29e39265a4fc930591bd65ffc14da9cd" translate="no" approved="yes">
+        <source>Standards</source>
+        <target>CSTA標準</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[14]/li/ul/li[5]/a</note>
+      </trans-unit>
+      <trans-unit id="68166" identifier="70da72f57100d29266a3c0bfc0939f2b" translate="no" approved="yes">
+        <source>Radio</source>
+        <target>無線</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[14]</note>
+      </trans-unit>
+      <trans-unit id="68167" identifier="5423661ed3fb2e06c93ddbfea4613b62" translate="no">
+        <source>/courses/csintro/radio</source>
+        <target>/courses/csintro/radio</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[15]/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68168" identifier="43e4a288643cc22e0912268751efa440" translate="no" approved="yes">
+        <source>Radio</source>
+        <target>無線</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[15]/li/a</note>
+      </trans-unit>
+      <trans-unit id="68169" identifier="e653c8b7152c843206e1da89bc6ee058" translate="no" approved="yes">
+        <source>/courses/csintro/radio/overview</source>
+        <target>/courses/csintro/algorithms/overview</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[15]/li/ul/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68170" identifier="2b9e9625dd93c9e5219c2cb8412cdf2d" translate="no" approved="yes">
+        <source>Overview</source>
+        <target>概要</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[15]/li/ul/li/a</note>
+      </trans-unit>
+      <trans-unit id="68171" identifier="0d0034a1839a7d6b8b182dfad83170e6" translate="no" approved="yes">
+        <source>/courses/csintro/radio/unplugged</source>
+        <target>/courses/csintro/algorithms/unplugged</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[15]/li/ul/li[2]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68172" identifier="d1e781796babb2ef1ba57468cc591ca4" translate="no" approved="yes">
+        <source>Unplugged</source>
+        <target>アンプラグド</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[15]/li/ul/li[2]/a</note>
+      </trans-unit>
+      <trans-unit id="68173" identifier="02160cc21f57d1456bbd0e2bb7d5d6e8" translate="no" approved="yes">
+        <source>/courses/csintro/radio/activity</source>
+        <target>/courses/csintro/algorithms/activity</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[15]/li/ul/li[3]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68174" identifier="9ab8313ac0b9b7e2e2b9c0116de27af0" translate="no" approved="yes">
+        <source>Activity</source>
+        <target>アクティビティ</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[15]/li/ul/li[3]/a</note>
+      </trans-unit>
+      <trans-unit id="68175" identifier="52606e0542a49b786f51aac938784c33" translate="no" approved="yes">
+        <source>/courses/csintro/radio/project</source>
+        <target>/courses/csintro/radio/project</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[15]/li/ul/li[4]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68176" identifier="54cb1ceb561bd5825519a301f20bbcab" translate="no" approved="yes">
+        <source>Project</source>
+        <target>プロジェクト</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[15]/li/ul/li[4]/a</note>
+      </trans-unit>
+      <trans-unit id="68177" identifier="37fba683c9df21be016f8b5327f36286" translate="no" approved="yes">
+        <source>/courses/csintro/radio/standards</source>
+        <target>/courses/csintro/radio/standards</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[15]/li/ul/li[5]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68178" identifier="34f4234dbcfd0770207aaf4b8fb1eb78" translate="no" approved="yes">
+        <source>Standards</source>
+        <target>CSTA標準</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[15]/li/ul/li[5]/a</note>
+      </trans-unit>
+      <trans-unit id="68179" identifier="e5f1fa0248b03dd29b6f46df18bef273" translate="no" approved="yes">
+        <source>Arrays</source>
+        <target>配列</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[15]</note>
+      </trans-unit>
+      <trans-unit id="68180" identifier="d5f590269d3469bc369861c32f7fbe4b" translate="no">
+        <source>/courses/csintro/arrays</source>
+        <target>/courses/csintro/arrays</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[16]/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68181" identifier="c8af1cb55577e4b46863465903d26904" translate="no" approved="yes">
+        <source>Arrays</source>
+        <target>配列</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[16]/li/a</note>
+      </trans-unit>
+      <trans-unit id="68182" identifier="289caf3f58efdb0400ea099383f03981" translate="no">
+        <source>/courses/csintro/arrays/overview</source>
+        <target state="translated">/courses/csintro/arrays/overview</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[16]/li/ul/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68183" identifier="2d20ce0c716d015a9151fa76227156f2" translate="no" approved="yes">
+        <source>Overview</source>
+        <target>概要</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[16]/li/ul/li/a</note>
+      </trans-unit>
+      <trans-unit id="68184" identifier="04338eefebcdb0726dc81e933a0acf5e" translate="no">
+        <source>/courses/csintro/arrays/unplugged</source>
+        <target state="translated">/courses/csintro/arrays/unplugged</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[16]/li/ul/li[2]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68185" identifier="5ab93d359b85dba51cd9d814c637888c" translate="no" approved="yes">
+        <source>Unplugged</source>
+        <target>アンプラグド</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[16]/li/ul/li[2]/a</note>
+      </trans-unit>
+      <trans-unit id="68186" identifier="d89117fdb49c8df454910feab6c43fb6" translate="no">
+        <source>/courses/csintro/arrays/activity</source>
+        <target state="translated">/courses/csintro/arrays/activity</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[16]/li/ul/li[3]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68187" identifier="38d7a502a48eb420bdba4fbac0185a99" translate="no" approved="yes">
+        <source>Activity</source>
+        <target>アクティビティ
+</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[16]/li/ul/li[3]/a</note>
+      </trans-unit>
+      <trans-unit id="68188" identifier="5bd0e75a0ad1d10071c2743c60cf3270" translate="no">
+        <source>/courses/csintro/arrays/project</source>
+        <target state="translated">/courses/csintro/arrays/project</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[16]/li/ul/li[4]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68189" identifier="d3a880a42503715abcfab9d73f7a8b03" translate="no" approved="yes">
+        <source>Project</source>
+        <target>プロジェクト</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[16]/li/ul/li[4]/a</note>
+      </trans-unit>
+      <trans-unit id="68190" identifier="62ff52d07707690f5595716f7e61fbe9" translate="no">
+        <source>/courses/csintro/arrays/standards</source>
+        <target state="translated">/courses/csintro/arrays/standards</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[16]/li/ul/li[5]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68191" identifier="c35bb8d78c0a14caf7a2ddf1d9f9e91d" translate="no" approved="yes">
+        <source>Standards</source>
+        <target>CSTA標準</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[16]/li/ul/li[5]/a</note>
+      </trans-unit>
+      <trans-unit id="68192" identifier="d59a036c878b777aa3df34e4e952ecb6" approved="yes">
+        <source>Final Project</source>
+        <target>プロジェクト</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[16]</note>
+      </trans-unit>
+      <trans-unit id="68193" identifier="55f7827cebedd15e791243ac331cddef" translate="no">
+        <source>/courses/csintro/finalproject</source>
+        <target>/courses/csintro/finalproject</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[17]/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68194" identifier="e935e2085a872a784f01a9f3355c4a5a" translate="no" approved="yes">
+        <source>Final Project</source>
+        <target>最終プロジェクト</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[17]/li/a</note>
+      </trans-unit>
+      <trans-unit id="68195" identifier="dc4f313ac8db4d775f3b80cd3c021a62" translate="no">
+        <source>/courses/csintro/finalproject/review</source>
+        <target>/courses/csintro/finalproject/review</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[17]/li/ul/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68196" identifier="83b47c5c72bf54c7c6e4cd03d673eacc" translate="no" approved="yes">
+        <source>Review</source>
+        <target>これまでのまとめ</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[17]/li/ul/li/a</note>
+      </trans-unit>
+      <trans-unit id="68197" identifier="b395a564f0f46531cdf6df6b10b5be88" translate="no">
+        <source>/courses/csintro/finalproject/project</source>
+        <target>/courses/csintro/finalproject/project</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[17]/li/ul/li[2]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68198" identifier="126c0d51f0c20c17b19cba6ab9f0019d" translate="no" approved="yes">
+        <source>Project</source>
+        <target>プロジェクト</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[17]/li/ul/li[2]/a</note>
+      </trans-unit>
+      <trans-unit id="68199" identifier="16e850c0cb7b5e4b523cc7d4e1563bd1" translate="no">
+        <source>/courses/csintro/finalproject/examples</source>
+        <target>/courses/csintro/finalproject/examples</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[17]/li/ul/li[3]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68200" identifier="222a89152b9c0557795cd50238e9081e" translate="no" approved="yes">
+        <source>Examples</source>
+        <target>プロジェクトの例</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[17]/li/ul/li[3]/a</note>
+      </trans-unit>
+      <trans-unit id="68201" identifier="d8ed1de6b77d9cc82f0bd705fe6d14bb" translate="no">
+        <source>/courses/csintro/finalproject/standards</source>
+        <target>/courses/csintro/finalproject/standards</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[17]/li/ul/li[4]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68202" identifier="b0374ef731e22e8ddafc3d33df9e1ec4" translate="no" approved="yes">
+        <source>Standards</source>
+        <target>CSTA標準</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[17]/li/ul/li[4]/a</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

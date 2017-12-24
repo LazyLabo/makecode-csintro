@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1828" original="/microbit/docs/courses/csintro/booleans.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="66004" identifier="7399acea141ed3e26fcb330294cabe26" approved="yes">
+        <source>Booleans</source>
+        <target>ブール値</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="66005" identifier="4bd681758eaad5ab4174ac35920183a3" translate="no" approved="yes">
+        <source>/static/courses/csintro/booleans/cover.jpeg</source>
+        <target>/static/courses/csintro/booleans/cover.jpeg</target>
+        <note>Context: Image Source&#13;
+XPath: /p/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66006" identifier="4901b643926439cc925f40ce9ade4d37" approved="yes">
+        <source>micro:bit Combo Box</source>
+        <target>micro:bit Combo Box</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="66007" identifier="e74280f0e247099ae6ac12755002098c" approved="yes">
+        <source>This lesson introduces the use of the boolean data type to control the flow of a program, keep track of state, and to include or exclude certain conditions.</source>
+        <target>このレッスンではブール型データの使い方を学びます。ブール型データを利用してプログラムの流れを制御する、状態をトラッキングする、特定の条件を含める・除外するといったプログラミングの基礎を学びます。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="66008" identifier="26dd08dfa013898b7cb6a1c7e90797c5" translate="no" approved="yes">
+        <source>Lesson objectives</source>
+        <target>このレッスンの目標</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="66009" identifier="e0817cf105df8d1ea187988749bf3fae" translate="no" approved="yes">
+        <source>Students will...</source>
+        <target>生徒は以下のことを学ぶことができます。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="66010" identifier="7183ab519d5dc10e23fe9aeda9429f30" approved="yes">
+        <source>Understand what booleans and boolean operators are, and why and when to use them in a program.</source>
+        <target>ブール値とブール演算子とは何か、どのような場面でどのように利用するかを理解します。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="66011" identifier="4593faf0b20c592dcb31b1786f5bf0e1" approved="yes">
+        <source>Learn how to create a boolean, set the boolean to an initial value, and change the value of the boolean within a micro:bit program.</source>
+        <target>ブール値の作成、ブール値に初期値を設定する、そしてブール値をmicro:bitプログラムで変更する方法を学びます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66012" identifier="1b6c7b3b1e4995c63b44552cfe4eb519" approved="yes">
+        <source>Learn how to use the random true or false block.</source>
+        <target>True または false の乱数ブロックを使用する方法を学びます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66013" identifier="649fbeb438ea78060849e1b52b607de6" approved="yes">
+        <source>Apply the above knowledge and skills to create a unique program that uses booleans and boolean operators as an integral part of the program.
+ </source>
+        <target>学習したことを活用して、ブール値とブール値を利用してプログラムの流れを制御する命令を活用したプログラムを作ります。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[4]</note>
+      </trans-unit>
+      <trans-unit id="66014" identifier="3838b64c42212f57cceceb308e203e82" translate="no" approved="yes">
+        <source>Lesson structure</source>
+        <target>学習の進め方</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="66015" identifier="f55f5705781c342798b2c2a65f59ead3" approved="yes">
+        <source>Introduction: Booleans in daily life</source>
+        <target>はじめに：日常生活でのブール値</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="66016" identifier="eae7a2b445ce6cdfeaa75db5c260ecfc" approved="yes">
+        <source>Unplugged Activity: Two Heads are Better Than One</source>
+        <target>アンプラグド: 一つより二つ</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66017" identifier="cd4572544a292a94c50103b30d8ed630" approved="yes">
+        <source>micro:bit Activity: Double Coin Flipper</source>
+        <target>micro:bitアクティビティ: 二重コイン フリッパー</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66018" identifier="6b482710a9ee5851764d7c8f76d09a6c" translate="no" approved="yes">
+        <source>Project: Boolean</source>
+        <target>プロジェクト: ブール値</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="66019" identifier="e6b6f3520b9a0354833d906648ec2446" translate="no" approved="yes">
+        <source>Assessment: Rubric</source>
+        <target>評価・評価のポイント</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[5]</note>
+      </trans-unit>
+      <trans-unit id="66020" identifier="b7ac2d948c789f2453cd825e3e498551" translate="no" approved="yes">
+        <source>Standards: Listed</source>
+        <target>CSTA基準一覧</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[6]</note>
+      </trans-unit>
+      <trans-unit id="66021" identifier="9cf1de56b81b7a97f6f15443f691e46e" translate="no" approved="yes">
+        <source>Lesson plan</source>
+        <target>学習プラン</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="66022" identifier="663676a2be35c444343755eadebc927c" translate="no">
+        <source>/courses/csintro/booleans/overview</source>
+        <target>/courses/csintro/booleans/overview</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="66023" identifier="6724d2bf88339541af67f551c27ef7d2" approved="yes">
+        <source>&lt;strong&gt;Overview&lt;/strong&gt;: Booleans</source>
+        <target>&lt;strong&gt;概要&lt;/strong&gt;: ブール値</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li/a</note>
+      </trans-unit>
+      <trans-unit id="66024" identifier="bbdb48838503912e1ec73f499390e5a5" translate="no">
+        <source>/courses/csintro/booleans/unplugged</source>
+        <target>/courses/csintro/booleans/unplugged</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[2]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="66025" identifier="a1bfeed4de9a85cbbb86228aa43d4301" approved="yes">
+        <source>&lt;strong&gt;Unplugged&lt;/strong&gt;: Two heads are better than one</source>
+        <target>&lt;strong&gt;アンプラグド&lt;/strong&gt;: 一つより二つ</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[2]/a</note>
+      </trans-unit>
+      <trans-unit id="66026" identifier="cb3dbe3db5a11cd0da155a9598cea44b" translate="no">
+        <source>/courses/csintro/booleans/activity</source>
+        <target>/courses/csintro/booleans/activity</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[3]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="66027" identifier="8e990d0ab7c61919567f0d2d1703208c" approved="yes">
+        <source>&lt;strong&gt;Activity&lt;/strong&gt;: Double coin flipper</source>
+        <target>&lt;strong&gt;アクティビティ&lt;/strong&gt;: 二重コイン フリッパー</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[3]/a</note>
+      </trans-unit>
+      <trans-unit id="66028" identifier="5961574840442e534249eda7e6cc5408" translate="no">
+        <source>/courses/csintro/booleans/project</source>
+        <target>/courses/csintro/booleans/project</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[4]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="66029" identifier="7732674a40d92c4a32b50a1de3e0c9c4" approved="yes">
+        <source>&lt;strong&gt;Project&lt;/strong&gt;: Boolean</source>
+        <target>&lt;strong&gt;プロジェクト&lt;/strong&gt;: ブール値</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[4]/a</note>
+      </trans-unit>
+      <trans-unit id="66030" identifier="6200381ea0a764cd6263f01538849fbb" translate="no" approved="yes">
+        <source>Related standards</source>
+        <target>関連する教育標準</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[4]</note>
+      </trans-unit>
+      <trans-unit id="66031" identifier="8970e9ba4845543901c17d41692a5571" translate="no">
+        <source>/courses/csintro/booleans/standards</source>
+        <target>/courses/csintro/booleans/standards</target>
+        <note>Context: Link Resource&#13;
+XPath: /p[4]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="66032" identifier="5108ff4fa493ada8902180e847693101" translate="no" approved="yes">
+        <source>Targeted CSTA standards</source>
+        <target>CSTA標準</target>
+        <note>Context: Anchor Link&#13;
+XPath: /p[4]/a</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

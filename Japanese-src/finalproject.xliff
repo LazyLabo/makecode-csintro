@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1848" original="/microbit/docs/courses/csintro/finalproject.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="66720" identifier="8f2ce28e827cced91f8d6e38405d0425" translate="no" approved="yes">
+        <source>Final project</source>
+        <target>最終プロジェクト</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="66721" identifier="70870707dc0cbc04f10af57605df88b2" translate="no" approved="yes">
+        <source>/static/courses/csintro/conditionals/microbit-holder.jpg</source>
+        <target>/static/courses/csintro/conditionals/microbit-holder.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66722" identifier="286dfcba7c8fb8d57ea2a0d5751369d1" translate="no" approved="yes">
+        <source>micro:bit holder square</source>
+        <target>micro:bit holder square</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="66723" identifier="0b6c46645b0e11d535ea5313bebac509" approved="yes">
+        <source>In this unit, we will be reviewing the concepts we covered in the previous weeks, and providing some ideas for an independent final project that students can focus on in the next several weeks.</source>
+        <target>この最終プロジェクトではミニプロジェクト終了後のクラスで学んだことを復習し、さらにいくつかのアイデアを提示しながら数回にわたって最終プロジェクトに取り組みます。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="66724" identifier="1063cc5d02d62462cbabf794d08d6b52" approved="yes">
+        <source>We will also provide a rubric for keeping students on task and tracking the learning that they are doing as they work on their projects.</source>
+        <target>さらに生徒がプロジェクトに注力し、これまで学習したことが適用されているかどうかを確認するためのポイントも提供します。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="66725" identifier="3eac190d7875a76263708d0906968fb9" approved="yes">
+        <source>This is an expanded version of the process students followed in the &lt;a href=&quot;/courses/csintro/miniproject&quot;&gt;Mini-Project&lt;/a&gt;, in Lesson 6.</source>
+        <target>最終プロジェクトは”ミニプロジェクト”の拡張版です。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="66726" identifier="6dfa4747cb6a24f834c8101c900cbaf6" approved="yes">
+        <source>Students are asked to create an independent project that demonstrates the use of something they have already learned, something they went out and researched for themselves, something they borrowed from somewhere else (with citations) and something completely original.</source>
+        <target>最終プロジェクトではそれぞれの生徒が独立したプロジェクトを行います。これまでに学習したこと、さらに生徒自身が自習した成果、参考にしたものや、生徒オリジナルのアイデアを活用します。</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="66727" identifier="d04d9542ec62c876e02d87125a3bd382" approved="yes">
+        <source>They are also asked to document their learning process throughout the next couple of weeks using an independent project framework that emphasizes metacognitive development and process-oriented work.</source>
+        <target>さらにこのプロジェクトでは、生徒一人ひとりに対して、自身が学習したプロセス、どのようにしたプロジェクトのフレームワークを活用したかを文書としてまとめてもらいます。</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="66728" identifier="74ee8ca2861c6787b1a065f96e03b791" translate="no" approved="yes">
+        <source>Lesson plan</source>
+        <target>学習プラン</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="66729" identifier="329c6d6831a067cda6f61acdb727a6e7" translate="no">
+        <source>/courses/csintro/finalproject/review</source>
+        <target>/courses/csintro/finalproject/review</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="66730" identifier="094b20b2a20fbeaa6c1992e44676eee7" approved="yes">
+        <source>&lt;strong&gt;Review&lt;/strong&gt;: Review of lessons 7 - 11</source>
+        <target>&lt;strong&gt;レビュー&lt;/strong&gt;: レッスン 7 - 11までの復習 </target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li/a</note>
+      </trans-unit>
+      <trans-unit id="66731" identifier="c015456cfd16431d3b86db41c7c26933" translate="no">
+        <source>/courses/csintro/finalproject/project</source>
+        <target>/courses/csintro/finalproject/project</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[2]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="66732" identifier="f1df84ed888825fe093827f14872c5f3" approved="yes">
+        <source>&lt;strong&gt;Final project&lt;/strong&gt;: Project goals and guidelines</source>
+        <target>&lt;strong&gt;最終プロジェクト&lt;/strong&gt;: プロジェクトのゴールとガイドライン</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[2]/a</note>
+      </trans-unit>
+      <trans-unit id="66733" identifier="f46793caeb4c0c49580da55fe7c2548f" translate="no">
+        <source>/courses/csintro/finalproject/examples</source>
+        <target>/courses/csintro/finalproject/examples</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[3]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="66734" identifier="3b0a9dbca3756b44c3f932265d0db96c" approved="yes">
+        <source>&lt;strong&gt;Examples&lt;/strong&gt;: Final project examples</source>
+        <target>&lt;strong&gt;例&lt;/strong&gt;: 最終プロジェクトの例</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[3]/a</note>
+      </trans-unit>
+      <trans-unit id="66735" identifier="cecf750dfcd6f8c6839a962dce95383a" translate="no" approved="yes">
+        <source>Related standards</source>
+        <target>関連する教育標準</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="66736" identifier="378b33c6fd517f10c817ecc6ce83844c" translate="no">
+        <source>/courses/csintro/finalproject/standards</source>
+        <target>/courses/csintro/finalproject/standards</target>
+        <note>Context: Link Resource&#13;
+XPath: /p[4]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="66737" identifier="5108ff4fa493ada8902180e847693101" translate="no" approved="yes">
+        <source>Targeted CSTA standards</source>
+        <target>CSTA標準</target>
+        <note>Context: Anchor Link&#13;
+XPath: /p[4]/a</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

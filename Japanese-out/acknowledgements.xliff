@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1800" original="/microbit/docs/courses/csintro/acknowledgements.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="63943" identifier="fa478b3d4cbe7a1d2e6d578bc859c61e" approved="yes">
+        <source>Acknowledgements</source>
+        <target>謝辞</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="63944" identifier="57fcfd0ce15b1ef98cfac833e1a3781c" approved="yes">
+        <source>Many thanks to the following individuals who helped to make this guide possible.</source>
+        <target>このガイドをつくるにあたってサポートしていただいた以下の方々に感謝します。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="63945" identifier="986e817c4364bdcc469604426a36b099" approved="yes">
+        <source>Thank you to the many students who contributed their energy, creativity, and passion to bring so many of these wonderful examples to life.</source>
+        <target>たくさんの学生、生徒がエネルギー、限りない創造性、そしてパッションを注いでくれました。ありがとう！</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="63946" identifier="ae9d46e64a254c407882185200df8680" approved="yes">
+        <source>Thank you to Microsoft and to the Micro:bit Foundation for their support of our work.</source>
+        <target>マイクロソフト、並びにマイクロ:ビットファンデーションのサポートに感謝します。</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="63947" identifier="d8b8324cae0694dfedbb91eaf59a03ac" approved="yes">
+        <source>Thank you, as well, to George Saltsman of Lamar University for his original encouragement and support of this project.</source>
+        <target>そして我々を勇気づけ、そしてサポートしてくれたラマー大学のジョージザルツマンにも。</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="70261" identifier="709c4002e0f4930aeb3f7000def9bc04" approved="yes">
+        <source>Thank you as well to Peli de Halleux for his advice on all sorts of programming questions, as well as for the wonderful &lt;a href=&quot;/projects/infection&quot;&gt;Infection&lt;/a&gt; simulation that he created just for this guide.</source>
+        <target>ペリ・ド・ハレックスはさまざまなアドバイス、プログラミングに関する質問、そして、彼はこのガイドのために素晴らしい”infection&quot;シミュレーションを作ってくれました。ありがとう。</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="63949" identifier="3f161ae22534625af4d6f0482a35c2ba" approved="yes">
+        <source>Sam El-Husseini, your advice and wise counsel was instrumental in shaping the format of this book.</source>
+        <target>サム・エル-フセイニ、このガイドを作るにあたっての様々な助言とアドバイスに感謝します。</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="70262" identifier="b455780e02926bd646cc235de8032ddf" approved="yes">
+        <source>Richard Knoll, we are so grateful for your help with the &lt;a href=&quot;/courses/csintro/arrays&quot;&gt;Arrays&lt;/a&gt; chapter and the &lt;a href=&quot;/courses/csintro/arrays/project#song-maker&quot;&gt;Song-maker&lt;/a&gt; example.</source>
+        <target>リチャード・ノール、配列レッスンの例 - ソングメーカーを作るサポートをしてくれてありがとう。</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="63951" identifier="9e17d644a8b5804452d54c90b12dbed2" approved="yes">
+        <source>Galen Nickel, thank you for polishing and formatting our work to look good on the web.</source>
+        <target>ガレン・ニケル、コンテンツをWeb上に掲載するにあたってのあなたのサポートに感謝します。</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="63952" identifier="b68affd617e0fa35ab0cb268a08ce53b" approved="yes">
+        <source>To Guillaume, Tom, Brahma, and the entire Microsoft MakeCode team, your caring and support meant so much to our students this year.</source>
+        <target>ギラウメ、トム、ブラマ、そしてマイクロソフト Make Codeチームのすべての皆さん、あなた方の学生に対するサポートは特筆すべきものでした。</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="63953" identifier="c1ed12eafe3301b8665df8f71e15f119" approved="yes">
+        <source>Thank you!</source>
+        <target>ありがとう！</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="63954" identifier="27ce203d440a96005513f6f222a71df1" approved="yes">
+        <source>Above all, our sincere thanks to Jacqueline Russell, Project Lead at Microsoft MakeCode. Your patience, advice, and innumerable suggestions and assistance made this curriculum possible.</source>
+        <target>そして最後に、このプロジェクトをリードしてくれたマイクロソフト Make Codeのジャクリーヌ・ラッセル、あなたのサポートなしではこのプロジェクトは成しえませんでした。本当にありがとう。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="63955" identifier="5d4828d26518b6b2593dc4d219118c40" approved="yes">
+        <source>Douglas and Mary.</source>
+        <target>ダグラス、メアリー</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[6]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

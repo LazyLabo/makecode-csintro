@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1814" original="/microbit/docs/courses/csintro/arrays.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="64797" identifier="daa50381d03a14cde029b7f77aa69251" translate="no" approved="yes">
+        <source>Arrays</source>
+        <target>配列</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="64798" identifier="e2f28365377190780adcbda2ba5784db" translate="no" approved="yes">
+        <source>/static/courses/csintro/arrays/cover.jpg</source>
+        <target>/static/courses/csintro/arrays/cover.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="64799" identifier="b41a383b29ea4b76b7806632a97c52ad" approved="yes">
+        <source>Cover image</source>
+        <target>Cover image</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="64800" identifier="e2c696c2176f605da3537937cd846a14" approved="yes">
+        <source>This lesson introduces the fundamental concept of storing and retrieving data in an ordered fashion using Arrays.</source>
+        <target>このレッスンでは配列を使ってデータを格納したり取得したりするための基本的な操作を学習します。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="64801" identifier="56629b431049066e83fa915ba917dde3" approved="yes">
+        <source>We'll also look at JavaScript as an alternate way of creating and modifying code.</source>
+        <target>また、JavaScriptを使ったプログラミングもここで学習します。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="64802" identifier="705c54817ba356ff0690d9ed4337fb12">
+        <source>We'll look at the structure of a Melody as a list of notes.</source>
+        <target state="needs-translation">We'll look at the structure of a Melody as a list of notes.</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="64803" identifier="593ddd47136bafe3caa7b1cbd1be2930" translate="no">
+        <source> </source>
+        <target state="translated"> </target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="64804" identifier="26dd08dfa013898b7cb6a1c7e90797c5" translate="no" approved="yes">
+        <source>Lesson objectives</source>
+        <target>このレッスンの目標</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="64805" identifier="e0817cf105df8d1ea187988749bf3fae" translate="no" approved="yes">
+        <source>Students will...</source>
+        <target>生徒は以下のことを学ぶことができます。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="64806" identifier="490dc601bb4e0af068808cc7f5df3c20" approved="yes">
+        <source>Explain the steps they would take to sort a series of numbers.</source>
+        <target>一連の数字を並べ替える方法とそのステップを学習します。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="64807" identifier="a77a5859c4357f101720fbaf6988d5fe" approved="yes">
+        <source>Recognize three common sorting algorithms.</source>
+        <target>三つの基本的なソートアルゴリズムを見分ける。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64808" identifier="0b5ad5143440aac3dae0f2491c91b3fc" approved="yes">
+        <source>Practice creating Arrays.</source>
+        <target>配列を作る練習をする。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="64809" identifier="569bd615f9648dcfd8b5cd1be625bbf9" approved="yes">
+        <source>Practice storing and retrieving values in Arrays.</source>
+        <target>配列にデータを格納したり取得したりする練習をする。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[4]</note>
+      </trans-unit>
+      <trans-unit id="64810" identifier="1a703ce34356cd36d46b6bc1911527cc" approved="yes">
+        <source>Learn common Array operations such as setting and getting values by index.</source>
+        <target>インデックスを利用してデータを格納、取得する方法を学ぶ。
+</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[5]</note>
+      </trans-unit>
+      <trans-unit id="64811" identifier="540c73f0bf10e2dab3337f1563fdf74d" approved="yes">
+        <source>Demonstrate understanding and apply skills by creating a musical instrument that uses a micro:bit and a program that correctly and effectively uses Arrays to store data.
+ </source>
+        <target>配列を使ってデータを適切に格納、利用する応用として、micro:bit上で楽器を作成する。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[6]</note>
+      </trans-unit>
+      <trans-unit id="64812" identifier="3838b64c42212f57cceceb308e203e82" approved="yes">
+        <source>Lesson structure</source>
+        <target>学習の進め方</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="64813" identifier="0c2ef4e70dff96f90066d42dd48d0495" approved="yes">
+        <source>Introduction: Arrays</source>
+        <target>はじめに：配列とは。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="64814" identifier="01479277c54c55a58c3bbc28bf72a10d" approved="yes">
+        <source>Unplugged Activity: Different sorts of people</source>
+        <target>アンプラグドアクティビティ：違う種類の人たち</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64815" identifier="d81964533dd65f50436ee52d1f709bc6" approved="yes">
+        <source>micro:bit Activity: Headband charades, Starry Starry Night</source>
+        <target>micro:bitアクティビティ: headband charades, 星降る夜</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="64816" identifier="9813dbfc7947de1ec241b51cfc5ee847" approved="yes">
+        <source>Project: Make a musical instrument</source>
+        <target>プロジェクト：楽器を作ろう。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="64817" identifier="e6b6f3520b9a0354833d906648ec2446" approved="yes">
+        <source>Assessment: Rubric</source>
+        <target>評価・評価のポイント</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[5]</note>
+      </trans-unit>
+      <trans-unit id="64818" identifier="98aac7a9b602420d3ade65dd3b9e39b6" approved="yes">
+        <source>Standards: Listed
+ </source>
+        <target>CSTA基準一覧</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[6]</note>
+      </trans-unit>
+      <trans-unit id="64819" identifier="9cf1de56b81b7a97f6f15443f691e46e" translate="no" approved="yes">
+        <source>Lesson plan</source>
+        <target>学習プラン</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="64820" identifier="50abafd2aecdd9ccac8c1138f39f2802" translate="no">
+        <source>/courses/csintro/arrays/overview</source>
+        <target state="translated">/courses/csintro/arrays/overview</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="64821" identifier="4164e2bd677213d62983281adde0f7f2" approved="yes">
+        <source>&lt;strong&gt;Overview&lt;/strong&gt;: Arrays</source>
+        <target>はじめに：配列</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li/a</note>
+      </trans-unit>
+      <trans-unit id="64822" identifier="92d624ce6ce275e820faafb40ac74027" translate="no">
+        <source>/courses/csintro/arrays/unplugged</source>
+        <target state="translated">/courses/csintro/arrays/unplugged</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[2]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="64823" identifier="4c7503e37d63fe4b9efac23a504feeda" approved="yes">
+        <source>&lt;strong&gt;Unplugged&lt;/strong&gt;: Different sorts of people</source>
+        <target>&lt;strong&gt;アンプラグド&lt;/strong&gt;: 違う種類の人たち</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[2]/a</note>
+      </trans-unit>
+      <trans-unit id="64824" identifier="66cce95022aecc9749573f561c1d1877" translate="no">
+        <source>/courses/csintro/arrays/activity</source>
+        <target state="translated">/courses/csintro/arrays/activity</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[3]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="64825" identifier="1e665c4b761402891f53934d55688a9b" approved="yes">
+        <source>&lt;strong&gt;Activity&lt;/strong&gt;: Headband charades</source>
+        <target>&lt;strong&gt;アクティビティ&lt;/strong&gt;: Headband Charades </target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[3]/a</note>
+      </trans-unit>
+      <trans-unit id="64826" identifier="c1ef8964261ce8129621911b9705d1b2" translate="no">
+        <source>/courses/csintro/arrays/project</source>
+        <target state="translated">/courses/csintro/arrays/project</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[4]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="64827" identifier="cfe120c3eb1d2ad3467c3d750ec85542" approved="yes">
+        <source>&lt;strong&gt;Project&lt;/strong&gt;: Musical instrument</source>
+        <target>&lt;strong&gt;プロジェクト&lt;/strong&gt;: 楽器 </target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[4]/a</note>
+      </trans-unit>
+      <trans-unit id="64828" identifier="6200381ea0a764cd6263f01538849fbb" translate="no" approved="yes">
+        <source>Related standards</source>
+        <target>関連する教育標準</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[4]</note>
+      </trans-unit>
+      <trans-unit id="64829" identifier="ed876b0f7b978086e929e3b85ade7ac6" translate="no">
+        <source>/courses/csintro/arrays/standards</source>
+        <target state="translated">/courses/csintro/arrays/standards</target>
+        <note>Context: Link Resource&#13;
+XPath: /p[4]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="64830" identifier="5108ff4fa493ada8902180e847693101" translate="no" approved="yes">
+        <source>Targeted CSTA standards</source>
+        <target>CSTA標準</target>
+        <note>Context: Anchor Link&#13;
+XPath: /p[4]/a</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

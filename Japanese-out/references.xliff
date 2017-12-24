@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1877" original="/microbit/docs/courses/csintro/references.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="67988" identifier="f7aa8623c38563871259ab99a5495c8d" translate="no" approved="yes">
+        <source>References</source>
+        <target>参考資料</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="67989" identifier="828f94e64c0c88f5b6ca4a85298b564b" approved="yes">
+        <source>We have included some additional reference books and materials if you are interested in learning more about the maker mindset.</source>
+        <target>もしメイカー・マインドセットに興味があったらここにある参考資料にぜひ目を通してみてください。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="67990" identifier="d2941e11bbb972c83fcf988024f81e67" approved="yes">
+        <source>Maker Education, Physical Computing or Design Thinking in the Classroom</source>
+        <target>クラスルームにおけるメイカー教育、フィジカル・コンピューティング、そしてデザイン・シンキング</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="70409" identifier="0a494673301fa3891dc5b0cf6a67c4ca" translate="no" approved="yes">
+        <source>http://inventtolearn.com/</source>
+        <target>http://inventtolearn.com/</target>
+        <note>Context: Link Resource&#13;
+XPath: /h3/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="70410" identifier="b8316a7847103fe4c86ed451140e6527" approved="yes">
+        <source>Invent To Learn</source>
+        <target>Invent To Learn</target>
+        <note>Context: Anchor Link&#13;
+XPath: /h3/a</note>
+      </trans-unit>
+      <trans-unit id="70411" identifier="d4295dc45e66b206c677f1983d695719" approved="yes">
+        <source>by &lt;strong&gt;Sylvia Libow Martinez and Gary Stager&lt;/strong&gt;</source>
+        <target>by &lt;strong&gt;Sylvia Libow Martinez and Gary Stager&lt;/strong&gt;</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="70412" identifier="f105a335300548223d7c99be6fa1a0c9" approved="yes">
+        <source>Making, Tinkering, and Engineering in the Classroom</source>
+        <target>作って試して、技術・エンジニアリング教育の実践。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="70413" identifier="1b6c0468f086c84e8543a56455c1a0a2" translate="no" approved="yes">
+        <source>http://inventtolearn.com/</source>
+        <target>http://inventtolearn.com/</target>
+        <note>Context: Link Resource&#13;
+XPath: /p[4]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="70414" identifier="aed20b44e041e87ac9ac008b3c120e72" translate="no" approved="yes">
+        <source>/static/courses/csintro/references/invent-to-learn.jpg</source>
+        <target>/static/courses/csintro/references/invent-to-learn.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p[4]/a/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="70415" identifier="51a50481b9621725a76646a545ffee22" approved="yes">
+        <source>Invent to Learn Book Cover</source>
+        <target>Invent to Learn Book Cover</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[4]/a/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="70416" identifier="c5a2cf5afc68fd237dd23704c5449392" translate="no" approved="yes">
+        <source>http://thelaunchcycle.com/</source>
+        <target>http://thelaunchcycle.com/</target>
+        <note>Context: Link Resource&#13;
+XPath: /h3[2]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="70417" identifier="fe5093647767dd705bc0b83f6315d4f2" approved="yes">
+        <source>Launch</source>
+        <target>Launch</target>
+        <note>Context: Anchor Link&#13;
+XPath: /h3[2]/a</note>
+      </trans-unit>
+      <trans-unit id="70418" identifier="2db1b9ceccd822dbacbfd4b08342a8b9" approved="yes">
+        <source>by &lt;strong&gt;John Spencer and AJ Juliani&lt;/strong&gt;</source>
+        <target>by &lt;strong&gt;John Spencer and AJ Juliani&lt;/strong&gt;</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="70419" identifier="82402d00461b25e8c7e42069567c62c7" approved="yes">
+        <source>Using Design Thinking to Boost Creativity and Bring Out the Maker in Every Student</source>
+        <target>生徒の創造性とモノをつくる能力を引き出すためのデザイン・シンキングの使い方。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="70420" identifier="4af0e752c5d6e370e04fe1cdaac3111d" translate="no" approved="yes">
+        <source>http://thelaunchcycle.com/</source>
+        <target>http://thelaunchcycle.com/</target>
+        <note>Context: Link Resource&#13;
+XPath: /p[7]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="70421" identifier="57785b538de3c7ce67c5d7b181b2ba74" translate="no" approved="yes">
+        <source>/static/courses/csintro/references/launch.jpg</source>
+        <target>/static/courses/csintro/references/launch.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p[7]/a/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="70422" identifier="3df4efa01a7ee981abb18cc36fc73a44" approved="yes">
+        <source>Launch Book Cover</source>
+        <target>Launch Book Cover</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[7]/a/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="70423" identifier="ca4dd49f7cab7eaaf3574688173aa435" translate="no" approved="yes">
+        <source>http://georgecouros.ca/blog/archives/5715</source>
+        <target>http://georgecouros.ca/blog/archives/5715</target>
+        <note>Context: Link Resource&#13;
+XPath: /h3[3]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="70424" identifier="2ff204cc47f1790b213879ac9107f232" approved="yes">
+        <source>The Innovator's Mindset</source>
+        <target>The Innovator's Mindset</target>
+        <note>Context: Anchor Link&#13;
+XPath: /h3[3]/a</note>
+      </trans-unit>
+      <trans-unit id="70425" identifier="2da063b8dc7e566d6b828defd69906f0" approved="yes">
+        <source>by &lt;strong&gt;George Couros&lt;/strong&gt;</source>
+        <target>by &lt;strong&gt;George Couros&lt;/strong&gt;</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="70426" identifier="2497948f1e7e690e2399598f6d93a9d8" approved="yes">
+        <source>Empower Learning, Unleash Talent, and Lead a Culture of Creativity</source>
+        <target>学習効果を高める、潜在能力を引き出し、そして創造の文化を創り出す。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="70427" identifier="0a9f0a578182786c180a0c252715bca7" translate="no" approved="yes">
+        <source>http://georgecouros.ca/blog/archives/5715</source>
+        <target>http://georgecouros.ca/blog/archives/5715</target>
+        <note>Context: Link Resource&#13;
+XPath: /p[10]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="70428" identifier="a58e2b14f07dbb872b6a6646be9eb6c0" translate="no" approved="yes">
+        <source>/static/courses/csintro/references/innovators-mindset.jpg</source>
+        <target>/static/courses/csintro/references/innovators-mindset.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p[10]/a/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="70429" identifier="3bd271dd04555025b7e4bb234f53dfb1" approved="yes">
+        <source>Innovator's Mindset Book Cover</source>
+        <target>Innovator's Mindset Book Cover</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[10]/a/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="70430" identifier="f69eaefb6a176be3147beefd300d8862" translate="no" approved="yes">
+        <source>https://colleengraves.org/bigmakerbook/</source>
+        <target>https://colleengraves.org/bigmakerbook/</target>
+        <note>Context: Link Resource&#13;
+XPath: /h3[4]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="70431" identifier="ee5d002ab47db11cfbac0297b88d3372" approved="yes">
+        <source>The Big Book of Makerspace Projects</source>
+        <target>The Big Book of Makerspace Projects</target>
+        <note>Context: Anchor Link&#13;
+XPath: /h3[4]/a</note>
+      </trans-unit>
+      <trans-unit id="70432" identifier="5ad551a1af99b4823b8f3c802adaca36" approved="yes">
+        <source>by &lt;strong&gt;Colleen Graves&lt;/strong&gt;</source>
+        <target>by &lt;strong&gt;Colleen Graves&lt;/strong&gt;</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="70433" identifier="78b527a90751dbe92ade2e8043a6a6f5" approved="yes">
+        <source>Inspiring Makers to Experiment, Create, and Learn</source>
+        <target>試して、作って、学ぶ。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="77411" identifier="b0e7ce33126f1c0a80851d5c5ad6c9be" translate="no" approved="yes">
+        <source>https://colleengraves.org/bigmakerbook/</source>
+        <target>https://colleengraves.org/bigmakerbook/</target>
+        <note>Context: Link Resource&#13;
+XPath: /p[13]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="77412" identifier="8483dfaf87365b1a42df36cf8d8b3893" translate="no" approved="yes">
+        <source>/static/courses/csintro/references/makerspace-projects.jpg</source>
+        <target>/static/courses/csintro/references/makerspace-projects.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p[13]/a/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="77413" identifier="7ab6ca9252eaca77d015e03225c9c625" approved="yes">
+        <source>Makerspace Projects Book Cover</source>
+        <target>Makerspace Projects Book Cover</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[13]/a/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="68011" identifier="a2986768ddf65dffae081f6d1417c3ca" approved="yes">
+        <source>Code and Computational Thinking</source>
+        <target>コード、コンピュテーショナル思考</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="70436" identifier="cad735b2987c3fd1a8326dfeadd773a0" translate="no" approved="yes">
+        <source>http://www.charlespetzold.com/code/</source>
+        <target>http://www.charlespetzold.com/code/</target>
+        <note>Context: Link Resource&#13;
+XPath: /h3[5]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="70437" identifier="75d10139eb82de73b33d60ec38824725" translate="no" approved="yes">
+        <source>Code</source>
+        <target>Code</target>
+        <note>Context: Anchor Link&#13;
+XPath: /h3[5]/a</note>
+      </trans-unit>
+      <trans-unit id="70438" identifier="aa7b6920dce9a21dd78b7b67760e950e" approved="yes">
+        <source>by &lt;strong&gt;Charles Petzold&lt;/strong&gt;</source>
+        <target>by &lt;strong&gt;Charles Petzold&lt;/strong&gt;</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[14]</note>
+      </trans-unit>
+      <trans-unit id="70439" identifier="894774936724e671cc0efcf8ed89a8ef" approved="yes">
+        <source>The Hidden Language of Computer Hardware and Software</source>
+        <target>コンピュータハードウェアとソフトウェアの隠れた言語を学ぶ。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[15]</note>
+      </trans-unit>
+      <trans-unit id="70440" identifier="3dd9d8998351d62f905db1955a76dbd1" translate="no" approved="yes">
+        <source>http://www.charlespetzold.com/code/</source>
+        <target>http://www.charlespetzold.com/code/</target>
+        <note>Context: Link Resource&#13;
+XPath: /p[16]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="70441" identifier="ef9d520e8fb1c948318f8c958cdc0b57" translate="no" approved="yes">
+        <source>/static/courses/csintro/references/code.jpg</source>
+        <target>/static/courses/csintro/references/code.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p[16]/a/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="70442" identifier="2cd6cf56d25c03bd33254dec9aef4a4a" approved="yes">
+        <source>Code Book Cover</source>
+        <target>Code Book Cover</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[16]/a/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="70443" identifier="9a49de9431c6cc2241dcc2371eb217a1" translate="no" approved="yes">
+        <source>https://www.girlcodethebook.com/</source>
+        <target>https://www.girlcodethebook.com/</target>
+        <note>Context: Link Resource&#13;
+XPath: /h3[6]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="70444" identifier="df1757b40a59a39774a7f18e9b9e1625" approved="yes">
+        <source>Girl Code</source>
+        <target>Girl Code</target>
+        <note>Context: Anchor Link&#13;
+XPath: /h3[6]/a</note>
+      </trans-unit>
+      <trans-unit id="70445" identifier="b341b20658e5be71a2a10097a8f18eeb" approved="yes">
+        <source>by &lt;strong&gt;Andy Gonzales and Sophie Houser&lt;/strong&gt;</source>
+        <target>by &lt;strong&gt;Andy Gonzales and Sophie Houser&lt;/strong&gt;</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[17]</note>
+      </trans-unit>
+      <trans-unit id="70446" identifier="27e72d2846ceec3bd2b3143b3369805e" approved="yes">
+        <source>Gaming, Going Viral, and Getting it Done</source>
+        <target>Gaming, Going Viral, and Getting it Done</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[18]</note>
+      </trans-unit>
+      <trans-unit id="70447" identifier="1ed26c03a5f35c1c2eca111daf652804" translate="no" approved="yes">
+        <source>https://www.girlcodethebook.com/</source>
+        <target>https://www.girlcodethebook.com/</target>
+        <note>Context: Link Resource&#13;
+XPath: /p[19]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="70448" identifier="5b0aab1370c8a3865d286f17b627e5ca" translate="no" approved="yes">
+        <source>/static/courses/csintro/references/girl-code.jpg</source>
+        <target>/static/courses/csintro/references/girl-code.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p[19]/a/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="70449" identifier="b82050f7580c7afbaf3cb8c8b97d18e4" approved="yes">
+        <source>Girl Code Book Cover</source>
+        <target>Girl Code Book Cover</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[19]/a/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="70450" identifier="3f67cd9cafe0dee11df85b1f4a062af5" translate="no" approved="yes">
+        <source>http://www.secret-coders.com/</source>
+        <target>http://www.secret-coders.com/</target>
+        <note>Context: Link Resource&#13;
+XPath: /h3[7]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="70451" identifier="551cc8798065ce9ee19bc213eb90efbc" approved="yes">
+        <source>Secret Coders</source>
+        <target>Secret Coders</target>
+        <note>Context: Anchor Link&#13;
+XPath: /h3[7]/a</note>
+      </trans-unit>
+      <trans-unit id="70452" identifier="d4caa77e3bcd134c0735bb9a7d37453d" approved="yes">
+        <source>by &lt;strong&gt;Gene Luen Yang and Mike Holmes&lt;/strong&gt;</source>
+        <target>by &lt;strong&gt;Gene Luen Yang and Mike Holmes&lt;/strong&gt;</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[20]</note>
+      </trans-unit>
+      <trans-unit id="70453" identifier="95000d0689244c37e452d0e77a0b43d9" approved="yes">
+        <source>Get with the PROGRAM!</source>
+        <target>”プログラム”をモノにする！</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[21]</note>
+      </trans-unit>
+      <trans-unit id="70454" identifier="6b9abd7fb45227438d964510adb87bc7" translate="no" approved="yes">
+        <source>http://www.secret-coders.com/</source>
+        <target>http://www.secret-coders.com/</target>
+        <note>Context: Link Resource&#13;
+XPath: /p[22]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="70455" identifier="21d07410bb0d8ffcf2f2f669cee299b8" translate="no" approved="yes">
+        <source>/static/courses/csintro/references/secret-coders.jpg</source>
+        <target>/static/courses/csintro/references/secret-coders.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p[22]/a/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="70456" identifier="d4ecd2e3166cf87929220902c4df7962" approved="yes">
+        <source>Secret Coders Book Cover</source>
+        <target>Secret Coders Book Cover</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[22]/a/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="70457" identifier="3196ab7a09a8fbaa16a3e73c189a1792" translate="no" approved="yes">
+        <source>https://stevenf.com/books/</source>
+        <target>https://stevenf.com/books/</target>
+        <note>Context: Link Resource&#13;
+XPath: /h3[8]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="70458" identifier="b56ba521e10b532616b1d0c0ff34d42d" approved="yes">
+        <source>How to Count</source>
+        <target>How to Count</target>
+        <note>Context: Anchor Link&#13;
+XPath: /h3[8]/a</note>
+      </trans-unit>
+      <trans-unit id="70459" identifier="d7f15338c81ed2b819e2b7540e859c73" approved="yes">
+        <source>by &lt;strong&gt;Steven Frank&lt;/strong&gt;</source>
+        <target>by &lt;strong&gt;Steven Frank&lt;/strong&gt;</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[23]</note>
+      </trans-unit>
+      <trans-unit id="70460" identifier="d7fbd57831469daf1bab9410deef8708" approved="yes">
+        <source>Programming for Mere Mortals, Vol. 1</source>
+        <target>普通の人のためのプログラミング</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[24]</note>
+      </trans-unit>
+      <trans-unit id="70461" identifier="036ffaeaae351bb442a614184146ae4f" translate="no" approved="yes">
+        <source>https://stevenf.com/books/</source>
+        <target>https://stevenf.com/books/</target>
+        <note>Context: Link Resource&#13;
+XPath: /p[25]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="70462" identifier="4b5980811a95e38da10203951d025fdf" translate="no" approved="yes">
+        <source>/static/courses/csintro/references/how-to-count.png</source>
+        <target>/static/courses/csintro/references/how-to-count.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[25]/a/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="70463" identifier="3c07bb6409e482bf68c3410c8638d880" approved="yes">
+        <source>How to Count Book Cover</source>
+        <target>How to Count Book Cover</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[25]/a/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="70464" identifier="05426d7a67eb6c5e73ade056aa1e0b78" approved="yes">
+        <source>Feedback</source>
+        <target>フィードバック</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="70465" identifier="7f1992dea991022398b812ac9e357808" approved="yes">
+        <source>If you have feedback for the Microsoft MakeCode team, you can fill out their survey form here: https://aka.ms/microbitfeedback</source>
+        <target>フィードバックを受け付けています。こちらのフィードバックフォーム ( &lt;0&gt; https://aka.ms/microbitfeedback &lt;/0&gt;) からご意見をマイクロソフト Make Codeチームにお寄せください (英語のみ)。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[26]</note>
+      </trans-unit>
+      <trans-unit id="70466" identifier="430c059e3ee9644abad223ffc6e51d54" approved="yes">
+        <source>The support site for the micro:bit is located here: &lt;a href=&quot;https://support.microbit.org/&quot;&gt;https://support.microbit.org&lt;/a&gt;</source>
+        <target>マイクロ：ビットのサポートはこちらのサイト  &lt;a href=&quot;https://support.microbit.org/&quot;&gt;https://support.microbit.org&lt;/a&gt; です。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[27]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

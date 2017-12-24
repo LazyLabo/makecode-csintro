@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1869" original="/microbit/docs/courses/csintro/miniproject.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="67513" identifier="77495cc2b92aa04d37ca2469a19e5d4f" approved="yes">
+        <source>Mini-project</source>
+        <target>ミニプロジェクト</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="67514" identifier="aa541a89de5cc6dffddd851a651d1fd7" translate="no" approved="yes">
+        <source>/static/courses/csintro/miniproject/problem-solving.png</source>
+        <target>/static/courses/csintro/miniproject/problem-solving.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67515" identifier="37f6eb2111404c870a2fc1df8930ec8d" approved="yes">
+        <source>Ideas</source>
+        <target>Ideas</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67516" identifier="811226c4b935da1a39e4368397f34225" approved="yes">
+        <source>In this unit, we will be reviewing the concepts we covered in the previous weeks, and providing some ideas for an independent “mini-project” students can focus on in the next several classes.</source>
+        <target>このレッスンではこれまで学習したことを復習し、さらにいくつかのアイデアを提示しながら、数回にわたって”ミニプロジェクト”に取り組んでいきます。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="67517" identifier="c8781c835c7acae6a761a3dd439d64a0" approved="yes">
+        <source>We will also introduce a framework for keeping students accountable to the work they are doing individually and in groups, and providing a rubric for assessment of the development process, as well as the finished product.</source>
+        <target>さらにプロジェクトを個人、もしくはグループで進めるにあたって、どのようにすすめればいいのか、その考え方とフレームワークも学んでいきます。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="67518" identifier="a77bc2a1469207bdffb9b2778617a213" approved="yes">
+        <source>It is important to allow students to practice accounting for the work they are doing on a short “mini-project” like this, so that when they move on to an independent project spanning multiple weeks, it will be easier for you to keep track of what everybody is doing.</source>
+        <target>ミニプロジェクトではできるだけ生徒が主体性をもってプロジェクトに取り組むようにサポートすることが重要です。生徒が主体的に取り組むことによってそれぞれの生徒の進捗、状況を把握することが楽になります。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="67519" identifier="e0457edc40f72c39e4ac72e9e6830d24" approved="yes">
+        <source>It also reinforces the important idea that how you solve problems is at least as important to learning as whether you solved them at all (or even got the right answer).</source>
+        <target>最終的に問題を解決したかどうかと同じくらい、どのように問題を解決しようとしたかは重要なポイントです。</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="67520" identifier="e727d37a30a25a1ac4d794def9be334b" approved="yes">
+        <source>Programming is a process of patient problem-solving, and finding ways to value, acknowledge, and reward the problem-solving process is an important part of assessment.</source>
+        <target>プログラミングは問題解決のプロセスであり、価値を見出し、理解をする方法を提供します。また、評価にあたっては問題解決プロセスをどれだけ活用したかに注目してください。</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="67521" identifier="74ee8ca2861c6787b1a065f96e03b791" translate="no" approved="yes">
+        <source>Lesson plan</source>
+        <target>学習プラン</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="67522" identifier="a5ca11660c3382f93a718777d0942333" translate="no">
+        <source>/courses/csintro/miniproject/review</source>
+        <target>/courses/csintro/miniproject/review</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="67523" identifier="a4865f084695322a892fad4bb2a7a67c" approved="yes">
+        <source>&lt;strong&gt;Review&lt;/strong&gt;: Looking back at what we've learned so far</source>
+        <target>&lt;strong&gt;レビュー&lt;/strong&gt;:　振り返り。これまでの学習のまとめ。</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li/a</note>
+      </trans-unit>
+      <trans-unit id="67524" identifier="a422817284ed786167b9688abab49e93" translate="no">
+        <source>/courses/csintro/miniproject/activity</source>
+        <target>/courses/csintro/miniproject/activity</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[2]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="67525" identifier="2ba0983f42c49915ffc5281350761f06" approved="yes">
+        <source>&lt;strong&gt;Activity&lt;/strong&gt;: Collaboratively independent</source>
+        <target>&lt;strong&gt;アクティビティ&lt;/strong&gt;: 主体性を持った共同作業</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[2]/a</note>
+      </trans-unit>
+      <trans-unit id="67526" identifier="ed11408602a53b2ab247d4c1d7b7a4fe" translate="no">
+        <source>/courses/csintro/miniproject/project</source>
+        <target>/courses/csintro/miniproject/project</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[3]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="67527" identifier="b0bfee643185afd060b8e00604d743b4" approved="yes">
+        <source>&lt;strong&gt;Project&lt;/strong&gt;: Mini-project</source>
+        <target>&lt;strong&gt;プロジェクト&lt;/strong&gt;: ミニプロジェクト </target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[3]/a</note>
+      </trans-unit>
+      <trans-unit id="67528" identifier="cecf750dfcd6f8c6839a962dce95383a" translate="no" approved="yes">
+        <source>Related standards</source>
+        <target>関連する教育標準</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="67529" identifier="856c31b44aaec7a2dcdfa31c314df69d" translate="no">
+        <source>/courses/csintro/miniproject/standards</source>
+        <target>/courses/csintro/miniproject/standards</target>
+        <note>Context: Link Resource&#13;
+XPath: /p[5]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="67530" identifier="abdd018a6ccf906e2ac8110eaf7cac5a" translate="no" approved="yes">
+        <source>Targeted CSTA standards</source>
+        <target>CSTA標準</target>
+        <note>Context: Anchor Link&#13;
+XPath: /p[5]/a</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

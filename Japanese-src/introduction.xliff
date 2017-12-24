@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1849" original="/microbit/docs/courses/csintro/introduction.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="66738" identifier="913f6422d41f0413a2feb499068e4895" translate="no">
+        <source>Introduction</source>
+        <target state="translated">はじめに</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="66739" identifier="6d688e7822a3a3e67ae89c3bdb934b44">
+        <source>When we first started teaching computer science, we discovered two important things.</source>
+        <target state="translated">私たちがコンピュータサイエンスを教え始めたころ、二つの大事なことに気がつきました。</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="66740" identifier="6ecd65393d16a20ba4bb2fcfe9bdab8c">
+        <source>We found that existing curriculum for beginners focused mostly on solving math problems or constructing geometric shapes and that there was a certain type of student that signed up for computer science classes and these students were almost always boys.</source>
+        <target state="needs-translation">We found that existing curriculum for beginners focused mostly on solving math problems or constructing geometric shapes and that there was a certain type of student that signed up for computer science classes and these students were almost always boys.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="66741" identifier="a5e83c26eb54732d79c390cf3448d05c">
+        <source>We wondered whether a different approach to teaching the basics of computer programming would be more engaging and also attract a larger variety of different types of students, both boys and girls.</source>
+        <target state="needs-translation">We wondered whether a different approach to teaching the basics of computer programming would be more engaging and also attract a larger variety of different types of students, both boys and girls.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="66742" identifier="713812f93b276ca78db667673b70290b">
+        <source> 
+We decided to focus on what knowing how to program allowed you to do and create.</source>
+        <target state="needs-translation"> 
+We decided to focus on what knowing how to program allowed you to do and create.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="66743" identifier="810a00d98c44ccbd34f0005a4b72b438">
+        <source>Ultimately all programs are created to solve a problem or serve a purpose.</source>
+        <target state="needs-translation">Ultimately all programs are created to solve a problem or serve a purpose.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="66744" identifier="09b7c3bacea54f5ef6d3f2ae74523a2c">
+        <source>The problem may be local or global, the purpose may be anything from helping doctors treat patients to pure entertainment.</source>
+        <target state="needs-translation">The problem may be local or global, the purpose may be anything from helping doctors treat patients to pure entertainment.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="66745" identifier="6765cc768006e3a5888cfffadc8e00b6">
+        <source>By starting with interesting problems the students wanted to solve, they were much more engaged in learning to code.</source>
+        <target state="needs-translation">By starting with interesting problems the students wanted to solve, they were much more engaged in learning to code.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="66746" identifier="d6e555a04024768baba1d05567fbfe8e">
+        <source>They saw coding skills as an important part of building creative solutions.</source>
+        <target state="needs-translation">They saw coding skills as an important part of building creative solutions.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="66747" identifier="cdb44aafc5bf462b52092ffb79141cf2">
+        <source>With this approach, we found that not only did we get more girls taking the course, we also got a more diverse group of boys.</source>
+        <target state="needs-translation">With this approach, we found that not only did we get more girls taking the course, we also got a more diverse group of boys.</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="66748" identifier="a16baed0b0e62c83a6a914659051a93a">
+        <source>Opportunities for collaboration increased, and all the students got to see where their talents and skills meshed with others' interests and experiences, to make a whole that was greater than the sum of its parts.</source>
+        <target state="needs-translation">Opportunities for collaboration increased, and all the students got to see where their talents and skills meshed with others' interests and experiences, to make a whole that was greater than the sum of its parts.</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="66749" identifier="46237d452979a40e90fa3769e3e9965a">
+        <source>We are now at the point where a third of the students taking computer science are girls, and more importantly, students are coming out of the course not only with an understanding of code, but also knowing how to read through professionally written code, and take an idea from brainstorming through prototyping to build something that matters.</source>
+        <target state="needs-translation">We are now at the point where a third of the students taking computer science are girls, and more importantly, students are coming out of the course not only with an understanding of code, but also knowing how to read through professionally written code, and take an idea from brainstorming through prototyping to build something that matters.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="66750" identifier="d412134d99ab21a3f7b2bdb309193ef7">
+        <source>- Authors Mary Kiang and Douglas Kiang</source>
+        <target state="needs-translation">- Authors Mary Kiang and Douglas Kiang</target>
+        <note>Context: Text&#13;
+XPath: /blockquote/p/em</note>
+      </trans-unit>
+      <trans-unit id="66751" identifier="7179733509c19bb54603f52ec1fdf0f9">
+        <source>Course Introduction</source>
+        <target state="needs-translation">Course Introduction</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="66752" identifier="6c43bbd7c43f864004d9343d0a1aad7b">
+        <source>This is an introduction to coding and computer science by way of making and design, using the revolutionary new micro:bit microcontroller board, and Microsoft's easy and powerful MakeCode block-based coding environment.</source>
+        <target state="needs-translation">This is an introduction to coding and computer science by way of making and design, using the revolutionary new micro:bit microcontroller board, and Microsoft's easy and powerful MakeCode block-based coding environment.</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="66753" identifier="d8d3739fd09bfa45c7738fe0c0828a65">
+        <source>It is a project-based curriculum with a maker philosophy at its core; the idea is that by making physical objects, students create a context for learning the coding and computer science concepts.</source>
+        <target state="needs-translation">It is a project-based curriculum with a maker philosophy at its core; the idea is that by making physical objects, students create a context for learning the coding and computer science concepts.</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="66754" identifier="b67322a0ab4c94f3bc8ea0b3c8da2d8c" translate="no">
+        <source>/static/courses/csintro/microbitman.jpg</source>
+        <target state="translated">/static/courses/csintro/microbitman.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p[5]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66755" identifier="41d37f68d3ae6339797edbea7843ebfe">
+        <source>micro:bit man</source>
+        <target state="translated">micro:bit man</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[5]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="66756" identifier="1bdd8c60d70111dfe372eed743b28532">
+        <source>micro:bits may be purchased from these resellers:</source>
+        <target state="needs-translation">micro:bits may be purchased from these resellers:</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="66757" identifier="12bb9efbf740c7805555094311f195e8">
+        <source>http://microbit.org/resellers (you will need 1 micro:bit per student for this course).  The &quot;micro:bit Go Kit&quot; includes a battery pack and USB cable as well.</source>
+        <target state="needs-translation">http://microbit.org/resellers (you will need 1 micro:bit per student for this course).  The &quot;micro:bit Go Kit&quot; includes a battery pack and USB cable as well.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /blockquote[2]/p</note>
+      </trans-unit>
+      <trans-unit id="66758" identifier="bd551452b2cd6c84c77f47d9199b0c1b">
+        <source>Other optional suggested micro:bit accessories include:</source>
+        <target state="needs-translation">Other optional suggested micro:bit accessories include:</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="66759" identifier="63e427c426e2bcc87b1d1a9dc6d4cedf">
+        <source>[ ] Alligator/Crocodile clip cables</source>
+        <target state="needs-translation">[ ] Alligator/Crocodile clip cables</target>
+        <note>Context: List Item&#13;
+XPath: /blockquote[3]/ul/li</note>
+      </trans-unit>
+      <trans-unit id="66760" identifier="c02a2ba594cce778d5802fd4554cc1c3">
+        <source>[ ] Headphone/earbuds (for audio)</source>
+        <target state="needs-translation">[ ] Headphone/earbuds (for audio)</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li</note>
+      </trans-unit>
+      <trans-unit id="66761" identifier="7c00c41fc202ebf68e0c0a5a31a59b87">
+        <source>[ ] Servo motor (for movement)</source>
+        <target state="needs-translation">[ ] Servo motor (for movement)</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66762" identifier="496f5d50a3ac858dd1c486136ae3ce81">
+        <source>[ ] Croc clip to Male connector (for connecting to Servo motor)</source>
+        <target state="needs-translation">[ ] Croc clip to Male connector (for connecting to Servo motor)</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66763" identifier="1f25e65546c57e5772fa0759766f5751">
+        <source>[ ] Croc clip to Headphone jack adapter (http://microbit-accessories.co.uk/)</source>
+        <target state="needs-translation">[ ] Croc clip to Headphone jack adapter (http://microbit-accessories.co.uk/)</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="66764" identifier="ddb9b5f8a7417f8b459412961686e81a">
+        <source>[ ] Copper tape</source>
+        <target state="needs-translation">[ ] Copper tape</target>
+        <note>Context: Paragraph text&#13;
+XPath: /ul[3]/li[5]/p</note>
+      </trans-unit>
+      <trans-unit id="66765" identifier="8fb76085fd7ad2516ad98f62dd1aa464">
+        <source>MakeCode for the micro:bit is a free web app: https://makecode.microbit.org</source>
+        <target state="needs-translation">MakeCode for the micro:bit is a free web app: https://makecode.microbit.org</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[5]/ul/li</note>
+      </trans-unit>
+      <trans-unit id="66766" identifier="d78a31cd42266b343dd0f68cffd33deb">
+        <source>Copper tape is inexpensive and super useful in all sorts of maker activities so it’s worth it to invest in a few rolls to keep on hand for micro:bit projects.</source>
+        <target state="needs-translation">Copper tape is inexpensive and super useful in all sorts of maker activities so it’s worth it to invest in a few rolls to keep on hand for micro:bit projects.</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="66767" identifier="3fbeb2132c284dfac8d32de009ca0ea2">
+        <source>We use it in &lt;a href=&quot;/courses/csintro/binary/project&quot;&gt;Lesson 9 (Binary Cash Register)&lt;/a&gt;.</source>
+        <target state="needs-translation">We use it in &lt;a href=&quot;/courses/csintro/binary/project&quot;&gt;Lesson 9 (Binary Cash Register)&lt;/a&gt;.</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="66768" identifier="96594fe08e6a8050b06b2151300d2924">
+        <source>You can purchase copper tape at https://www.adafruit.com/product/1128/ and https://www.sparkfun.com/products/10561.</source>
+        <target state="needs-translation">You can purchase copper tape at https://www.adafruit.com/product/1128/ and https://www.sparkfun.com/products/10561.</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="66769" identifier="4f66b1b5405f3ba2e31758825b20a150">
+        <source>When students complete this course they will have a good understanding of computer science concepts that can serve as the foundation for future study.</source>
+        <target state="needs-translation">When students complete this course they will have a good understanding of computer science concepts that can serve as the foundation for future study.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="66770" identifier="b2d933236bb8a18542663c59334ecee3">
+        <source>They will develop powerful design skills that they can use in future projects of all types, whether they are designing 3D printed prototypes or creating apps that serve a real world purpose.</source>
+        <target state="needs-translation">They will develop powerful design skills that they can use in future projects of all types, whether they are designing 3D printed prototypes or creating apps that serve a real world purpose.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="66771" identifier="3b16d3b5308cedc55f7c21e7deedc6a6">
+        <source>This course is targeted to middle school grades 6-8 (ages 11-14 years).</source>
+        <target state="needs-translation">This course is targeted to middle school grades 6-8 (ages 11-14 years).</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="66772" identifier="b84037487b9bf0495b942e3f6d1d8359">
+        <source>It is also written for teachers who may not have a Computer Science background, or may be teaching an &quot;Intro to Computer Science&quot; course for the first time.</source>
+        <target state="needs-translation">It is also written for teachers who may not have a Computer Science background, or may be teaching an &quot;Intro to Computer Science&quot; course for the first time.</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="66773" identifier="4dea2fd577224f3186466921da6f91e2">
+        <source>This course takes approximately 14 weeks to complete, spending about 1 week on each of the first 11 lessons, and 3 weeks for students to complete the final project at the end.</source>
+        <target state="needs-translation">This course takes approximately 14 weeks to complete, spending about 1 week on each of the first 11 lessons, and 3 weeks for students to complete the final project at the end.</target>
+        <note>Context: XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="66774" identifier="154f0c5deb5bb1c6adce3fa40d37e2d0">
+        <source>Of course, teachers should feel free to customize the curriculum to meet individual school or district resources and timeframe.</source>
+        <target state="needs-translation">Of course, teachers should feel free to customize the curriculum to meet individual school or district resources and timeframe.</target>
+        <note>Context: XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="66775" identifier="45c453fa00cc3a225637ea97f2abe1d3">
+        <source>Overall Course Scope &amp;amp; Sequence:</source>
+        <target state="needs-translation">Overall Course Scope &amp;amp; Sequence:</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="66776" identifier="c646ce0dbb2d34232e7659e9869a2078" translate="no">
+        <source>/courses/csintro/making</source>
+        <target>/courses/csintro/making</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="66777" identifier="3aac278c15a87e8b25b2c7fcd550814b" approved="yes">
+        <source>Making</source>
+        <target>はじめてみよう</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li/a</note>
+      </trans-unit>
+      <trans-unit id="66778" identifier="5fd533114abe3cfa3f6dafb1096dd9dc" translate="no">
+        <source>/courses/csintro/algorithms</source>
+        <target>/courses/csintro/algorithms</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[2]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="66779" identifier="2e040c03aab84caf6d421acaba93229a" translate="no">
+        <source>Algorithms</source>
+        <target state="translated">アルゴリズム</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[2]/a</note>
+      </trans-unit>
+      <trans-unit id="66780" identifier="418889350000a3add99e3fef3cb01e22" translate="no">
+        <source>/courses/csintro/variables</source>
+        <target>/courses/csintro/variables</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[3]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="66781" identifier="61640462f58d9d40d6b4db800831a1eb" translate="no">
+        <source>Variables</source>
+        <target state="translated">変数</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[3]/a</note>
+      </trans-unit>
+      <trans-unit id="66782" identifier="94e9a27449613d0fed1b7c65a73bce3b" translate="no">
+        <source>/courses/csintro/conditionals</source>
+        <target>/courses/csintro/conditionals</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[4]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="66783" identifier="28e11c0e45e0f2273995689a5b00ef8c">
+        <source>Conditionals</source>
+        <target state="translated">条件</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[4]/a</note>
+      </trans-unit>
+      <trans-unit id="66784" identifier="9eb20050cf0d0c40d61f87cc6b92e21a" translate="no">
+        <source>/courses/csintro/iteration</source>
+        <target>/courses/csintro/iteration</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[5]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="66785" identifier="e1db18510357fba1b285b915ad9de62c">
+        <source>Iteration</source>
+        <target state="translated">繰り返し</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[5]/a</note>
+      </trans-unit>
+      <trans-unit id="66786" identifier="fa538711ec3461d6853a4c19a30e5c14" translate="no">
+        <source>courses/csintro/miniproject</source>
+        <target>courses/csintro/miniproject</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[6]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="66787" identifier="b9f2e044163803a600f4bf474185567b">
+        <source>Review/Mini-Project</source>
+        <target state="translated">レビュー/ミニ プロジェクト</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[6]/a</note>
+      </trans-unit>
+      <trans-unit id="66788" identifier="95ac0e3b4b979eca4d23f32a4af81795" translate="no">
+        <source>/courses/csintro/coordinates</source>
+        <target>/courses/csintro/coordinates</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[7]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="70388" identifier="b376b6287fae613b78cf9d77cbccc57b">
+        <source>Coordinate grid system</source>
+        <target state="translated">座標</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[7]/a</note>
+      </trans-unit>
+      <trans-unit id="66790" identifier="84edabeabcba3fbd5bda6bc7781d792e" translate="no">
+        <source>/courses/csintro/booleans</source>
+        <target>/courses/csintro/booleans</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[8]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="66791" identifier="bb7f33d3f4b7a67a58b19dcc56a4e73d" translate="no">
+        <source>Booleans</source>
+        <target state="translated">ブール値</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[8]/a</note>
+      </trans-unit>
+      <trans-unit id="66792" identifier="93a2066827f0cb1bfefafc64e2f026a5" translate="no">
+        <source>/courses/csintro/binary</source>
+        <target>/courses/csintro/binary</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[9]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="70389" identifier="97bc7cf7728ac7190d07fa616aaeb1a3" translate="no">
+        <source>Bits, bytes, and binary</source>
+        <target state="translated">ビット、バイト、バイナリ</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[9]/a</note>
+      </trans-unit>
+      <trans-unit id="66794" identifier="a60fdd12696260cce0d84a3abe655975" translate="no">
+        <source>/courses/csintro/radio</source>
+        <target>/courses/csintro/radio</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[10]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="66795" identifier="cf9398a6818aeb72099d7a3eafcfba1e" translate="no">
+        <source>Radio</source>
+        <target state="translated">無線</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[10]/a</note>
+      </trans-unit>
+      <trans-unit id="66796" identifier="f14e37dc2df442bb36b9c804e85a3dcf" translate="no">
+        <source>/courses/csintro/arrays</source>
+        <target>/courses/csintro/arrays</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[11]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="66797" identifier="dd0bdfa86b3b8de562759cdf20f52a59" translate="no">
+        <source>Arrays</source>
+        <target state="translated">配列</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[11]/a</note>
+      </trans-unit>
+      <trans-unit id="66798" identifier="bdf10e953a78badbb574cb83ecba61b7" translate="no">
+        <source>/courses/csintro/finalproject</source>
+        <target>/courses/csintro/finalproject</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[12]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="70390" identifier="32c7f3cbd74fe6c88bb42a972409424a">
+        <source>Independent final project</source>
+        <target state="translated">最終プロジェクト</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[12]/a</note>
+      </trans-unit>
+      <trans-unit id="66800" identifier="b7ac3d552197a370178d0838bb6c11ae">
+        <source>Each of the 12 lessons is comprised of the following parts:</source>
+        <target state="translated">12 のレッスンは、次のように構成されています。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="66801" identifier="3cb306498dbae4e88b7fb2f8b8b24273">
+        <source>Topic Introduction</source>
+        <target state="translated">レッスンの概要</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li</note>
+      </trans-unit>
+      <trans-unit id="66802" identifier="0276d1c7e0a9055fdc618341f487d874">
+        <source>Unplugged Activity (30 min) ̶  An offline game or activity that demonstrates the concept/topic</source>
+        <target state="translated">アンプラグド (30分) - コンピュータを使わないゲームやアクティビティを通してレッスンで取り上げられるテーマ・コンセプトを理解します。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66803" identifier="0d4ea9f12a391fe0ff559e44abd60add">
+        <source>micro:bit Activity (45-60 min) ̶- An activity that everyone makes on their micro:bit that teaches the skills learned in this lesson.</source>
+        <target state="translated">micro:bit による実習 (45-60 分) - マイクロ:ビットを使って実際に作り、体験してみます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66804" identifier="c17764eeff40b5c9986a942ad577d60b">
+        <source>Project (60-120 min) ̶- A prompt for an original project that each student will create to demonstrate their understanding of the skills and concepts covered in this lesson.</source>
+        <target state="translated">プロジェクト (60-120 分) - レッスンで学習したテーマを活用して、各生徒がそれぞれオリジナルなアイデアのもとにマイクロ: ビットを活用したプロジェクトに取り組みます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="66805" identifier="6beae971ed0ca19b1e393da9196264c7">
+        <source>Project Mods ̶  Examples of additional things students can do to extend the project</source>
+        <target state="translated">プロジェクトモッド - プロジェクトをさらに拡張してどんなことができるか、いくつかの参考例を提供しています。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[5]</note>
+      </trans-unit>
+      <trans-unit id="66806" identifier="98f56aaf5256bb9bba62b8a8cf639eb0">
+        <source>Assessment ̶- A project rubric and guidance for grading the project.</source>
+        <target state="translated">スキルレベルの確認・アセスメント - プロジェクトの結果を評価するためのガイド・注意事項を提供しています。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[6]</note>
+      </trans-unit>
+      <trans-unit id="66807" identifier="60d2fb7471938e5797973d4efd49ddb1">
+        <source>Standards ̶ -A list of &lt;a href=&quot;https://www.csteachers.org/?page=CSTA_Standards&quot;&gt;CSTA K-12 Computer Science Standards&lt;/a&gt; and/or concepts covered by this lesson.</source>
+        <target state="translated">基準 ̶ - リスト &lt;a href=&quot;https://www.csteachers.org/?page=CSTA_Standards&quot;&gt;CSTA K 12 コンピューターサイエンス基準&lt;/a&gt; 、ならびに各レッスンでフォーカスするコンセプトについて。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[7]</note>
+      </trans-unit>
+      <trans-unit id="66808" identifier="1f568535186731c511859741c316b167">
+        <source>Topic introduction</source>
+        <target state="translated">レッスンの概要</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3</note>
+      </trans-unit>
+      <trans-unit id="66809" identifier="969554597bf1203ceb64926fcd87c1f7">
+        <source>The introduction to each lesson will tell you what learning objectives are covered in the lesson, and presents an overview of that lesson's topic.</source>
+        <target state="needs-translation">The introduction to each lesson will tell you what learning objectives are covered in the lesson, and presents an overview of that lesson's topic.</target>
+        <note>Context: XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="66810" identifier="14188e7f07e05df59eea82be6374ee16">
+        <source>Some lessons have a specific activity that can help introduce the topic to students in a fun way.</source>
+        <target state="needs-translation">Some lessons have a specific activity that can help introduce the topic to students in a fun way.</target>
+        <note>Context: XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="66811" identifier="88617550e4dbc811df4ad4ab3a62840f">
+        <source>Unplugged activity (30 min)</source>
+        <target state="translated">アンプラグド (30 分)</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[2]</note>
+      </trans-unit>
+      <trans-unit id="66812" identifier="6c44b6ed5bbe54c880c97aa9668c5663">
+        <source>Each lesson starts with an unplugged activity, which doesn't require a computer or a micro:bit.</source>
+        <target state="needs-translation">Each lesson starts with an unplugged activity, which doesn't require a computer or a micro:bit.</target>
+        <note>Context: XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="66813" identifier="24253b9e719571677f3a5381e858a9cc">
+        <source>It's a chance to get students up and moving around, and is designed to be a fun introduction to the computer science concept covered in that lesson.</source>
+        <target state="needs-translation">It's a chance to get students up and moving around, and is designed to be a fun introduction to the computer science concept covered in that lesson.</target>
+        <note>Context: XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="66814" identifier="e671e821924cd8a4e4ceac069b7de1a3">
+        <source>Unplugged activities are an important way to demonstrate new concepts in a tangible, often kinesthetic, way.</source>
+        <target state="needs-translation">Unplugged activities are an important way to demonstrate new concepts in a tangible, often kinesthetic, way.</target>
+        <note>Context: XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="66815" identifier="b16a6c410de04e26f14e204af3deb2bf">
+        <source>Since so many computer-based topics are abstract, unplugged activities are very effective at fostering understanding that students will then demonstrate in later activities.</source>
+        <target state="needs-translation">Since so many computer-based topics are abstract, unplugged activities are very effective at fostering understanding that students will then demonstrate in later activities.</target>
+        <note>Context: XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="66816" identifier="886e901239eaae88f6affe3210c245b6">
+        <source>micro:bit activity (45–60 min)</source>
+        <target state="translated">micro:bit アクティビティ (45-60分)</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[3]</note>
+      </trans-unit>
+      <trans-unit id="66817" identifier="dfcf80635409ca9e4bf2013753bafb57">
+        <source>Each lesson also contains a micro:bit activity, which we informally refer to as a &quot;birdhouse&quot; activity, after the innumerable wooden birdhouses so many of us made in wood shop as a way to master basic skills.</source>
+        <target state="needs-translation">Each lesson also contains a micro:bit activity, which we informally refer to as a &quot;birdhouse&quot; activity, after the innumerable wooden birdhouses so many of us made in wood shop as a way to master basic skills.</target>
+        <note>Context: XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="66818" identifier="fce51cb9b92868552b96e9c900bd6b4a">
+        <source>Each lesson's micro:bit activity is an example that walks students step-by-step through building a project that demonstrates that lesson's topic.</source>
+        <target state="needs-translation">Each lesson's micro:bit activity is an example that walks students step-by-step through building a project that demonstrates that lesson's topic.</target>
+        <note>Context: XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="66819" identifier="25bda60b3f5b82ae4e10d17c81476448">
+        <source>By the time students finish the activity, they will have written code that they can use in a different project of their own design.</source>
+        <target state="needs-translation">By the time students finish the activity, they will have written code that they can use in a different project of their own design.</target>
+        <note>Context: XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="66820" identifier="c8761247b4330e49e08c296b5c458957">
+        <source>Some students will finish the activity more quickly than others.</source>
+        <target state="needs-translation">Some students will finish the activity more quickly than others.</target>
+        <note>Context: XPath: /p[14]</note>
+      </trans-unit>
+      <trans-unit id="66821" identifier="5bf8f7c0605c6fbdaebea9bf4e7d853f">
+        <source>Those students can then be a helpful resource for their classmates, or they can challenge themselves by modifying, or &quot;modding&quot; the activity to do something different.</source>
+        <target state="needs-translation">Those students can then be a helpful resource for their classmates, or they can challenge themselves by modifying, or &quot;modding&quot; the activity to do something different.</target>
+        <note>Context: XPath: /p[14]</note>
+      </trans-unit>
+      <trans-unit id="66822" identifier="5b6fe450bc68b428ba53cc5119ab95c1">
+        <source>We have provided examples and suggestions at the end of many of these activities, and feel free to suggest your own (or encourage your students to come up with their own ideas!)</source>
+        <target state="needs-translation">We have provided examples and suggestions at the end of many of these activities, and feel free to suggest your own (or encourage your students to come up with their own ideas!)</target>
+        <note>Context: XPath: /p[14]</note>
+      </trans-unit>
+      <trans-unit id="66823" identifier="8436499508b68ec2b9a65c8ecbc6f6a7">
+        <source>Project (60–120 min)</source>
+        <target state="translated">プロジェクト (60-120 分)</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[4]</note>
+      </trans-unit>
+      <trans-unit id="66824" identifier="65a04197d147524683afb1ae27676232">
+        <source>After presenting the concept in an unplugged fashion, then walking students through a demonstration activity, it is time to challenge students to use those skills to create something that is creative and original.</source>
+        <target state="needs-translation">After presenting the concept in an unplugged fashion, then walking students through a demonstration activity, it is time to challenge students to use those skills to create something that is creative and original.</target>
+        <note>Context: XPath: /p[15]</note>
+      </trans-unit>
+      <trans-unit id="66825" identifier="a96d4ecf319b7c937069922d336180c6">
+        <source>Students will be working on their projects in a &quot;collaboratively independent&quot; way, which means each student is responsible for turning in his or her own project, but are encouraged to work together and help each other while doing so.</source>
+        <target state="needs-translation">Students will be working on their projects in a &quot;collaboratively independent&quot; way, which means each student is responsible for turning in his or her own project, but are encouraged to work together and help each other while doing so.</target>
+        <note>Context: XPath: /p[15]</note>
+      </trans-unit>
+      <trans-unit id="66826" identifier="5cee8e5f807a13aaedfd84e41569d42c">
+        <source>Some form of reflection is an important part of documenting the learning that has taken place, and it's a great idea to share out the final projects and reflections, either at an event or on a blog.</source>
+        <target state="needs-translation">Some form of reflection is an important part of documenting the learning that has taken place, and it's a great idea to share out the final projects and reflections, either at an event or on a blog.</target>
+        <note>Context: XPath: /p[15]</note>
+      </trans-unit>
+      <trans-unit id="66827" identifier="3cc72a977c811c133b0f3dbb049fe21d">
+        <source>There are also a series of Project Mods that students can do to extend the project they have created.</source>
+        <target state="needs-translation">There are also a series of Project Mods that students can do to extend the project they have created.</target>
+        <note>Context: XPath: /p[16]</note>
+      </trans-unit>
+      <trans-unit id="66828" identifier="2f5b1d78bd3cb51b1c1dc1688e8b9329">
+        <source>These are useful for students who already have some experience with coding or who want an extra challenge.</source>
+        <target state="needs-translation">These are useful for students who already have some experience with coding or who want an extra challenge.</target>
+        <note>Context: XPath: /p[16]</note>
+      </trans-unit>
+      <trans-unit id="66829" identifier="a7af4e51cc352ead4b22792e7ab6e15d" translate="no" approved="yes">
+        <source>Assessment</source>
+        <target>評価</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[5]</note>
+      </trans-unit>
+      <trans-unit id="66830" identifier="2880e4aaa1a40482bc2cd54c39b5a5e6">
+        <source>A rubric is provided for each project that can be customized according to what students are being asked to demonstrate.</source>
+        <target state="needs-translation">A rubric is provided for each project that can be customized according to what students are being asked to demonstrate.</target>
+        <note>Context: XPath: /p[17]</note>
+      </trans-unit>
+      <trans-unit id="66831" identifier="dc456670fb06494a0b5b29ca3bb40d70">
+        <source>For the Activities we just expect students to do them, so those are fairly simple to check off.</source>
+        <target state="needs-translation">For the Activities we just expect students to do them, so those are fairly simple to check off.</target>
+        <note>Context: XPath: /p[17]</note>
+      </trans-unit>
+      <trans-unit id="66832" identifier="3428efb15294f841ac237caeb1693ac7">
+        <source>For the Projects, however, there is often a range of grades based on how closely the project meets the specifications of the assignment.</source>
+        <target state="needs-translation">For the Projects, however, there is often a range of grades based on how closely the project meets the specifications of the assignment.</target>
+        <note>Context: XPath: /p[17]</note>
+      </trans-unit>
+      <trans-unit id="66833" identifier="56d011637b0f11797907ad8e7d19fc66" translate="no">
+        <source>Standards</source>
+        <target state="translated">標準</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[6]</note>
+      </trans-unit>
+      <trans-unit id="66834" identifier="5987cd8ad8f90610f0d71083f39d8c1b">
+        <source>Where applicable, we have mapped each of the lessons to the &lt;a href=&quot;https://www.csteachers.org/?page=CSTA_Standards&quot;&gt;Computer Science Teachers Association (CSTA) K-12 Standards&lt;/a&gt;, which are US nationally recognized standards for computer science education.</source>
+        <target state="needs-translation">Where applicable, we have mapped each of the lessons to the &lt;a href=&quot;https://www.csteachers.org/?page=CSTA_Standards&quot;&gt;Computer Science Teachers Association (CSTA) K-12 Standards&lt;/a&gt;, which are US nationally recognized standards for computer science education.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[18]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1799" original="/microbit/docs/courses/csintro/about.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="63930" identifier="3cbdd960bc85fdc37a7121ea0f26a7db" approved="yes">
+        <source>About The Authors</source>
+        <target>このコースを作った人たち</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="63931" identifier="e543de22eeeb81b63b911e2d41e4cbbd" translate="no">
+        <source>/static/courses/csintro/douglas-kiang-foto.jpg</source>
+        <target>/static/courses/csintro/douglas-kiang-foto.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="63932" identifier="4171e63de2e2d89e19147c6eeefc3cce" approved="yes">
+        <source>Douglas Kiang</source>
+        <target>Douglas Kiang</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="63933" identifier="684547d081b735890d34c702cf4211ce" approved="yes">
+        <source>Douglas Kiang is a speaker, teacher, and workshop presenter with twenty-seven years of teaching experience in independent schools at every grade level.</source>
+        <target>ダグラスキアングはこれまで27年にわたって教師、スピーカー、そしてさまざまなワークショップの講師として活躍してきました。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="63934" identifier="cd05f8928379ec3d2688b89d1145e4a9" approved="yes">
+        <source>He currently teaches high school computer science at Punahou School in Honolulu, Hawaii.</source>
+        <target>ダグラスは現在ハワイ州ホノルルのプナホウ高校においてコンピュータサイエンスを教えています。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="63935" identifier="5486e2acba275f74b75d065ce3f16d42" approved="yes">
+        <source>Douglas holds a master’s degree in Technology, Innovation, and Education from Harvard and is a Microsoft Innovative Educator.&lt;br /&gt;
+You can follow him on Twitter at &lt;a href=&quot;http://twitter.com/dkiang&quot;&gt;@dkiang&lt;/a&gt;.</source>
+        <target>ダグラスはハーバード大学にてテクノロジー、イノベーションそして教育の学位を取得し、マイクソフトイノベーティブエデュケーションとしても活躍をしています。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="63936" identifier="6fbf944fc217a3d200078dd315fa8bd9" translate="no">
+        <source>/static/courses/csintro/mary-kiang-foto.png</source>
+        <target>/static/courses/csintro/mary-kiang-foto.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[3]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="63937" identifier="550e3426c59ba6e4821d2632c4e6fce1" approved="yes">
+        <source>Mary Kiang</source>
+        <target>Mary Kiang</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[3]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="63938" identifier="d3225732cdc1d111809a29253aff8c3a" approved="yes">
+        <source>Mary Kiang has been teaching for over twenty-five  years at elementary, middle, and high school levels.</source>
+        <target>メアリーキアングは20年以上にわたり小中学校で教鞭をとってきた経験豊かな教師です。</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="63939" identifier="91afd5dda97fd686a36ba46ec8d92e43" approved="yes">
+        <source>She also developed curriculum in the Education Department of the Museum of Science in Boston.</source>
+        <target>メアリーはボストン科学博物館の教育部門においてカリキュラムを開発しました。</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="63940" identifier="6ce4c3648561615a28404cd8c630efb2" approved="yes">
+        <source>She currently teaches 6th grade Math/Science at Punahou School.</source>
+        <target>現在はプナホウ小学校の6年生クラスで数学と科学を教えています。</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="63941" identifier="333210914ba58711a234e94b7dafad0d" approved="yes">
+        <source>Mary is a former programmer for Houghton Mifflin and Dun &amp;amp; Bradstreet and holds a Master’s degree in Elementary Education from Simmons College.</source>
+        <target>また、ホートン・ミフリンとダン・アンド・ブラッドストリートでプログラマーとして従事、シモンズ・カレッジから初等教育の修士学位を取得しています。</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="63942" identifier="bb7688991774afea3f36a4a357a26856" approved="yes">
+        <source>Mary is the founder of GO Code!, an organization that supports girls and young women in exploring coding and STEM.</source>
+        <target>メアリーは 女子学生、若い女性のSTEM、並びにコーディングスキル習得を支援するための団体、Go Code! の創始者でもあります。</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

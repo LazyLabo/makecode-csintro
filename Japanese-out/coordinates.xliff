@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1842" original="/microbit/docs/courses/csintro/coordinates.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="66475" identifier="1caef3aa99dc9da48510dc205a42cb9a">
+        <source>Coordinate grid and LEDs</source>
+        <target state="needs-translation">Coordinate grid and LEDs</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="66476" identifier="96b778f1b8fc6201cfb10879efb701a7" translate="no">
+        <source>/static/courses/csintro/coordinates/cover.png</source>
+        <target state="translated">/static/courses/csintro/coordinates/cover.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66477" identifier="bdc0eec7151327d1101475d79f476a67">
+        <source>Sample Heart Simulator</source>
+        <target state="translated">Sample Heart Simulator</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="66478" identifier="78ad039da044d1303d6494761b72ba46">
+        <source>This lesson introduces the use of coordinates to store data or the results of mathematical operations.</source>
+        <target state="needs-translation">This lesson introduces the use of coordinates to store data or the results of mathematical operations.</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="66479" identifier="568745125511bbe54bc330525f818ae5">
+        <source>It gives students practice programming for the LEDs of the micro:bit screen using coordinates, and introduces the basic game blocks of MakeCode.</source>
+        <target state="needs-translation">It gives students practice programming for the LEDs of the micro:bit screen using coordinates, and introduces the basic game blocks of MakeCode.</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="66480" identifier="26dd08dfa013898b7cb6a1c7e90797c5" translate="no">
+        <source>Lesson objectives</source>
+        <target state="translated">このレッスンの目標</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="66481" identifier="e0817cf105df8d1ea187988749bf3fae" translate="no">
+        <source>Students will...</source>
+        <target state="translated">生徒は以下のことを学ぶことができます。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="66482" identifier="5bdab142777a5d5acb9ccf125f7299e5">
+        <source>Understand that the 5 x 5 grid of LEDs on the micro:bit represents a coordinate grid with the origin (0,0) in the top left corner.</source>
+        <target state="needs-translation">Understand that the 5 x 5 grid of LEDs on the micro:bit represents a coordinate grid with the origin (0,0) in the top left corner.</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="66483" identifier="38fa5f62690254d27fc1ebd6d20fa262">
+        <source>Understand that the values of the x coordinates range from 0 through four and increase from left to right.</source>
+        <target state="needs-translation">Understand that the values of the x coordinates range from 0 through four and increase from left to right.</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66484" identifier="358ac27339ee064ab34f5c7a33e2313a">
+        <source>Understand that the values of the y coordinates range from 0 through four and increase from top to bottom.</source>
+        <target state="needs-translation">Understand that the values of the y coordinates range from 0 through four and increase from top to bottom.</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="70385" identifier="a7efef584df2299a5ce37832b94e53ee">
+        <source>Learn how to refer to an individual LED by its &lt;strong&gt;X&lt;/strong&gt; and &lt;strong&gt;Y&lt;/strong&gt; coordinates.</source>
+        <target state="needs-translation">Learn how to refer to an individual LED by its &lt;strong&gt;X&lt;/strong&gt; and &lt;strong&gt;Y&lt;/strong&gt; coordinates.</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[4]</note>
+      </trans-unit>
+      <trans-unit id="66486" identifier="9490dd8132984d267947349b6b8cb6a1">
+        <source>Learn how to plot (turn on) and unplot (turn off) individual LEDs and how to toggle between these two states.</source>
+        <target state="needs-translation">Learn how to plot (turn on) and unplot (turn off) individual LEDs and how to toggle between these two states.</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[5]</note>
+      </trans-unit>
+      <trans-unit id="66487" identifier="f3656f43afb73339923de5ca56120d76">
+        <source>Learn how to check the current on or off status of an individual LED as well as check and set the brightness level.</source>
+        <target state="needs-translation">Learn how to check the current on or off status of an individual LED as well as check and set the brightness level.</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[6]</note>
+      </trans-unit>
+      <trans-unit id="66488" identifier="283eb5f0ffb4d3daa28ad80460ecb94f">
+        <source>Apply the above knowledge and skills to create a unique program that uses coordinates as an integral part of the program.</source>
+        <target state="needs-translation">Apply the above knowledge and skills to create a unique program that uses coordinates as an integral part of the program.</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[7]</note>
+      </trans-unit>
+      <trans-unit id="66489" identifier="3838b64c42212f57cceceb308e203e82" translate="no" approved="yes">
+        <source>Lesson structure</source>
+        <target>学習の進め方</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="66490" identifier="9c835f74a9a764b125af9d69af23b385">
+        <source>Introduction: Coordinate Grid</source>
+        <target state="needs-translation">Introduction: Coordinate Grid</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="66491" identifier="fe69cacb68b6fcb73d91451c8f2a6b88">
+        <source>Unplugged Activity: Battleship</source>
+        <target state="needs-translation">Unplugged Activity: Battleship</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66492" identifier="bd4ff42eee7f1e7ed38da56a7f1e7233">
+        <source>micro:bit Activities: Animation and Patterns</source>
+        <target state="needs-translation">micro:bit Activities: Animation and Patterns</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66493" identifier="31817b1d0fc439ad4b926f428173399f">
+        <source>Project: Screensaver or Game</source>
+        <target state="needs-translation">Project: Screensaver or Game</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="66494" identifier="e6b6f3520b9a0354833d906648ec2446" translate="no" approved="yes">
+        <source>Assessment: Rubric</source>
+        <target>評価・評価のポイント</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[5]</note>
+      </trans-unit>
+      <trans-unit id="66495" identifier="b7ac2d948c789f2453cd825e3e498551" translate="no" approved="yes">
+        <source>Standards: Listed</source>
+        <target>CSTA基準一覧</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[6]</note>
+      </trans-unit>
+      <trans-unit id="66496" identifier="9cf1de56b81b7a97f6f15443f691e46e" translate="no" approved="yes">
+        <source>Lesson plan</source>
+        <target>学習プラン</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="66497" identifier="23fa8da908a7e2dc1ec6693d026064eb" translate="no">
+        <source>/courses/csintro/coordinates/overview</source>
+        <target>/courses/csintro/coordinates/overview</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="66498" identifier="885b0751a014f9b0ba16726299798484">
+        <source>&lt;strong&gt;Overview&lt;/strong&gt;: Coordinate grid and LEDs</source>
+        <target state="needs-translation">&lt;strong&gt;Overview&lt;/strong&gt;: Coordinate grid and LEDs</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li/a</note>
+      </trans-unit>
+      <trans-unit id="66499" identifier="362b32a3575e6b20957b3726fd9645bf" translate="no">
+        <source>/courses/csintro/coordinates/unplugged</source>
+        <target>/courses/csintro/coordinates/unplugged</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[2]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="66500" identifier="d452a39388fb0d1fcafd100436449d96">
+        <source>&lt;strong&gt;Unplugged&lt;/strong&gt;: Battleship</source>
+        <target state="needs-translation">&lt;strong&gt;Unplugged&lt;/strong&gt;: Battleship</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[2]/a</note>
+      </trans-unit>
+      <trans-unit id="66501" identifier="5240a4cf222baa087fca049f39824b93" translate="no">
+        <source>/courses/csintro/coordinates/activity</source>
+        <target>/courses/csintro/coordinates/activity</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[3]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="66502" identifier="dbba9361cc566ecead23f5d4ebb9465a">
+        <source>&lt;strong&gt;Activity&lt;/strong&gt;: Animation and patterns</source>
+        <target state="needs-translation">&lt;strong&gt;Activity&lt;/strong&gt;: Animation and patterns</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[3]/a</note>
+      </trans-unit>
+      <trans-unit id="66503" identifier="b77efccaf07f9cec3b18f808c2d57002" translate="no">
+        <source>/courses/csintro/coordinates/project</source>
+        <target>/courses/csintro/coordinates/project</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[4]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="66504" identifier="b1a0585ec2121a1bc1ac09101c82f1ed">
+        <source>&lt;strong&gt;Project&lt;/strong&gt;: Screensaver or game</source>
+        <target state="needs-translation">&lt;strong&gt;Project&lt;/strong&gt;: Screensaver or game</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[4]/a</note>
+      </trans-unit>
+      <trans-unit id="66505" identifier="6200381ea0a764cd6263f01538849fbb" translate="no" approved="yes">
+        <source>Related standards</source>
+        <target>関連する教育標準</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[4]</note>
+      </trans-unit>
+      <trans-unit id="66506" identifier="c5d65bcd5ee596c2371eee2868fdb288" translate="no">
+        <source>/courses/csintro/coordinates/standards</source>
+        <target>/courses/csintro/coordinates/standards</target>
+        <note>Context: Link Resource&#13;
+XPath: /p[4]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="66507" identifier="5108ff4fa493ada8902180e847693101" translate="no" approved="yes">
+        <source>Targeted CSTA standards</source>
+        <target>CSTA標準</target>
+        <note>Context: Anchor Link&#13;
+XPath: /p[4]/a</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

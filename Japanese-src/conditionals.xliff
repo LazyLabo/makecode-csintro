@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1835" original="/microbit/docs/courses/csintro/conditionals.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="66239" identifier="4e079d43913ce9b855164549eee9c553" approved="yes">
+        <source>Conditional statements</source>
+        <target>条件分岐</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="66240" identifier="d205c7ae5e0fac9ea5579355eaa19093" translate="no" approved="yes">
+        <source>/static/courses/csintro/conditionals/cover.jpg</source>
+        <target>/static/courses/csintro/conditionals/cover.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66241" identifier="b66c2d6f2695b9a0d9505cb7c3cbed63" translate="no" approved="yes">
+        <source>Board game example</source>
+        <target>Board game example</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="66242" identifier="60c6205637a5e0b0a54b6983021bc698" approved="yes">
+        <source>This lesson introduces the Logic blocks such as 'If...then' and 'If...then...else'.
+Students practice skills of creativity, problem-solving, and collaboration.</source>
+        <target>このレッスンでは &quot;if - then&quot; や &quot;if .. then .. else&quot; など条件分岐、ロジック構文を学習します。また、生徒はアクティビティを通して創造性、問題解決さらにチームでコラボレーションしながら問題解決をしていきます。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="66243" identifier="26dd08dfa013898b7cb6a1c7e90797c5" translate="no" approved="yes">
+        <source>Lesson objectives</source>
+        <target>このレッスンの目標</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="66244" identifier="e0817cf105df8d1ea187988749bf3fae" translate="no" approved="yes">
+        <source>Students will...</source>
+        <target>生徒は以下のことを学ぶことができます。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="66245" identifier="15a9602549b3cf04e45949ee89660ce5" approved="yes">
+        <source>Understand what conditional statements are, and why and when to use them in a program.</source>
+        <target>条件分岐とは何か、どのようなときにどうやって使うのかを学習します。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="66246" identifier="7c922195193c8e9fd7b63fd82c207e18" approved="yes">
+        <source>Learn how to use the Logic blocks 'If...then' and 'If…then...else'.</source>
+        <target>&quot; if ... then&quot; や &quot;if .. then .. else&quot;を使う方法。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66247" identifier="b6b0a87fd06997abd92aea11136939bb" approved="yes">
+        <source>Practice using the Logic blocks so different conditions yield specified outcomes.</source>
+        <target>ロジック構文を使うことで異なる結果が得られることを実習を通して学習します。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66248" identifier="9e14239850172132f702bb09babbef4e" approved="yes">
+        <source>Demonstrate understanding and apply skill by collaborating with classmates to create a game that uses a micro:bit and a program that correctly and effectively uses conditionals.</source>
+        <target>条件分岐を使ったゲームをmicro:bit上で、チームで共同作業をしながら作成します</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[4]</note>
+      </trans-unit>
+      <trans-unit id="66249" identifier="3591f946d7e806c4f5e843c8c16805e5" translate="no" approved="yes">
+        <source>Lesson plan</source>
+        <target>学習プラン</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="66250" identifier="8949ce834cfd96df367202783393cb03" translate="no">
+        <source>/courses/csintro/conditionals/overview</source>
+        <target>/courses/csintro/conditionals/overview</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="66251" identifier="b18e241f2437a6ef1214e834d93db0b6" approved="yes">
+        <source>&lt;strong&gt;Overview&lt;/strong&gt;: Conditional statements</source>
+        <target>&lt;strong&gt;はじめに&lt;/strong&gt;:条件分岐とは</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li/a</note>
+      </trans-unit>
+      <trans-unit id="66252" identifier="4cba6d42a8ba60b291d7bdeed2af6936" translate="no">
+        <source>/courses/csintro/conditionals/unplugged</source>
+        <target>/courses/csintro/conditionals/unplugged</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[2]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="66253" identifier="73801b2f38986ba5a1c58fd25a8603ea" approved="yes">
+        <source>&lt;strong&gt;Unplugged&lt;/strong&gt;: Red light, green light</source>
+        <target>&lt;strong&gt;アンプラグド&lt;/strong&gt;: 赤信号・青信号</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[2]/a</note>
+      </trans-unit>
+      <trans-unit id="66254" identifier="f3adaaf9c3db034edc198fe6b4f10995" translate="no">
+        <source>/courses/csintro/conditionals/activity</source>
+        <target>/courses/csintro/conditionals/activity</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[3]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="66255" identifier="17c79ea31366557b1533e65cb423a432" approved="yes">
+        <source>&lt;strong&gt;Activity&lt;/strong&gt;: Rock, paper, scissors</source>
+        <target>&lt;strong&gt;アクティビティ&lt;/strong&gt;: じゃんけんぽん </target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[3]/a</note>
+      </trans-unit>
+      <trans-unit id="66256" identifier="8a49166782adbcd2d23ea93f217d13da" translate="no">
+        <source>/courses/csintro/conditionals/project</source>
+        <target>/courses/csintro/conditionals/project</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[4]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="66257" identifier="9787f3d0feae512be9b080290c4f3c65" approved="yes">
+        <source>&lt;strong&gt;Project&lt;/strong&gt;: Board game</source>
+        <target>&lt;strong&gt;プロジェクト&lt;/strong&gt;:ボードゲーム</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[4]/a</note>
+      </trans-unit>
+      <trans-unit id="66258" identifier="ec093311a59de127ea5c1004b9faa113" translate="no" approved="yes">
+        <source>Related standards</source>
+        <target>関連する教育標準</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="66259" identifier="fae4cfd11a85aed582003957723b108b" translate="no">
+        <source>/courses/csintro/conditionals/standards</source>
+        <target>/courses/csintro/conditionals/standards</target>
+        <note>Context: Link Resource&#13;
+XPath: /p[4]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="66260" identifier="5108ff4fa493ada8902180e847693101" translate="no" approved="yes">
+        <source>Targeted CSTA standards</source>
+        <target>CSTA標準</target>
+        <note>Context: Anchor Link&#13;
+XPath: /p[4]/a</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

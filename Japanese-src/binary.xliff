@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1821" original="/microbit/docs/courses/csintro/binary.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="65128" identifier="c6db3bfc0243e31efb6128d5060ccd2b" approved="yes">
+        <source>Binary</source>
+        <target>2進法</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="65129" identifier="b920d7fc4ac1961a6c17906512fe587a" translate="no" approved="yes">
+        <source>/static/courses/csintro/binary/binary-crt.png</source>
+        <target>static/courses/csintro/binary/binary-crt.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="65130" identifier="b321d60356b838d59b968e7e6aea9cf9" approved="yes">
+        <source>Binary numbers shown on a monitor</source>
+        <target>Binary numbers shown on a monitor</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="65131" identifier="b3e2d7c6b778ac38d26cd2e5b7bf87e3" approved="yes">
+        <source>This lesson presents the concept of binary digits and base-2 notation.  Students will learn how data is stored digitally and how it can be read and accessed.</source>
+        <target>このレッスンでは、ビットとバイトの概念を理解し、情報がどのようにデジタル情報として保存され、どのように読み込まれたりアクセスされるか学びます。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="65132" identifier="26dd08dfa013898b7cb6a1c7e90797c5" translate="no" approved="yes">
+        <source>Lesson objectives</source>
+        <target>このレッスンの目標</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="65133" identifier="e0817cf105df8d1ea187988749bf3fae" translate="no" approved="yes">
+        <source>Students will...</source>
+        <target>生徒は以下のことを学ぶことができます。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="65134" identifier="f7fcddd9b94ffe357144063f2e9bbc2e" approved="yes">
+        <source>Understand what bits and bytes are and how they relate to computers and the way information is processed and stored.</source>
+        <target>ビットとバイトの概念、コンピュータがそれを利用してどのように情報処理および保管をするのかを理解します。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="65135" identifier="30086e760cb1b65d6dadb45860e598c4" approved="yes">
+        <source>Learn to count in Base-2 (binary) and translate numbers from Base-10 (decimal) to binary and decimal.</source>
+        <target>2進数で数を数える方法と10進数から2進数への数字の変換の方法を学びます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65136" identifier="a1a6cbe05b643c3c7c2b251936e09977" approved="yes">
+        <source>Apply the above knowledge and skills to create a unique program that uses binary counting as an integral part of the program.</source>
+        <target>学習したことを活用して、二進数をカウントするプログラムを作ります。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="65137" identifier="3838b64c42212f57cceceb308e203e82" translate="no" approved="yes">
+        <source>Lesson structure</source>
+        <target>学習の進め方</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="65138" identifier="91fa40292b5f7adf57f4feae2fdca15e" approved="yes">
+        <source>Introduction: Bits and Bytes</source>
+        <target>はじめに: ビットとバイト</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="65139" identifier="61653f288f04706be7122ac6b23d3c04" approved="yes">
+        <source>Unplugged Activity: Binary Vending Machine</source>
+        <target>アンプラグド: バイナリの自動販売機</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65140" identifier="1d2f06037b1152efa5f340bcf6cd4c56" approved="yes">
+        <source>micro:bit Activity: Binary Transmogrifier</source>
+        <target>アクティビティ: バイナリ変圧器</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="65141" identifier="b9044e69c9753cc27b5f2b4f7e334d48" approved="yes">
+        <source>Project: Make a Binary Cash Register</source>
+        <target>プロジェクト: バイナリ キャッシュ レジスタを作る</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="65142" identifier="e6b6f3520b9a0354833d906648ec2446" translate="no" approved="yes">
+        <source>Assessment: Rubric</source>
+        <target>評価・評価のポイント</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[5]</note>
+      </trans-unit>
+      <trans-unit id="65143" identifier="b7ac2d948c789f2453cd825e3e498551" approved="yes">
+        <source>Standards: Listed</source>
+        <target>CSTA基準一覧</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[6]</note>
+      </trans-unit>
+      <trans-unit id="65144" identifier="9cf1de56b81b7a97f6f15443f691e46e" translate="no" approved="yes">
+        <source>Lesson plan</source>
+        <target>学習プラン</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="65145" identifier="16c6377b1a5dc6febd4b001b8cdca9ea" translate="no">
+        <source>/courses/csintro/binary/overview</source>
+        <target>/courses/csintro/binary/overview</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="65146" identifier="7e882197e59bae38e66d492430e9146d" approved="yes">
+        <source>&lt;strong&gt;Overview&lt;/strong&gt;: Bits, bytes, binary</source>
+        <target>&lt;strong&gt;概要&lt;/strong&gt;: ビット、バイト、バイナリ</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li/a</note>
+      </trans-unit>
+      <trans-unit id="65147" identifier="a6800c76e248d25fd9249f30152e680a" translate="no">
+        <source>/courses/csintro/binary/unplugged</source>
+        <target>/courses/csintro/binary/unplugged</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[2]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="65148" identifier="3098a1719efde3c87c1cf2bb6ccf9741" approved="yes">
+        <source>&lt;strong&gt;Unplugged&lt;/strong&gt;: Binary vending machine</source>
+        <target>&lt;strong&gt;アンプラグド&lt;/strong&gt;: バイナリの自動販売機</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[2]/a</note>
+      </trans-unit>
+      <trans-unit id="65149" identifier="4daed153c36ce9ffbd9275de4058f5dd" translate="no">
+        <source>/courses/csintro/binary/activity</source>
+        <target>/courses/csintro/binary/activity</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[3]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="65150" identifier="5a83d679889d6e5a4726af837ba7c91a" approved="yes">
+        <source>&lt;strong&gt;Activity&lt;/strong&gt;: Binary transmogrifier</source>
+        <target>&lt;strong&gt;アクティビティ&lt;/strong&gt;: バイナリ変圧器</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[3]/a</note>
+      </trans-unit>
+      <trans-unit id="65151" identifier="4169e499ff335a65de8488fe8575df8f" translate="no">
+        <source>/courses/csintro/binary/project</source>
+        <target>/courses/csintro/binary/project</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[4]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="65152" identifier="b71517052a592bf5e53e10136eca72a6" approved="yes">
+        <source>&lt;strong&gt;Project&lt;/strong&gt;: Make binary a cash register</source>
+        <target>&lt;strong&gt;プロジェクト&lt;/strong&gt;: バイナリキャッシュ レジスタを作る</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[4]/a</note>
+      </trans-unit>
+      <trans-unit id="65153" identifier="6200381ea0a764cd6263f01538849fbb" translate="no" approved="yes">
+        <source>Related standards</source>
+        <target>関連する教育標準</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[4]</note>
+      </trans-unit>
+      <trans-unit id="65154" identifier="f58f57daab6a004321ec7328e630aaca" translate="no">
+        <source>/courses/csintro/binary/standards</source>
+        <target>/courses/csintro/binary/standards</target>
+        <note>Context: Link Resource&#13;
+XPath: /p[4]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="65155" identifier="5108ff4fa493ada8902180e847693101" translate="no" approved="yes">
+        <source>Targeted CSTA standards</source>
+        <target>CSTA標準</target>
+        <note>Context: Anchor Link&#13;
+XPath: /p[4]/a</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

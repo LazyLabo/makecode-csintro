@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1876" original="/microbit/docs/courses/csintro/radio.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="67958" identifier="c210d2921583b36fa576afb4bdb55df7" approved="yes">
+        <source>Radio and Communication</source>
+        <target>無線とコミュニケーション</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="67959" identifier="7f79c1b230a691ac9350593a0f79bfde" translate="no" approved="yes">
+        <source>/static/courses/csintro/radio/combo-box.png</source>
+        <target>/static/courses/csintro/radio/combo-box.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67960" identifier="31de35569a683344580473f1d30883be" approved="yes">
+        <source>Combo Box Example</source>
+        <target>Combo Box Example</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67961" identifier="96918e721c10347893035c4628fd9fe0" approved="yes">
+        <source>This lesson covers the use of more than one micro:bit to share and combine data.</source>
+        <target>このレッスンでは一つ以上のmicro:bitを利用してデータを共有したり、まとめたりしてみます。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="67962" identifier="61b5c184c97d74780ce461479a77b103" approved="yes">
+        <source>Students will explore a complex epidemiological program (Infection) that demonstrates the Radio functionality of the micro:bit.</source>
+        <target>このレッスンで生徒は複雑な感染プログラムを通してmicro:bitの無線機能がどのように動くかを試すことになります。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="67963" identifier="b1456ae26a7552d0942edb9d0432c96a" approved="yes">
+        <source>Students will send and receive numbers and strings in a series of guided activities.</source>
+        <target>生徒はアクティビティを通して数や文字列などを送ったり受け取ったりします。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="67964" identifier="62bf97a4a3fcd1741d1fa0a221e8d3f1" approved="yes">
+        <source>Finally, students are asked to collaborate so that they can share their micro:bits and create a project together.</source>
+        <target>レッスンの最後では生徒同士で協力しながら複数のmicro:bitを使ってプロジェクトに取り組みます。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="67965" identifier="26dd08dfa013898b7cb6a1c7e90797c5" translate="no" approved="yes">
+        <source>Lesson objectives</source>
+        <target>このレッスンの目標</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="67966" identifier="e0817cf105df8d1ea187988749bf3fae" translate="no" approved="yes">
+        <source>Students will...</source>
+        <target>生徒は以下のことを学ぶことができます。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="67967" identifier="4c9cec20db1550fd37dca54e70831e94" approved="yes">
+        <source>Understand how to use the Radio blocks to send and receive data between micro:bits</source>
+        <target>無線ブロックを利用してmicro:bit同士でデータのやり取りをする方法を理解する。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="67968" identifier="bd6df4290a80ec0781373b1dc572c0f9" approved="yes">
+        <source>Understand the specific types of data that can be sent over the Radio</source>
+        <target>どのタイプのデータであれば無線で送受信することができるかを理解する。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67969" identifier="3838b64c42212f57cceceb308e203e82" translate="no" approved="yes">
+        <source>Lesson structure</source>
+        <target>学習の進め方</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="67970" identifier="15840cfa60f666163348bf15bb327ae8" approved="yes">
+        <source>Introduction: Radio &amp;amp; communication</source>
+        <target>はじめに: 無線・通信</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="67971" identifier="f164060d250c170e5a27e9670f7f74f8" approved="yes">
+        <source>Unplugged Activity: Infection simulation</source>
+        <target>アンプラグド: 感染シミュレーション</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67972" identifier="4fe63590d557cee509710bab6001acce" approved="yes">
+        <source>micro:bit Activity: Marco Polo &amp;amp; Morse Code</source>
+        <target>マイクロ: ビット: マルコ ・ ポーロ ・ モールス信号</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67973" identifier="3d9741cc9fdd96e5adba2d176db7a6fb" approved="yes">
+        <source>Project: Radio</source>
+        <target>プロジェクト: 無線</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="67974" identifier="e6b6f3520b9a0354833d906648ec2446" translate="no" approved="yes">
+        <source>Assessment: Rubric</source>
+        <target>評価・評価のポイント</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[5]</note>
+      </trans-unit>
+      <trans-unit id="67975" identifier="b7ac2d948c789f2453cd825e3e498551" translate="no" approved="yes">
+        <source>Standards: Listed</source>
+        <target>CSTA基準一覧</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[6]</note>
+      </trans-unit>
+      <trans-unit id="67976" identifier="9cf1de56b81b7a97f6f15443f691e46e" translate="no" approved="yes">
+        <source>Lesson plan</source>
+        <target>学習プラン</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="67977" identifier="ff2060e12ef83d709aa9aa5adc283f29" translate="no" approved="yes">
+        <source>/courses/csintro/radio/overview</source>
+        <target>/courses/csintro/algorithms/overview</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="67978" identifier="2aca3c61a5f7d5e3db990ba8f04ad28d" approved="yes">
+        <source>&lt;strong&gt;Overview&lt;/strong&gt;: Radio and communications</source>
+        <target>&lt;strong&gt;概要&lt;/strong&gt;: 無線と通信</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li/a</note>
+      </trans-unit>
+      <trans-unit id="67979" identifier="f8be7877ef5b4fc94f281e4aee111780" translate="no" approved="yes">
+        <source>/courses/csintro/radio/unplugged</source>
+        <target>/courses/csintro/algorithms/unplugged</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[2]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="67980" identifier="5a0c9ecc16f52d28c05e40ba848ee7b8" approved="yes">
+        <source>&lt;strong&gt;Unplugged&lt;/strong&gt;: Infection simulation</source>
+        <target>&lt;strong&gt;アンプラグド&lt;/strong&gt;: 感染シミュレーション</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[2]/a</note>
+      </trans-unit>
+      <trans-unit id="67981" identifier="e6dbfaf437dbc48b28dbfd733f6af7f9" translate="no" approved="yes">
+        <source>/courses/csintro/radio/activity</source>
+        <target>/courses/csintro/algorithms/activity</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[3]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="67982" identifier="aaa520f21b24f7b96d3cfa5169a3223d" approved="yes">
+        <source>&lt;strong&gt;Activity&lt;/strong&gt;: Marco Polo and Morse code</source>
+        <target>&lt;strong&gt;アクティビティ&lt;/strong&gt;: マルコ ・ ポーロとモールス信号</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[3]/a</note>
+      </trans-unit>
+      <trans-unit id="67983" identifier="69b2321f7e044a69a85d20549c3994a3" translate="no" approved="yes">
+        <source>/courses/csintro/radio/project</source>
+        <target>/courses/csintro/radio/project</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[4]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="67984" identifier="a4ca0fb06cf2f8055bcc99fc152f3f0c" approved="yes">
+        <source>&lt;strong&gt;Project&lt;/strong&gt;: Radio project</source>
+        <target>&lt;strong&gt;プロジェクト&lt;/strong&gt;: 無線プロジェクト</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[4]/a</note>
+      </trans-unit>
+      <trans-unit id="67985" identifier="6200381ea0a764cd6263f01538849fbb" translate="no" approved="yes">
+        <source>Related standards</source>
+        <target>関連する教育標準</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[4]</note>
+      </trans-unit>
+      <trans-unit id="67986" identifier="0a000f370309ebc8be56ce673782aa88" translate="no" approved="yes">
+        <source>/courses/csintro/radio/standards</source>
+        <target>/courses/csintro/radio/standards</target>
+        <note>Context: Link Resource&#13;
+XPath: /p[4]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="67987" identifier="5108ff4fa493ada8902180e847693101" translate="no" approved="yes">
+        <source>Targeted CSTA standards</source>
+        <target>CSTA標準</target>
+        <note>Context: Anchor Link&#13;
+XPath: /p[4]/a</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1863" original="/microbit/docs/courses/csintro/making.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="67320" identifier="a993386b9f7ffbc6f8bd2fbf70da7fca" approved="yes">
+        <source>Making with micro:bit</source>
+        <target>はじめてのマイクロ:ビット</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="67321" identifier="c2c4086c36885ec50708dd6fa83d4e88" approved="yes">
+        <source>This Lesson introduces the micro:bit as a piece of hardware that has a specific size and weight, and
+generally must be supported and incorporated as an essential component of a tangible artifact.</source>
+        <target>このレッスンではマイクロビットの基本的な構造とその使い方を紹介します。</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="67322" identifier="b20777fe5c65367a16983cbd23fc6be8" approved="yes">
+        <source>Focus
+on incorporating the physical micro:bit into a basic making activity.</source>
+        <target>micro:bitを使った簡単な実習を行います。</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="67323" identifier="0f1e14c638ea6c4792b6301a6eaad4ef" translate="no">
+        <source>/static/courses/csintro/making/microbit-board.png</source>
+        <target state="translated">/static/courses/csintro/making/microbit-board.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[2]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67324" identifier="f6988dead35777964ae0393fbf5fb250" translate="no" approved="yes">
+        <source>micro:bit board</source>
+        <target>micro:bitボード</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[2]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67325" identifier="26dd08dfa013898b7cb6a1c7e90797c5" translate="no" approved="yes">
+        <source>Lesson objectives</source>
+        <target>このレッスンの目標</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="67326" identifier="e0817cf105df8d1ea187988749bf3fae" translate="no" approved="yes">
+        <source>Students will...</source>
+        <target>生徒は以下のことを学ぶことができます。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="67327" identifier="07b4acd3effda49ce6707b81ac484487" approved="yes">
+        <source>Exercise creativity and resourcefulness by coming up with ideas for using simple household materials to accommodate the micro:bit’s size and weight in many different ways.</source>
+        <target>身近にあるものとmicro:bitを組み合わせてさまざまなアイデアを試すことを通して、創造性と問題解決能力を試します。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="67328" identifier="f5fe2f455847cf61b4d53e72df13f461" approved="yes">
+        <source>Test and iterate using different materials and sizes in order to create an optimal design to house the micro:bit and battery pack</source>
+        <target>micro:bitとそれを稼働させるための電池を格納する容器を身近に手に入るものを使って作ってみます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67329" identifier="8f7ef9bc9d010c6392cf30f3d4ccd238" approved="yes">
+        <source>Learn how to download programs and move them to the micro:bit file to run on the micro:bit.</source>
+        <target>プログラムのダウンロードの仕方、そしてダウンロードしたプログラムをmicro:bitに転送して実行する方法を学びます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67330" identifier="9b644d01df978c7eb919edceefe55cac" approved="yes">
+        <source>Use the design thinking process to develop an understanding for a problem or user need.</source>
+        <target>デザイン・シンキングの手法を利用して問題を理解し、ユーザーのニーズの理解を試みます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[4]</note>
+      </trans-unit>
+      <trans-unit id="67331" identifier="bf4f59fe490887cd214bd382b3830a74" approved="yes">
+        <source>Apply their understanding in a creative way by making a “micro:pet” creature.</source>
+        <target>micro:petを作ることを通して創造的に問題・課題を解決する方法を理解します。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[5]</note>
+      </trans-unit>
+      <trans-unit id="67332" identifier="3591f946d7e806c4f5e843c8c16805e5" translate="no" approved="yes">
+        <source>Lesson plan</source>
+        <target>学習プラン</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="67333" identifier="cc1f8315508000d2570196b77afd748e" translate="no">
+        <source>/courses/csintro/making/introduction</source>
+        <target>/courses/csintro/making/introduction</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[2]/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="67334" identifier="f9a1d101f849635358ec8e5bf1228ba2" approved="yes">
+        <source>&lt;strong&gt;Introduction&lt;/strong&gt;: The micro:bit is for making</source>
+        <target>&lt;strong&gt; はじめに &lt;/strong&gt;: ようこそマイクロ:ビットの世界へ</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[2]/li/a</note>
+      </trans-unit>
+      <trans-unit id="67335" identifier="75ea61f32721e01fa45e1a24a7eafe43" translate="no">
+        <source>/courses/csintro/making/unplugged</source>
+        <target>/courses/csintro/making/unplugged</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[2]/li[2]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="67336" identifier="20556ea7ca854df932bb04be4fdfc1cf" approved="yes">
+        <source>&lt;strong&gt;Unplugged&lt;/strong&gt;: Design Thinking</source>
+        <target>&lt;strong&gt;アンプラグド&lt;/strong&gt;: デザイン思考</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[2]/li[2]/a</note>
+      </trans-unit>
+      <trans-unit id="67337" identifier="ea6eacab365188d0251d4bfb9db48da4" translate="no">
+        <source>/courses/csintro/making/activity</source>
+        <target>/courses/csintro/making/activity</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[2]/li[3]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="67338" identifier="19bd34aedb469846d2366d67ad66b656" approved="yes">
+        <source>&lt;strong&gt;Activity&lt;/strong&gt;: MakeCode download</source>
+        <target>&lt;strong&gt;アクティビティ&lt;/strong&gt;: MakeCode をダウンロードしよう</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[2]/li[3]/a</note>
+      </trans-unit>
+      <trans-unit id="67339" identifier="cb136071d92419e45b66b16fc712c1ee" translate="no">
+        <source>/courses/csintro/making/project</source>
+        <target>/courses/csintro/making/project</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[2]/li[4]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="67340" identifier="02f825f897c75d8ecdeab3079973bb79" approved="yes">
+        <source>&lt;strong&gt;Project&lt;/strong&gt;: micro:pet (including mods and rubric)</source>
+        <target>&lt;strong&gt;プロジェクト&lt;/strong&gt;: マイクロ: ペット</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[2]/li[4]/a</note>
+      </trans-unit>
+      <trans-unit id="67341" identifier="ec093311a59de127ea5c1004b9faa113" translate="no" approved="yes">
+        <source>Related standards</source>
+        <target>関連する教育標準</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="67342" identifier="ba6bf8efe9630c8035f2539cc207fd5b" translate="no">
+        <source>/courses/csintro/making/standards</source>
+        <target>/courses/csintro/making/standards</target>
+        <note>Context: Link Resource&#13;
+XPath: /p[4]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="67343" identifier="5108ff4fa493ada8902180e847693101" translate="no" approved="yes">
+        <source>Targeted CSTA standards</source>
+        <target>CSTA標準</target>
+        <note>Context: Anchor Link&#13;
+XPath: /p[4]/a</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

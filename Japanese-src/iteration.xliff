@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1856" original="/microbit/docs/courses/csintro/iteration.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="67115" identifier="db3709e56c94efcbee30314f4c0b7e93" approved="yes">
+        <source>Iteration &amp;amp; Looping</source>
+        <target>繰り返しとループ</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="67116" identifier="d41ef4e3e37014464f4c7443c3bb89cf" translate="no" approved="yes">
+        <source>/static/courses/csintro/iteration/guitar.jpg</source>
+        <target>/static/courses/csintro/iteration/guitar.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67117" identifier="3f722f191405c955077bb4ca307913d7" approved="yes">
+        <source>Guitar Picture</source>
+        <target>Guitar Picture</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67118" identifier="7b24899fb12aa9c8eb8fc10afe382678" approved="yes">
+        <source>This lesson introduces the concept of looping and iteration. Presents the 'While' block as a combination of an iteration and a conditional statement.</source>
+        <target>このレッスンではループと繰り返しのコンセプトを理解します。&quot;while&quot;文を通して繰り返し処理と分岐処理のうごきを理解します。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="67119" identifier="26dd08dfa013898b7cb6a1c7e90797c5" translate="no" approved="yes">
+        <source>Lesson objectives</source>
+        <target>このレッスンの目標</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="67120" identifier="e0817cf105df8d1ea187988749bf3fae" translate="no" approved="yes">
+        <source>Students will...</source>
+        <target>生徒は以下のことを学ぶことができます。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="67121" identifier="69af485c99b6845cb7ea88d531a3424f" approved="yes">
+        <source>Understand the value of iteration in programming</source>
+        <target>プログラミングにおいて繰り返し処理がどれだけ価値があるのかを理解します。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="67122" identifier="784ff75b176bfe92755c6b10abca557f" approved="yes">
+        <source>Understand looping as a form of iteration</source>
+        <target>繰り返し処理の一つの方法としてループを学習します。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67123" identifier="33631ee5db0f421a6e70ccfe232fc744" approved="yes">
+        <source>Learn how and when to use the Looping blocks ‘repeat’, ‘while’, and ‘for’</source>
+        <target>&quot;repeat&quot;, &quot;while&quot;, &quot;for&quot;などの繰り返し処理をいつどのようなときに利用するかを学習します。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67124" identifier="18a225c6f794852b5939de215f1a8ad5" approved="yes">
+        <source>Apply the above knowledge and skills to create a unique program that uses iteration and looping as an integral part of the program</source>
+        <target>学習したことを活用して繰り返しとループを利用したプログラムを作成します。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[4]</note>
+      </trans-unit>
+      <trans-unit id="67125" identifier="3838b64c42212f57cceceb308e203e82" translate="no" approved="yes">
+        <source>Lesson structure</source>
+        <target>学習の進め方</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="67126" identifier="2dba3ca1db92d9e28cc71c8ca2bd369b" approved="yes">
+        <source>Introduction: Lather. Rinse. Repeat.</source>
+        <target>はじめに：せっけんの泡、リンス、繰り返し。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="67127" identifier="46e6b6835a056c1c2ca5caf0056c49cf" approved="yes">
+        <source>Unplugged Activity: Walk a Square pseudocode</source>
+        <target>アンプラグド：Walk a Square pseudocode</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67128" identifier="a29112ed44aaa7f2814154359ec0929a" approved="yes">
+        <source>micro:bit Activities: Code a sprite to walk a Square, travelling light, micro:bit alarm!</source>
+        <target>micro:bitアクティビティ: Code a sprite to walk a Square, travelling light, micro:bit alarm!</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67129" identifier="931a466f1af91d624f2809b80118293a" approved="yes">
+        <source>Project: Get Loopy!</source>
+        <target>プロジェクト: ループ！</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="67130" identifier="a3f104b6786184fc07aab367bf0025d9" approved="yes">
+        <source>Project Mods: Use servo motors to add a motion element to the project</source>
+        <target>応用プロジェクト: サーボモーターを使って動くものを作ってみる</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[5]</note>
+      </trans-unit>
+      <trans-unit id="67131" identifier="ac8c3833263257155b01ff40dbe16e22" translate="no" approved="yes">
+        <source>Assessment: Rubric</source>
+        <target>評価・評価のポイント</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[6]</note>
+      </trans-unit>
+      <trans-unit id="67132" identifier="d1b8bbc9f495eb6235ea800b7030d4b6" translate="no" approved="yes">
+        <source>Standards: Listed</source>
+        <target>CSTA基準一覧</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[7]</note>
+      </trans-unit>
+      <trans-unit id="67133" identifier="9cf1de56b81b7a97f6f15443f691e46e" translate="no" approved="yes">
+        <source>Lesson plan</source>
+        <target>学習プラン</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="67134" identifier="111f60cf62c1bfc1f89e3af6b9e121b9" translate="no">
+        <source>/courses/csintro/iteration/overview</source>
+        <target>/courses/csintro/iteration/overview</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="67135" identifier="925d3ac136d2f6ee8b95c88c4966fbe3" approved="yes">
+        <source>&lt;strong&gt;Overview&lt;/strong&gt;: Iteration and looping</source>
+        <target>&lt;strong&gt;はじめに&lt;/strong&gt;: 繰り返しとループ</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li/a</note>
+      </trans-unit>
+      <trans-unit id="67136" identifier="50b5c2e4f94abe56aea6fc5c893ad91c" translate="no">
+        <source>/courses/csintro/iteration/unplugged</source>
+        <target>/courses/csintro/iteration/unplugged</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[2]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="67137" identifier="f506a0715e5d5db4f1f0db28c13ab636" approved="yes">
+        <source>&lt;strong&gt;Unplugged&lt;/strong&gt;: Walk a square</source>
+        <target>&lt;strong&gt;アンプラグド&lt;/strong&gt;: 四角を歩こう </target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[2]/a</note>
+      </trans-unit>
+      <trans-unit id="67138" identifier="c1d6964603063ee193f2c1ca382ae553" translate="no">
+        <source>/courses/csintro/iteration/activity</source>
+        <target>/courses/csintro/iteration/activity</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[3]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="67139" identifier="18803909f243b7ebecd1b141e6b885c2" approved="yes">
+        <source>&lt;strong&gt;Activity&lt;/strong&gt;: Loops demos</source>
+        <target>&lt;strong&gt;アンプラグド&lt;/strong&gt;: ループのデモ </target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[3]/a</note>
+      </trans-unit>
+      <trans-unit id="67140" identifier="d9f69b3a83edb7c41a8c37460f79d393" translate="no">
+        <source>/courses/csintro/iteration/project</source>
+        <target>/courses/csintro/iteration/project</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[4]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="67141" identifier="16994a0bc8415d95eb06df8a46a1d4dc" approved="yes">
+        <source>&lt;strong&gt;Project&lt;/strong&gt;: Get loopy</source>
+        <target>&lt;strong&gt;プロジェクト&lt;/strong&gt;: ループ！</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[4]/a</note>
+      </trans-unit>
+      <trans-unit id="67142" identifier="6200381ea0a764cd6263f01538849fbb" translate="no" approved="yes">
+        <source>Related standards</source>
+        <target>関連する教育標準</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[4]</note>
+      </trans-unit>
+      <trans-unit id="67143" identifier="06174075bc33c6236f3f461a45a2f77a" translate="no">
+        <source>/courses/csintro/iteration/standards</source>
+        <target>/courses/csintro/iteration/standards</target>
+        <note>Context: Link Resource&#13;
+XPath: /p[4]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="67144" identifier="5108ff4fa493ada8902180e847693101" translate="no" approved="yes">
+        <source>Targeted CSTA standards</source>
+        <target>CSTA標準</target>
+        <note>Context: Anchor Link&#13;
+XPath: /p[4]/a</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

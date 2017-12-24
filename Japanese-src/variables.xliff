@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1885" original="/microbit/docs/courses/csintro/variables.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="68528" identifier="d0aa3977b26b846cc8bdc94447519c0b" translate="no" approved="yes">
+        <source>Variables</source>
+        <target>変数</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="70467" identifier="8a38c35e995e9ba2e1a91c42dbb05cc5" translate="no" approved="yes">
+        <source>/static/courses/csintro/variables/cover.jpg</source>
+        <target>/static/courses/csintro/variables/cover.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="70468" identifier="07d0b49c0ae1b45853e1694e5ecc0c51" approved="yes">
+        <source>Variable value</source>
+        <target>Variable value</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="70469" identifier="0c3a93f0be34fdab047386c935af020a" approved="yes">
+        <source>This lesson introduces the use of variables to store data or the results of mathematical operations.</source>
+        <target>このレッスンでは、データや数値演算の結果を格納するための変数を学びます。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="70470" identifier="9b700696a2374373e58780689dfce3ef" approved="yes">
+        <source>Students will practice giving variables unique and meaningful names.</source>
+        <target>生徒はどうやって変数を作るかを学びます。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="70471" identifier="dfa00927b730a19c75cb3011f257e326" approved="yes">
+        <source>We will also introduce the basic mathematical operations for adding, subtracting, multiplying, and dividing variables.</source>
+        <target>また、変数を利用して基礎的な数値演算、足し算、掛け算、割り算、引き算を行います。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="68534" identifier="44c74a5e0eb31e38ef24a9a8a7625379" approved="yes">
+        <source>Lesson Objectives</source>
+        <target>このレッスンの目標</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="70472" identifier="e0817cf105df8d1ea187988749bf3fae" translate="no" approved="yes">
+        <source>Students will...</source>
+        <target>生徒は以下のことを学ぶことができます。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="68536" identifier="924234fb1308ea2700674a0c566f5584" approved="yes">
+        <source>Understand what variables are and why and when to use them in a program.</source>
+        <target>変数とは何か、変数がなぜ必要でどのようなときにプログラムで利用するのかを学びます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="68537" identifier="f09c4cceb77c47c7c17f462ea0548695" approved="yes">
+        <source>Learn how to create a variable, set the variable to an initial value, and change the value of the variable within a micro:bit program.</source>
+        <target>変数の作り方、変数への値の設定、また変数の値を変更する方法をmicro:bit上のプログラムを通して学びます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="68538" identifier="0ad52994c75b6cb94aa48b4e2fbe6495" approved="yes">
+        <source>Learn how to create meaningful and understandable variable names.</source>
+        <target>意味がありかつわかりやすい変数の名前の付け方を学びます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="68539" identifier="dab265e9ee1791ca135b6eb482a2f1b3" approved="yes">
+        <source>Understand that a variable holds one value at a time.</source>
+        <target>変数は一度に一つの値しか保存できないことを学びます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[4]</note>
+      </trans-unit>
+      <trans-unit id="68540" identifier="cd5f32b3beb817ea5e09957c7b7ed2f2" approved="yes">
+        <source>Understand that when you update or change the value held by a variable, the new value replaces the previous value.</source>
+        <target>変数の値を更新または変更すると、前に保管されていた値が新しい値で上書きされることを理解します。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[5]</note>
+      </trans-unit>
+      <trans-unit id="68541" identifier="6556fbf864c2902c73a41ec7c55fc2f2" approved="yes">
+        <source>Learn how to use the basic mathematical blocks for adding, subtracting, multiplying, and dividing variables.</source>
+        <target>基礎的な演算、足し算、引き算、掛け算、割り算の方法を学びます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[6]</note>
+      </trans-unit>
+      <trans-unit id="68542" identifier="88502d5d7c9cec1528a3999ea9aa114d" approved="yes">
+        <source>Apply the above knowledge and skills to create a unique program that uses variables as an integral part of the program.</source>
+        <target>学んだことを活用してプログラムの作成を行います。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[7]</note>
+      </trans-unit>
+      <trans-unit id="68543" identifier="3591f946d7e806c4f5e843c8c16805e5" translate="no" approved="yes">
+        <source>Lesson plan</source>
+        <target>学習プラン</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="68544" identifier="0093a7d4e9677a19005f062e5e6bcfa6" translate="no" approved="yes">
+        <source>/courses/csintro/variables/overview</source>
+        <target>/courses/csintro/variables/overview</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68545" identifier="24ca8315e6e365ba0e00eeddb992b2db" approved="yes">
+        <source>&lt;strong&gt;Overview&lt;/strong&gt;: Variables in Daily Life</source>
+        <target>&lt;strong&gt;概要&lt;/strong&gt;: 日常生活の中の変数</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li/a</note>
+      </trans-unit>
+      <trans-unit id="68546" identifier="815b1215ac46108ed66e6d48051e461b" translate="no" approved="yes">
+        <source>/courses/csintro/variables/unplugged</source>
+        <target>/courses/csintro/variables/unplugged</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[2]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68547" identifier="6ebb8100e56e62526f0ca87a473e9116" approved="yes">
+        <source>&lt;strong&gt;Unplugged&lt;/strong&gt;: Rock Paper Scissors</source>
+        <target>&lt;strong&gt;アクティビティ&lt;/strong&gt;: じゃんけんぽん </target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[2]/a</note>
+      </trans-unit>
+      <trans-unit id="68548" identifier="7211734f4081ebc950d7ac6410bb463d" translate="no" approved="yes">
+        <source>/courses/csintro/variables/activity</source>
+        <target>/courses/csintro/variables/activity</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[3]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68549" identifier="670ebd07d1faee8e8a1c779b16915321" approved="yes">
+        <source>&lt;strong&gt;Activity&lt;/strong&gt;: Make a Game Scorekeeper</source>
+        <target>&lt;strong&gt;活動&lt;/strong&gt;: スコアキーパーを作ろう</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[3]/a</note>
+      </trans-unit>
+      <trans-unit id="68550" identifier="14f362e49720eb17f29aac7e9a4d5aec" translate="no" approved="yes">
+        <source>/courses/csintro/variables/project</source>
+        <target>/courses/csintro/variables/project</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[4]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="68551" identifier="ddf507cd3dc98142e09ac95df7180f38" approved="yes">
+        <source>&lt;strong&gt;Project&lt;/strong&gt;: Everything Counts</source>
+        <target>&lt;strong&gt;プロジェクト&lt;/strong&gt;: なんでもカウントしてみよう</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[4]/a</note>
+      </trans-unit>
+      <trans-unit id="68552" identifier="ec093311a59de127ea5c1004b9faa113" translate="no" approved="yes">
+        <source>Related standards</source>
+        <target>関連する教育標準</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="70473" identifier="b30f66b27baafb42c0a516f8d96e76a5" translate="no">
+        <source>/courses/csintro/variables/standards</source>
+        <target state="translated">/courses/csintro/variables/standards</target>
+        <note>Context: Link Resource&#13;
+XPath: /p[4]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="70474" identifier="5108ff4fa493ada8902180e847693101" translate="no" approved="yes">
+        <source>Targeted CSTA standards</source>
+        <target>CSTA標準</target>
+        <note>Context: Anchor Link&#13;
+XPath: /p[4]/a</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

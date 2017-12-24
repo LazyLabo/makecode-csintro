@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1807" original="/microbit/docs/courses/csintro/algorithms.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="64379" identifier="5e6fd043531f72fab4d1b645e9b01a38" approved="yes">
+        <source>Algorithms</source>
+        <target>アルゴリズム</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="64380" identifier="be27922b9b9670ddfaab55f26505e90c" approved="yes">
+        <source>This lesson introduces a conceptual framework for thinking of a computing device as something that uses code to process one or more inputs and send them to an output(s).</source>
+        <target>このレッスンでは、一つまたは複数の入力を処理して、何かしらの出力を行う簡単なプログラムを通して、コンピュータがどう動くのか、その概要と概念を紹介します。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="64381" identifier="26dd08dfa013898b7cb6a1c7e90797c5" approved="yes">
+        <source>Lesson objectives</source>
+        <target>このレッスンの目標</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="64382" identifier="20b54e00190578c7a4f543e9ebd2b672" approved="yes">
+        <source>Students will...</source>
+        <target>生徒は以下のことを学ぶことができます。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="64383" identifier="2f0178f9d5d4ab849a93ea926f92fc46" approved="yes">
+        <source>Understand the four components that make up a computer and their functions.</source>
+        <target>コンピューターとその機能を構成する 4 つのコンポーネントを理解します。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="64384" identifier="7b160fc77164092692116b34fc6ae565" approved="yes">
+        <source>Understand that the micro:bit takes input, and after processing the input, produces output.</source>
+        <target>micro:bitがどのように入力を得るか、そして入力を処理したあとにどのように出力をおこなうかを理解します。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64385" identifier="6011967215f19036a1cf3ec646b3db8f" approved="yes">
+        <source>Learn the variety of different types of information the micro:bit takes in as input.</source>
+        <target>さまざまな異なるタイプの入力をmicro:bitが処理できることを学びます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="64386" identifier="4419043d4ec180ded8c0cb03adbdd436" approved="yes">
+        <source>Apply this knowledge by creating a micro:bit program that takes input and produces an output.</source>
+        <target>入力を得て出力を行うプログラムをmicro:bit上で実際に作成してみます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[4]</note>
+      </trans-unit>
+      <trans-unit id="64387" identifier="3591f946d7e806c4f5e843c8c16805e5" approved="yes">
+        <source>Lesson plan</source>
+        <target>学習プラン</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="64388" identifier="af8a5b23da8d0fca90fd9b161cf6e643" translate="no" approved="yes">
+        <source>/courses/csintro/algorithms/overview</source>
+        <target>/courses/csintro/algorithms/overview</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="64389" identifier="5119885936132cd7b780dca781100375" approved="yes">
+        <source>&lt;strong&gt;Overview&lt;/strong&gt;: What is a computer and micro:bit hardware</source>
+        <target>&lt;strong&gt;概要&lt;/strong&gt;: コンピュータとは何か? micro:bitのハードウェアを理解する</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li/a</note>
+      </trans-unit>
+      <trans-unit id="64390" identifier="9158180b5373c53200fe1e8ca80349db" translate="no" approved="yes">
+        <source>/courses/csintro/algorithms/unplugged</source>
+        <target>/courses/csintro/algorithms/unplugged</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[2]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="64391" identifier="2020dab6b87a5f89b882965bcd83d4b3" approved="yes">
+        <source>&lt;strong&gt;Unplugged&lt;/strong&gt;: What's your function?</source>
+        <target>&lt;strong&gt;アンプラグド&lt;/strong&gt;: あなたの”関数”は何？</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[2]/a</note>
+      </trans-unit>
+      <trans-unit id="64392" identifier="43eb906e1d2cdd3cafd432d2c26c3535" translate="no" approved="yes">
+        <source>/courses/csintro/algorithms/activity</source>
+        <target>/courses/csintro/algorithms/activity</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[3]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="64393" identifier="880a111592be6c8c9b1758ad69ae4922" approved="yes">
+        <source>&lt;strong&gt;Activity&lt;/strong&gt;: Happy face, sad face</source>
+        <target>&lt;strong&gt;アクティビティ&lt;/strong&gt;: 幸せな顔、悲しい顔</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[3]/a</note>
+      </trans-unit>
+      <trans-unit id="64394" identifier="40c3e9baab66cc61bc6c82110814e9f8" translate="no" approved="yes">
+        <source>/courses/csintro/algorithms/project</source>
+        <target>/courses/csintro/algorithms/project</target>
+        <note>Context: Link Resource&#13;
+XPath: /ol/li[4]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="64395" identifier="b60341b79ca807ad9174ca97fdac3f66" approved="yes">
+        <source>&lt;strong&gt;Project&lt;/strong&gt;: Fidget cube</source>
+        <target>&lt;strong&gt;プロジェクト&lt;/strong&gt;: フィジット キューブ</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ol/li[4]/a</note>
+      </trans-unit>
+      <trans-unit id="64396" identifier="ec093311a59de127ea5c1004b9faa113" approved="yes">
+        <source>Related standards</source>
+        <target>関連する教育標準</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="64397" identifier="98d843d0fc42b5d28c9984bbdb67c348" translate="no" approved="yes">
+        <source>/courses/csintro/algorithms/standards</source>
+        <target>/courses/csintro/algorithms/standards</target>
+        <note>Context: Link Resource&#13;
+XPath: /p[3]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="64398" identifier="a05ac6533f3bd7eb0842b8f0697b56dd" approved="yes">
+        <source>Targeted CSTA standards</source>
+        <target>CSTA標準</target>
+        <note>Context: Anchor Link&#13;
+XPath: /p[3]/a</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
