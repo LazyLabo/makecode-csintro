@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1867" original="/microbit/docs/courses/csintro/miniproject/review.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="67485" identifier="0e983c65bb3080496d3943eb0b707933" translate="no">
+        <source>Review</source>
+        <target>Review</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="67486" identifier="b5cd47a6bae3cb02d3a4071153ee698f" translate="no">
+        <source>/static/courses/csintro/miniproject/review.png</source>
+        <target>/static/courses/csintro/miniproject/review.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67487" identifier="0737771164d6939ae8c99e52f982a991">
+        <source>Take another look</source>
+        <target state="needs-translation">Take another look</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67488" identifier="6153753d9767cd86a63039f8e5d2688a">
+        <source>Take this time to review the concepts we have covered so far.</source>
+        <target state="needs-translation">Take this time to review the concepts we have covered so far.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="67489" identifier="2a6a48b8bc44e4bcf1ac20b6eb1d2439" translate="no" approved="yes">
+        <source>Making</source>
+        <target>はじめてみよう</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="67490" identifier="e940ae01ff76cd16268c39fe0fdb366f">
+        <source>The micro:bit is very effective at bringing real things to life.</source>
+        <target state="needs-translation">The micro:bit is very effective at bringing real things to life.</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="67491" identifier="12fb9c511eee5f057c005aa6281a87b1">
+        <source>It can be supported in a cardboard holder, attached to a wand, or even sewn into fabric.</source>
+        <target state="needs-translation">It can be supported in a cardboard holder, attached to a wand, or even sewn into fabric.</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="67492" identifier="a9cc28f2eff2b02f50c9f45102f140b5">
+        <source>The design thinking process is a helpful way to gather more information about the person who will be using whatever you are designing.</source>
+        <target state="needs-translation">The design thinking process is a helpful way to gather more information about the person who will be using whatever you are designing.</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="67493" identifier="367daaab111c9b6991f63908aecb15b7">
+        <source>Processing and algorithms</source>
+        <target state="needs-translation">Processing and algorithms</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="67494" identifier="1c195ec1efe14208f90e29c4c1d7e0a1">
+        <source>The code you write for the micro:bit processes data from its inputs, and outputs it in some way. An algorithm is a series of specific instructions, or steps, that solve a problem or accomplish a task.</source>
+        <target state="needs-translation">The code you write for the micro:bit processes data from its inputs, and outputs it in some way. An algorithm is a series of specific instructions, or steps, that solve a problem or accomplish a task.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="67495" identifier="9b8515f2dd5f8153a1622f4d51e3674a" translate="no">
+        <source>Variables</source>
+        <target>Variables</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="67496" identifier="023ac4b73f1490496916b65f4ad3af21">
+        <source>Variables store information so that it can be accessed or referenced later.</source>
+        <target state="needs-translation">Variables store information so that it can be accessed or referenced later.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="67497" identifier="80932558352a886346b2cc8aa1763cf2">
+        <source>Some variables hold information that changes, and some hold information that stays constant.</source>
+        <target state="needs-translation">Some variables hold information that changes, and some hold information that stays constant.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="67498" identifier="60e576420574f0e340c13b0ad33b243d">
+        <source>It is important to name your variables with something that explains what type of information it holds.</source>
+        <target state="needs-translation">It is important to name your variables with something that explains what type of information it holds.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="67499" identifier="f0f821aa8e533ce1fe8e91b353e6350c">
+        <source>Using variables in your code allows you to create algorithms that use mathematical operations to perform the same calculations every time, even when the values of your variables are different.</source>
+        <target state="needs-translation">Using variables in your code allows you to create algorithms that use mathematical operations to perform the same calculations every time, even when the values of your variables are different.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="67500" identifier="87224ea67ff6634e712755c2ba7b1c6a" translate="no">
+        <source>Conditionals</source>
+        <target state="translated">条件</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[4]</note>
+      </trans-unit>
+      <trans-unit id="67501" identifier="a93c6505662deab81eb396f35f7ba17b">
+        <source>Conditional statements tell the computer when to do something.</source>
+        <target state="needs-translation">Conditional statements tell the computer when to do something.</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="67502" identifier="1b4f340cb6c26554df5195285ac2a3b1">
+        <source>They are used to create branches, or decision points, where a program can choose one path or the other based on the values of certain variables, or based on data from the micro:bit’s inputs.</source>
+        <target state="needs-translation">They are used to create branches, or decision points, where a program can choose one path or the other based on the values of certain variables, or based on data from the micro:bit’s inputs.</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="67503" identifier="7e05250744dfe75aa30df0d8fc721fa5">
+        <source>Conditional statements can be nested inside one another so that both conditions must be true in order for the enclosed statements to run.</source>
+        <target state="needs-translation">Conditional statements can be nested inside one another so that both conditions must be true in order for the enclosed statements to run.</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="67504" identifier="450907617a93c9ae3569bbfe7455303c">
+        <source>Iteration and looping</source>
+        <target state="needs-translation">Iteration and looping</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[5]</note>
+      </trans-unit>
+      <trans-unit id="67505" identifier="e6c47ed62482156555f67d3c1db4fc47">
+        <source>Portions of your code can be made to run over and over by using a Repeat or a For block loop.</source>
+        <target state="needs-translation">Portions of your code can be made to run over and over by using a Repeat or a For block loop.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="67506" identifier="3a499cec1370b17bc41dacd36a736cd6">
+        <source>This allows you to iterate over several different variables, or items in a group, and do something to each of them.</source>
+        <target state="needs-translation">This allows you to iterate over several different variables, or items in a group, and do something to each of them.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="70408" identifier="5ccf5d4419d32a1d5c7404e783f3f582">
+        <source>You can also combine a conditional statement and a loop by using a While block, which will repeat until a certain condition becomes true.</source>
+        <target state="needs-translation">You can also combine a conditional statement and a loop by using a While block, which will repeat until a certain condition becomes true.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

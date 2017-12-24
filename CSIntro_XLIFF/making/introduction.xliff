@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1859" original="/microbit/docs/courses/csintro/making/introduction.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="67188" identifier="913f6422d41f0413a2feb499068e4895" translate="no" approved="yes">
+        <source>Introduction</source>
+        <target>はじめに</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="67189" identifier="304b32a4f9af4f6d878214303ef6e8b5" approved="yes">
+        <source>The micro:bit is a great way to teach the basics of programming and computer science.</source>
+        <target>micro:bitはプログラミング、コンピューターサイエンスの基礎を理解するために作られた小さいコンピュータです。</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="67190" identifier="c4d2517e0bb3fed27d9f980726208e3e" approved="yes">
+        <source>The Microsoft MakeCode block-based coding environment is a powerful and intuitive way to make the micro:bit react to all sorts of input, and you can introduce fundamental concepts such as iteration, conditional statements, and variables using MakeCode.</source>
+        <target>マイクロソフト MakeCode が作成したブロックベースのコーディングツールは強力でかつ直感的に使えるプログラミング環境で、micro:bitが持つ機能を使いながらコンピュータプログラミングの基礎的なコンセプト - 変数、繰り返し、条件文などを理解し、試すことができます。</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="67191" identifier="a118fcfd5a685340f553eb9c061aad59" approved="yes">
+        <source>Students often focus primarily on the 5x5 LED screen for providing output.</source>
+        <target>micro:bit上に5x5で配置されたLED画面を使ったパターンを表示するところからmicro:bitを使い始めるといいでしょう。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="67192" identifier="c44c73805d71344d733d7a80a2e422e6" approved="yes">
+        <source>Although this is the most directly accessible way to see a reaction to some kind of input, there are many more creative possibilities when you encourage your students to see the micro:bit as a “brain” that can control physical, tangible creations.</source>
+        <target>LEDはコンピュータ与えた命令がどのように実行されるかを理解するもっとも簡単な方法ですが、micro:bitはほかにもさまざまな利用が可能で、生徒はそれを活用することで新しいモノを作ることができます。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="67193" identifier="df1587a26ce6f6f97ab4c64ce9ce5ab7" approved="yes">
+        <source>These creations don’t have to be complex or highly technical.</source>
+        <target>micro:bitを利用して作るモノは複雑であったり、技術的に高度なものである必要はありません。</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="67194" identifier="29332b538f5da26a5042ff7e06c5ad8b" approved="yes">
+        <source>It’s great to have students building with common household supplies.</source>
+        <target>家庭で一般的に手に入る素材を使って作ることができます。</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="67195" identifier="ffee7eeabbf260323d94ac9f0937a8b9" approved="yes">
+        <source>Because the micro:bit is so lightweight, and supports so many sensors, it can be incorporated easily into a physical design as long as students plan ahead for its size and weight.</source>
+        <target>micro:bitは軽量でありながら様々なセンサーを搭載しているので、生徒がきちんとその特長を理解することさえできれば、どんな素材とでも簡単に組み合わせ、楽しいモノを作ることができます。</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="67196" identifier="7810d1ea4f052abb39bb5bc34a7af4b0" approved="yes">
+        <source>One of the first questions you might ask students is “Where does the micro:bit fit in your creation?”</source>
+        <target>あなたが生徒に問いかける最初の質問は「みんなの想像する世界にどういう風 micro:bitを組み込んでいけるかな？」というものかもしれません。</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="67197" identifier="3ea303b91d9642d8f4c898805893c584" approved="yes">
+        <source>In this first lesson’s project, we focus on making something creative that features the micro:bit as its “face”.</source>
+        <target>この最初のレッスンでは、micro:bitを&quot;顔&quot;として利用するモノを作ります。</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="67198" identifier="83295984731b7980b4d247deeb36ad63" approved="yes">
+        <source>We purposely start this course with a lesson on Making and the physical nature of the micro:bit, because it is important to set the tone for the whole course that this is a class about making, building, crafting and construction.</source>
+        <target>この最初のレッスンは、意図的にmicro:bitを使ってモノを作ることを目的としています。というのも、micro:bitは単体で使うのではなく、それを活用して、何かモノを作り、試すことでその本来の楽しさと活用の仕方がより理解できるからです。</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="67199" identifier="7ee161e7eecf7e0c8a9318f7f219faee" approved="yes">
+        <source>It helps if you have an art room available where kids can work, or arts and crafts supplies in your classroom that kids can use to build.</source>
+        <target>レッスンの実施にあたっては、美術・アートの授業で使っている部屋があるようなら、このレッスンを実施するにはベストな環境です。</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="67200" identifier="c3c5c456e21f4e371855ee86af34c31e" approved="yes">
+        <source>Some common making supplies to gather:</source>
+        <target>このレッスンでは以下のような家庭にある身近なものを利用します。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="67201" identifier="8eb31d3df4ed4a597506e4782688b3a7" approved="yes">
+        <source>pizza boxes</source>
+        <target>ピザの箱</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="67202" identifier="459082b2c4d2bbcaf50c22deed14db6c" approved="yes">
+        <source>scrap cardboard</source>
+        <target>要らなくなった段ボール</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67203" identifier="123565c281b1f85f53e74a384ef6002c" approved="yes">
+        <source>colored construction paper</source>
+        <target>色画用紙</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67204" identifier="32436250565a0c83f65a861a3e1e03b0" approved="yes">
+        <source>colored duct tape</source>
+        <target>色つきのダクトテープ</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[4]</note>
+      </trans-unit>
+      <trans-unit id="67205" identifier="fdc783fee571f3f4313522b6b5381c64" translate="no" approved="yes">
+        <source>scissors</source>
+        <target>はさみ</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[5]</note>
+      </trans-unit>
+      <trans-unit id="67206" identifier="d16144920fdcffc8e1974028b3d124d1" approved="yes">
+        <source>pipe cleaners</source>
+        <target>パイプ クリーナー</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[6]</note>
+      </trans-unit>
+      <trans-unit id="67207" identifier="009d66314ea56ee6eaac7b7d16f9b2ea" approved="yes">
+        <source>stickers</source>
+        <target>ステッカー</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[7]</note>
+      </trans-unit>
+      <trans-unit id="67208" identifier="82015e324b4df0a6e6cf495a63b6cc38" approved="yes">
+        <source>feathers</source>
+        <target>羽根</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[8]</note>
+      </trans-unit>
+      <trans-unit id="67209" identifier="45fd7558ae2b96ba455bc83eb77a279d" approved="yes">
+        <source>string</source>
+        <target>糸</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[9]</note>
+      </trans-unit>
+      <trans-unit id="67210" identifier="6b09da4a59cf076a3babe9117dbf5e39" approved="yes">
+        <source>markers</source>
+        <target>マーカー</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[10]</note>
+      </trans-unit>
+      <trans-unit id="67211" identifier="83fd03c46baf0c0027ab03df7ef19c10" translate="no" approved="yes">
+        <source>/static/courses/csintro/making/maker-materials.png</source>
+        <target>/static/courses/csintro/making/maker-materials.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[6]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67212" identifier="6d3b9295ffe5e3b9aed28bc0b24a47fa" approved="yes">
+        <source>Maker materials</source>
+        <target>Maker materials</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[6]/img[@alt]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

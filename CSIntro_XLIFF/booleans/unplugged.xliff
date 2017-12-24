@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1827" original="/microbit/docs/courses/csintro/booleans/unplugged.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="65898" identifier="08572025a50749519b3ba051c05ac3d6">
+        <source>Unplugged: Two heads are better than one</source>
+        <target state="needs-translation">Unplugged: Two heads are better than one</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="65899" identifier="f0f990823f1782323b08478573c6d60c">
+        <source>Materials: A penny for each student, paper and pencils
+ 
+Most students have used a penny to decide something.</source>
+        <target state="needs-translation">Materials: A penny for each student, paper and pencils
+ 
+Most students have used a penny to decide something.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="65900" identifier="9222bc2ad612f2b672823c1c53cde2b7">
+        <source>Ask for some examples.</source>
+        <target state="needs-translation">Ask for some examples.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="65901" identifier="77e9330832632f980647883dc074259f">
+        <source>Who goes first in a game, to break a tie, to decide which activity to do...</source>
+        <target state="needs-translation">Who goes first in a game, to break a tie, to decide which activity to do...</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="65902" identifier="cba96e1821d31c938120254a2ffc1424">
+        <source> 
+A simple penny is the most common binary decision making tool ever!</source>
+        <target state="needs-translation"> 
+A simple penny is the most common binary decision making tool ever!</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="65903" identifier="a7dcb8936362bd5195e32e46b08497f4">
+        <source>When you flip a coin to decide something there are only two possible outcomes, heads or tails.</source>
+        <target state="needs-translation">When you flip a coin to decide something there are only two possible outcomes, heads or tails.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="65904" identifier="87d1f807e428f9645dd5fbfbc0a1c537">
+        <source>When you flip a coin the outcome is random.</source>
+        <target state="needs-translation">When you flip a coin the outcome is random.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="65905" identifier="332c1745529a91b680808ccecd26fb03">
+        <source> 
+What’s a common issue with coin tosses?</source>
+        <target state="needs-translation"> 
+What’s a common issue with coin tosses?</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="65906" identifier="ad4f060e4f20183327070e7943e8a7d3">
+        <source>Students may bring up issues of trust and fairness.</source>
+        <target state="needs-translation">Students may bring up issues of trust and fairness.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="65907" identifier="61830b347a0111c6b331fcfa976e2227">
+        <source>Who gets to flip the coin?</source>
+        <target state="needs-translation">Who gets to flip the coin?</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="65908" identifier="139238501c51c670f13d3c1312c23d57">
+        <source>Who gets to ‘call’ it?</source>
+        <target state="needs-translation">Who gets to ‘call’ it?</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="65909" identifier="ae026e047fa9043ada51914106d8d318">
+        <source>What if it’s a ‘faulty’ coin?</source>
+        <target state="needs-translation">What if it’s a ‘faulty’ coin?</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="65910" identifier="c5ad7ca1d97474b0f6f0b75e0f4aca17">
+        <source> 
+Here’s a solution...</source>
+        <target state="needs-translation"> 
+Here’s a solution...</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="65911" identifier="5287a4cc980f5a39b6dfe72c012c8cd8">
+        <source>The double coin toss.</source>
+        <target state="needs-translation">The double coin toss.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="65912" identifier="6a38413aad042310078f9907dc6e0bd3" translate="no">
+        <source>/static/courses/csintro/booleans/pennies.png</source>
+        <target>/static/courses/csintro/booleans/pennies.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[2]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="65913" identifier="b8defdf14e9c7970f171f370a57cb672">
+        <source>Two pennies showing heads and tails</source>
+        <target state="needs-translation">Two pennies showing heads and tails</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[2]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="65914" identifier="7c04a1dc8e17d6f44bc82a6bd6246804">
+        <source>In a double coin toss, both people have a coin and they flip the coins at the same time.</source>
+        <target state="needs-translation">In a double coin toss, both people have a coin and they flip the coins at the same time.</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="65915" identifier="d46777a110396e4e2d057996d0f4fdc3">
+        <source> 
+Working in pairs, have the students make a table or list of the possible outcomes if each student flipped a coin at the same time.</source>
+        <target state="needs-translation"> 
+Working in pairs, have the students make a table or list of the possible outcomes if each student flipped a coin at the same time.</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="65916" identifier="2bd32db20b85563969c9566fdd6fa8fe">
+        <source> 
+Example:</source>
+        <target state="needs-translation"> 
+Example:</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="65917" identifier="dc56bac24b9d5ece23a5aeec0a0dc246">
+        <source>Coin A  Coin B
+    ==============
+    Heads   Heads
+    Heads   Tails
+    Tails   Heads
+    Tails   Tails</source>
+        <target state="needs-translation">Coin A  Coin B
+    ==============
+    Heads   Heads
+    Heads   Tails
+    Tails   Heads
+    Tails   Tails</target>
+        <note>Context: Text&#13;
+XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="65918" identifier="dff54e09ec3c6c620fa0e2885f0c5c04">
+        <source>There are 4 possible outcomes.</source>
+        <target state="needs-translation">There are 4 possible outcomes.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="65919" identifier="8eb8f24bd1f92ba9ff537e61b0a3de7c">
+        <source>For 2 outcomes, the result is the same for both coins, both heads or both tails.</source>
+        <target state="needs-translation">For 2 outcomes, the result is the same for both coins, both heads or both tails.</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="65920" identifier="fe6adfbb2e7722220b160a0066660ab3">
+        <source>For the other 2 outcomes, the result for each coin is different, heads/tails and tails/heads.</source>
+        <target state="needs-translation">For the other 2 outcomes, the result for each coin is different, heads/tails and tails/heads.</target>
+        <note>Context: XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65921" identifier="1e0b99bfda742016c2c816e290d64c63">
+        <source> 
+So, if 2 coins are flipped, the chance that the outcomes will be the same (HH/TT) is equal to the chance that the outcomes will be different (HT/TH).</source>
+        <target state="needs-translation"> 
+So, if 2 coins are flipped, the chance that the outcomes will be the same (HH/TT) is equal to the chance that the outcomes will be different (HT/TH).</target>
+        <note>Context: XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65922" identifier="6e1c3fffc88d30bbb1c5689712b606b8">
+        <source>Both outcomes, coins the same/coins are different have a 2 in 4 or 50% chance of occurring.</source>
+        <target state="needs-translation">Both outcomes, coins the same/coins are different have a 2 in 4 or 50% chance of occurring.</target>
+        <note>Context: XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65923" identifier="e59b6c8461150d547fecbb17cb3ddf8c">
+        <source> 
+Therefore, if Person A wins each time the outcomes are the same and Person B wins each time the outcomes are different, both have an equal chance of winning each double coin flip.</source>
+        <target state="needs-translation"> 
+Therefore, if Person A wins each time the outcomes are the same and Person B wins each time the outcomes are different, both have an equal chance of winning each double coin flip.</target>
+        <note>Context: XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65924" identifier="c769f621ec26f0dda2ecf4c95f3e2963">
+        <source>With this system, no one person’s outcome, heads or tails, guarantees a win.</source>
+        <target state="needs-translation">With this system, no one person’s outcome, heads or tails, guarantees a win.</target>
+        <note>Context: XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65925" identifier="6a93683957aa1567f8007c8a5e976c52">
+        <source>If Person A’s coin flips to heads, she would win if Person B also flipped heads, but lose if Person B flipped tails.</source>
+        <target state="needs-translation">If Person A’s coin flips to heads, she would win if Person B also flipped heads, but lose if Person B flipped tails.</target>
+        <note>Context: XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65926" identifier="b800a998b8308639d52e598bfdb0e29f">
+        <source>Students will usually see that this is a fair system.</source>
+        <target state="needs-translation">Students will usually see that this is a fair system.</target>
+        <note>Context: XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65927" identifier="fbc9d5ce58cd4c5508124c39492a674b">
+        <source> 
+Let the students experiment with this.</source>
+        <target state="needs-translation"> 
+Let the students experiment with this.</target>
+        <note>Context: XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65928" identifier="d613302d0be6a53e0f64d851f80fbe33">
+        <source>Have students flip their coins together, keeping track of the outcomes, perhaps by adding another column to their table.</source>
+        <target state="needs-translation">Have students flip their coins together, keeping track of the outcomes, perhaps by adding another column to their table.</target>
+        <note>Context: XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65929" identifier="ffb6c5cb14c087113ff80bcf72ed0560" translate="no">
+        <source> 
+Example:</source>
+        <target> 
+Example:</target>
+        <note>Context: XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65930" identifier="39d2a6d4085d5c857de23461cbdd47f1">
+        <source>Coin A  Coin B   Totals
+    ========================
+    Heads   Heads    
+    Heads   Tails    
+    Tails   Heads    
+    Tails   Tails    </source>
+        <target state="needs-translation">Coin A  Coin B   Totals
+    ========================
+    Heads   Heads    
+    Heads   Tails    
+    Tails   Heads    
+    Tails   Tails    </target>
+        <note>Context: Text&#13;
+XPath: /pre[2]/code</note>
+      </trans-unit>
+      <trans-unit id="65931" identifier="7d33f95080d576a269a21e842aec61c6">
+        <source>Just for fun, have them play to a certain total number of rounds.</source>
+        <target state="needs-translation">Just for fun, have them play to a certain total number of rounds.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="65932" identifier="ddb137754ff92f1970cae3e1c1628c76">
+        <source> 
+So, what does this have to do Boolean variables and operators?</source>
+        <target state="needs-translation"> 
+So, what does this have to do Boolean variables and operators?</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="65933" identifier="08f766f51b9d776b89385d399ce01f8b">
+        <source>Think about how you would code a program a double coin flipper.</source>
+        <target state="needs-translation">Think about how you would code a program a double coin flipper.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="65934" identifier="64b62f95cecbc254bdde3d8c473ed6e0">
+        <source>How would you represent each of the 4 different possible double coin flip outcomes?</source>
+        <target state="needs-translation">How would you represent each of the 4 different possible double coin flip outcomes?</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="65935" identifier="f328db4cf56b36623b792804bf1cea15">
+        <source> 
+Let’s pseudocode it!</source>
+        <target state="needs-translation"> 
+Let’s pseudocode it!</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="65936" identifier="0f87eddb9206e3c92d1a2fb8fec8e7fe">
+        <source> 
+We can create a Boolean variable to represent whether an outcome is heads or tails.</source>
+        <target state="needs-translation"> 
+We can create a Boolean variable to represent whether an outcome is heads or tails.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="65937" identifier="30f24fc1e8e5869d75ca02f2e2c4cca3">
+        <source>We can make</source>
+        <target state="needs-translation">We can make</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="65938" identifier="c2139b347da3371c51f5e50f9c0e8259">
+        <source>Heads = True</source>
+        <target state="needs-translation">Heads = True</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="65939" identifier="82d8d6efe80ca55dcde79a3306e046b4">
+        <source>Tails = False
+ 
+Note: Tails = False can also be thought of as Tails = not true.</source>
+        <target state="needs-translation">Tails = False
+ 
+Note: Tails = False can also be thought of as Tails = not true.</target>
+        <note>Context: XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65940" identifier="0c998cdd2d232dd1bfbf33f55c50d17d">
+        <source> 
+Have the students copy their Heads/Tails table of possible outcomes, but label the columns &quot;Coin A Heads&quot; and &quot;Coin B Heads&quot; and replace each entry of ‘Heads’ with ‘True’ and ‘Tails’ with ‘False’.</source>
+        <target state="needs-translation"> 
+Have the students copy their Heads/Tails table of possible outcomes, but label the columns &quot;Coin A Heads&quot; and &quot;Coin B Heads&quot; and replace each entry of ‘Heads’ with ‘True’ and ‘Tails’ with ‘False’.</target>
+        <note>Context: XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65941" identifier="720c0cb05f68e495bc9e2a3cd56d8b3c">
+        <source> In the study of logic, this is known as a truth table.</source>
+        <target state="needs-translation"> In the study of logic, this is known as a truth table.</target>
+        <note>Context: XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65942" identifier="de0d7118f9ed98ef55343c9154f69dab">
+        <source>We’ll use it to help us pseudocode our program, by adding a third column describing the results of each outcome.</source>
+        <target state="needs-translation">We’ll use it to help us pseudocode our program, by adding a third column describing the results of each outcome.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="65943" identifier="772c2baa3c9bab30d616e08e3cca1d9c">
+        <source>``` 
+    Coin A  Coin B    Results
+    Heads   Heads&lt;br /&gt;
+    ==================================================================================
+    True    True     If Coin A is true AND Coin B is true, add one to Player A score
+    True    False    If Coin A is true AND Coin B is false, add one to Player B score
+    False   True     If Coin A is false AND Coin B is true, add one to Player B score
+    False   False    If Coin A is false AND Coin B is false, add one to Player A score</source>
+        <target state="needs-translation">``` 
+    Coin A  Coin B    Results
+    Heads   Heads&lt;br /&gt;
+    ==================================================================================
+    True    True     If Coin A is true AND Coin B is true, add one to Player A score
+    True    False    If Coin A is true AND Coin B is false, add one to Player B score
+    False   True     If Coin A is false AND Coin B is true, add one to Player B score
+    False   False    If Coin A is false AND Coin B is false, add one to Player A score</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="65944" identifier="f38df1e04f4f0e901a15bc1e3bcf5bca">
+        <source>Can we make this code more efficient?</source>
+        <target state="needs-translation">Can we make this code more efficient?</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65945" identifier="8063c5b803fd69bfc1a37d349d7ede78">
+        <source>Can we combine any of these lines?</source>
+        <target state="needs-translation">Can we combine any of these lines?</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65946" identifier="f8dd53b17dc82cf8f620923dde75853b">
+        <source>Try using an OR to combine both conditions in which Player A scores a point.</source>
+        <target state="needs-translation">Try using an OR to combine both conditions in which Player A scores a point.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65947" identifier="1e5b85b0c94f3ff9b63edf5f464a4016">
+        <source>Do the same for both conditions in which Player B scores a point.</source>
+        <target state="needs-translation">Do the same for both conditions in which Player B scores a point.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65948" identifier="375802f5499f0ae8c618028a43082256">
+        <source> 
+Give the students a chance to work this out on their own.</source>
+        <target state="needs-translation"> 
+Give the students a chance to work this out on their own.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65949" identifier="1a46d196e692db300d3f296be76955b9">
+        <source> 
+Combining the conditions in which each player wins, gives us:
+
+* If (Coin A is true AND Coin B is true) OR (Coin A is false AND Coin B is false), add one to Player A score.</source>
+        <target state="needs-translation"> 
+Combining the conditions in which each player wins, gives us:
+
+* If (Coin A is true AND Coin B is true) OR (Coin A is false AND Coin B is false), add one to Player A score.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65950" identifier="d827ad614efced8aa30d95d16e52fdeb">
+        <source>* If (Coin A is true AND Coin B is false) OR (Coin A is false AND Coin B is true), add one to Player B score.</source>
+        <target state="needs-translation">* If (Coin A is true AND Coin B is false) OR (Coin A is false AND Coin B is true), add one to Player B score.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65951" identifier="35208e4fdcec45ae54b41c8eb2096ab3">
+        <source> 
+Note:  Just as you do for math expressions with multiple operators, use parentheses to make it clear how the conditions and statements are grouped together.</source>
+        <target state="needs-translation"> 
+Note:  Just as you do for math expressions with multiple operators, use parentheses to make it clear how the conditions and statements are grouped together.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65952" identifier="1d1475f0c7275d9717fe5ecb8c25f8b8">
+        <source> 
+The students are by now familiar with the MakeCode blocks.</source>
+        <target state="needs-translation"> 
+The students are by now familiar with the MakeCode blocks.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65953" identifier="cf53dbf99152838c469d5263a5309b9e">
+        <source>As they think through their algorithms, they may even have started to visualize the blocks they might use.</source>
+        <target state="needs-translation">As they think through their algorithms, they may even have started to visualize the blocks they might use.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65954" identifier="88330516a2917aa44aef315628e709da">
+        <source>Visualizing the blocks as they pseudocode can help them with the logical steps of their program.</source>
+        <target state="needs-translation">Visualizing the blocks as they pseudocode can help them with the logical steps of their program.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65955" identifier="af6653f9bda23404ecbfd8aae4165bd3">
+        <source>It can also help them to visualize and recognize the big picture of their code as well as the details.</source>
+        <target state="needs-translation">It can also help them to visualize and recognize the big picture of their code as well as the details.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65956" identifier="8b7f568a8ecef2664f549a4b26bda1b0">
+        <source> 
+Using blocks to start coding these two conditionals as currently written, might look like this:
+```block
+let CoinAHeads = false
+let CoinBHeads = false
+if ((CoinAHeads == true &amp;amp;&amp;amp; CoinBHeads == true) || (CoinAHeads == false &amp;amp;&amp;amp; CoinBHeads == false)) {}</source>
+        <target state="needs-translation"> 
+Using blocks to start coding these two conditionals as currently written, might look like this:
+```block
+let CoinAHeads = false
+let CoinBHeads = false
+if ((CoinAHeads == true &amp;amp;&amp;amp; CoinBHeads == true) || (CoinAHeads == false &amp;amp;&amp;amp; CoinBHeads == false)) {}</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="65957" identifier="8476cb63fc3ca89bf7637f27f500e8ce">
+        <source>Then add one to Player A score.
+ </source>
+        <target state="needs-translation">Then add one to Player A score.
+ </target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="65958" identifier="55b36458d2bb32567dbe99a60190a0b6">
+        <source>let CoinAHeads = false
+let CoinBHeads = false
+if ((CoinAHeads == true &amp;amp;&amp;amp; CoinBHeads == false) || (CoinAHeads == false &amp;amp;&amp;amp; CoinBHeads == true)) {}</source>
+        <target state="needs-translation">let CoinAHeads = false
+let CoinBHeads = false
+if ((CoinAHeads == true &amp;amp;&amp;amp; CoinBHeads == false) || (CoinAHeads == false &amp;amp;&amp;amp; CoinBHeads == true)) {}</target>
+        <note>Context: Text&#13;
+XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="65959" identifier="2b646a549de61ea8636b662c85b1bfcc">
+        <source>Then add one to Player B score.</source>
+        <target state="needs-translation">Then add one to Player B score.</target>
+        <note>Context: XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="65960" identifier="8751c461222486d5f8a88f6697f2a9d7">
+        <source> 
+Though this code will work as we want it to, it’s a lot of code.</source>
+        <target state="needs-translation"> 
+Though this code will work as we want it to, it’s a lot of code.</target>
+        <note>Context: XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="65961" identifier="bd0772a7a7a63e0ab12fcec836ac6e9b">
+        <source>It is good practice to keep your code as simply as possible.</source>
+        <target state="needs-translation">It is good practice to keep your code as simply as possible.</target>
+        <note>Context: XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="65962" identifier="070efd72b58dda941e49833217294555">
+        <source>Let’s see how we can do just that.</source>
+        <target state="needs-translation">Let’s see how we can do just that.</target>
+        <note>Context: XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="65963" identifier="92bfe9fb1265ffd76b79f2520cf36908" translate="no">
+        <source> </source>
+        <target state="translated"> </target>
+        <note>Context: XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="65964" identifier="e3ab12c39a2bf3c2e0dc61ff7bb67e24">
+        <source>Booleans and simplifying code</source>
+        <target state="needs-translation">Booleans and simplifying code</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="65965" identifier="943ca272fcfbc7a31f4262b72886c81d">
+        <source>A boolean can have only one of two values: True or False.</source>
+        <target state="needs-translation">A boolean can have only one of two values: True or False.</target>
+        <note>Context: XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="65966" identifier="5bb09c19ba6e9d48c03b2107e5391eb9">
+        <source>Conditionals like 'if...then' check whether a condition is true.</source>
+        <target state="needs-translation">Conditionals like 'if...then' check whether a condition is true.</target>
+        <note>Context: XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="65967" identifier="6d909cee02761038a48e3a94a62dfca1">
+        <source>Notice that the default condition for the 'if...then' blocks is true.</source>
+        <target state="needs-translation">Notice that the default condition for the 'if...then' blocks is true.</target>
+        <note>Context: XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="65968" identifier="298afcab4f47626cd9f49437d718296c">
+        <source>In other words, the 'if...then' blocks will check to see whether whatever condition you place there is true.</source>
+        <target state="needs-translation">In other words, the 'if...then' blocks will check to see whether whatever condition you place there is true.</target>
+        <note>Context: XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="65969" identifier="9310d6dc968582e7d6a1534a825481c0">
+        <source>basic.forever(() =&amp;gt; { if (true) { } })</source>
+        <target state="needs-translation">basic.forever(() =&amp;gt; { if (true) { } })</target>
+        <note>Context: Text&#13;
+XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="65970" identifier="277a8071c9852aa47d3823b7e4218feb">
+        <source>This means that ‘If &lt;code&gt;CoinAHeads&lt;/code&gt;’ is the same as ‘If &lt;code&gt;CoinAHeads&lt;/code&gt; = true’. We can use this to simplify our code.</source>
+        <target state="needs-translation">This means that ‘If &lt;code&gt;CoinAHeads&lt;/code&gt;’ is the same as ‘If &lt;code&gt;CoinAHeads&lt;/code&gt; = true’. We can use this to simplify our code.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="65971" identifier="307bbb7075b1465e2e32fac38277abc5">
+        <source>Instead of:</source>
+        <target state="needs-translation">Instead of:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="65972" identifier="42330237b7999db4dfa39c7f65451888">
+        <source>let CoinAHeads = false
+let CoinBHeads = false
+if (CoinAHeads == true &amp;amp;&amp;amp; CoinBHeads == true) {}</source>
+        <target state="needs-translation">let CoinAHeads = false
+let CoinBHeads = false
+if (CoinAHeads == true &amp;amp;&amp;amp; CoinBHeads == true) {}</target>
+        <note>Context: Text&#13;
+XPath: /pre[6]/code</note>
+      </trans-unit>
+      <trans-unit id="65973" identifier="78a29bf88b398f554b6c35045135905d">
+        <source>we can code:</source>
+        <target state="needs-translation">we can code:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="65974" identifier="88dfc99f42c87e2e455670bef4ff4cb2">
+        <source>let CoinAHeads = false
+let CoinBHeads = false
+if (CoinAHeads &amp;amp;&amp;amp; CoinBHeads) {}</source>
+        <target state="needs-translation">let CoinAHeads = false
+let CoinBHeads = false
+if (CoinAHeads &amp;amp;&amp;amp; CoinBHeads) {}</target>
+        <note>Context: Text&#13;
+XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="65975" identifier="b6d83c22b9ecf8afc07391a9b0b30ed7">
+        <source> 
+Also, since ‘If not &lt;code&gt;CoinAHeads&lt;/code&gt;’ is the same as ‘If &lt;code&gt;CoinAHeads&lt;/code&gt; = False’,
+instead of:</source>
+        <target state="needs-translation"> 
+Also, since ‘If not &lt;code&gt;CoinAHeads&lt;/code&gt;’ is the same as ‘If &lt;code&gt;CoinAHeads&lt;/code&gt; = False’,
+instead of:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[14]</note>
+      </trans-unit>
+      <trans-unit id="65976" identifier="16d24e0449c8f07204c344ebaba8f24c">
+        <source>let CoinAHeads = false
+if (CoinAHeads == false) {}</source>
+        <target state="needs-translation">let CoinAHeads = false
+if (CoinAHeads == false) {}</target>
+        <note>Context: Text&#13;
+XPath: /pre[8]/code</note>
+      </trans-unit>
+      <trans-unit id="65977" identifier="d6d9be383c153856e2b9eeb3f8e61d35" translate="no">
+        <source>we can code:</source>
+        <target>we can code:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[15]</note>
+      </trans-unit>
+      <trans-unit id="65978" identifier="9b9ad6f23625a2179d9c5f92a5529c2d">
+        <source>let CoinAHeads = false
+if (!CoinAHeads) {}</source>
+        <target state="needs-translation">let CoinAHeads = false
+if (!CoinAHeads) {}</target>
+        <note>Context: Text&#13;
+XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="65979" identifier="f72f33f8e5fe7d512c6d41a5755bb8b0">
+        <source>So now we have:</source>
+        <target state="needs-translation">So now we have:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[16]</note>
+      </trans-unit>
+      <trans-unit id="65980" identifier="89cf59323c8e022cdd82a28d3e33eece">
+        <source>let CoinAHeads = false
+let CoinBHeads = false
+basic.forever(() =&amp;gt; {
+    if ((CoinAHeads &amp;amp;&amp;amp; CoinBHeads) || (!CoinAHeads &amp;amp;&amp;amp; !CoinBHeads)) {}
+})</source>
+        <target state="needs-translation">let CoinAHeads = false
+let CoinBHeads = false
+basic.forever(() =&amp;gt; {
+    if ((CoinAHeads &amp;amp;&amp;amp; CoinBHeads) || (!CoinAHeads &amp;amp;&amp;amp; !CoinBHeads)) {}
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="65981" identifier="8d346be9b6394c3724a9bfbe2d90e5b7">
+        <source>Can we simplify it even more?</source>
+        <target state="needs-translation">Can we simplify it even more?</target>
+        <note>Context: XPath: /p[17]</note>
+      </trans-unit>
+      <trans-unit id="65982" identifier="e47f63b518b39ec1c5758b67ae8d391b">
+        <source>For this particular program, since we are checking to see if the conditions &lt;code&gt;CoinAHeads&lt;/code&gt; and &lt;code&gt;CoinBHeads&lt;/code&gt; are the same, whether both true or both false, we can use a logic equals block to simplify our code to:</source>
+        <target state="needs-translation">For this particular program, since we are checking to see if the conditions &lt;code&gt;CoinAHeads&lt;/code&gt; and &lt;code&gt;CoinBHeads&lt;/code&gt; are the same, whether both true or both false, we can use a logic equals block to simplify our code to:</target>
+        <note>Context: XPath: /p[17]</note>
+      </trans-unit>
+      <trans-unit id="65983" identifier="34f42cbc1c2006a41a2055fe92a72d12">
+        <source>let CoinAHeads = false
+let CoinBHeads = false
+if (CoinAHeads == CoinBHeads) {}</source>
+        <target state="needs-translation">let CoinAHeads = false
+let CoinBHeads = false
+if (CoinAHeads == CoinBHeads) {}</target>
+        <note>Context: Text&#13;
+XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="65984" identifier="73c263f5e4b1c93419f6d69550aecf25">
+        <source>Then add one to Player A score.
+ 
+What about our other big block of code for the conditions for a Player B win?
+We could simplify that to:</source>
+        <target state="needs-translation">Then add one to Player A score.
+ 
+What about our other big block of code for the conditions for a Player B win?
+We could simplify that to:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[18]</note>
+      </trans-unit>
+      <trans-unit id="65985" identifier="6f72f624bbf18faa394bfb9382564090">
+        <source>let CoinAHeads = false
+let CoinBHeads = false
+if (CoinAHeads != CoinBHeads) {}</source>
+        <target state="needs-translation">let CoinAHeads = false
+let CoinBHeads = false
+if (CoinAHeads != CoinBHeads) {}</target>
+        <note>Context: Text&#13;
+XPath: /pre[12]/code</note>
+      </trans-unit>
+      <trans-unit id="65986" identifier="0f49041b2cb5260d240f2c840e3f0f43">
+        <source>Then add one to Player B score.
+ 
+We don’t need to do this! Since the only other option to being equal is to be not equal, we can simply do this:</source>
+        <target state="needs-translation">Then add one to Player B score.
+ 
+We don’t need to do this! Since the only other option to being equal is to be not equal, we can simply do this:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[19]</note>
+      </trans-unit>
+      <trans-unit id="65987" identifier="d8c389eaffcf7b3290abf28d5a6e03af">
+        <source>let CoinAHeads = false
+let CoinBHeads = false
+let PlayerAScore = 0
+let PlayerBScore = 0
+basic.forever(() =&amp;gt; {
+    if (CoinAHeads != CoinBHeads) {
+        PlayerAScore += 1
+    } else {
+        PlayerBScore += 1
+    }
+})</source>
+        <target state="needs-translation">let CoinAHeads = false
+let CoinBHeads = false
+let PlayerAScore = 0
+let PlayerBScore = 0
+basic.forever(() =&amp;gt; {
+    if (CoinAHeads != CoinBHeads) {
+        PlayerAScore += 1
+    } else {
+        PlayerBScore += 1
+    }
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre[13]/code</note>
+      </trans-unit>
+      <trans-unit id="65988" identifier="032bd575b6eb13a5d2d2a99a05c2868f">
+        <source>Random functions</source>
+        <target state="needs-translation">Random functions</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="65989" identifier="4d6566b54e02764d27798f02a09500e7">
+        <source>We use a coin flip to decide things because the result is random, meaning the result happens without any conscious decision or direction.</source>
+        <target state="needs-translation">We use a coin flip to decide things because the result is random, meaning the result happens without any conscious decision or direction.</target>
+        <note>Context: XPath: /p[20]</note>
+      </trans-unit>
+      <trans-unit id="65990" identifier="6087ff1dda0da616127c34aaf9c4a458">
+        <source>We use dice and game spinners for the same reason.</source>
+        <target state="needs-translation">We use dice and game spinners for the same reason.</target>
+        <note>Context: XPath: /p[20]</note>
+      </trans-unit>
+      <trans-unit id="65991" identifier="52d5b5c7536eb2a100952c75e26d3eec">
+        <source>The results are not predetermined or directed in any way.</source>
+        <target state="needs-translation">The results are not predetermined or directed in any way.</target>
+        <note>Context: XPath: /p[20]</note>
+      </trans-unit>
+      <trans-unit id="65992" identifier="373d0a34d6eda830e3e6818472b5a95f">
+        <source> 
+So, how do we get a random flip in code?</source>
+        <target state="needs-translation"> 
+So, how do we get a random flip in code?</target>
+        <note>Context: XPath: /p[20]</note>
+      </trans-unit>
+      <trans-unit id="65993" identifier="3bc066595ac5dddc456e4d2227a80ee6">
+        <source>Most computer programming languages have a built in function that will select a random number given a range of values.</source>
+        <target state="needs-translation">Most computer programming languages have a built in function that will select a random number given a range of values.</target>
+        <note>Context: XPath: /p[20]</note>
+      </trans-unit>
+      <trans-unit id="65994" identifier="f9e1b98ed3e9ba8b1214784acce9e106">
+        <source>Microsoft MakeCode has a block for this.</source>
+        <target state="needs-translation">Microsoft MakeCode has a block for this.</target>
+        <note>Context: XPath: /p[20]</note>
+      </trans-unit>
+      <trans-unit id="65995" identifier="85db8e579ab8021b07d3f8ea89c43a15">
+        <source>And it also has a block for getting a random true or false value.</source>
+        <target state="needs-translation">And it also has a block for getting a random true or false value.</target>
+        <note>Context: XPath: /p[20]</note>
+      </trans-unit>
+      <trans-unit id="65996" identifier="5f491a2f1bc78493528fcf9d4c02b297">
+        <source> 
+We will call on this built in function to get a random true or false value for each flip of a coin in the next &lt;a href=&quot;/courses/csintro/booleans/activity&quot;&gt;activity&lt;/a&gt;.</source>
+        <target state="needs-translation"> 
+We will call on this built in function to get a random true or false value for each flip of a coin in the next &lt;a href=&quot;/courses/csintro/booleans/activity&quot;&gt;activity&lt;/a&gt;.</target>
+        <note>Context: XPath: /p[20]</note>
+      </trans-unit>
+      <trans-unit id="65997" identifier="195dbdeb00cca82e29b9cf6a6970b1c7">
+        <source> 
+Our basic pseudocode for our 'double coin flipper' could look like this:</source>
+        <target state="needs-translation"> 
+Our basic pseudocode for our 'double coin flipper' could look like this:</target>
+        <note>Context: XPath: /p[20]</note>
+      </trans-unit>
+      <trans-unit id="65998" identifier="24000cfb67103628d0cdbc6e897eb6e1">
+        <source>Use the random function to get a true/false value for Coin A.</source>
+        <target state="needs-translation">Use the random function to get a true/false value for Coin A.</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li</note>
+      </trans-unit>
+      <trans-unit id="65999" identifier="883275621790a2e6424b5a133b080a54" translate="no">
+        <source>Use the random function to get a true/false value for Coin A.</source>
+        <target>Use the random function to get a true/false value for Coin A.</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66000" identifier="e8165fcf98fd41959d55749b18def9df" translate="no">
+        <source>Compare the current values of Coin A and Coin B.</source>
+        <target>Compare the current values of Coin A and Coin B.</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66001" identifier="aa5167ff4d5eae5c4f61b3f81463db9f" translate="no">
+        <source>If the current true/false values of Coin A and Coin B are the same, add a point to Player A’s score.</source>
+        <target>If the current true/false values of Coin A and Coin B are the same, add a point to Player A’s score.</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li[4]</note>
+      </trans-unit>
+      <trans-unit id="66002" identifier="3d9432123b8f8ae05c2e438ff6e8c757">
+        <source>Otherwise, the current true/false values of Coin A and Coin B must be different, so add a point to Player B’s score.</source>
+        <target state="needs-translation">Otherwise, the current true/false values of Coin A and Coin B must be different, so add a point to Player B’s score.</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li[5]</note>
+      </trans-unit>
+      <trans-unit id="66003" identifier="65ecaec453ea6df722a221db5c3f9c0f">
+        <source>When players are done with their double coin flipping, show the final scores for each player.</source>
+        <target state="needs-translation">When players are done with their double coin flipping, show the final scores for each player.</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li[6]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

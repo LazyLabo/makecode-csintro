@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1811" original="/microbit/docs/courses/csintro/arrays/project.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="64594" identifier="22ebf67c28ea8670bead9ee9453b9635">
+        <source>Project: Musical instrument</source>
+        <target state="needs-translation">Project: Musical instrument</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="64595" identifier="0045421048217ce2ae306717a849f148">
+        <source>This is a project in which students are challenged to create a musical instrument that uses arrays to store sequences of notes.</source>
+        <target state="needs-translation">This is a project in which students are challenged to create a musical instrument that uses arrays to store sequences of notes.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="64596" identifier="ebcde7ef75f66b4d60079a0a41aa3dc7">
+        <source>The array of notes can be played when an input occurs, such as one of the buttons being pressed, or if one or more of the pins is activated.</source>
+        <target state="needs-translation">The array of notes can be played when an input occurs, such as one of the buttons being pressed, or if one or more of the pins is activated.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="64597" identifier="f8e698b18818e66ab88203f82e70396c">
+        <source> 
+Ideally, the micro:bit should be mounted in some kind of housing, perhaps a guitar shape or a music box.</source>
+        <target state="needs-translation"> 
+Ideally, the micro:bit should be mounted in some kind of housing, perhaps a guitar shape or a music box.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="64598" identifier="4275711590a871befae062512619f0f4">
+        <source>Start by looking at different kinds of musical instruments to get a sense of what kind of shape you might want to build around your micro:bit.</source>
+        <target state="needs-translation">Start by looking at different kinds of musical instruments to get a sense of what kind of shape you might want to build around your micro:bit.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="64599" identifier="af88d92fa48a31baf5cf884e9f48bf4b" translate="no">
+        <source>/static/courses/csintro/arrays/microbit-guitar.png</source>
+        <target>/static/courses/csintro/arrays/microbit-guitar.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[2]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="64600" identifier="6f86600f77180ed471edaa4f1c8487ce">
+        <source>micro:bit guitar</source>
+        <target state="needs-translation">micro:bit guitar</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[2]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="64601" identifier="2ab8a884c3be4b18fa8b052843926b8c">
+        <source>Here are some examples of guitars that were made out of cardboard and colored, patterned duct tape that you can buy in craft stores.</source>
+        <target state="needs-translation">Here are some examples of guitars that were made out of cardboard and colored, patterned duct tape that you can buy in craft stores.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="64602" identifier="363fe1c8e1340fd6aa0652b06289510a">
+        <source>Example guitar code</source>
+        <target state="needs-translation">Example guitar code</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="64603" identifier="a17bf100daaf57b1bacce1a403f330d5">
+        <source>This is an example of a project that uses the micro:bit accelerometer to play different tones when the guitar is held and tilted while playing.</source>
+        <target state="needs-translation">This is an example of a project that uses the micro:bit accelerometer to play different tones when the guitar is held and tilted while playing.</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="64604" identifier="9c488bb4757734ba9875dc28f72d9ef2">
+        <source>Pressing the A button will save the current tone to an array.</source>
+        <target state="needs-translation">Pressing the A button will save the current tone to an array.</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="64605" identifier="9241553e524064540a3ae69042303a1b">
+        <source>After ten tones, a repeating melody will be performed.</source>
+        <target state="needs-translation">After ten tones, a repeating melody will be performed.</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="64606" identifier="3eff643cbe98c5208525986f993dfdb7">
+        <source>Press the B button to clear the array and start over.</source>
+        <target state="needs-translation">Press the B button to clear the array and start over.</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="64607" identifier="297a845315bc673146248be7f3b7a3d0">
+        <source>Song-maker</source>
+        <target state="needs-translation">Song-maker</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3</note>
+      </trans-unit>
+      <trans-unit id="64608" identifier="290f884ac5f66882cb0315e47521044c">
+        <source>let currentNote = 0
+let list: number[] = []
+basic.forever(() =&amp;gt; {
+    if (list.length &amp;lt; 10) {
+        currentNote = input.acceleration(Dimension.X) + 1300
+        music.ringTone(currentNote)
+    } else {
+        basic.showLeds(`
+            .</source>
+        <target state="needs-translation">let currentNote = 0
+let list: number[] = []
+basic.forever(() =&amp;gt; {
+    if (list.length &amp;lt; 10) {
+        currentNote = input.acceleration(Dimension.X) + 1300
+        music.ringTone(currentNote)
+    } else {
+        basic.showLeds(`
+            .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="64609" identifier="b80ea443b72e752feb90e2b89d927d04" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="64610" identifier="ff1d4f6805f2b7271e34c2b46799b82d" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="64611" identifier="9e3e0fa6bb4555b32559df3aaa6aa4ff" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="64612" identifier="614c66d312b6cc72dbfba6c705ef035b" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="64613" identifier="273d2f756f58fd3404bff3e037f0a70b" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="64614" identifier="b8c88a0041470da70a9393bca4ab8670" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="64615" identifier="1bac7d157fa857b2a035abe57854dbfc" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="64616" identifier="95743bf03ab211c0fcd3cf296163be3c" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="64617" identifier="86c59a5055c4b14c3e759193d176a19c" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="64618" identifier="5fdafd2ec10406cf606e1877861086c2" translate="no">
+        <source>#
+            .</source>
+        <target>#
+            .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="64619" identifier="3d4676fd8e1e9dadd3a505ce73765426" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="64620" identifier="1d7a1e24877e4d993075e7d7002e1093" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="64621" identifier="7971cb148e23de4a822bdd050a2131d3" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="64622" identifier="97bec8cb16e622a4c0c8ae9b7bfb8e2b" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="64623" identifier="465848432ea313cc4abe757399bc51f4" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="64624" identifier="98ef293adec255846829f196ef5e7a07" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="64625" identifier="69cc225c1b813571d27a40561829fe2e">
+        <source>`)
+        for (let value of list) {
+            music.playTone(value, music.beat(BeatFraction.Whole))
+        }
+    }
+})
+input.onButtonPressed(Button.A, () =&amp;gt; {
+    if (list.length &amp;lt; 10) {
+        list.push(currentNote)
+        basic.showNumber(10 - list.length)
+    }
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+    list = []
+    basic.clearScreen()
+})</source>
+        <target state="needs-translation">`)
+        for (let value of list) {
+            music.playTone(value, music.beat(BeatFraction.Whole))
+        }
+    }
+})
+input.onButtonPressed(Button.A, () =&amp;gt; {
+    if (list.length &amp;lt; 10) {
+        list.push(currentNote)
+        basic.showNumber(10 - list.length)
+    }
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+    list = []
+    basic.clearScreen()
+})</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="64626" identifier="2ef14df1097252512a08c1e11f1a50d7">
+        <source>Using arrays with musical notes</source>
+        <target state="needs-translation">Using arrays with musical notes</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="64627" identifier="8af66e2d84788e31b093e63611d7a837">
+        <source>You can create an array of notes by attaching Music blocks to an array.</source>
+        <target state="needs-translation">You can create an array of notes by attaching Music blocks to an array.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="64628" identifier="cc17aa7dad07d68006a1dba95505d1f6">
+        <source>Musical notes are described in words (e.g., Middle C, High C) but they are actually numbers.</source>
+        <target state="needs-translation">Musical notes are described in words (e.g., Middle C, High C) but they are actually numbers.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="64629" identifier="b45bb86dacfbc24634ed5924bc94d38a">
+        <source>You can do Math operations on those numbers to change the pitch of your song.</source>
+        <target state="needs-translation">You can do Math operations on those numbers to change the pitch of your song.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="64630" identifier="17079a357ffa576b09138dc4c767b9b8">
+        <source> 
+Here is an example of how to create an array with musical notes.</source>
+        <target state="needs-translation"> 
+Here is an example of how to create an array with musical notes.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="64631" identifier="f5690f01914a5a7aaa4c535ab224b0ef">
+        <source>Button A plays every note in the array.</source>
+        <target state="needs-translation">Button A plays every note in the array.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="64632" identifier="9bf00c47b3dec6557bb3fd1a499dc4ea">
+        <source>Button B plays the notes at twice the frequency (but doesn't alter the original notes.)</source>
+        <target state="needs-translation">Button B plays the notes at twice the frequency (but doesn't alter the original notes.)</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="64633" identifier="9a899ea745569c2a76cec12e3d59f2cf">
+        <source>let list: number[] = []
+let value = 0
+input.onButtonPressed(Button.A, () =&amp;gt; {
+    for (let value of list) {
+        music.playTone(value, music.beat(BeatFraction.Whole))
+    }
+    basic.pause(1000)
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+    for (let value of list) {
+        music.playTone(value * 2, music.beat(BeatFraction.Whole))
+    }
+    basic.pause(1000)
+})
+list = [262, 392, 330, 392, 262]</source>
+        <target state="needs-translation">let list: number[] = []
+let value = 0
+input.onButtonPressed(Button.A, () =&amp;gt; {
+    for (let value of list) {
+        music.playTone(value, music.beat(BeatFraction.Whole))
+    }
+    basic.pause(1000)
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+    for (let value of list) {
+        music.playTone(value * 2, music.beat(BeatFraction.Whole))
+    }
+    basic.pause(1000)
+})
+list = [262, 392, 330, 392, 262]</target>
+        <note>Context: Text&#13;
+XPath: /pre[2]/code</note>
+      </trans-unit>
+      <trans-unit id="64634" identifier="1d787eecbe2af2ab0344b9d91aa8c8fb">
+        <source>Remember that a 'for element value of list' loop makes a temporary copy of the value, so even if you change a value, it will not change the original element in the array.</source>
+        <target state="needs-translation">Remember that a 'for element value of list' loop makes a temporary copy of the value, so even if you change a value, it will not change the original element in the array.</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="64635" identifier="d55a5e75d502933529c05f16dcf42201">
+        <source>If students want to permanently change the values in their array (transpose music to increasingly higher keys, for example) they can use a for loop like this:</source>
+        <target state="needs-translation">If students want to permanently change the values in their array (transpose music to increasingly higher keys, for example) they can use a for loop like this:</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="64636" identifier="8fc1436cd0a5dfd3b932bc79b43c653f">
+        <source>let list: number[] = []
+input.onButtonPressed(Button.AB, () =&amp;gt; {
+    for (let index = 0; index &amp;lt;= list.length - 1; index++) {
+        list[index] = list[index] * 2
+    }
+})</source>
+        <target state="needs-translation">let list: number[] = []
+input.onButtonPressed(Button.AB, () =&amp;gt; {
+    for (let index = 0; index &amp;lt;= list.length - 1; index++) {
+        list[index] = list[index] * 2
+    }
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64637" identifier="35a761ebe21bdbe0cd8bb3d4e10efabc">
+        <source>Reflection</source>
+        <target state="needs-translation">Reflection</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="64638" identifier="245fc4f30adaeb814b12fdb457f532ce">
+        <source>Have students write a reflection of about 150–300 words, addressing the following points:</source>
+        <target state="needs-translation">Have students write a reflection of about 150–300 words, addressing the following points:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="64639" identifier="b4bbe81181cd54e6b806309fad1ea05f">
+        <source>Explain how you decided on your musical instrument. What brainstorming ideas did you come up with?</source>
+        <target state="needs-translation">Explain how you decided on your musical instrument. What brainstorming ideas did you come up with?</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="64640" identifier="e87e0d55238c90453c97f23289f1a07b">
+        <source>What properties does it share with a real musical instrument? What is unique?</source>
+        <target state="needs-translation">What properties does it share with a real musical instrument? What is unique?</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64641" identifier="99d08aa968092e0a3d4794cef46353ed">
+        <source>Describe the type of array you used (Numbers, Strings, or Notes) and how it functions in your project.</source>
+        <target state="needs-translation">Describe the type of array you used (Numbers, Strings, or Notes) and how it functions in your project.</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="64642" identifier="de586b596ea151ffcc92dba69b150928">
+        <source>What was something that was surprising to you about the process of creating this program?</source>
+        <target state="needs-translation">What was something that was surprising to you about the process of creating this program?</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[4]</note>
+      </trans-unit>
+      <trans-unit id="64643" identifier="61091c7f322b53ea82558a9b6651d6f4">
+        <source>Describe a difficult point in the process of designing this program, and explain how you resolved it.</source>
+        <target state="needs-translation">Describe a difficult point in the process of designing this program, and explain how you resolved it.</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[5]</note>
+      </trans-unit>
+      <trans-unit id="64644" identifier="90dab1be245fc362dd05ec4902cfcb5b">
+        <source>What feedback did your beta testers give you? How did that help you improve your musical instrument?</source>
+        <target state="needs-translation">What feedback did your beta testers give you? How did that help you improve your musical instrument?</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[6]</note>
+      </trans-unit>
+      <trans-unit id="64645" identifier="f76ed130190de24943cd878a359ab65b" translate="no" approved="yes">
+        <source>Assessment</source>
+        <target>評価</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[4]</note>
+      </trans-unit>
+      <trans-unit id="64646" identifier="b1a83ff399c9d95de7940c1452874c25">
+        <source>&lt;strong&gt;Competency scores&lt;/strong&gt;: 4, 3, 2, 1</source>
+        <target state="needs-translation">&lt;strong&gt;Competency scores&lt;/strong&gt;: 4, 3, 2, 1</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="64647" identifier="b3ff137d3696796348aae61b4cf70560" translate="no">
+        <source>Array</source>
+        <target>Array</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[2]</note>
+      </trans-unit>
+      <trans-unit id="64648" identifier="d3c9f6c63264287f4837b88977fae7f1">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; Stores and iterates through each element of the array successfully.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Stores each element of the array successfully.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Array skips values or has other problems with storing and/or retrieving elements.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; Array doesn't work at all or no array present.</source>
+        <target state="needs-translation">&lt;strong&gt;4 =&lt;/strong&gt; Stores and iterates through each element of the array successfully.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Stores each element of the array successfully.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Array skips values or has other problems with storing and/or retrieving elements.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; Array doesn't work at all or no array present.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="64649" identifier="11787fd76b63526960e90914d42c46d4">
+        <source>Maker component</source>
+        <target state="needs-translation">Maker component</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[3]</note>
+      </trans-unit>
+      <trans-unit id="70375" identifier="da994067d196d3d11a6dd1236cc7e02f">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; Tangible component is tightly integrated with the micro:bit and each relies heavily on the other to make the project complete.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Tangible component is somewhat integrated with the micro:bit but is not essential.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Tangible component does not add to the functionality of the program.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; No tangible component.</source>
+        <target state="needs-translation">&lt;strong&gt;4 =&lt;/strong&gt; Tangible component is tightly integrated with the micro:bit and each relies heavily on the other to make the project complete.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Tangible component is somewhat integrated with the micro:bit but is not essential.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Tangible component does not add to the functionality of the program.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; No tangible component.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="64654" identifier="55a9f9f9961b04e668c3bc143fc40d85" translate="no" approved="yes">
+        <source>micro:bit program</source>
+        <target>micro:bit プログラム</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[4]</note>
+      </trans-unit>
+      <trans-unit id="64655" identifier="ae0408612b9692dcf15b3da7d576413f">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; The program:&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Uses at least one array in a fully integrated and meaningful way&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Compiles and runs as intended&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Meaningful comments in code&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Uses an array in a tangential way that is peripheral to function of project and/or program lacks 1 of the required elements.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Array is poorly implemented and/or peripheral to function of project, and/or lacks 2 of the required elements.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; micro:bit program lacks 3 or more of the required elements.</source>
+        <target state="needs-translation">&lt;strong&gt;4 =&lt;/strong&gt; The program:&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Uses at least one array in a fully integrated and meaningful way&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Compiles and runs as intended&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Meaningful comments in code&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Uses an array in a tangential way that is peripheral to function of project and/or program lacks 1 of the required elements.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Array is poorly implemented and/or peripheral to function of project, and/or lacks 2 of the required elements.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; micro:bit program lacks 3 or more of the required elements.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="64656" identifier="19a0f8fdc6ce1ec57e3737e3cfbeff44" translate="no" approved="yes">
+        <source>Collaboration reflection</source>
+        <target>共同作業と内省</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[5]</note>
+      </trans-unit>
+      <trans-unit id="64657" identifier="b5170bc55ee10da58f81b73516e74431">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; Reflection piece addresses all prompts.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Reflection piece lacks 1 of the required elements.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Reflection piece lacks 2 of the required elements.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; Reflection piece lacks 3 of the required elements.</source>
+        <target state="needs-translation">&lt;strong&gt;4 =&lt;/strong&gt; Reflection piece addresses all prompts.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Reflection piece lacks 1 of the required elements.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Reflection piece lacks 2 of the required elements.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; Reflection piece lacks 3 of the required elements.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[12]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

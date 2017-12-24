@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1819" original="/microbit/docs/courses/csintro/binary/standards.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="65020" identifier="a6ab61cb2df7d09e35af9890bbb7cece" translate="no">
+        <source>Standards</source>
+        <target>Standards</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="65021" identifier="56a637bf2e737901b551726a1f0739f5" translate="no">
+        <source>CSTA K-12 Computer Science Standards</source>
+        <target state="translated">CSTA K 12 コンピューターサイエンス標準</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="65022" identifier="c5f5b42c1bf7f7483749559dfa440098">
+        <source>CT.L1:3-05 Demonstrate how 0s and 1s can be used to represent information.</source>
+        <target state="needs-translation">CT.L1:3-05 Demonstrate how 0s and 1s can be used to represent information.</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="65023" identifier="c35c70e30f8f70cc61ae2616e5b12a0c">
+        <source>CT.L1:6-03 Demonstrate how a string of bits can be used to represent alphanumeric information.</source>
+        <target state="needs-translation">CT.L1:6-03 Demonstrate how a string of bits can be used to represent alphanumeric information.</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="65024" identifier="436827ca85ae8d6095157b0ec64732ab">
+        <source>CT.L2-14 Examine connections between elements of mathematics and computer science, including binary numbers, logic, sets and functions.</source>
+        <target state="needs-translation">CT.L2-14 Examine connections between elements of mathematics and computer science, including binary numbers, logic, sets and functions.</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="65025" identifier="63477e33a291df0bae65d83b1b1a2d3c">
+        <source>CT.L3B-07 Discuss the interpretation of binary sequences in a variety of forms (e.g., instructions, numbers, text, sound, image).</source>
+        <target state="needs-translation">CT.L3B-07 Discuss the interpretation of binary sequences in a variety of forms (e.g., instructions, numbers, text, sound, image).</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[4]</note>
+      </trans-unit>
+      <trans-unit id="65026" identifier="880a1fa47291336b1b3b0a2a5420fc06">
+        <source>CPP.L1:6-06 Implement problem solutions using a block-based visual programming language.</source>
+        <target state="needs-translation">CPP.L1:6-06 Implement problem solutions using a block-based visual programming language.</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[5]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

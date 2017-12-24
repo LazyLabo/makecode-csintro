@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1803" original="/microbit/docs/courses/csintro/algorithms/overview.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="77393" identifier="913f6422d41f0413a2feb499068e4895" translate="no" approved="yes">
+        <source>Introduction</source>
+        <target>はじめに</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="77394" identifier="65404b169683d39e6c94ce14af08a47a" approved="yes">
+        <source>What is a micro:bit?</source>
+        <target>micro:bitとは何でしょう？</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="77395" identifier="e8e09151fb163c73840ca0efd9df013d" approved="yes">
+        <source>The micro:bit was created in 2015 in the UK by the BBC to teach computer science to students.</source>
+        <target>micro:bitは、生徒たちにコンピューターサイエンスを教えるためにイギリスのBBC によって 2015 年に作成されました。</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="77396" identifier="549c38df95796428865daa7bc25cac77" approved="yes">
+        <source>The BBC gave away a micro:bit to every Year 7 student in the UK.</source>
+        <target>BBC はイギリスのすべての7 年生にmicro:bitを配布しました。</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="77397" identifier="b29f540b4f2fb43a922fcedf06870288" approved="yes">
+        <source>You can think of a micro:bit as a mini computer.</source>
+        <target>micro:bitは小さなコンピューターと考えることができます。</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="77398" identifier="c5c2f6890205abc421a68bbaa4b13f8e" approved="yes">
+        <source>http://microbit.org</source>
+        <target>http://microbit.org</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="77399" identifier="21ba81c00bea004edd876ec81c2b1f3f" translate="no">
+        <source>/static/courses/csintro/algorithms/bbc-microbit.jpg</source>
+        <target state="translated">/static/courses/csintro/algorithms/bbc-microbit.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p[2]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="77400" identifier="8d53d1f6f4fc43077d44df92c7c1f766" approved="yes">
+        <source>BBC micro:bit</source>
+        <target>BBC micro:bit</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[2]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="64218" identifier="ab6627d53b288143ec004ec12fe13b32" approved="yes">
+        <source>What is a computer?</source>
+        <target>コンピューターとは？</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="77401" identifier="e990caffef540b9826ca263f3a30f36d" approved="yes">
+        <source>There are 4 main components that make up any computer:</source>
+        <target>すべてのコンピュータは4つの主なパーツで成り立っています:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="77402" identifier="d620f2c7ec331318dfb2d25e2336c4b2" translate="no">
+        <source>/static/courses/csintro/algorithms/cpu.png</source>
+        <target state="translated">/static/courses/csintro/algorithms/cpu.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[4]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="77403" identifier="776a4b117289f5a937273e1af414225d" approved="yes">
+        <source>Computer components</source>
+        <target>Computer components</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[4]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="64222" identifier="fc593b074cb1622b801b77448aced6a9" approved="yes">
+        <source>The Processor – this is usually a small chip inside the computer, and it’s how the computer processes and transforms information.</source>
+        <target>プロセッサ – コンピュータの内部にある小さなチップのことで、情報を処理したり変換したりします。</target>
+        <note>Context: XPath: /ol/li/p</note>
+      </trans-unit>
+      <trans-unit id="64223" identifier="ba641d8ebf8967d1933552b77b8561fa" approved="yes">
+        <source>Has anyone heard of the term “CPU”?</source>
+        <target>「CPU」という言葉を聞いたことがありますか？</target>
+        <note>Context: XPath: /ol/li/p</note>
+      </trans-unit>
+      <trans-unit id="64224" identifier="05e25192ded53ce8620060109862e302" approved="yes">
+        <source>CPU stands for Central Processing Unit.</source>
+        <target>CPU は、中央処理装置（Central Processing Unit）の略です。</target>
+        <note>Context: XPath: /ol/li/p</note>
+      </trans-unit>
+      <trans-unit id="64225" identifier="9174a4d1b11b9f0f90833cd402b881a9" approved="yes">
+        <source>You can think of the processor as the Brains of the computer - the faster the processor, the more quickly the computer can think.</source>
+        <target>プロセッサをコンピュータの頭脳と考えることが出来ます。そして処理速度が速ければ速いほど、コンピュータもより早く考えることが出来るということになります。</target>
+        <note>Context: XPath: /ol/li/p</note>
+      </trans-unit>
+      <trans-unit id="64226" identifier="6a1bcedb3c5ac4f92d3f97ef830d1753" approved="yes">
+        <source>The Memory – this is how the computer remembers things. There are two types of memory:</source>
+        <target>メモリ – コンピュータはこの部品を使って物事を覚えておくことが出来ます。メモリには大きく分けて二種類あります:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /ol/li[2]/p</note>
+      </trans-unit>
+      <trans-unit id="64227" identifier="8c876608a20c53f7bdef508d77a7177c" approved="yes">
+        <source>RAM (random access memory) - you can think of this as the computer’s short-term memory</source>
+        <target>RAM (ランダム アクセス メモリ) - コンピュータが情報を短期間だけ記憶するのに使います。</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li[2]/blockquote/ul/li</note>
+      </trans-unit>
+      <trans-unit id="64228" identifier="e289040a9b7b3e69e92eb63f0563e689" approved="yes">
+        <source>Storage (also referred to as the “hard drive”) - this is the computer’s long-term memory, where it can store information even when power is turned off</source>
+        <target>ストレージ (「ハードドライブ」とも呼びます) - こちらは長期間覚えておくためのメモリで、電源を入れていない状態でも情報を保存しておくことが出来ます。</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li[2]/blockquote/ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64229" identifier="89cf31b4f505217194b01c201a9752b6" approved="yes">
+        <source>Inputs – this is how a computer takes in information from the world.</source>
+        <target>入力 - コンピュータが外から情報を取り入れる仕組みのことです。</target>
+        <note>Context: XPath: /ol/li[3]/p</note>
+      </trans-unit>
+      <trans-unit id="64230" identifier="4341560c02fc133f0cb069e9b7c0b7ca" approved="yes">
+        <source> On humans, our input comes in through our senses, such as our ears and eyes.</source>
+        <target>人間は耳や目などの五感を通してインプットを得ます。</target>
+        <note>Context: XPath: /ol/li[3]/p</note>
+      </trans-unit>
+      <trans-unit id="64231" identifier="74fd765f6677d92f0b665f3a5a2eb45f" approved="yes">
+        <source>What are some Computer Inputs?</source>
+        <target>コンピュータの場合はどうでしょうか？</target>
+        <note>Context: XPath: /ol/li[3]/p</note>
+      </trans-unit>
+      <trans-unit id="64232" identifier="5a49253e2fbced280c68a0d2d4a75037" approved="yes">
+        <source> Keyboard, Mouse, Touchscreen, Camera, Microphone, Game Controller, Scanner</source>
+        <target>キーボード、マウス、タッチスクリーンに、カメラ、マイクロフォン、ゲームコントローラー、スキャナーなどがあります。</target>
+        <note>Context: XPath: /ol/li[3]/p</note>
+      </trans-unit>
+      <trans-unit id="64233" identifier="b9a9e33a81594f103a52a245c1bddef8" approved="yes">
+        <source>Outputs – this is how a computer displays or communicates information.</source>
+        <target>出力-コンピュータが情報を表示したり伝えたりする仕組みのことです。</target>
+        <note>Context: XPath: /ol/li[4]/p</note>
+      </trans-unit>
+      <trans-unit id="64234" identifier="751e9ba196d1f5534cb65cb9237f479c" approved="yes">
+        <source> On humans, we communicate information by using our mouths when we talk.</source>
+        <target>私たちは話をするときは口を使って情報を伝えます。</target>
+        <note>Context: XPath: /ol/li[4]/p</note>
+      </trans-unit>
+      <trans-unit id="64235" identifier="d37ed02c710f94146e68ae6452ceb50d" approved="yes">
+        <source>What are some examples of communication that don't involve talking?</source>
+        <target>口を使う以外に他にどんな方法で話すことができるでしょうか？</target>
+        <note>Context: XPath: /ol/li[4]/p</note>
+      </trans-unit>
+      <trans-unit id="64236" identifier="079143290c25e62ae00d4424d3469f1c" approved="yes">
+        <source>Blushing, sign language. What are some examples of Computer outputs?</source>
+        <target>顔の表情や手話などがありますね。コンピュータのアウトプットにはどんなものがあるでしょう？</target>
+        <note>Context: XPath: /ol/li[4]/p</note>
+      </trans-unit>
+      <trans-unit id="64237" identifier="bee02bc5baac6f7567492109e41d14d6" approved="yes">
+        <source> Monitor/Screen, Headphones/Speakers, Printer</source>
+        <target>モニター/スクリーン、ヘッドフォン/スピーカー、プリンタなどです。</target>
+        <note>Context: XPath: /ol/li[4]/p</note>
+      </trans-unit>
+      <trans-unit id="77404" identifier="4dbf1029af93e9ba200daba479307c08" approved="yes">
+        <source>Now, let’s look at our micro:bit:</source>
+        <target>それでは次に micro:bit を見てみましょう：</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="77405" identifier="ba5be833a212024df919a453080d0bd9" translate="no">
+        <source>/static/courses/csintro/algorithms/microbit-hardware.png</source>
+        <target state="translated">/static/courses/csintro/algorithms/microbit-hardware.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[6]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="77406" identifier="ab3fa42af49297ff36301b3df0100bf6" approved="yes">
+        <source>micro:bit hardware</source>
+        <target>micro:bit hardware</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[6]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="64241" identifier="8233fdd69c313d61724da62eb75365c1" approved="yes">
+        <source>Use the diagram here as a visual aid: http://microbit.org/hardware/</source>
+        <target>図を参考にしながら確認しましょう: http://microbit.org/hardware/</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="64242" identifier="fa4b6a13b31a67bc8623bb6ec76f9839" approved="yes">
+        <source>Can you find the Processor?</source>
+        <target>プロセッサを見つけることができますか。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64243" identifier="0d05f05e470ec5f404ab6ddc84a55c73" approved="yes">
+        <source>How much memory does the micro:bit have? 16K, which is smaller than many files on your computer!</source>
+        <target>ではmicro:bitにはどのぐらいのメモリがあるでしょう？ 16キロバイトです。これは普段使うコンピュータにあるファイルの大きさよりもずっと小さいです！</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="64244" identifier="233ad0f0cf06f14da22f88addcef309b" approved="yes">
+        <source>Can you locate the following Inputs?  Buttons (on board), Pins (at base), Accelerometer / Compass.
+&gt;Note: Though not pictured, the Light Sensor is located on the LED lights</source>
+        <target>次の入力を見つけることができますか？ ボタン(ボード上にあります)、ピン (正面から見て下側にあります)、加速度計/コンパス。
+＞備考：図で示されてはいませんが、中央のLED画面には光センサーもあります。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[4]</note>
+      </trans-unit>
+      <trans-unit id="64245" identifier="491edfc023a350800dfc8cc61dd3d7b1" approved="yes">
+        <source>Where are the Outputs?  LED lights, Pins</source>
+        <target>出力はどこでしょう？ LED画面、それとピンがあります。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[5]</note>
+      </trans-unit>
+      <trans-unit id="77407" identifier="1f016458ea98efc7dec5bf673be252ca" approved="yes">
+        <source>All computers need electricity to power them.  There are 3 ways to power your micro:bit:</source>
+        <target>すべてのコンピュータは電気の力を必要とします。micro:bitに電源を供給する方法は３通りあります:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="64247" identifier="9e45ec27324440a5a0ed2972756ee1e1" approved="yes">
+        <source>Through the USB port at the top</source>
+        <target>上部USBポートから</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="64248" identifier="82530c32a4be74e95f6090fba6b6908a" approved="yes">
+        <source>By connecting a battery pack to the battery connector</source>
+        <target>バッテリのコネクタに接続した電池から</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64249" identifier="4b8a37a1a772669bb6d07bae7deeed6c" approved="yes">
+        <source>Through the 3V Pin at the bottom (not the recommended way to power your micro:bit)</source>
+        <target>下部の3Vピンから (この方法はお勧めしていません)</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="77408" identifier="d50e751e0f59e71c8aa6d93813bbd3d2" approved="yes">
+        <source>On the top left corner you may notice that your micro:bit has a Bluetooth antenna.</source>
+        <target>本体左上の隅にBluetoothアンテナがあることがわかります。</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="77409" identifier="0eeb3034a42e452f4aecd434b19ee2b1" approved="yes">
+        <source> This means your micro:bit can communicate and send information to other micro:bits.</source>
+        <target>これは複数のmicro:bit間で情報を交換することができるということです。</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="77410" identifier="a8f675b27cd5c56a4615c4b97770c78b" approved="yes">
+        <source>We will learn more about this feature in the Radio Lesson.</source>
+        <target>この機能はラジオのレッスンで詳しく学びます。</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

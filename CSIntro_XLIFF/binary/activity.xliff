@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1816" original="/microbit/docs/courses/csintro/binary/activity.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="64831" identifier="86af5d92504452df15919067ddd430be">
+        <source>Activity: Binary transmogrifier</source>
+        <target state="translated">Activity: バイナリー transmogrifier</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="64832" identifier="d2fe11abd503366d604fac811c57eaa2">
+        <source>Guide the students through building a binary transmogrifier (converter) that converts between binary (base-2) and decimal (base-10) numbers.</source>
+        <target state="needs-translation">Guide the students through building a binary transmogrifier (converter) that converts between binary (base-2) and decimal (base-10) numbers.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="64833" identifier="c92c58b493be47c5c722e07e3e681915">
+        <source>Let them figure out a pattern that will allow them to do the conversion on the fly.</source>
+        <target state="needs-translation">Let them figure out a pattern that will allow them to do the conversion on the fly.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="64834" identifier="7d323dbcaa060fde111c01d453e1ca64" translate="no">
+        <source>/static/courses/csintro/binary/transmogrifier.png</source>
+        <target>/static/courses/csintro/binary/transmogrifier.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[2]/l/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="64835" identifier="fcb144990ad17ae5cadb20767393e752">
+        <source>Transmogrifier cartoon</source>
+        <target state="needs-translation">Transmogrifier cartoon</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[2]/l/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="64836" identifier="52033cade8c28975cd115790f6ed4116">
+        <source>Calvin &amp;amp; Hobbes</source>
+        <target state="needs-translation">Calvin &amp;amp; Hobbes</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="64837" identifier="b1f4727195d814bf1d36cd054aa2e7d2">
+        <source>Tell the students that they will be building a binary transmogrifier with the micro:bit.</source>
+        <target state="needs-translation">Tell the students that they will be building a binary transmogrifier with the micro:bit.</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="64838" identifier="545ed90e17242e149d4b28f9dd4fbe00">
+        <source>The user will be able to use the buttons to enter binary 0s and 1s and will be able to press A+B at any time to display the decimal equivalent of the number that has been entered.</source>
+        <target state="needs-translation">The user will be able to use the buttons to enter binary 0s and 1s and will be able to press A+B at any time to display the decimal equivalent of the number that has been entered.</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="64839" identifier="98ea01ce730bb91829c49adf3981debb">
+        <source>Create the Variables</source>
+        <target state="needs-translation">Create the Variables</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="64840" identifier="f0047c13838af8213fbff870ef90d0ae">
+        <source>Students will need to create a number variable to hold the running decimal total.
+They should also create a string variable to hold the current binary number.</source>
+        <target state="needs-translation">Students will need to create a number variable to hold the running decimal total.
+They should also create a string variable to hold the current binary number.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="64841" identifier="82b0888c058dd510f17295105618683a">
+        <source>From the Variables menu, make and name these two variables: decimal, binary.</source>
+        <target state="needs-translation">From the Variables menu, make and name these two variables: decimal, binary.</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="64842" identifier="7c41635a74f6b73519d3b9071f43baf9" translate="no">
+        <source>/static/courses/csintro/binary/make-a-variable.png</source>
+        <target>/static/courses/csintro/binary/make-a-variable.png</target>
+        <note>Context: Image Source&#13;
+XPath: /blockquote/p/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="64843" identifier="2b4a141dde32ffe7089c85246b499ec8">
+        <source>Make a variable</source>
+        <target state="needs-translation">Make a variable</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /blockquote/p/img[@alt]
+Screenshot: https://crowdin.com/s/wrap/73e383g3m4d3v6b38307u4p4o45555p4q455m2i463530565c6?t=64843</note>
+      </trans-unit>
+      <trans-unit id="64844" identifier="c345df73c979f867386260bf134cb605" translate="no">
+        <source>/static/courses/csintro/binary/name-a-variable.png</source>
+        <target>/static/courses/csintro/binary/name-a-variable.png</target>
+        <note>Context: Image Source&#13;
+XPath: /blockquote/p[2]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="64845" identifier="44793cc2d418484ab4adbe8a3cf3a916">
+        <source>Name a variable</source>
+        <target state="needs-translation">Name a variable</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /blockquote/p[2]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="64846" identifier="3a22d7d35a698f04c59ad159af89813a">
+        <source>Initialize the Variables</source>
+        <target state="needs-translation">Initialize the Variables</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="64847" identifier="b49c3046e8c1578886f606975fd597bc">
+        <source>When the program starts up, you should initialize your variables to starting values.</source>
+        <target state="needs-translation">When the program starts up, you should initialize your variables to starting values.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="64848" identifier="6cfd817a528f1d1cdd19907028673538">
+        <source>&lt;code&gt;decimal&lt;/code&gt; = &lt;code&gt;0&lt;/code&gt;</source>
+        <target state="needs-translation">&lt;code&gt;decimal&lt;/code&gt; = &lt;code&gt;0&lt;/code&gt;</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="64849" identifier="2766c769bcb9be764adc26d138a58766">
+        <source>&lt;code&gt;binary&lt;/code&gt; = &lt;code&gt;&quot;&quot;&lt;/code&gt; (empty string)
+This also tells the micro:bit what type of variable it is.</source>
+        <target state="needs-translation">&lt;code&gt;binary&lt;/code&gt; = &lt;code&gt;&quot;&quot;&lt;/code&gt; (empty string)
+This also tells the micro:bit what type of variable it is.</target>
+        <note>Context: XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64850" identifier="b6977730b8fe0b837b00ac8239b4a182">
+        <source>Use the empty string value found in the &lt;strong&gt;Text&lt;/strong&gt; toolbox drawer, under the &lt;strong&gt;Advanced&lt;/strong&gt; menu.</source>
+        <target state="needs-translation">Use the empty string value found in the &lt;strong&gt;Text&lt;/strong&gt; toolbox drawer, under the &lt;strong&gt;Advanced&lt;/strong&gt; menu.</target>
+        <note>Context: XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64851" identifier="26b673b21a2c22993ea5154c86a9a659" translate="no">
+        <source>/static/courses/csintro/binary/select-text-blocks.png</source>
+        <target>/static/courses/csintro/binary/select-text-blocks.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[6]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="64852" identifier="c3de3620fca79e747ded66a6d47ebf28">
+        <source>Select text on block menu</source>
+        <target state="needs-translation">Select text on block menu</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[6]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="64853" identifier="413056677fb77fd184f4c1605cf124a5">
+        <source>let binary = &quot;&quot;
+let decimal = 0</source>
+        <target state="needs-translation">let binary = &quot;&quot;
+let decimal = 0</target>
+        <note>Context: Text&#13;
+XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="64854" identifier="75e14eed8900c64eba9ab01edb9ff144">
+        <source>By setting the binary variable to an initial value of “ “ you tell the micro:bit that it is a string variable: a literal string of characters.</source>
+        <target state="needs-translation">By setting the binary variable to an initial value of “ “ you tell the micro:bit that it is a string variable: a literal string of characters.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="64855" identifier="e94102ebfde27eae34792c1862c2da55">
+        <source>This is important because you will be adding to this string character by character.</source>
+        <target state="needs-translation">This is important because you will be adding to this string character by character.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="64856" identifier="d3316ead3ba20289fadd2436026c71b8">
+        <source>Transmogrify Me!</source>
+        <target state="needs-translation">Transmogrify Me!</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="64857" identifier="99a3b3861e3aa095aaa36922babd0c18">
+        <source>We are ready to start entering numbers.</source>
+        <target state="needs-translation">We are ready to start entering numbers.</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="64858" identifier="caf08dca7370ebc8539df9939e0db279">
+        <source>Remember that binary numbers are calculated based on the number of place values (“bits”) and as you enter 1s and 0s, the value changes.</source>
+        <target state="needs-translation">Remember that binary numbers are calculated based on the number of place values (“bits”) and as you enter 1s and 0s, the value changes.</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="64859" identifier="a1deed72d740b5c8c36aa914ca38e822">
+        <source>One way to calculate the decimal value is to wait until the user presses A+B, and then calculate the entire number based on the value of the string.</source>
+        <target state="needs-translation">One way to calculate the decimal value is to wait until the user presses A+B, and then calculate the entire number based on the value of the string.</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="64860" identifier="20d06a01ae829a726e05fbf316be35e8">
+        <source>However, a much simpler method is to calculate the decimal number “on the fly”, which is to say, every time the user presses a 1 or a 0, calculate the current decimal value of that string so you only have to deal with one 0 or 1 at a time.</source>
+        <target state="needs-translation">However, a much simpler method is to calculate the decimal number “on the fly”, which is to say, every time the user presses a 1 or a 0, calculate the current decimal value of that string so you only have to deal with one 0 or 1 at a time.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="64861" identifier="bb64fe37f343287e63c54a02d6087604">
+        <source>What’s the Pattern?</source>
+        <target state="needs-translation">What’s the Pattern?</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[4]</note>
+      </trans-unit>
+      <trans-unit id="64862" identifier="00dc24c899ba92904c30ba140cc2095f">
+        <source>This is a table of the first fourteen binary numbers and their decimal equivalents.</source>
+        <target state="needs-translation">This is a table of the first fourteen binary numbers and their decimal equivalents.</target>
+        <note>Context: XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="64863" identifier="39f9c51a6e43ad9ae9543b260424867e">
+        <source>Your goal is to use this table to figure out how to calculate a new correct decimal value based on whether a user enters a 0, or a 1 as the next number in the string.</source>
+        <target state="needs-translation">Your goal is to use this table to figure out how to calculate a new correct decimal value based on whether a user enters a 0, or a 1 as the next number in the string.</target>
+        <note>Context: XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="64864" identifier="e8570c70d2c3ddc152a390b7bddf3583">
+        <source>Binary  Decimal Binary  Decimal
+===============================
+    1      1     1000      8
+   10      2     1001      9
+   11      3     1010     10
+  100      4     1011     11
+  101      5     1100     12
+  110      6     1101     13
+  111      7     1110     14</source>
+        <target state="needs-translation">Binary  Decimal Binary  Decimal
+===============================
+    1      1     1000      8
+   10      2     1001      9
+   11      3     1010     10
+  100      4     1011     11
+  101      5     1100     12
+  110      6     1101     13
+  111      7     1110     14</target>
+        <note>Context: Text&#13;
+XPath: /pre[2]/code</note>
+      </trans-unit>
+      <trans-unit id="64865" identifier="fb705c0290ce297581e50bb032e69247">
+        <source>For example, imagine you are the micro:bit.</source>
+        <target state="needs-translation">For example, imagine you are the micro:bit.</target>
+        <note>Context: XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="64866" identifier="3bfedae752c19fa8af17b036bfc9f7a7">
+        <source>If the first number the human enters is a 1, you automatically know the new decimal value is a 1.</source>
+        <target state="needs-translation">If the first number the human enters is a 1, you automatically know the new decimal value is a 1.</target>
+        <note>Context: XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="64867" identifier="0cd37ff12694d40bd777ef16bf5a903a">
+        <source>If the second number that is entered is a 0, then your decimal value goes from 1 to 2.</source>
+        <target state="needs-translation">If the second number that is entered is a 0, then your decimal value goes from 1 to 2.</target>
+        <note>Context: XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="64868" identifier="4c9cbe3d665583a66fe75e5699c1f08b">
+        <source>However, if the second number is also a 1, then your new decimal value goes from 1 to 3.</source>
+        <target state="needs-translation">However, if the second number is also a 1, then your new decimal value goes from 1 to 3.</target>
+        <note>Context: XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="64869" identifier="338d8e8d01fc97c8b0586f4a6f01270e">
+        <source>At that point, you either have a 10, or a 11 in your binary string.</source>
+        <target state="needs-translation">At that point, you either have a 10, or a 11 in your binary string.</target>
+        <note>Context: XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="64870" identifier="7d5c5ab10f60a5916685f591a7ce2ff8">
+        <source>Let’s take 10 as an example.</source>
+        <target state="needs-translation">Let’s take 10 as an example.</target>
+        <note>Context: XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="64871" identifier="f5cd9ca8ac08777bbd986dc019592969">
+        <source>The decimal value of binary 10 is 2.</source>
+        <target state="needs-translation">The decimal value of binary 10 is 2.</target>
+        <note>Context: XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="64872" identifier="40185bf14290018ebb37eecddb5e2e89">
+        <source>If the third number entered is a 0, then your new decimal value goes from 2 to 4.</source>
+        <target state="needs-translation">If the third number entered is a 0, then your new decimal value goes from 2 to 4.</target>
+        <note>Context: XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="64873" identifier="45a4de79ce20689052f1a520b7ee1d95">
+        <source>If the third number entered is a 1, then your new decimal value goes from 2 to 5.</source>
+        <target state="needs-translation">If the third number entered is a 1, then your new decimal value goes from 2 to 5.</target>
+        <note>Context: XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="64874" identifier="e568a3315a9253ca97c9cb3af5caaaa7">
+        <source>If, on the other hand, you have 11 in your binary string, then your decimal value is 3.</source>
+        <target state="needs-translation">If, on the other hand, you have 11 in your binary string, then your decimal value is 3.</target>
+        <note>Context: XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="64875" identifier="299de7410df1285652a08b81f1c559a0">
+        <source>If the third number entered is a 0, then your new decimal value goes from 3 to 6.</source>
+        <target state="needs-translation">If the third number entered is a 0, then your new decimal value goes from 3 to 6.</target>
+        <note>Context: XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="64876" identifier="ce7c1d5fb7d7a24a1116920154c56ac6">
+        <source>If the third number entered is a 1, then your new decimal value goes from 3 to 7.</source>
+        <target state="needs-translation">If the third number entered is a 1, then your new decimal value goes from 3 to 7.</target>
+        <note>Context: XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="64877" identifier="43514118963b5563df6d44608d00bab0">
+        <source>See if you can spot a pattern that will help you figure out, for any given decimal value, what the new decimal value should be if the user enters a 0, or if the user enters a 1.</source>
+        <target state="needs-translation">See if you can spot a pattern that will help you figure out, for any given decimal value, what the new decimal value should be if the user enters a 0, or if the user enters a 1.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[14]</note>
+      </trans-unit>
+      <trans-unit id="64878" identifier="ae078ea9410ed6b3dc3cd4bdbfd96d19" translate="no">
+        <source>/static/courses/csintro/binary/binary-patterns.png</source>
+        <target>/static/courses/csintro/binary/binary-patterns.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[15]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="64879" identifier="c7da8ee8f6b9b3fd8f96dbadc695c9ad">
+        <source>Binary number patterns</source>
+        <target state="needs-translation">Binary number patterns</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[15]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="64880" identifier="2a0b5210309c68f4b5b64feea05bc0d9" translate="no" approved="yes">
+        <source>Pseudocode</source>
+        <target>擬似コード</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[5]</note>
+      </trans-unit>
+      <trans-unit id="64881" identifier="f98f7befaa55403a43077c82d65cbc66">
+        <source>Recall from our Algorithms lesson that it is a good idea to write out your algorithm in plain English, before you start coding in MakeCode.</source>
+        <target state="needs-translation">Recall from our Algorithms lesson that it is a good idea to write out your algorithm in plain English, before you start coding in MakeCode.</target>
+        <note>Context: XPath: /p[16]</note>
+      </trans-unit>
+      <trans-unit id="64882" identifier="3d552e89cdd217c426370407fc01c1a2">
+        <source>This is called pseudocode.</source>
+        <target state="needs-translation">This is called pseudocode.</target>
+        <note>Context: XPath: /p[16]</note>
+      </trans-unit>
+      <trans-unit id="64883" identifier="e15ae0152735daabf6f7471f4a7d9ab3">
+        <source>The Input for this program will be the buttons.</source>
+        <target state="needs-translation">The Input for this program will be the buttons.</target>
+        <note>Context: XPath: /p[16]</note>
+      </trans-unit>
+      <trans-unit id="64884" identifier="380ba16403cb09dd8f0823d4e0781c4c">
+        <source>Try to write out what should happen when each of the buttons is pressed.</source>
+        <target state="needs-translation">Try to write out what should happen when each of the buttons is pressed.</target>
+        <note>Context: XPath: /p[16]</note>
+      </trans-unit>
+      <trans-unit id="64885" identifier="8e34985178a50d858cf7a4d7865fe82d">
+        <source>Here is one possible solution. Your own pseudocode might be different and that’s okay.</source>
+        <target state="needs-translation">Here is one possible solution. Your own pseudocode might be different and that’s okay.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[17]</note>
+      </trans-unit>
+      <trans-unit id="64886" identifier="6361956af5d3d3387a6093be6bc32302">
+        <source>When Button A is pressed:</source>
+        <target state="needs-translation">When Button A is pressed:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[18]</note>
+      </trans-unit>
+      <trans-unit id="64887" identifier="e7456c0b8aead007e2914f2a1b976fe8">
+        <source>Add a “1” to the end of the binary string.</source>
+        <target state="needs-translation">Add a “1” to the end of the binary string.</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li</note>
+      </trans-unit>
+      <trans-unit id="64888" identifier="3d3985a2b415dc1cd0fcb79024f37c85">
+        <source>Show the current value of the binary string.</source>
+        <target state="needs-translation">Show the current value of the binary string.</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64889" identifier="1d9a7de467aef913793bc0a0d26cd758">
+        <source>Update the decimal value with the total.</source>
+        <target state="needs-translation">Update the decimal value with the total.</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li[3]</note>
+      </trans-unit>
+      <trans-unit id="64890" identifier="d0a63cba77dc8878d1a53b80468e8f5c">
+        <source>When Button B is pressed:</source>
+        <target state="needs-translation">When Button B is pressed:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[19]</note>
+      </trans-unit>
+      <trans-unit id="64891" identifier="7615e48f7eb4a7345432e0aade02e508">
+        <source>Add a “0” to the end of the binary string.</source>
+        <target state="needs-translation">Add a “0” to the end of the binary string.</target>
+        <note>Context: List Item&#13;
+XPath: /ol[2]/li</note>
+      </trans-unit>
+      <trans-unit id="64892" identifier="b6ae19cd451fb82f092861b2cee7f818" translate="no">
+        <source>Show the current value of the binary string.</source>
+        <target>Show the current value of the binary string.</target>
+        <note>Context: List Item&#13;
+XPath: /ol[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64893" identifier="8676237c0796d95b67cd8a120a3e4d1e" translate="no">
+        <source>Update the decimal value with the total.</source>
+        <target>Update the decimal value with the total.</target>
+        <note>Context: List Item&#13;
+XPath: /ol[2]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="64894" identifier="19f19cb84c2744fc622123305dbb36a5">
+        <source>When Buttons A+B are pressed:</source>
+        <target state="needs-translation">When Buttons A+B are pressed:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[20]</note>
+      </trans-unit>
+      <trans-unit id="64895" identifier="18158ce2725516d582ad8f26e2dd01d6">
+        <source>Show the current value of the decimal string.</source>
+        <target state="needs-translation">Show the current value of the decimal string.</target>
+        <note>Context: List Item&#13;
+XPath: /ol[3]/li</note>
+      </trans-unit>
+      <trans-unit id="64896" identifier="cbc5a9992aa89af57ec53232cdc45488">
+        <source>Coding Steps</source>
+        <target state="needs-translation">Coding Steps</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[6]</note>
+      </trans-unit>
+      <trans-unit id="64897" identifier="a0bd3f6f61d27985be4e196faa490254">
+        <source>From the Input Toolbox drawer, drag 3 of the ‘on button A pressed’ event handlers to your coding workspace</source>
+        <target state="needs-translation">From the Input Toolbox drawer, drag 3 of the ‘on button A pressed’ event handlers to your coding workspace</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li</note>
+      </trans-unit>
+      <trans-unit id="64898" identifier="e0c2d4366e733bc2db01328fe83e4128">
+        <source>Leave one block with button 'A’. Use the drop-down menus in the other 2 blocks to choose button ‘B’, and button ‘A+B’</source>
+        <target state="needs-translation">Leave one block with button 'A’. Use the drop-down menus in the other 2 blocks to choose button ‘B’, and button ‘A+B’</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64899" identifier="48b244a548977ff7e84f43459029ad3b">
+        <source>input.onButtonPressed(Button.A, () =&amp;gt; {
+
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+
+})
+input.onButtonPressed(Button.AB, () =&amp;gt; {
+
+})</source>
+        <target state="needs-translation">input.onButtonPressed(Button.A, () =&amp;gt; {
+
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+
+})
+input.onButtonPressed(Button.AB, () =&amp;gt; {
+
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="64900" identifier="632727211c941c4aa6afbaef18e3f281">
+        <source>Let’s work on what to do when button A is pressed.</source>
+        <target state="needs-translation">Let’s work on what to do when button A is pressed.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[21]</note>
+      </trans-unit>
+      <trans-unit id="64901" identifier="2468f1ed0262be1fa2dfd930c805fa9e">
+        <source>Button A represents a binary “1”. Our first task is to join a “1” to the existing string variable called binary.</source>
+        <target state="needs-translation">Button A represents a binary “1”. Our first task is to join a “1” to the existing string variable called binary.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li</note>
+      </trans-unit>
+      <trans-unit id="64902" identifier="1067cf038ca42cae82c1bd1176870801">
+        <source>From the Text Toolbox drawer (under the Advanced menu), drag the 'join' block to your programming workspace</source>
+        <target state="needs-translation">From the Text Toolbox drawer (under the Advanced menu), drag the 'join' block to your programming workspace</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64903" identifier="e6e41417371bcd8d620b54a97e67441c">
+        <source>Next, use the 'set' variable block to assign the value of the 'binary' variable to the 'join' block</source>
+        <target state="needs-translation">Next, use the 'set' variable block to assign the value of the 'binary' variable to the 'join' block</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="64904" identifier="110c7dc8e249764ca72ddf07b89e179b">
+        <source>Join the 'binary' variable and “1” by entering them into the appropriate slots in the 'join' block</source>
+        <target state="needs-translation">Join the 'binary' variable and “1” by entering them into the appropriate slots in the 'join' block</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="64905" identifier="26ec5cb9a1621eb48e328209746882f2">
+        <source>And show the binary value on the screen so that when users press a button they can see the entire binary string</source>
+        <target state="needs-translation">And show the binary value on the screen so that when users press a button they can see the entire binary string</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[5]</note>
+      </trans-unit>
+      <trans-unit id="64906" identifier="860ccbdb35820454e607aa19f6fa1acb">
+        <source>let binary = &quot;&quot;
+input.onButtonPressed(Button.A, () =&amp;gt; {
+    binary = binary + &quot;1&quot;
+    basic.showString(binary)
+})</source>
+        <target state="needs-translation">let binary = &quot;&quot;
+input.onButtonPressed(Button.A, () =&amp;gt; {
+    binary = binary + &quot;1&quot;
+    basic.showString(binary)
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="64907" identifier="748e10ca31724163a201c086b51a01e1">
+        <source>Finally, you will need to update the current decimal value with the value of the entire binary string.</source>
+        <target state="needs-translation">Finally, you will need to update the current decimal value with the value of the entire binary string.</target>
+        <note>Context: XPath: /ul[5]/li</note>
+      </trans-unit>
+      <trans-unit id="64908" identifier="a92de29c756180a9ffca231fd390f50e">
+        <source>This is pretty straightforward if you have been keeping track of the decimal value every time someone presses a button.</source>
+        <target state="needs-translation">This is pretty straightforward if you have been keeping track of the decimal value every time someone presses a button.</target>
+        <note>Context: XPath: /ul[5]/li</note>
+      </trans-unit>
+      <trans-unit id="64909" identifier="17746d0e130aa69202eb1cecf98214fd">
+        <source>The pattern is as follows: &lt;em&gt;(spoiler alert!)&lt;/em&gt;</source>
+        <target state="needs-translation">The pattern is as follows: &lt;em&gt;(spoiler alert!)&lt;/em&gt;</target>
+        <note>Context: XPath: /ul[5]/li</note>
+      </trans-unit>
+      <trans-unit id="64910" identifier="41296f46c5a0fec533d961ec5f6a069c">
+        <source>Whenever someone enters a 0, the new decimal value is twice the previous value.</source>
+        <target state="needs-translation">Whenever someone enters a 0, the new decimal value is twice the previous value.</target>
+        <note>Context: List Item&#13;
+XPath: /blockquote[2]/ul/li</note>
+      </trans-unit>
+      <trans-unit id="64911" identifier="701d26159f7e9ae90a00fae31e10975e">
+        <source>If someone enters a 1, the new decimal value is twice the previous value, plus 1.</source>
+        <target state="needs-translation">If someone enters a 1, the new decimal value is twice the previous value, plus 1.</target>
+        <note>Context: List Item&#13;
+XPath: /blockquote[2]/ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64912" identifier="4c0274c206cb8e4ac35bc4227c429e4f">
+        <source>For Button A, you will need to use the multiplication Math block and your binary variable block to create the proper formula.</source>
+        <target state="needs-translation">For Button A, you will need to use the multiplication Math block and your binary variable block to create the proper formula.</target>
+        <note>Context: XPath: /ul[6]/li</note>
+      </trans-unit>
+      <trans-unit id="64913" identifier="bdc631ba6fd2d6f15652e1e2ff805688">
+        <source>You will need to put that formula inside another Math addition block in order to add one to the result.</source>
+        <target state="needs-translation">You will need to put that formula inside another Math addition block in order to add one to the result.</target>
+        <note>Context: XPath: /ul[6]/li</note>
+      </trans-unit>
+      <trans-unit id="64914" identifier="1f5c4b116b1c58e4c4bc8be448d102ec">
+        <source>let binary = &quot;&quot;
+let decimal = 0
+input.onButtonPressed(Button.A, () =&amp;gt; {
+    binary = binary + &quot;1&quot;
+    basic.showString(binary)
+    decimal = decimal * 2 + 1
+})</source>
+        <target state="needs-translation">let binary = &quot;&quot;
+let decimal = 0
+input.onButtonPressed(Button.A, () =&amp;gt; {
+    binary = binary + &quot;1&quot;
+    basic.showString(binary)
+    decimal = decimal * 2 + 1
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="64915" identifier="ee9a9083df2dad52e7ea4812f3bc3ef1">
+        <source>Your Button B algorithm is similar, although you will be joining a “0” to the binary variable and you are just multiplying the decimal variable by 2.</source>
+        <target state="needs-translation">Your Button B algorithm is similar, although you will be joining a “0” to the binary variable and you are just multiplying the decimal variable by 2.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[7]/li</note>
+      </trans-unit>
+      <trans-unit id="64916" identifier="95b89febf0054d1789d3abb8b54b2300">
+        <source>Your Button A+B algorithm just uses a Show block to show the value of the decimal variable.</source>
+        <target state="needs-translation">Your Button A+B algorithm just uses a Show block to show the value of the decimal variable.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[7]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64917" identifier="d2d2ef6aa6bcee300cf9e7ca8afc1f44">
+        <source>Here is the completed program.</source>
+        <target state="needs-translation">Here is the completed program.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[22]</note>
+      </trans-unit>
+      <trans-unit id="64918" identifier="87d39ae2ca3a1cedb13c33e82b070670">
+        <source>let binary = &quot;&quot;
+let decimal = 0
+input.onButtonPressed(Button.A, () =&amp;gt; {
+    binary = binary + &quot;1&quot;
+    basic.showString(binary)
+    decimal = decimal * 2 + 1
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+    binary = binary + &quot;0&quot;
+    basic.showString(binary)
+    decimal = decimal * 2
+})
+input.onButtonPressed(Button.AB, () =&amp;gt; {
+    basic.showNumber(decimal)
+})
+decimal = 0
+binary = &quot;&quot;</source>
+        <target state="needs-translation">let binary = &quot;&quot;
+let decimal = 0
+input.onButtonPressed(Button.A, () =&amp;gt; {
+    binary = binary + &quot;1&quot;
+    basic.showString(binary)
+    decimal = decimal * 2 + 1
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+    binary = binary + &quot;0&quot;
+    basic.showString(binary)
+    decimal = decimal * 2
+})
+input.onButtonPressed(Button.AB, () =&amp;gt; {
+    basic.showNumber(decimal)
+})
+decimal = 0
+binary = &quot;&quot;</target>
+        <note>Context: Text&#13;
+XPath: /pre[6]/code</note>
+      </trans-unit>
+      <trans-unit id="64919" identifier="9ef1fc44829b701a6eef8cb4c02d0641" translate="no">
+        <source>Try it out!</source>
+        <target>Try it out!</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3</note>
+      </trans-unit>
+      <trans-unit id="64920" identifier="dc371ee09a1af3dd5936351473ad5287">
+        <source>Have someone else try your program out. Then think about how the program might be improved. 
+Here are some additional modifications you might try:</source>
+        <target state="needs-translation">Have someone else try your program out. Then think about how the program might be improved. 
+Here are some additional modifications you might try:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[23]</note>
+      </trans-unit>
+      <trans-unit id="64921" identifier="c0dd9afe5504daac6e42ccc5a29e4afb">
+        <source>Add a way to clear the binary and decimal values so you can start over.</source>
+        <target state="needs-translation">Add a way to clear the binary and decimal values so you can start over.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[8]/li</note>
+      </trans-unit>
+      <trans-unit id="64922" identifier="1a07d9638a1b57573006a1bafb9eef40">
+        <source>Add a way to erase the previous value.</source>
+        <target state="needs-translation">Add a way to erase the previous value.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[8]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64923" identifier="39acd5e901f6ffed18fb32222595a939">
+        <source>Create a decimal-binary converter that allows you enter a decimal value and see the binary equivalent when you press A+B.</source>
+        <target state="needs-translation">Create a decimal-binary converter that allows you enter a decimal value and see the binary equivalent when you press A+B.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[8]/li[3]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

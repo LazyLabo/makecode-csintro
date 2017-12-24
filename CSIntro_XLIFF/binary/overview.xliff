@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1817" original="/microbit/docs/courses/csintro/binary/overview.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="64924" identifier="913f6422d41f0413a2feb499068e4895" translate="no">
+        <source>Introduction</source>
+        <target>Introduction</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="64925" identifier="141522b4bc4856e0483904ef9b60ec28">
+        <source>Most everyone who uses a computer has heard the terms, kilobyte (kB), Megabyte (MB), Gigabyte (GB) and even Terabyte (TB), usually when referring to the size of computer files and hard drives as well as download speeds.</source>
+        <target state="needs-translation">Most everyone who uses a computer has heard the terms, kilobyte (kB), Megabyte (MB), Gigabyte (GB) and even Terabyte (TB), usually when referring to the size of computer files and hard drives as well as download speeds.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="64926" identifier="eebe506456f294c3b98ada48cfcd1452">
+        <source>Bandwidth or connection rates are measured in bits/second.</source>
+        <target state="needs-translation">Bandwidth or connection rates are measured in bits/second.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="64927" identifier="73be1e94a7e9e897dc0077fef207b841">
+        <source>But what is a bit and what is a byte and what do they have to do with computers?</source>
+        <target state="needs-translation">But what is a bit and what is a byte and what do they have to do with computers?</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="64928" identifier="b13c6f6d1a455bf2fd85526aeb58dee1">
+        <source>Picture a basic room light.</source>
+        <target state="needs-translation">Picture a basic room light.</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="64929" identifier="1664c5c358f2ac5a37d14031a676b6f0">
+        <source>The light is either on or it is off.</source>
+        <target state="needs-translation">The light is either on or it is off.</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="64930" identifier="3188e25068b33a7d45da0b05981062ab">
+        <source>You control the current state of the light by flipping a switch that has only two settings, down (light off) and up (light on).</source>
+        <target state="needs-translation">You control the current state of the light by flipping a switch that has only two settings, down (light off) and up (light on).</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="64931" identifier="99a46ee7d0dbbee81d6c32a2401b0576">
+        <source>The earliest computers used a series of mechanical switches to control the flow of electricity through their circuits, turning each one on or off.</source>
+        <target state="needs-translation">The earliest computers used a series of mechanical switches to control the flow of electricity through their circuits, turning each one on or off.</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="64932" identifier="a4a0118abaaa13c258f9037d39942d0a">
+        <source>The on/off states of the circuits was used to represent and even store information.</source>
+        <target state="needs-translation">The on/off states of the circuits was used to represent and even store information.</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="64933" identifier="6f3c3f9af4e13ec1db3972e0ea6842bb">
+        <source>The smallest unit of information, representing the state of one switch, is known as a bit.</source>
+        <target state="needs-translation">The smallest unit of information, representing the state of one switch, is known as a bit.</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="64934" identifier="b25d54f8160faf37833f4ed047812275">
+        <source>A bit is a binary digit and has only two possible values, zero or one.</source>
+        <target state="needs-translation">A bit is a binary digit and has only two possible values, zero or one.</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="64935" identifier="14dc381471e7c2d84145898e247b6683">
+        <source>The value of the bit represents the current state of a single switch.</source>
+        <target state="needs-translation">The value of the bit represents the current state of a single switch.</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="64936" identifier="ccccf4feee5a92437fa9241ed274042a">
+        <source>If the switch is off, then the bit has the value zero.</source>
+        <target state="needs-translation">If the switch is off, then the bit has the value zero.</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="64937" identifier="8926866523ad04d82a462c09a92fd520">
+        <source>If the switch is on, then the bit has the value one.</source>
+        <target state="needs-translation">If the switch is on, then the bit has the value one.</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="64938" identifier="81296d4d5e4d4e8f597e87ca52bbafce">
+        <source>A bit can only represent two different values, zero or one. To represent larger pieces of information, bits are strung together in sequences of 8 called bytes.</source>
+        <target state="needs-translation">A bit can only represent two different values, zero or one. To represent larger pieces of information, bits are strung together in sequences of 8 called bytes.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="64939" identifier="85f032a6738ed0039682866085b8f9f9">
+        <source>A byte is a sequence of binary digits made up of 8 bits.</source>
+        <target state="needs-translation">A byte is a sequence of binary digits made up of 8 bits.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="64940" identifier="412c740fddedf3ba545c4799a2e443ea">
+        <source>A byte can represent any value from 00000000 through 11111111, for a total of 256 different possible values.</source>
+        <target state="needs-translation">A byte can represent any value from 00000000 through 11111111, for a total of 256 different possible values.</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="64941" identifier="af81d1d8b71480862653c958231af459">
+        <source>Each digit in a byte can be thought of as representing an individual switch that is either off (zero) or on (one).</source>
+        <target state="needs-translation">Each digit in a byte can be thought of as representing an individual switch that is either off (zero) or on (one).</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="64942" identifier="1fa0ad451cb41fd17700c766a1d39066">
+        <source>Modern computers rely on transistors, which pack millions of tiny switches into a chip smaller than your thumb, but information is still represented in essentially the same way: as a series of ones and zeros.</source>
+        <target state="needs-translation">Modern computers rely on transistors, which pack millions of tiny switches into a chip smaller than your thumb, but information is still represented in essentially the same way: as a series of ones and zeros.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="64943" identifier="d71b053dc8c35d4ec47bdccd9c8bdfdf">
+        <source>By using binary, computers can represent information simply and efficiently using a system that is very effectively modeled in digital circuitry.</source>
+        <target state="needs-translation">By using binary, computers can represent information simply and efficiently using a system that is very effectively modeled in digital circuitry.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="64947" identifier="71671a2c4af11958617ed7851b93001e">
+        <source>Review</source>
+        <target state="needs-translation">Review</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="64948" identifier="16934c420f682adc3ba24cfc35844d86">
+        <source>A Bit is a binary digit with two possible values, zero or one</source>
+        <target state="needs-translation">A Bit is a binary digit with two possible values, zero or one</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="64949" identifier="4b6dbda044037731b96aff917bccaac7">
+        <source>A Byte is a sequence of 8 bits and has 256 possible values from 00000000 through 11111111</source>
+        <target state="needs-translation">A Byte is a sequence of 8 bits and has 256 possible values from 00000000 through 11111111</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64950" identifier="af7e40a63b7a280bd8d901d40c021b4a">
+        <source>A kilobyte (kB) is 1,024 bytes or 2^10 bytes</source>
+        <target state="needs-translation">A kilobyte (kB) is 1,024 bytes or 2^10 bytes</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="64951" identifier="f9a08f4cefad1efb32e4432b877a80df">
+        <source>A Megabyte (MB) is 1,048, 576 bytes or 2^20 bytes</source>
+        <target state="needs-translation">A Megabyte (MB) is 1,048, 576 bytes or 2^20 bytes</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[4]</note>
+      </trans-unit>
+      <trans-unit id="64952" identifier="b01b7e2bb242eb2e12373fd04a79d356">
+        <source>A Gigabyte (GB) is 1,073,741,824 bytes or 2^30 bytes</source>
+        <target state="needs-translation">A Gigabyte (GB) is 1,073,741,824 bytes or 2^30 bytes</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[5]</note>
+      </trans-unit>
+      <trans-unit id="64953" identifier="894ba45edca952c9a14cd125fee4521e">
+        <source>A Terabyte (TB) is 1,099,511,627,776 bytes or 2^40 bytes</source>
+        <target state="needs-translation">A Terabyte (TB) is 1,099,511,627,776 bytes or 2^40 bytes</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[6]</note>
+      </trans-unit>
+      <trans-unit id="64954" identifier="6ab57c69b08c59cb788e6820197fc469" translate="no" approved="yes">
+        <source>Notes</source>
+        <target>追加情報：</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="64955" identifier="1fdbb3105f6f4c6efb104566f6de5b2f">
+        <source>The ones and zeros of bits and bytes can be used to represent letters, numbers, and even different keys on a computer keyboard.</source>
+        <target state="needs-translation">The ones and zeros of bits and bytes can be used to represent letters, numbers, and even different keys on a computer keyboard.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="64956" identifier="21742699dc27aaf3a4089bb700098b0e">
+        <source>A bit can be used to hold a Boolean (true/false) value.  A value of zero represents ‘false’ and a value of one represents ‘true’.</source>
+        <target state="needs-translation">A bit can be used to hold a Boolean (true/false) value.  A value of zero represents ‘false’ and a value of one represents ‘true’.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

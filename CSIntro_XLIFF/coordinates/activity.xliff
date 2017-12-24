@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1837" original="/microbit/docs/courses/csintro/coordinates/activity.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="66261" identifier="e3e5774bdad5b653d6396da282877ac0">
+        <source>Activity: Animation and patterns</source>
+        <target state="needs-translation">Activity: Animation and patterns</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="66262" identifier="1104fbf3c9037e79581641b171b884b5">
+        <source>Guide the students to create programs using coordinates and LEDs.</source>
+        <target state="needs-translation">Guide the students to create programs using coordinates and LEDs.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="66263" identifier="f6930fd1067b48ffa50dc77aa00a1922">
+        <source>Each of these short exercises demonstrates how to use coordinates to control the LEDs.</source>
+        <target state="needs-translation">Each of these short exercises demonstrates how to use coordinates to control the LEDs.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="66264" identifier="b3f2cc04febb2ad20887b56ac6056b8a">
+        <source>These programs can then be modified and used in the students’ more complex projects.</source>
+        <target state="needs-translation">These programs can then be modified and used in the students’ more complex projects.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="66265" identifier="ed2b1f74d311178851ed2f518013b140" translate="no">
+        <source> </source>
+        <target state="translated"> </target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="66266" identifier="c7db6421c6ebe6a370061bd01793940f">
+        <source>Smile animation - A short exercise in plotting and toggling LEDs to create a simple animation.</source>
+        <target state="needs-translation">Smile animation - A short exercise in plotting and toggling LEDs to create a simple animation.</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="66267" identifier="63d66e0636b9b653c80d9e6b12457419">
+        <source>Random Patterns generator - A short exercise using a loop to generate random LED patterns and then checking the status of a specific LED.</source>
+        <target state="needs-translation">Random Patterns generator - A short exercise using a loop to generate random LED patterns and then checking the status of a specific LED.</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66268" identifier="ae61c8f7394de3b5a26b66a776ca96ef">
+        <source>Brightness - A short exercise in using the brightness settings for the micro:bit LEDs.</source>
+        <target state="needs-translation">Brightness - A short exercise in using the brightness settings for the micro:bit LEDs.</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66269" identifier="b792241b259e87cd1955ad98c7c9326b">
+        <source>Smile animation</source>
+        <target state="needs-translation">Smile animation</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="66270" identifier="c059d28fd6ecb737911411ab2774f733">
+        <source>A short exercise in plotting and toggling LEDs to create a simple animation.</source>
+        <target state="needs-translation">A short exercise in plotting and toggling LEDs to create a simple animation.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="66271" identifier="699b7d3d82803de0b8fa92231164b7be">
+        <source>Though students can use the 'show leds' block for images and animation, there is another way to tell the micro:bit what LEDs to turn on and off using coordinates.</source>
+        <target state="needs-translation">Though students can use the 'show leds' block for images and animation, there is another way to tell the micro:bit what LEDs to turn on and off using coordinates.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="66272" identifier="b30dbab438a286eae3096ed5be950702">
+        <source>We can still use the 'show leds' block to plan which LED coordinates to turn on</source>
+        <target state="needs-translation">We can still use the 'show leds' block to plan which LED coordinates to turn on</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66273" identifier="1b0c935080338ca70833132c5ef115ab">
+        <source>Drag out a couple 'show leds' blocks from the Basic Toolbox drawer.</source>
+        <target state="needs-translation">Drag out a couple 'show leds' blocks from the Basic Toolbox drawer.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66274" identifier="e231868aec0ec9cb9e8fb449b8ddab62">
+        <source>Create a smiling face and a non-smiling face.</source>
+        <target state="needs-translation">Create a smiling face and a non-smiling face.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="66275" identifier="3f4bcb9783b36eb2da828928dd831bc4">
+        <source>basic.showLeds(`
+    . . . . .
+    . # . # .
+    . . . . .
+    # . . . #
+    . # # # .
+    `)
+basic.showLeds(`
+    . . . . .
+    . # . # .
+    . . . . .
+    # # # # #
+    . . . . .
+`)</source>
+        <target state="needs-translation">basic.showLeds(`
+    . . . . .
+    . # . # .
+    . . . . .
+    # . . . #
+    . # # # .
+    `)
+basic.showLeds(`
+    . . . . .
+    . # . # .
+    . . . . .
+    # # # # #
+    . . . . .
+`)</target>
+        <note>Context: Text&#13;
+XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66276" identifier="9735c272286dc6e568712f5f86e4f92b">
+        <source>From the LED Toolbox drawer, drag out 6 'plot x y' blocks.</source>
+        <target state="needs-translation">From the LED Toolbox drawer, drag out 6 'plot x y' blocks.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li</note>
+      </trans-unit>
+      <trans-unit id="66277" identifier="b7ab21c582fafef28e3ab42b91c47a28">
+        <source>Tip: you can also right-click on a block and select Duplicate to copy blocks</source>
+        <target state="needs-translation">Tip: you can also right-click on a block and select Duplicate to copy blocks</target>
+        <note>Context: List Item&#13;
+XPath: /blockquote/ul/li</note>
+      </trans-unit>
+      <trans-unit id="66278" identifier="f1b26d5832a40eb3f0051996737c79e1">
+        <source>Have the students compare the two face images and determine which LEDs are on in both images.</source>
+        <target state="needs-translation">Have the students compare the two face images and determine which LEDs are on in both images.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li</note>
+      </trans-unit>
+      <trans-unit id="66279" identifier="c34e6b7655a2c4caed696c78f2df4550">
+        <source>Plot these LEDs using the correct (x,y) coordinates.</source>
+        <target state="needs-translation">Plot these LEDs using the correct (x,y) coordinates.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66280" identifier="362e0bd03f7863120f94d543f221c209">
+        <source>When done, place these 'plot x y' blocks inside an 'on start' block.</source>
+        <target state="needs-translation">When done, place these 'plot x y' blocks inside an 'on start' block.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66281" identifier="fca3de2d15e179f6e8389f0838fbbdf5">
+        <source>led.plot(1, 0)
+led.plot(3, 0)
+led.plot(2, 1)
+led.plot(1, 3)
+led.plot(2, 3)
+led.plot(3, 3)</source>
+        <target state="needs-translation">led.plot(1, 0)
+led.plot(3, 0)
+led.plot(2, 1)
+led.plot(1, 3)
+led.plot(2, 3)
+led.plot(3, 3)</target>
+        <note>Context: Text&#13;
+XPath: /pre[2]/code</note>
+      </trans-unit>
+      <trans-unit id="66282" identifier="1e04e2ae89977719c0e1a8b254dc8563">
+        <source>Now we can code for the 4 LEDs that change back and forth, on and off, as we switch from one face to the other and back again over and over.</source>
+        <target state="needs-translation">Now we can code for the 4 LEDs that change back and forth, on and off, as we switch from one face to the other and back again over and over.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="66283" identifier="9336a7d1741c13f143972c4b9557a887">
+        <source>From the LED Toolbox drawer, drag out 4 'toggle x y' blocks.</source>
+        <target state="needs-translation">From the LED Toolbox drawer, drag out 4 'toggle x y' blocks.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li</note>
+      </trans-unit>
+      <trans-unit id="66284" identifier="34aafbd49e714f962a25ba5ec8fa15b8">
+        <source>Replace the default values with the correct (x,y) coordinates. 
+The 'toggle x y' block will change the status of an LED from on to off or off to on.</source>
+        <target state="needs-translation">Replace the default values with the correct (x,y) coordinates. 
+The 'toggle x y' block will change the status of an LED from on to off or off to on.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66285" identifier="a9115cd4017171d755856e55bb247559">
+        <source>Place these 4 'toggle x y' blocks in a 'forever' block.</source>
+        <target state="needs-translation">Place these 4 'toggle x y' blocks in a 'forever' block.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66286" identifier="ebea6de80c45992aee545104fd078e88">
+        <source>Place the two 'toggle x y' blocks that create the smile first, followed by the two 'toggle x y' blocks for the non-smile.</source>
+        <target state="needs-translation">Place the two 'toggle x y' blocks that create the smile first, followed by the two 'toggle x y' blocks for the non-smile.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="66287" identifier="f1849b0c282080ac53d5300132f9096d">
+        <source>You may notice that the toggling happens too quickly. Let’s slow it down a bit by placing a 'pause' block between the two pairs of 'toggle x y' blocks.  Set the pause value to 250 milliseconds.</source>
+        <target state="needs-translation">You may notice that the toggling happens too quickly. Let’s slow it down a bit by placing a 'pause' block between the two pairs of 'toggle x y' blocks.  Set the pause value to 250 milliseconds.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[5]</note>
+      </trans-unit>
+      <trans-unit id="66288" identifier="d7f94e1cefed3a54ca4b08f3f2d169d6">
+        <source>Here is the full program:</source>
+        <target state="needs-translation">Here is the full program:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="66289" identifier="c6023a1bce6b53eb09dbfd2f8b5853da">
+        <source>basic.forever(() =&amp;gt; {
+   led.toggle(0, 2)
+   led.toggle(4, 2)
+   basic.pause(250)
+   led.toggle(0, 3)
+   led.toggle(4, 3)
+})
+led.plot(1, 0)
+led.plot(3, 0)
+led.plot(2, 1)
+led.plot(1, 3)
+led.plot(2, 3)
+led.plot(3, 3)</source>
+        <target state="needs-translation">basic.forever(() =&amp;gt; {
+   led.toggle(0, 2)
+   led.toggle(4, 2)
+   basic.pause(250)
+   led.toggle(0, 3)
+   led.toggle(4, 3)
+})
+led.plot(1, 0)
+led.plot(3, 0)
+led.plot(2, 1)
+led.plot(1, 3)
+led.plot(2, 3)
+led.plot(3, 3)</target>
+        <note>Context: Text&#13;
+XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="66290" identifier="d1a30841fa2d025f44e87c8bd97f1c78" translate="no">
+        <source>Mod this!</source>
+        <target>Mod this!</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="66291" identifier="be0c107dd7fd55f4bb5ba12cfcfab346">
+        <source>Add a third image to the animation, perhaps a frown face.</source>
+        <target state="needs-translation">Add a third image to the animation, perhaps a frown face.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li</note>
+      </trans-unit>
+      <trans-unit id="66292" identifier="14145eb0370e1608f460d03d7a6c554d">
+        <source>Make your own custom animation! What LEDs stay the same and which need to be toggled?
+ </source>
+        <target state="needs-translation">Make your own custom animation! What LEDs stay the same and which need to be toggled?
+ </target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66293" identifier="cc0aa82a7349ac3c08228ce9e9c6a4ab">
+        <source>Random patterns generator</source>
+        <target state="needs-translation">Random patterns generator</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="66294" identifier="1b7d477c1267a771ced9fee66671b940">
+        <source>A short exercise using a loop to generate random LED patterns and then checking the status of a specific LED.</source>
+        <target state="needs-translation">A short exercise using a loop to generate random LED patterns and then checking the status of a specific LED.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="66295" identifier="99b1665a8e9897bfa67bc2868e5c90d1">
+        <source>Pseudocode:
+* On button A pressed we’ll use a loop to turn on a random set of LED lights on our micro:bit.</source>
+        <target state="needs-translation">Pseudocode:
+* On button A pressed we’ll use a loop to turn on a random set of LED lights on our micro:bit.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="66296" identifier="6817f3079c3d1e621660239761a438d2">
+        <source>* Our display will have one LED lit for each column or x coordinate value from 0 through 4.</source>
+        <target state="needs-translation">* Our display will have one LED lit for each column or x coordinate value from 0 through 4.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="66297" identifier="560cff407c912653f8d4589b4fe4878a">
+        <source>Steps:
+* From the Input Toolbox drawer, select the 'on button pressed' block
+* From the Basic - More Toolbox drawer, drop in a 'clear screen' block
+* From the Loops Toolbox drawer, drop in a 'for' block
+* From the LED Toolbox drawer, drop a 'plot x y' block
+* Use the variable 'index' for the x value
+* From the Math Toolbox drawer, drop a 'pick random' block into the y value</source>
+        <target state="needs-translation">Steps:
+* From the Input Toolbox drawer, select the 'on button pressed' block
+* From the Basic - More Toolbox drawer, drop in a 'clear screen' block
+* From the Loops Toolbox drawer, drop in a 'for' block
+* From the LED Toolbox drawer, drop a 'plot x y' block
+* Use the variable 'index' for the x value
+* From the Math Toolbox drawer, drop a 'pick random' block into the y value</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="66298" identifier="fee33ad8ffc1d12289425b8aef813b5e">
+        <source>input.onButtonPressed(Button.A, () =&amp;gt; {
+   basic.clearScreen()
+   for (let index = 0; index &amp;lt;= 4; index++) {
+       led.plot(index, Math.random(5))
+   }
+})</source>
+        <target state="needs-translation">input.onButtonPressed(Button.A, () =&amp;gt; {
+   basic.clearScreen()
+   for (let index = 0; index &amp;lt;= 4; index++) {
+       led.plot(index, Math.random(5))
+   }
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="66299" identifier="c91b4a583c29e15aa5a4c7a69458985b">
+        <source> 
+Check the on/off state of an LED</source>
+        <target state="needs-translation"> 
+Check the on/off state of an LED</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="66300" identifier="4020c1550e254d54c59155e8810dc3ca">
+        <source>On button B pressed we’ll use an 'if...then...else' block from the Logic Toolbox drawer</source>
+        <target state="needs-translation">On button B pressed we’ll use an 'if...then...else' block from the Logic Toolbox drawer</target>
+        <note>Context: List Item&#13;
+XPath: /ul[7]/li</note>
+      </trans-unit>
+      <trans-unit id="66301" identifier="db7484aba3072ba3191f05cb5a17aac5">
+        <source>From the LED Toolbox drawer, drop a 'point x y' block into the 'if' condition to check the current on/off state of a specific LED.</source>
+        <target state="needs-translation">From the LED Toolbox drawer, drop a 'point x y' block into the 'if' condition to check the current on/off state of a specific LED.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[7]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66302" identifier="a12b0a3c837d8070285aa4913d110e7b">
+        <source>If the LED is currently on, the point x y block will return true.</source>
+        <target state="needs-translation">If the LED is currently on, the point x y block will return true.</target>
+        <note>Context: List Item&#13;
+XPath: /blockquote[2]/ul/li</note>
+      </trans-unit>
+      <trans-unit id="66303" identifier="3df47e1722b821da91bcf6c00874df71">
+        <source>If the LED is currently off, the point x y block will return false.</source>
+        <target state="needs-translation">If the LED is currently off, the point x y block will return false.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /ul[8]/li/p</note>
+      </trans-unit>
+      <trans-unit id="66304" identifier="d69d0c5257fb4b77a83ae050879dc518">
+        <source>For this exercise, we’ll use the two Yes/No built in icons to display the LED’s current status.</source>
+        <target state="needs-translation">For this exercise, we’ll use the two Yes/No built in icons to display the LED’s current status.</target>
+        <note>Context: XPath: /ul[8]/li[2]/p</note>
+      </trans-unit>
+      <trans-unit id="66305" identifier="f51847fda3233b7ab793370b86faa4b2">
+        <source>From the Basic Toolbox drawer, drag 2 'show icon' blocks into each of the 'then' and 'else' clauses.</source>
+        <target state="needs-translation">From the Basic Toolbox drawer, drag 2 'show icon' blocks into each of the 'then' and 'else' clauses.</target>
+        <note>Context: XPath: /ul[8]/li[2]/p</note>
+      </trans-unit>
+      <trans-unit id="66306" identifier="e2c03d54f7bcbaa3aaa2e04a73ba4b09">
+        <source>Select the check mark for Yes, and the X icon for No.</source>
+        <target state="needs-translation">Select the check mark for Yes, and the X icon for No.</target>
+        <note>Context: XPath: /ul[8]/li[2]/p</note>
+      </trans-unit>
+      <trans-unit id="66307" identifier="335738bdc4dcb6796940b40b0b2943a9">
+        <source>For now, we’ll leave the default coordinate values (0,0).  But you can challenge your students to add a loop to test for all coordinates on the micro:bit.</source>
+        <target state="needs-translation">For now, we’ll leave the default coordinate values (0,0).  But you can challenge your students to add a loop to test for all coordinates on the micro:bit.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[8]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66308" identifier="790c380d09ac7a5b59a56db45acd95bd" translate="no" approved="yes">
+        <source>Here is the complete program:</source>
+        <target>完全なプログラムはこのようになっているはずです。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="66309" identifier="a5db488a961543bef9490dc53fb09cba">
+        <source>input.onButtonPressed(Button.A, () =&amp;gt; {
+   basic.clearScreen()
+   for (let index = 0; index &amp;lt;= 4; index++) {
+       led.plot(index, Math.random(5))
+   }
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+   if (led.point(0, 0)) {
+       basic.showIcon(IconNames.Yes)
+   } else {
+       basic.showIcon(IconNames.No)
+   }
+})</source>
+        <target state="needs-translation">input.onButtonPressed(Button.A, () =&amp;gt; {
+   basic.clearScreen()
+   for (let index = 0; index &amp;lt;= 4; index++) {
+       led.plot(index, Math.random(5))
+   }
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+   if (led.point(0, 0)) {
+       basic.showIcon(IconNames.Yes)
+   } else {
+       basic.showIcon(IconNames.No)
+   }
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="66310" identifier="9ef1fc44829b701a6eef8cb4c02d0641" translate="no">
+        <source>Try it out!</source>
+        <target>Try it out!</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3</note>
+      </trans-unit>
+      <trans-unit id="66311" identifier="56ada3792699b8ed49b9385c693f967e">
+        <source>Download the program to your micro:bit</source>
+        <target state="needs-translation">Download the program to your micro:bit</target>
+        <note>Context: List Item&#13;
+XPath: /ul[9]/li</note>
+      </trans-unit>
+      <trans-unit id="66312" identifier="b9c7e510aeaa20c4a6a9a6df778b14a3">
+        <source>Press button A to create a random pattern</source>
+        <target state="needs-translation">Press button A to create a random pattern</target>
+        <note>Context: List Item&#13;
+XPath: /ul[9]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66313" identifier="bd1c1063e2bc81d96b02d40db9870705">
+        <source>Press button B to check and display the status of the specific LED
+ </source>
+        <target state="needs-translation">Press button B to check and display the status of the specific LED
+ </target>
+        <note>Context: List Item&#13;
+XPath: /ul[9]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66314" identifier="535426c32aa9db09605d5c959725186a" translate="no">
+        <source>Brightness</source>
+        <target>Brightness</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[4]</note>
+      </trans-unit>
+      <trans-unit id="66315" identifier="f33f7638bc0afb456b06effb50b3927c">
+        <source>A short exercise in using the brightness settings for the micro:bit LEDs.</source>
+        <target state="needs-translation">A short exercise in using the brightness settings for the micro:bit LEDs.</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="66316" identifier="9f546968e429298dcec4d33003887f6e">
+        <source>Important to note - the brightness level of the micro:bit simulator LEDs will NOT appear to change!</source>
+        <target state="needs-translation">Important to note - the brightness level of the micro:bit simulator LEDs will NOT appear to change!</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="66317" identifier="9ec553d13c228cca95cf635c0af968f3">
+        <source>You must run your program on the actual micro:bit to see the different brightness levels.</source>
+        <target state="needs-translation">You must run your program on the actual micro:bit to see the different brightness levels.</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="66318" identifier="6fe9334c757581768d51acd1043019f5">
+        <source>We will check on, and numerically display the brightness level with our program, so we can verify with the simulator that it is working.</source>
+        <target state="needs-translation">We will check on, and numerically display the brightness level with our program, so we can verify with the simulator that it is working.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="66319" identifier="e1ee1aabd01e9e1cb72f8fc1b0044433">
+        <source>Pseudocode:
+We’ll set the brightness level for the LEDs to the highest level on start and then use on button A pressed to decrease the brightness level and on button B pressed to increase the brightness level.</source>
+        <target state="needs-translation">Pseudocode:
+We’ll set the brightness level for the LEDs to the highest level on start and then use on button A pressed to decrease the brightness level and on button B pressed to increase the brightness level.</target>
+        <note>Context: XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="66320" identifier="b814a128525be0b48c52b7bf36f5a3d3">
+        <source>We’ll use on button A+B pressed to check and display numerically the current brightness level.</source>
+        <target state="needs-translation">We’ll use on button A+B pressed to check and display numerically the current brightness level.</target>
+        <note>Context: XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="66321" identifier="1fd4b0d678bc190db3c092acde20a327">
+        <source>Steps:</source>
+        <target state="needs-translation">Steps:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="66322" identifier="01e6b6c876497a49672b968450994070">
+        <source>Drag 3 'set brightness' blocks and 3 'brightness' blocks from the Led - More Toolbox drawer onto your coding workspace</source>
+        <target state="needs-translation">Drag 3 'set brightness' blocks and 3 'brightness' blocks from the Led - More Toolbox drawer onto your coding workspace</target>
+        <note>Context: List Item&#13;
+XPath: /ul[10]/li</note>
+      </trans-unit>
+      <trans-unit id="66323" identifier="f4ea4b903e744bc9ffa8666c18cef5f3">
+        <source>Place one 'set brightness' block in the 'on start' block</source>
+        <target state="needs-translation">Place one 'set brightness' block in the 'on start' block</target>
+        <note>Context: List Item&#13;
+XPath: /ul[10]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66324" identifier="6acc9b87d2579cb3cdf4ed56c8b61fc5">
+        <source>Add a 'show icon' block after the 'set brightness' block so we will have an image to look at</source>
+        <target state="needs-translation">Add a 'show icon' block after the 'set brightness' block so we will have an image to look at</target>
+        <note>Context: List Item&#13;
+XPath: /ul[10]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66325" identifier="01a4333409c28819be6cd560ab47ee49">
+        <source>led.setBrightness(255)
+basic.showIcon(IconNames.Heart)</source>
+        <target state="needs-translation">led.setBrightness(255)
+basic.showIcon(IconNames.Heart)</target>
+        <note>Context: Text&#13;
+XPath: /pre[6]/code</note>
+      </trans-unit>
+      <trans-unit id="66326" identifier="6f5dd981fabc92fb2686dae7963b718c" translate="no">
+        <source> </source>
+        <target state="translated"> </target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="66327" identifier="de386871340912b4343891942d9b0bd4">
+        <source>From the Input Toolbox drawer, drag out 3 'on button pressed' blocks onto your coding workspace</source>
+        <target state="needs-translation">From the Input Toolbox drawer, drag out 3 'on button pressed' blocks onto your coding workspace</target>
+        <note>Context: List Item&#13;
+XPath: /ul[11]/li</note>
+      </trans-unit>
+      <trans-unit id="66328" identifier="037a5c83ab31b4ecf3be2c36f76efd80">
+        <source>Leave one 'on button pressed' block with the default setting of A and change the second one to B and the third one to A+B</source>
+        <target state="needs-translation">Leave one 'on button pressed' block with the default setting of A and change the second one to B and the third one to A+B</target>
+        <note>Context: List Item&#13;
+XPath: /ul[11]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66329" identifier="44b9f3a01f8f3f6715c206c5d889429a">
+        <source>Place one 'set brightness' block in the 'on button A' pressed block, and the other 'set brightness' block in the 'on button B' pressed block</source>
+        <target state="needs-translation">Place one 'set brightness' block in the 'on button A' pressed block, and the other 'set brightness' block in the 'on button B' pressed block</target>
+        <note>Context: List Item&#13;
+XPath: /ul[11]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66330" identifier="e88d05e610152ac9091a5d647f905ae1">
+        <source>From the Math Toolbox drawer, drag out an addition block and a subtraction block</source>
+        <target state="needs-translation">From the Math Toolbox drawer, drag out an addition block and a subtraction block</target>
+        <note>Context: List Item&#13;
+XPath: /ul[11]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="66331" identifier="6375a701f44da11092cd54b7b4835c83">
+        <source>Place the addition block within the 'set brightness' block in the 'on button B pressed' block</source>
+        <target state="needs-translation">Place the addition block within the 'set brightness' block in the 'on button B pressed' block</target>
+        <note>Context: List Item&#13;
+XPath: /ul[11]/li[5]</note>
+      </trans-unit>
+      <trans-unit id="66332" identifier="a34de30700ef3afee95fecb7dc3558a0">
+        <source>Place the subtraction block within the 'set brightness' block in the 'on button A pressed' block</source>
+        <target state="needs-translation">Place the subtraction block within the 'set brightness' block in the 'on button A pressed' block</target>
+        <note>Context: List Item&#13;
+XPath: /ul[11]/li[6]</note>
+      </trans-unit>
+      <trans-unit id="66333" identifier="743b01977f65348db6e0a504c5f336f3">
+        <source>Place a 'brightness' block on the left side of each math expression</source>
+        <target state="needs-translation">Place a 'brightness' block on the left side of each math expression</target>
+        <note>Context: List Item&#13;
+XPath: /ul[11]/li[7]</note>
+      </trans-unit>
+      <trans-unit id="66334" identifier="8aee04caef1aae51ff56c79438f49088">
+        <source>Change the default value of 0 on the right side of each math expression to 25</source>
+        <target state="needs-translation">Change the default value of 0 on the right side of each math expression to 25</target>
+        <note>Context: List Item&#13;
+XPath: /ul[11]/li[8]</note>
+      </trans-unit>
+      <trans-unit id="66335" identifier="11784ed25ecb88635eb1cd687985a167">
+        <source>input.onButtonPressed(Button.A, () =&amp;gt; {
+   led.setBrightness(led.brightness() - 25)
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+   led.setBrightness(led.brightness() + 25)
+})</source>
+        <target state="needs-translation">input.onButtonPressed(Button.A, () =&amp;gt; {
+   led.setBrightness(led.brightness() - 25)
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+   led.setBrightness(led.brightness() + 25)
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="66336" identifier="7365e20bed2615db1c7823ae600c66cc">
+        <source> 
+Since we cannot see if our program is working in the simulator, let’s add a check into our code.</source>
+        <target state="needs-translation"> 
+Since we cannot see if our program is working in the simulator, let’s add a check into our code.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="66337" identifier="4195cfda81d2795a853cd44afe9a304a">
+        <source>On button A+B pressed, we’ll clear the screen and get and display the current brightness level as a number.</source>
+        <target state="needs-translation">On button A+B pressed, we’ll clear the screen and get and display the current brightness level as a number.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[12]/li</note>
+      </trans-unit>
+      <trans-unit id="66338" identifier="e38f4204708c85834e37fc997f9744ee">
+        <source>Then we’ll re-display the image we used on start.</source>
+        <target state="needs-translation">Then we’ll re-display the image we used on start.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[12]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66339" identifier="46bb6d58dd8bb1d7f1a110ffc4fa53bb" translate="no" approved="yes">
+        <source>Here is the complete program:</source>
+        <target>完全なプログラムはこのようになっているはずです。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[14]</note>
+      </trans-unit>
+      <trans-unit id="66340" identifier="4bd5418b49b9a172e663f97c967beaea">
+        <source>input.onButtonPressed(Button.A, () =&amp;gt; {
+   led.setBrightness(led.brightness() - 25)
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+   led.setBrightness(led.brightness() + 25)
+})
+input.onButtonPressed(Button.AB, () =&amp;gt; {
+   basic.clearScreen()
+   basic.showNumber(led.brightness())
+   basic.showIcon(IconNames.Heart)
+})
+led.setBrightness(255)
+basic.showIcon(IconNames.Heart)</source>
+        <target state="needs-translation">input.onButtonPressed(Button.A, () =&amp;gt; {
+   led.setBrightness(led.brightness() - 25)
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+   led.setBrightness(led.brightness() + 25)
+})
+input.onButtonPressed(Button.AB, () =&amp;gt; {
+   basic.clearScreen()
+   basic.showNumber(led.brightness())
+   basic.showIcon(IconNames.Heart)
+})
+led.setBrightness(255)
+basic.showIcon(IconNames.Heart)</target>
+        <note>Context: Text&#13;
+XPath: /pre[8]/code</note>
+      </trans-unit>
+      <trans-unit id="66341" identifier="a9aac5d79be5993ba65cfa05095a63a4" translate="no">
+        <source>Try it out!</source>
+        <target>Try it out!</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[2]</note>
+      </trans-unit>
+      <trans-unit id="66342" identifier="41e7a8dbcca47c3c8ada3c4684db40c5">
+        <source>What happens if adding 25 or subtracting 25 from the current brightness level would result in a sum or difference outside of the 0 to 255 brightness range?</source>
+        <target state="needs-translation">What happens if adding 25 or subtracting 25 from the current brightness level would result in a sum or difference outside of the 0 to 255 brightness range?</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[15]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

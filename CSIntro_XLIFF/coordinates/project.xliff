@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1839" original="/microbit/docs/courses/csintro/coordinates/project.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="66381" identifier="a3be42cede08e9643544332260d41268">
+        <source>Project: Screensaver or game</source>
+        <target state="needs-translation">Project: Screensaver or game</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="66382" identifier="87b7ab542d52d8cceab799815aaa3423">
+        <source>Use what you now know about LEDs, coordinates, and brightness to create your own project: a screensaver, or a game.</source>
+        <target state="needs-translation">Use what you now know about LEDs, coordinates, and brightness to create your own project: a screensaver, or a game.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="66383" identifier="5c3464f581e31d0e5125418f1851418e">
+        <source>You should find a way to use coordinates in your program.</source>
+        <target state="needs-translation">You should find a way to use coordinates in your program.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="66384" identifier="044a7ac21781f526f4c19529fbcd8231">
+        <source>Even better, use variables to store and update your coordinates.</source>
+        <target state="needs-translation">Even better, use variables to store and update your coordinates.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="66385" identifier="9fd39291454d5fc3b9b5ee1498a87f3f">
+        <source>Screensavers</source>
+        <target state="needs-translation">Screensavers</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="66386" identifier="2dfe0bec340774a4097e652e2669c1fc">
+        <source>One type of project is a screensaver.</source>
+        <target state="needs-translation">One type of project is a screensaver.</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="66387" identifier="8e67a7f0bedca2df6bcf32f7af951b3b">
+        <source>A long time ago, computers and televisions used cathode ray tube (CRT)screens for displays.</source>
+        <target state="needs-translation">A long time ago, computers and televisions used cathode ray tube (CRT)screens for displays.</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="66388" identifier="df6fe3ec126b398cf164e6c5fbdd8d21">
+        <source>The glass screen of the display was coated on the back with phosphor, a substance that glows when painted with electrons from an electron gun at the other end of the tube.</source>
+        <target state="needs-translation">The glass screen of the display was coated on the back with phosphor, a substance that glows when painted with electrons from an electron gun at the other end of the tube.</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="66389" identifier="47640eca458108a09b0e49941b22bf19">
+        <source>When the same area of the screen was painted (excited) over and over again by the stream of electrons, that part of the screen would sometimes &quot;freeze&quot; with the same image, burned into the phosphor for good.</source>
+        <target state="needs-translation">When the same area of the screen was painted (excited) over and over again by the stream of electrons, that part of the screen would sometimes &quot;freeze&quot; with the same image, burned into the phosphor for good.</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="66390" identifier="499efa8d5af0be42c1aa238bcb596fad">
+        <source>This was called &quot;burn-in&quot;.</source>
+        <target state="needs-translation">This was called &quot;burn-in&quot;.</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="66391" identifier="76e9b4d6577c8a429ace8f0fe909729d">
+        <source>Normally, if a show was running, or if someone was actively using the computer, the display changed often enough that burn-in wasn’t a problem.</source>
+        <target state="needs-translation">Normally, if a show was running, or if someone was actively using the computer, the display changed often enough that burn-in wasn’t a problem.</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="66392" identifier="2e60275055378b66ff49933eab71f32a">
+        <source>Programmers learned to create a demo screen with an animation that would run whenever the screen was idle.</source>
+        <target state="needs-translation">Programmers learned to create a demo screen with an animation that would run whenever the screen was idle.</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="66393" identifier="791f9ed536af86063f68fd9c93f90bb3">
+        <source>Today, nearly all computers and television sets use LCD displays, which are not affected by burn-in.</source>
+        <target state="needs-translation">Today, nearly all computers and television sets use LCD displays, which are not affected by burn-in.</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="66394" identifier="d6c1347a8f0a405f69912d5058433d3b">
+        <source>But you can still find a screen saver in nearly every computer's Settings panel, as an opportunity to show off some neat graphics or animation.</source>
+        <target state="needs-translation">But you can still find a screen saver in nearly every computer's Settings panel, as an opportunity to show off some neat graphics or animation.</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="66395" identifier="3d25b210bfe6d1b6c6fcc8fa5c003298">
+        <source>Your task is to create:</source>
+        <target state="needs-translation">Your task is to create:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="70377" identifier="831c05af85b98a755cc430f8536566df">
+        <source>A &quot;screen saver&quot; animation using the plot/unplot blocks. You can fill the screen line by line, pausing between each one, or fill it with a random constellation of stars.</source>
+        <target state="needs-translation">A &quot;screen saver&quot; animation using the plot/unplot blocks. You can fill the screen line by line, pausing between each one, or fill it with a random constellation of stars.</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="66397" identifier="e3aa1dbde3b396a6ae80532379da21f9">
+        <source>-- OR --</source>
+        <target state="needs-translation">-- OR --</target>
+        <note>Context: Paragraph text&#13;
+XPath: /blockquote/p</note>
+      </trans-unit>
+      <trans-unit id="70378" identifier="747a29f2fd08da229263aae4e15cdeac">
+        <source>A game that uses sprites to manage the x and y coordinate values of the different objects.</source>
+        <target state="needs-translation">A game that uses sprites to manage the x and y coordinate values of the different objects.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="66399" identifier="c6d49e5603625aee4170b93e0499aa91">
+        <source>Your project might use variables to store the values of sprites, which are special structures that contain an x and a y coordinate together that describe the sprite's location as one LED on the screen.</source>
+        <target state="needs-translation">Your project might use variables to store the values of sprites, which are special structures that contain an x and a y coordinate together that describe the sprite's location as one LED on the screen.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="66400" identifier="01579b537525e60b0a8c05b1499ff9df" translate="no">
+        <source>Project Ideas</source>
+        <target>Project Ideas</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="66401" identifier="e1eb2e647fc5ca444a9e60e06d939dbe">
+        <source>Firework screensaver</source>
+        <target state="needs-translation">Firework screensaver</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3</note>
+      </trans-unit>
+      <trans-unit id="66402" identifier="c634555742caebf24913b3fb1c70e3f0">
+        <source>This project uses a for loop with the plot/unplot blocks to create a symmetrical design on the screen.</source>
+        <target state="needs-translation">This project uses a for loop with the plot/unplot blocks to create a symmetrical design on the screen.</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="66403" identifier="dac824ed0c5fec5b0f618d6e10cb99b9">
+        <source>This student used a subtraction operation to get a variable that decreases as the index variable in the loop increases.</source>
+        <target state="needs-translation">This student used a subtraction operation to get a variable that decreases as the index variable in the loop increases.</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="66404" identifier="327e34f8b1e7d437c001df50b7482b8e">
+        <source>basic.forever(() =&amp;gt; {
+    for (let x = 0; x &amp;lt;= 4; x++) {
+        led.plot(x, 0)
+        led.plot(0, 4 - x)
+        led.plot(4 - x, 4)
+        led.plot(4, x)
+        basic.pause(50)
+        led.unplot(x, 0)
+        led.unplot(4 - x, 4)
+        led.unplot(0, 4 - x)
+        led.unplot(4, x)
+        basic.pause(50)
+    }
+})</source>
+        <target state="needs-translation">basic.forever(() =&amp;gt; {
+    for (let x = 0; x &amp;lt;= 4; x++) {
+        led.plot(x, 0)
+        led.plot(0, 4 - x)
+        led.plot(4 - x, 4)
+        led.plot(4, x)
+        basic.pause(50)
+        led.unplot(x, 0)
+        led.unplot(4 - x, 4)
+        led.unplot(0, 4 - x)
+        led.unplot(4, x)
+        basic.pause(50)
+    }
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66405" identifier="5bea0270bef3e9c08bd71a1996decf1f" translate="no">
+        <source>This project uses a for loop with the plot/unplot blocks to create a symmetrical design on the screen.</source>
+        <target>This project uses a for loop with the plot/unplot blocks to create a symmetrical design on the screen.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="66406" identifier="563d13126af2c2574ebb66ed65830b66" translate="no">
+        <source>This student used a subtraction operation to get a variable that decreases as the index variable in the loop increases.</source>
+        <target>This student used a subtraction operation to get a variable that decreases as the index variable in the loop increases.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="66407" identifier="bb7f476756a093078b1b7f1433888e37" translate="no">
+        <source>basic.forever(() =&amp;gt; {
+    for (let x = 0; x &amp;lt;= 4; x++) {
+        led.plot(x, 0)
+        led.plot(0, 4 - x)
+        led.plot(4 - x, 4)
+        led.plot(4, x)
+        basic.pause(50)
+        led.unplot(x, 0)
+        led.unplot(4 - x, 4)
+        led.unplot(0, 4 - x)
+        led.unplot(4, x)
+        basic.pause(50)
+    }
+})</source>
+        <target>basic.forever(() =&amp;gt; {
+    for (let x = 0; x &amp;lt;= 4; x++) {
+        led.plot(x, 0)
+        led.plot(0, 4 - x)
+        led.plot(4 - x, 4)
+        led.plot(4, x)
+        basic.pause(50)
+        led.unplot(x, 0)
+        led.unplot(4 - x, 4)
+        led.unplot(0, 4 - x)
+        led.unplot(4, x)
+        basic.pause(50)
+    }
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre[2]/code</note>
+      </trans-unit>
+      <trans-unit id="66408" identifier="a95c8fc486e32af2ac9304e8834a6cae">
+        <source>Cascade screensaver</source>
+        <target state="needs-translation">Cascade screensaver</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[2]</note>
+      </trans-unit>
+      <trans-unit id="66409" identifier="de4e04277a04cf4044d8041730b47093">
+        <source>This example creates a diagonal cascading effect across the screen. Note the use of a variable (speed) to allow you to easily change the speed of the animation by changing just one number value.</source>
+        <target state="needs-translation">This example creates a diagonal cascading effect across the screen. Note the use of a variable (speed) to allow you to easily change the speed of the animation by changing just one number value.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="66410" identifier="939fc511bce86a144748e86479eccb47">
+        <source>let reverse = 0
+let speed = 10
+let inner = 0
+let outer = 0
+basic.forever(() =&amp;gt; {
+    for (let outer = 0; outer &amp;lt;= 4; outer++) {
+        reverse = 4 - outer
+        for (let inner = 0; inner &amp;lt;= 4; inner++) {
+            led.plot(outer, reverse)
+            basic.pause(speed)
+            led.plot(reverse, outer)
+            basic.pause(speed)
+            led.plot(reverse - inner, reverse)
+            basic.pause(speed)
+            led.plot(reverse, reverse - inner)
+            basic.pause(speed)
+        }
+    }
+    for (let outer = 0; outer &amp;lt;= 4; outer++) {
+        reverse = 4 - outer
+        for (let inner = 0; inner &amp;lt;= 4; inner++) {
+            led.unplot(outer, reverse)
+            basic.pause(speed)
+            led.unplot(reverse, outer)
+            basic.pause(speed)
+            led.unplot(reverse - inner, reverse)
+            basic.pause(speed)
+            led.unplot(reverse, reverse - inner)
+            basic.pause(speed)
+        }
+    }
+})</source>
+        <target state="needs-translation">let reverse = 0
+let speed = 10
+let inner = 0
+let outer = 0
+basic.forever(() =&amp;gt; {
+    for (let outer = 0; outer &amp;lt;= 4; outer++) {
+        reverse = 4 - outer
+        for (let inner = 0; inner &amp;lt;= 4; inner++) {
+            led.plot(outer, reverse)
+            basic.pause(speed)
+            led.plot(reverse, outer)
+            basic.pause(speed)
+            led.plot(reverse - inner, reverse)
+            basic.pause(speed)
+            led.plot(reverse, reverse - inner)
+            basic.pause(speed)
+        }
+    }
+    for (let outer = 0; outer &amp;lt;= 4; outer++) {
+        reverse = 4 - outer
+        for (let inner = 0; inner &amp;lt;= 4; inner++) {
+            led.unplot(outer, reverse)
+            basic.pause(speed)
+            led.unplot(reverse, outer)
+            basic.pause(speed)
+            led.unplot(reverse - inner, reverse)
+            basic.pause(speed)
+            led.unplot(reverse, reverse - inner)
+            basic.pause(speed)
+        }
+    }
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="66411" identifier="c71f0864eb279045454999421a22057a">
+        <source>let reverse = 0
+let speed = 0
+let inner = 0
+let outer = 0
+basic.forever(() =&amp;gt; {
+    for (let outer = 0; outer &amp;lt;= 4; outer++) {
+        reverse = 4 - outer
+        for (let inner = 0; inner &amp;lt;= 4; inner++) {
+            led.plot(outer, reverse)
+            basic.pause(speed)
+            led.plot(reverse, outer)
+            basic.pause(speed)
+            led.plot(reverse - inner, reverse)
+            basic.pause(speed)
+            led.plot(reverse, reverse - inner)
+            basic.pause(speed)
+        }
+    }
+    for (let outer = 0; outer &amp;lt;= 4; outer++) {
+        reverse = 4 - outer
+        for (let inner = 0; inner &amp;lt;= 4; inner++) {
+            led.unplot(outer, reverse)
+            basic.pause(speed)
+            led.unplot(reverse, outer)
+            basic.pause(speed)
+            led.unplot(reverse - inner, reverse)
+            basic.pause(speed)
+            led.unplot(reverse, reverse - inner)
+            basic.pause(speed)
+        }
+    }
+})
+speed = 10</source>
+        <target state="needs-translation">let reverse = 0
+let speed = 0
+let inner = 0
+let outer = 0
+basic.forever(() =&amp;gt; {
+    for (let outer = 0; outer &amp;lt;= 4; outer++) {
+        reverse = 4 - outer
+        for (let inner = 0; inner &amp;lt;= 4; inner++) {
+            led.plot(outer, reverse)
+            basic.pause(speed)
+            led.plot(reverse, outer)
+            basic.pause(speed)
+            led.plot(reverse - inner, reverse)
+            basic.pause(speed)
+            led.plot(reverse, reverse - inner)
+            basic.pause(speed)
+        }
+    }
+    for (let outer = 0; outer &amp;lt;= 4; outer++) {
+        reverse = 4 - outer
+        for (let inner = 0; inner &amp;lt;= 4; inner++) {
+            led.unplot(outer, reverse)
+            basic.pause(speed)
+            led.unplot(reverse, outer)
+            basic.pause(speed)
+            led.unplot(reverse - inner, reverse)
+            basic.pause(speed)
+            led.unplot(reverse, reverse - inner)
+            basic.pause(speed)
+        }
+    }
+})
+speed = 10</target>
+        <note>Context: Text&#13;
+XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="66412" identifier="f44154f601edebfd0f187b4475d420bf">
+        <source>Dodge ball game</source>
+        <target state="needs-translation">Dodge ball game</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[3]</note>
+      </trans-unit>
+      <trans-unit id="66413" identifier="1f62a648d384deb97cf6957dc73b559d">
+        <source>This is a Dodge Ball game that uses one sprite (dodger) to try to avoid another sprite (ball).</source>
+        <target state="needs-translation">This is a Dodge Ball game that uses one sprite (dodger) to try to avoid another sprite (ball).</target>
+        <note>Context: XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="66414" identifier="bdb44350063cbd35fe714f4d3be9cf39">
+        <source>You use the A and B buttons to move the dodger to avoid the balls that are falling from the top of the screen.</source>
+        <target state="needs-translation">You use the A and B buttons to move the dodger to avoid the balls that are falling from the top of the screen.</target>
+        <note>Context: XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="66415" identifier="bff98735faf27506a4551832a578469c">
+        <source>let dodger: game.LedSprite = null
+let ball: game.LedSprite = null
+basic.forever(() =&amp;gt; {
+   if (dodger.isTouching(ball)) {
+       game.gameOver()
+   } else if (ball.get(LedSpriteProperty.Y) &amp;lt; 4) {
+       ball.change(LedSpriteProperty.Y, 1)
+       basic.pause(250)
+   } else {
+       game.addScore(1)
+       ball.set(LedSpriteProperty.Y, 0)
+       ball.set(LedSpriteProperty.X, Math.random(5))
+   }
+})
+input.onButtonPressed(Button.A, () =&amp;gt; {
+   if (dodger.get(LedSpriteProperty.X) &amp;gt; 0) {
+       dodger.change(LedSpriteProperty.X, -1)
+   }
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+   if (dodger.get(LedSpriteProperty.X) &amp;lt; 4) {
+       dodger.change(LedSpriteProperty.X, 1)
+   }
+})
+ball = game.createSprite(Math.random(5), 0)
+dodger = game.createSprite(2, 4)
+game.setScore(0)</source>
+        <target state="needs-translation">let dodger: game.LedSprite = null
+let ball: game.LedSprite = null
+basic.forever(() =&amp;gt; {
+   if (dodger.isTouching(ball)) {
+       game.gameOver()
+   } else if (ball.get(LedSpriteProperty.Y) &amp;lt; 4) {
+       ball.change(LedSpriteProperty.Y, 1)
+       basic.pause(250)
+   } else {
+       game.addScore(1)
+       ball.set(LedSpriteProperty.Y, 0)
+       ball.set(LedSpriteProperty.X, Math.random(5))
+   }
+})
+input.onButtonPressed(Button.A, () =&amp;gt; {
+   if (dodger.get(LedSpriteProperty.X) &amp;gt; 0) {
+       dodger.change(LedSpriteProperty.X, -1)
+   }
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+   if (dodger.get(LedSpriteProperty.X) &amp;lt; 4) {
+       dodger.change(LedSpriteProperty.X, 1)
+   }
+})
+ball = game.createSprite(Math.random(5), 0)
+dodger = game.createSprite(2, 4)
+game.setScore(0)</target>
+        <note>Context: Text&#13;
+XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="66416" identifier="dcabe6bccdc0a2bd4589cf105c092085">
+        <source>Here is the complete Dodge Ball program.</source>
+        <target state="needs-translation">Here is the complete Dodge Ball program.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="66417" identifier="10374f9a7e5e02516ff2f363c2259faa" translate="no">
+        <source>let dodger: game.LedSprite = null
+let ball: game.LedSprite = null
+basic.forever(() =&amp;gt; {
+   if (dodger.isTouching(ball)) {
+       game.gameOver()
+   } else if (ball.get(LedSpriteProperty.Y) &amp;lt; 4) {
+       ball.change(LedSpriteProperty.Y, 1)
+       basic.pause(250)
+   } else {
+       game.addScore(1)
+       ball.set(LedSpriteProperty.Y, 0)
+       ball.set(LedSpriteProperty.X, Math.random(5))
+   }
+})
+input.onButtonPressed(Button.A, () =&amp;gt; {
+   if (dodger.get(LedSpriteProperty.X) &amp;gt; 0) {
+       dodger.change(LedSpriteProperty.X, -1)
+   }
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+   if (dodger.get(LedSpriteProperty.X) &amp;lt; 4) {
+       dodger.change(LedSpriteProperty.X, 1)
+   }
+})
+ball = game.createSprite(Math.random(5), 0)
+dodger = game.createSprite(2, 4)
+game.setScore(0)</source>
+        <target>let dodger: game.LedSprite = null
+let ball: game.LedSprite = null
+basic.forever(() =&amp;gt; {
+   if (dodger.isTouching(ball)) {
+       game.gameOver()
+   } else if (ball.get(LedSpriteProperty.Y) &amp;lt; 4) {
+       ball.change(LedSpriteProperty.Y, 1)
+       basic.pause(250)
+   } else {
+       game.addScore(1)
+       ball.set(LedSpriteProperty.Y, 0)
+       ball.set(LedSpriteProperty.X, Math.random(5))
+   }
+})
+input.onButtonPressed(Button.A, () =&amp;gt; {
+   if (dodger.get(LedSpriteProperty.X) &amp;gt; 0) {
+       dodger.change(LedSpriteProperty.X, -1)
+   }
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+   if (dodger.get(LedSpriteProperty.X) &amp;lt; 4) {
+       dodger.change(LedSpriteProperty.X, 1)
+   }
+})
+ball = game.createSprite(Math.random(5), 0)
+dodger = game.createSprite(2, 4)
+game.setScore(0)</target>
+        <note>Context: Text&#13;
+XPath: /pre[6]/code</note>
+      </trans-unit>
+      <trans-unit id="66418" identifier="35a761ebe21bdbe0cd8bb3d4e10efabc" translate="no">
+        <source>Reflection</source>
+        <target>Reflection</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="66419" identifier="b59c1c7ab9fa27060c6645ac65930ded" translate="no">
+        <source>Have students write a reflection of about 150–300 words, addressing the following points:</source>
+        <target>Have students write a reflection of about 150–300 words, addressing the following points:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="70379" identifier="ad74a0d29817043eadd4eec4a99bc6cf">
+        <source>Did you do a screensaver? A game? Something different? How did you decide?</source>
+        <target state="needs-translation">Did you do a screensaver? A game? Something different? How did you decide?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li</note>
+      </trans-unit>
+      <trans-unit id="70380" identifier="6373611d2a5369a02a818fdc210dc032">
+        <source>If you did a game, what is the object of the game?</source>
+        <target state="needs-translation">If you did a game, what is the object of the game?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="70381" identifier="fed19a8c87db132ce62b911db603355f">
+        <source>How does your project use coordinates?</source>
+        <target state="needs-translation">How does your project use coordinates?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="70382" identifier="da95e67c0dac9f4488fee1f7ab2dbdf6" translate="no">
+        <source>Describe something in your project that you are proud of.</source>
+        <target>Describe something in your project that you are proud of.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="70383" identifier="423797c8590394521f74b7773e5d68bf" translate="no">
+        <source>Describe a difficult point in the process of designing this program, and explain how you resolved it.</source>
+        <target>Describe a difficult point in the process of designing this program, and explain how you resolved it.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[5]</note>
+      </trans-unit>
+      <trans-unit id="70384" identifier="0229788f68f4d214fe1be48892366793" translate="no">
+        <source>What feedback did your beta testers give you? How did that help you improve your design?
+ </source>
+        <target>What feedback did your beta testers give you? How did that help you improve your design?
+ </target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[6]</note>
+      </trans-unit>
+      <trans-unit id="66426" identifier="f76ed130190de24943cd878a359ab65b" translate="no" approved="yes">
+        <source>Assessment</source>
+        <target>評価</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[4]</note>
+      </trans-unit>
+      <trans-unit id="66427" identifier="4bbf75478f4367dc938c4a8efb814387">
+        <source>&lt;strong&gt;Competency scores&lt;/strong&gt;: 4, 3, 2, 1
+ </source>
+        <target state="needs-translation">&lt;strong&gt;Competency scores&lt;/strong&gt;: 4, 3, 2, 1
+ </target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="66428" identifier="4be7e9164322b72a01cfdb8d56733e4e">
+        <source>Coordinates and LEDs</source>
+        <target state="needs-translation">Coordinates and LEDs</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[4]</note>
+      </trans-unit>
+      <trans-unit id="66429" identifier="44f06ee7bc714a026c57c2ac44296fe1">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; Uses at least 3 of the different kinds of plot/ unplot/toggle/point x y blocks in a meaningful way.</source>
+        <target state="needs-translation">&lt;strong&gt;4 =&lt;/strong&gt; Uses at least 3 of the different kinds of plot/ unplot/toggle/point x y blocks in a meaningful way.</target>
+        <note>Context: XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="66430" identifier="356aa01da7298c3d3865e1063277a550">
+        <source>&lt;code&gt;*&lt;/code&gt; Uses variables to update coordinates.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; At least 2 of the different kinds of plot/unplot/ toggle/point x y blocks in a meaningful way.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; At least 1 of the different kinds of plot/unplot/ toggle/point x y blocks in a meaningful way.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; No plot/unplot/ toggle/point x y blocks are implemented.     </source>
+        <target state="needs-translation">&lt;code&gt;*&lt;/code&gt; Uses variables to update coordinates.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; At least 2 of the different kinds of plot/unplot/ toggle/point x y blocks in a meaningful way.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; At least 1 of the different kinds of plot/unplot/ toggle/point x y blocks in a meaningful way.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; No plot/unplot/ toggle/point x y blocks are implemented.     </target>
+        <note>Context: XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="66431" identifier="c1f1b4d6e298581cfd388a3faa38d06f" translate="no" approved="yes">
+        <source>micro:bit program</source>
+        <target>micro:bit プログラム</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[5]</note>
+      </trans-unit>
+      <trans-unit id="66432" identifier="3e31b01ad0406839f38ab7f55ec8c09c">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; micro:bit program:&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Uses plotted LEDs in a way that is integral to the program&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Compiles and runs as intended&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Meaningful comments in code&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; micro:bit program lacks 1 of the required elements.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; micro:bit program lacks 2 of the required elements.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; micro:bit program lacks all of the required elements.</source>
+        <target state="needs-translation">&lt;strong&gt;4 =&lt;/strong&gt; micro:bit program:&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Uses plotted LEDs in a way that is integral to the program&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Compiles and runs as intended&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Meaningful comments in code&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; micro:bit program lacks 1 of the required elements.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; micro:bit program lacks 2 of the required elements.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; micro:bit program lacks all of the required elements.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[14]</note>
+      </trans-unit>
+      <trans-unit id="66433" identifier="f5edb04c75d1e76915fcc946d6fbaf87" translate="no" approved="yes">
+        <source>Collaboration reflection</source>
+        <target>共同作業と内省</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[6]</note>
+      </trans-unit>
+      <trans-unit id="66434" identifier="04259e1b68bbd1c66fb6cc9147486c65" translate="no">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; Reflection piece addresses all prompts.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Reflection piece lacks 1 of the required elements.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Reflection piece lacks 2 of the required elements.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; Reflection piece lacks 3 of the required elements.</source>
+        <target>&lt;strong&gt;4 =&lt;/strong&gt; Reflection piece addresses all prompts.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Reflection piece lacks 1 of the required elements.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Reflection piece lacks 2 of the required elements.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; Reflection piece lacks 3 of the required elements.</target>
+        <note>Context: XPath: /p[15]</note>
+      </trans-unit>
+      <trans-unit id="66435" identifier="b4e9ee2cf60964e41b27b059f380b530">
+        <source> 
+     </source>
+        <target state="needs-translation"> 
+     </target>
+        <note>Context: XPath: /p[15]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

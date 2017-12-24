@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1844" original="/microbit/docs/courses/csintro/finalproject/examples.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="66508" identifier="d196148f351c325a9d6dc9f2266313c9">
+        <source>Final project examples</source>
+        <target state="needs-translation">Final project examples</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="66509" identifier="a3024ae997ed25f0cad3cf12c4446901">
+        <source>1. Baseball pitch counter</source>
+        <target state="needs-translation">1. Baseball pitch counter</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="66510" identifier="eb21646e21c6558e04b8dd0ab9eb93cc" translate="no">
+        <source>/static/courses/csintro/finalproject/baseball-pitch-counter.png</source>
+        <target>/static/courses/csintro/finalproject/baseball-pitch-counter.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66511" identifier="64614482099ffc671bdaf79f4ddf0b71">
+        <source>Baseball pitch counter</source>
+        <target state="needs-translation">Baseball pitch counter</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="66512" identifier="f720e8efaa297e6ebb40a1d7231a28aa">
+        <source>This project straps to a pitcher's arm and uses the micro:bit accelerometer to record how many pitches have been thrown in a session.</source>
+        <target state="needs-translation">This project straps to a pitcher's arm and uses the micro:bit accelerometer to record how many pitches have been thrown in a session.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="66513" identifier="46d635584c7eb8a9a591f80b31c00c2b">
+        <source>2. micro:bit wrist-mounted step counter and compass</source>
+        <target state="needs-translation">2. micro:bit wrist-mounted step counter and compass</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="66514" identifier="45d11665bc43e92724c48952ba416166" translate="no">
+        <source>/static/courses/csintro/finalproject/step-counter.png</source>
+        <target>/static/courses/csintro/finalproject/step-counter.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[3]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66515" identifier="10f54e7dd6c9d835497478ade8773f0d">
+        <source>Step counter and compass</source>
+        <target state="needs-translation">Step counter and compass</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[3]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="66516" identifier="d0534e3910db92ce71ecf0933ed712d1" translate="no">
+        <source>/static/courses/csintro/finalproject/compass-stand.png</source>
+        <target>/static/courses/csintro/finalproject/compass-stand.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[4]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66517" identifier="f990d450bdff13f17847dfc201e1f0b3">
+        <source>micro:bit compass stand</source>
+        <target state="needs-translation">micro:bit compass stand</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[4]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="66518" identifier="21f8709f961f984aeb2bcdd64f7da407">
+        <source>This project straps to your wrist, displays a compass that updates as you walk around, and keeps track of your steps. The micro:bit is elevated to allow room for the battery pack to fit underneath.</source>
+        <target state="needs-translation">This project straps to your wrist, displays a compass that updates as you walk around, and keeps track of your steps. The micro:bit is elevated to allow room for the battery pack to fit underneath.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="66519" identifier="08afccb02cd70942f9140ba77b145ddd">
+        <source>3. Combination lock box</source>
+        <target state="needs-translation">3. Combination lock box</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="66520" identifier="f2763b998fea55ef84bc40c077459cd6">
+        <source>&lt;a href=&quot;https://youtu.be/OXks3MJWhhk&quot;&gt;&lt;strong&gt;micro:bit Combination lockbox&lt;/strong&gt;&lt;/a&gt;
+https://youtu.be/OXks3MJWhhk
+&lt;br/&gt;
+This project features a secret combination that opens the top of the box using a servo motor.</source>
+        <target state="needs-translation">&lt;a href=&quot;https://youtu.be/OXks3MJWhhk&quot;&gt;&lt;strong&gt;micro:bit Combination lockbox&lt;/strong&gt;&lt;/a&gt;
+https://youtu.be/OXks3MJWhhk
+&lt;br/&gt;
+This project features a secret combination that opens the top of the box using a servo motor.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="66521" identifier="9fefb7a28fb0bdcfd3af2d88b54bc8f7">
+        <source>4. Violin tuner</source>
+        <target state="needs-translation">4. Violin tuner</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[4]</note>
+      </trans-unit>
+      <trans-unit id="66522" identifier="b36c21ad7ea20119fd2960aadbeb7e2d" translate="no">
+        <source>/static/courses/csintro/finalproject/violin-tuner-mount.png</source>
+        <target>/static/courses/csintro/finalproject/violin-tuner-mount.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[7]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66523" identifier="c9a0e2cbd23e225afc3c3d83b3335f36">
+        <source>Violin tuner mount</source>
+        <target state="needs-translation">Violin tuner mount</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[7]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="66524" identifier="a74cf35f53875e16dd42e6e7caf5d6ad" translate="no">
+        <source>/static/courses/csintro/finalproject/violin-tuner.png</source>
+        <target>/static/courses/csintro/finalproject/violin-tuner.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[8]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66525" identifier="d2f6624da0dd7167c66e6a6f7ab819ce">
+        <source>Violin tuner</source>
+        <target state="needs-translation">Violin tuner</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[8]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="66526" identifier="af1ce49f317bde522622520f6dd64774">
+        <source>This project uses a piece of cardboard to mount the micro:bit to the side of a violin.</source>
+        <target state="needs-translation">This project uses a piece of cardboard to mount the micro:bit to the side of a violin.</target>
+        <note>Context: XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="66527" identifier="9a90db27f6296f3edc9f0ac1e430a75f">
+        <source>This student wanted to use it to tune his violin by playing a specific series of tones.</source>
+        <target state="needs-translation">This student wanted to use it to tune his violin by playing a specific series of tones.</target>
+        <note>Context: XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="66528" identifier="493d777539aaee883679b3047806a6da">
+        <source>The micro:bit displays the note being played.</source>
+        <target state="needs-translation">The micro:bit displays the note being played.</target>
+        <note>Context: XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="66529" identifier="2f3017fa7620699a9e576ed8fa9875e5">
+        <source>5. Trumpet angle detector</source>
+        <target state="needs-translation">5. Trumpet angle detector</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[5]</note>
+      </trans-unit>
+      <trans-unit id="66530" identifier="3ad93390515aff8b03f8de5d5f6e8f4a" translate="no">
+        <source>/static/courses/csintro/finalproject/trumpet-angle-detector.jpg</source>
+        <target>/static/courses/csintro/finalproject/trumpet-angle-detector.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p[10]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66531" identifier="090542742856032accc6637f0ce73d37">
+        <source>Trumpet angle detector</source>
+        <target state="needs-translation">Trumpet angle detector</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[10]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="66532" identifier="f2cf84a78927afd9fced0c9524a62e91">
+        <source>This example was used for Marching Band practice, where students must hold the trumpet at a 15-degree angle to avoid hitting the person in front of them or playing directly into their ears.</source>
+        <target state="needs-translation">This example was used for Marching Band practice, where students must hold the trumpet at a 15-degree angle to avoid hitting the person in front of them or playing directly into their ears.</target>
+        <note>Context: XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="66533" identifier="e46b19f9e0a59611df1a6dbf715c6fdc">
+        <source>Because the trumpet is heavy, new trumpet players tend to let the trumpet droop.</source>
+        <target state="needs-translation">Because the trumpet is heavy, new trumpet players tend to let the trumpet droop.</target>
+        <note>Context: XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="66534" identifier="85176d7cc560f6ce0349ae03d6afb949">
+        <source>This displays an icon (a check mark or an X) to help new trumpet players learn what the proper angle is supposed to feel like.</source>
+        <target state="needs-translation">This displays an icon (a check mark or an X) to help new trumpet players learn what the proper angle is supposed to feel like.</target>
+        <note>Context: XPath: /p[11]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1853" original="/microbit/docs/courses/csintro/iteration/project.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="67026" identifier="d8d436cde23393b30c310790e7581845">
+        <source>Project: Get loopy!</source>
+        <target state="translated">プロジェクト: ルーピーになろう！</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="67027" identifier="ab3b460330d5f23153761d36a134e472" translate="no">
+        <source>/static/courses/csintro/iteration/birthday-card.jpg</source>
+        <target>/static/courses/csintro/iteration/birthday-card.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67028" identifier="07c0af398ad1c9f885a9dd7d9641b4e7">
+        <source>Birthday Card Project</source>
+        <target state="translated">Birthday Card Project</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67029" identifier="de0893ba1317e2be15711bc0e9bb0767">
+        <source>There are many different ways to use the three types of loop blocks.</source>
+        <target state="translated">3種類のループ ブロックの使い方には様々なものがあります。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="67030" identifier="5a85e109d4bc1f1cbb3ff86b648729b3">
+        <source>Recall the different common repetitive actions you thought of back at the beginning of this lesson.</source>
+        <target state="translated">このレッスンの最初に、どのような反復操作があるか、いろいろと考えてみましてね。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="67031" identifier="3c564d78e3430165c572a39df580f41d">
+        <source>How will you use loops to create something useful, entertaining, or interesting?</source>
+        <target state="translated">ループをどのように使うと、便利で、面白くて、興味深いことが出来るでしょうか？</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="67032" identifier="565810ef7b0bd99276ee6584440641f5">
+        <source>What might you make?</source>
+        <target state="translated">どんなものが作れるでしょう？</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67033" identifier="aec0a4fa144d280958d80f92cf952f4f">
+        <source>Here are some suggestions:</source>
+        <target state="translated">いくつかの例を挙げるとすると：</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="67034" identifier="dbf779013b82994ad10d3c0d84c4043b">
+        <source>Create an animated gif (looping image that changes) and add music that matches.</source>
+        <target state="translated">アニメーション gif (少しずつ変わるイメージを繰り返しループする画像ファイル) を作成し、それにマッチする音楽を追加する。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="67035" identifier="b5552ad0a0db60a6df96bd187c9896c2">
+        <source>Create animation that repeats for one of the melodies included in Make Code  (like Happy Birthday).</source>
+        <target state="translated">MakeCodeに含まれているメロディーの 1 つ(例えば「ハッピーバースデイ」) に合わせて繰り返えす、アニメーションを作成する。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67036" identifier="eb83b6948e5eb6595e8e4c165a83d701">
+        <source>Create different animations that run when different buttons are pressed.</source>
+        <target state="translated">ボタンが押されたとき、押されたボタンに応じて異なるアニメーションが実行されるようにする。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67037" identifier="948420d1c8599e321d889ef10098a715">
+        <source>Create an alarm that includes sound and images. What will set the alarm off? What will make the alarm stop sounding?</source>
+        <target state="translated">音とイメージが含まれているアラームを作成する。どうすればアラームが鳴るようにしますか？どうすればアラームが止まるようにしますか？</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="67038" identifier="fa2b9f0c1c9d671baf651784c95504f5">
+        <source>Use servo motors to create a creature that dances and changes its expression while a song plays.</source>
+        <target state="translated">サーボ モーターを使用して、踊りや歌の演奏中の表情を変える生き物を作成する。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[5]</note>
+      </trans-unit>
+      <trans-unit id="67039" identifier="0bcecdd7921d08fba69a8186b1ae85b7" translate="no">
+        <source>Example</source>
+        <target state="translated">例</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="67040" identifier="a559a9eb50382151bdcfebb26e8cdf32" translate="no">
+        <source>/static/courses/csintro/iteration/hatman.png</source>
+        <target state="translated">/static/courses/csintro/iteration/hatman.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[5]/l/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67041" identifier="fb1aa3710abf0d67cd9b6adc9f3416df">
+        <source>Hat Man</source>
+        <target state="translated">Hat Man</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[5]/l/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67042" identifier="6d2a63c7b04aa4d4df302f438ba21298">
+        <source>Hat Man Project</source>
+        <target state="translated">帽子男プロジェクト</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="67043" identifier="25e0b9cb5a13038c7c04cc5f778f96a7">
+        <source>Hat Man Videos</source>
+        <target state="translated">帽子男動画</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3</note>
+      </trans-unit>
+      <trans-unit id="67044" identifier="383d19e6ac881b1766cbddf0e4a3ca97">
+        <source>&lt;a href=&quot;https://youtu.be/Xvybu_T5IL8&quot;&gt;&lt;strong&gt;micro:bit Hat Man&lt;/strong&gt;&lt;/a&gt;
+https://youtu.be/Xvybu_T5IL8</source>
+        <target state="translated">&lt;a href=&quot;https://youtu.be/Xvybu_T5IL8&quot;&gt;&lt;strong&gt;micro:bit Hat Man&lt;/strong&gt;&lt;/a&gt;
+https://youtu.be/Xvybu_T5IL8</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="67045" identifier="dd396559fcb7535171c4b70ad7949648">
+        <source>&lt;a href=&quot;https://youtu.be/ZfKgFQjygQQ&quot;&gt;&lt;strong&gt;micro:bit Hat Man - inside view&lt;/strong&gt;&lt;/a&gt;
+https://youtu.be/ZfKgFQjygQQ
+&lt;br/&gt;
+This project uses the micro:bit light sensor to display a happy face when it is sunny, and a frowning face when it is dark.</source>
+        <target state="translated">&lt;a href=&quot;https://youtu.be/ZfKgFQjygQQ&quot;&gt;&lt;strong&gt;micro:bit Hat Man - inside view&lt;/strong&gt;&lt;/a&gt;
+https://youtu.be/ZfKgFQjygQQ
+&lt;br/&gt;
+このプロジェクトは micro:bit の光センサーを使って、明るい時はハッピーな顔、暗い時はつまらなそうな顔を表示します。</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="67046" identifier="c3f834a6f03eb0334cfd3cfb398f9f9b">
+        <source>The micro:bit is connected to a servo mounted on the inside of the container, and the smile and frown are attached to plastic coffee stirrers with tape and hot glue.</source>
+        <target state="translated">箱の中では micro:bit がサーボモーターに接続されていて、笑顔としかめっ面の顔がテープとグルーガンを使ってプラスチック製のコーヒーマドラーに接着されています。</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="67047" identifier="65ec2f2c4cd492b762d4817a0b564bdc" translate="no">
+        <source>Reflection</source>
+        <target state="translated">省察</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="67048" identifier="622367329b5d804c0514a16653e1f0c6" translate="no">
+        <source>Have students write a reflection of about 150–300 words, addressing the following points:</source>
+        <target state="translated">生徒たちに以下の内容を含む１５０～３００字程度のレビューを書いてもらいましょう:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="67049" identifier="6567d97236bf92e5ac2527ef45878850">
+        <source>Explain how you decided on your particular &quot;loopy&quot; idea. What brainstorming ideas did you come up with?</source>
+        <target state="translated">どのようにして自分のルーピーなアイデアを決定したか説明しましょう。ブレインストーミングでどのような発想を思いつきましたか？</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li</note>
+      </trans-unit>
+      <trans-unit id="67050" identifier="87abb53744a43d0f3f02a1170f9c720c">
+        <source>What type of loop did you use? For, While, or Repeat</source>
+        <target state="translated">どのようなタイプのループを使用しましたか。For（変数の数だけ繰り返す）、While（真なら繰り返し）、Repeat（繰り返し）</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67051" identifier="1e844c4cc193b1b650d7f10f4546e051" translate="no">
+        <source>What was something that was surprising to you about the process of creating this program?</source>
+        <target state="translated">このプログラムを作成する過程でなにか驚いたことはありますか？</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67052" identifier="5bd0630480a3ca080174957c735b0741" translate="no">
+        <source>Describe a difficult point in the process of designing this program, and explain how you resolved it.</source>
+        <target state="translated">このプログラムを設計する過程で難しかったことは何ですか？ どのようにしてその問題を解決したか説明しましょう。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="67053" identifier="38c48fb53d283b2ec4bd107d7df0001b">
+        <source>What feedback did your beta testers give you? How did that help you improve your loop demo?</source>
+        <target state="translated">どのようなフィードバックをベータテストをしてくれた人に貰いましたか？ それらのフィードバックはあなたのループのデモの改善にどのように役に立ちましたか？</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[5]</note>
+      </trans-unit>
+      <trans-unit id="67054" identifier="6dcd468f80e5d9b74c6d1e91c6bd9e40" translate="no">
+        <source>Assessment</source>
+        <target state="translated">評価</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="67055" identifier="df9a209b7d5ea4d109e8bf052fd6f88c" translate="no">
+        <source>&lt;strong&gt;Competency scores&lt;/strong&gt;: 4, 3, 2, 1</source>
+        <target state="translated">&lt;strong&gt;判定基準&lt;/strong&gt;: 4、3、2、1</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="67056" identifier="922da108269a1d71c26a4cc16c31a8e7" translate="no">
+        <source>Loops</source>
+        <target state="translated">ループ</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[2]</note>
+      </trans-unit>
+      <trans-unit id="67057" identifier="b7be7228d8d710da0c42c59f32a23640">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; At least 3 different loops are implemented in a meaningful way.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; At least 2 loops are implemented in a meaningful way.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; At least 1 loop is implemented in a meaningful way.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; No variables are implemented.</source>
+        <target state="translated">&lt;strong&gt;4 =&lt;/strong&gt; 少なくとも３つのループを有意義な方法で実装している&lt;br/&gt;
+ &lt;strong&gt;3 =&lt;/strong&gt; 少なくとも２つのループを有意義な方法で実装している&lt;br/&gt;
+ &lt;strong&gt;2 =&lt;/strong&gt; 少なくとも１つのループを有意義な方法で実装している&lt;br/&gt;
+ &lt;strong&gt;1 =&lt;/strong&gt; ループが実装されていない</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="67058" identifier="bb20b821a96f440a9b7dcde7440559da">
+        <source>Variables (parameters)</source>
+        <target state="translated">変数 (パラメーター)</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[3]</note>
+      </trans-unit>
+      <trans-unit id="67059" identifier="68ff317ff1b64a1a717f6f4afb3dd3e4">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; All variable names are unique and clearly describe what information values the variables hold&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; The majority of variable names are unique and clearly describe what information values the variables hold.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Few variable names are unique or clearly describe what information values the variables hold.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; None of the variable names clearly describe what information values the variables hold.</source>
+        <target state="translated">&lt;strong&gt;4 =&lt;/strong&gt; 全ての変数名が固有で、どのような情報を変数が保持しているか明確に表している&lt;br/&gt;
+ &lt;strong&gt;3 =&lt;/strong&gt; 大多数の変数名が固有で、どのような情報を変数が保持しているか明確に表している&lt;br/&gt;
+ &lt;strong&gt;2 =&lt;/strong&gt;少数の変数名が固有で、どのような情報を変数が保持しているか明確に表している &lt;br/&gt;
+ &lt;strong&gt;1 =&lt;/strong&gt; どの変数名も固有ではなく、どのような情報を変数が保持しているか明確に表していない</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="67060" identifier="76b1ba118c874b252c6d0bd171b0269c">
+        <source>Sound, display, and motion</source>
+        <target state="translated">音、表示、および動作</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[4]</note>
+      </trans-unit>
+      <trans-unit id="67061" identifier="47685f5a5a68c43094b2dbeffec8aa27">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; Uses sound, display, and motion in a way that is integral to the program.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Uses only two of the required elements in a way that is integral to the program.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Uses only one of the required elements in a way that is integral to the program.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; None of the required elements are used.</source>
+        <target state="translated">&lt;strong&gt;4 =&lt;/strong&gt;プログラムに統合された要素として、音、表示、および動作を使用している &lt;br/&gt;&lt;strong&gt;3 =&lt;/strong&gt;プログラムに統合された要素として、音、表示、および動作のうち二つだけ使用している &lt;br/&gt;&lt;strong&gt;2 =&lt;/strong&gt;プログラムに統合された要素として、音、表示、および動作のうちひとつだけ使用している &lt;br/&gt;&lt;strong&gt;1 =&lt;/strong&gt;プログラムに統合された要素として、音、表示、および動作のうちどれも使用していない</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="67062" identifier="c1f1b4d6e298581cfd388a3faa38d06f" translate="no">
+        <source>micro:bit program</source>
+        <target state="translated">micro:bit プログラム</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[5]</note>
+      </trans-unit>
+      <trans-unit id="67063" identifier="f6934de8a43dca8e3189e6416cf45c5a">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; micro:bit program:&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Uses loops in a way that is integral to the program&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Compiles and runs as intended&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Meaningful comments in code&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; micro:bit program lacks 1 of the required elements.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; micro:bit program lacks 2 of the required elements.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; micro:bit program lacks 3 or more of the required elements.</source>
+        <target state="translated">&lt;strong&gt;4 =&lt;/strong&gt;micro:bit プログラム:&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt;プログラムに統合された要素としてループを使用している&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt;意図した通りにコンパイルし正しく動作する&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt;有意義なコメントが含まれている&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt;必要な要素がmicro:bit プログラムからひとつだけ欠けている&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt;必要な要素がmicro:bit プログラムからふたつだけ欠けている&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt;すべての必要な要素がmicro:bit プログラムから欠けている</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="67064" identifier="f5edb04c75d1e76915fcc946d6fbaf87" translate="no">
+        <source>Collaboration reflection</source>
+        <target state="translated">協力と省察</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[6]</note>
+      </trans-unit>
+      <trans-unit id="67065" identifier="5e2634121b6af9b3cb3ea001b75db589">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; Reflection piece includes:&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Brainstorming ideas&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Construction&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Programming&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Beta testing&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Reflection piece lacks 1 of the required elements.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Reflection piece lacks 2 of the required elements.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; Reflection piece lacks 3 of the required elements.</source>
+        <target state="translated">&lt;strong&gt;4 =&lt;/strong&gt;省察は以下の要素を含みます:&lt;br/&gt;&lt;code&gt;*&lt;/code&gt;ブレーンストーミングでアイデアを出す&lt;br/&gt;&lt;code&gt;*&lt;/code&gt;作成&lt;br/&gt;&lt;code&gt;*&lt;/code&gt;プログラミング&lt;br/&gt;&lt;code&gt;*&lt;/code&gt;ベータ テスト&lt;br/&gt;&lt;strong&gt;3 =&lt;/strong&gt;必要な要素のうちひとつを欠いている。&lt;br/&gt; &lt;strong&gt;2 =&lt;/strong&gt;必要な要素のうちふたつを欠いている。&lt;br/&gt; &lt;strong&gt;1 =&lt;/strong&gt;必要な要素のうち３つを欠いている。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[14]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1805" original="/microbit/docs/courses/csintro/algorithms/standards.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="64291" identifier="a6ab61cb2df7d09e35af9890bbb7cece" translate="no">
+        <source>Standards</source>
+        <target state="translated">CSTA標準</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="64292" identifier="56a637bf2e737901b551726a1f0739f5">
+        <source>CSTA K-12 Computer Science Standards</source>
+        <target state="translated">CSTA K 12 コンピューターサイエンス標準</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="64293" identifier="e0632a99cf7fdca782935adae3b93390">
+        <source>CT.L2-03 Define an algorithm as a sequence of instructions that can be processed by a computer.</source>
+        <target state="translated">CT.L2-03 アルゴリズムとはコンピューターが処理できる命令のシーケンスであると定義する。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="64294" identifier="588a77c1c4a8f85044920ab951c065e4">
+        <source>CD.L2-01 Recognize that computers are devices that execute programs.</source>
+        <target state="translated">CD.L2-01 は、コンピューターはプログラムを実行するデバイスであることを認識する。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="64295" identifier="e1caaaf5c62a2234d576691da1e5b79e">
+        <source>CD.L2-02 Identify a variety of electronic devices that contain computational processors.</source>
+        <target state="translated">CD.L2-02 演算処理を含んでいる,、様々な電子機器を識別します。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="64296" identifier="78decc45f510bc0a6ce20dccbc96037f">
+        <source>CD.L2-03 Demonstrate an understanding of the relationship between hardware and software.</source>
+        <target state="translated">CD.L2-03 ハードウェアとソフトウェアの関係の理解を示す。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[4]</note>
+      </trans-unit>
+      <trans-unit id="64297" identifier="472f2238d30acbdbe0234ec70d34343c">
+        <source>CD.L3A-04 Compare various forms of input and output.</source>
+        <target state="translated">CD.L3A-04 入力と出力の様々な形態を比較する。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[5]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

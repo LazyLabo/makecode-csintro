@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1851" original="/microbit/docs/courses/csintro/iteration/activity.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="66835" identifier="e6f4812c6d97d965c9d746a88b73318f">
+        <source>Activity: Loops demos</source>
+        <target state="translated">アクティビティ: ループ デモ</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="66836" identifier="2543621a02b04dfc4a46a4390ec42b4c">
+        <source>Microsoft MakeCode has three different loop blocks:</source>
+        <target state="translated">マイクロソフト MakeCode には3 つの異なるループ ブロックがあります。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="66837" identifier="df7e774c71377aa04b5bd4d747eba4fe">
+        <source>'Repeat' block</source>
+        <target state="translated">「くりかえし（Repeat）」ブロック</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="66838" identifier="63896ffe421357f86ab4e0c2dee6286f">
+        <source>'While' block</source>
+        <target state="translated">「真意条件を満たすなら繰り返す（While）」ブロック</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66839" identifier="f65e911eabbe4a0c01b1d0769b6b38f4">
+        <source>'For' block</source>
+        <target state="translated">「変数の数だけ繰り返す（For）」ブロック</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66840" identifier="696481d9408dc3fa4f5449d566b61f44">
+        <source>To start, the students can code the same algorithm they created in the unplugged activity using a loop.</source>
+        <target state="translated">まずは、アンプラグドのアクティビティで作成したものと同じアルゴリズムをコードに書き換えることから始めましょう。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="66841" identifier="cff16e34e93b30ca2a773a329ee73ad3">
+        <source>‘Repeat’ block</source>
+        <target state="translated">「くりかえし（Repeat）」ブロック</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="66842" identifier="51ff96a775d0805cee1e85aa6b60b2ac">
+        <source>Code a Sprite to walk a square.  Have students click on the Loops category in the Toolbox, and look at the three choices available.</source>
+        <target state="translated">スプライトが正方形の枠に沿って歩くようなコードを書きます。 ツールボックスの「ループ（Loops）」カテゴリをクリックし、使用可能な 3 つブロックの選択肢を見るように指示します。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="66843" identifier="0ec4bf3d171b67be370d6b670f88bb11" translate="no">
+        <source>/static/courses/csintro/iteration/loops-category.png</source>
+        <target>/static/courses/csintro/iteration/loops-category.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[4]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66844" identifier="8a1c9e6b9468aac27723acd20afd8b60">
+        <source>Loops category</source>
+        <target state="needs-translation">Loops category</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[4]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="66845" identifier="f0de8ea9be17127ad64afd356fa0fdc1">
+        <source>The very first one is the ‘repeat’ block! Have students drag the repeat block to the coding Workspace. They’ll notice that this block takes a &lt;strong&gt;parameter&lt;/strong&gt;.</source>
+        <target state="translated">まず最初の 1 つは 「くりかえし（Repeat）」ブロックです！生徒たちに「くりかえし」ブロックをコーディング ワークスペースにドラッグするように指示します。生徒たちは、このブロックが &lt;strong&gt;パラメーター&lt;/strong&gt; を受け取ることに気づくでしょう。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="66846" identifier="4948c4af5d042698f9a85a319549e572">
+        <source>A &lt;strong&gt;parameter&lt;/strong&gt; is a type of variable used as input to a function or routine.</source>
+        <target state="translated">&lt;strong&gt;パラメーター&lt;/strong&gt; とは、関数またはルーチンへの入力として使用する変数の一種です。</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="66847" identifier="61a2b2bd9d2ea47cdcbdd152f8de7b1a">
+        <source>In this case, the parameter tells the repeat block how many times we want the code within the block to repeat.</source>
+        <target state="translated">この場合、パラメーターは「くりかえし（Repeat）」ブロックに対して、ブロック内のコードを何回繰り返すかを指定します。</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="66848" identifier="6a39d31686b1582370b663a12d9cf627">
+        <source>For now, we’ll leave the parameter at 4.</source>
+        <target state="translated">今は、パラメーターは4 のままにしておきましょう。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="66849" identifier="90113db1a4b562e58ef286391b2d850b">
+        <source>To create a &lt;strong&gt;sprite&lt;/strong&gt; that will walk a square:</source>
+        <target state="translated">正方形の周りを移動する &lt;strong&gt;スプライト&lt;/strong&gt; を作成する：</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="66850" identifier="0974fe7872302db01b3cfa392b2c9fbf">
+        <source>Click on the Advanced category in the Toolbox.  This will open up a more advanced menu of blocks.</source>
+        <target state="translated">ツールボックスの 「高度なブロック（Advanced）」カテゴリをクリックします。 より高度なブロックのメニューが開きます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="66851" identifier="37e127d99f7d6b03aa22b47b15c6240d">
+        <source>Click on Game category, and drag a ‘create sprite’ block to the coding workspace.</source>
+        <target state="translated">「ゲーム（Game）」のカテゴリをクリックして、「スプライトを作成（create sprite）」ブロックをコーディング ワークスペースにドラッグします。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66852" identifier="f6874850c01c0418ccc846ab3159410c" translate="no">
+        <source>/static/courses/csintro/iteration/game-category.png</source>
+        <target state="translated">/static/courses/csintro/iteration/game-category.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[9]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66853" identifier="b7a377da94db9cc8588867d8c54d50d3">
+        <source>Game category</source>
+        <target state="needs-translation">Game category</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[9]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="66854" identifier="bf7ac2f0cc31157398d04b8f3fa74cd1">
+        <source>We’ll need two more blocks from the Game menu. Referring to their ‘Walk a Square’ pseudocode, see if the students can find the blocks they need for moving their sprite and turning their sprite.</source>
+        <target state="translated">「ゲーム（Game）」メニューからさらに 2 つのブロックが必要です。「正方形の周りを移動する」の擬似コードを参照しながら、生徒がスプライトの移動と回転のために必要なブロックを見つけ出せるかどうか聞いてみましょう。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li</note>
+      </trans-unit>
+      <trans-unit id="66855" identifier="f7b32ff4637e6a9e51bf52a10973f306">
+        <source>Drag out a ‘move by’ block and a ‘turn right by’ block.</source>
+        <target state="translated">「スプライトを１ドット進める（move by）」ブロックと、「スプライトを方向転換右に45度（turn right by）」ブロックをドラッグします。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66856" identifier="6caa662897200d9c2b42db9862fb1c74">
+        <source>They now have these blocks in their coding workspace.</source>
+        <target state="translated">これで、3つのブロックがコーディング ワークスペースにある状態になりました。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66857" identifier="59a133edf1a5892c01975691c0da8f0e">
+        <source>For this project, they can delete the default ‘forever’ block.</source>
+        <target state="translated">このプロジェクトでは、初期設定の「ずっと（forever）」ブロックは削除してもよいです。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="66858" identifier="be3d2c6ec14be427bfa59d46ae31057a" translate="no">
+        <source>/static/courses/csintro/iteration/game-sprite.png</source>
+        <target state="translated">/static/courses/csintro/iteration/game-sprite.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[10]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66859" identifier="4911442c7e576267dead711bbc86592b">
+        <source>Game sprite blocks</source>
+        <target state="needs-translation">Game sprite blocks</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[10]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="66860" identifier="dbaa72a27dff5fef54f07a8e8f2ad183">
+        <source>Time to fix those default parameter values!</source>
+        <target state="translated">パラメーターの初期設定を変更しましょう！</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="66861" identifier="800e16a09724deb0eb6a9e08a4ae48cd">
+        <source>We want our sprite to start in the top left corner of the micro:bit screen, so change the parameters for both &lt;strong&gt;x&lt;/strong&gt; and &lt;strong&gt;y&lt;/strong&gt; to zero.</source>
+        <target state="translated">スプライトが micro:bit のLED画面の左上隅からスタートするように、&lt;strong&gt;x&lt;/strong&gt; と &lt;strong&gt;y&lt;/strong&gt; パラメーターの値を両方とも０に変更します。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li</note>
+      </trans-unit>
+      <trans-unit id="66862" identifier="53d67368f29a1f60d4a047d4495a8831">
+        <source>To make the sprite move from one side of the screen to the other (as though walking around a chair), change the move by parameter to &lt;strong&gt;4&lt;/strong&gt;.</source>
+        <target state="translated">スプライトを（イスの周りを歩くような感じで）スクリーンの端から端に移動させるために、move by パラメーターを&lt;strong&gt;4&lt;/strong&gt;に変更します。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66863" identifier="8afd4645a55b8d0e89bf11465351422e">
+        <source>To make the sprite turn to walk a square, change the ‘turn right by’ degrees to &lt;strong&gt;90&lt;/strong&gt;. For now, it's OK to leave the sprite turning right instead of left as we did in our pseudocode.</source>
+        <target state="translated">スプライトが正方形にそって曲がるようにするために、‘turn right by’ の角度を &lt;strong&gt;90&lt;/strong&gt;に変更します。疑似コードではスプライトは左に曲がりましたが、今は右に曲がる状態のままででOKです。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66864" identifier="6ebc68c7c58fd18db0459d7370bcda75">
+        <source>Your blocks now look like this:</source>
+        <target state="translated">ブロックはこのようになっているはずです。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="66865" identifier="b3613863f5f1b46b02d220497eae904d" translate="no">
+        <source>/static/courses/csintro/iteration/sprite-params.png</source>
+        <target state="translated">/static/courses/csintro/iteration/sprite-params.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[13]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66866" identifier="f616098a56725883b78c5bb8779b1c45">
+        <source>Game sprite blocks params</source>
+        <target state="needs-translation">Game sprite blocks params</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[13]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="66867" identifier="2f685165dd55c20344a1a3cad23d4ef6">
+        <source>Notice that the blocks are all grayed out. That’s because we have not yet attached them to any event handlers.</source>
+        <target state="translated">ブロックが灰色表示になっていることに気づいたでしょうか。これはブロックをまだイベントハンドラーに組み込んでいないからです。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[14]</note>
+      </trans-unit>
+      <trans-unit id="66868" identifier="60813b2ced8e4db2f8f33e889abb893a">
+        <source>On start, we want the sprite to appear. To make this happen, go to the Variables menu and drag a ‘set item to’ block to the coding window.</source>
+        <target state="translated">プログラム開始時にスプライトが現れるようしましょう。そのためには、「変数（Variables）」メニューから「変数 item を ～ にする（set item to）」を選んでコーディング ワークスペースにドラッグします。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li</note>
+      </trans-unit>
+      <trans-unit id="66869" identifier="7e5fac3d2ab8f10de0deaa698d1dd58a">
+        <source>Place the ‘set item block’ into the ‘on start’ block.</source>
+        <target state="translated">「変数 item を ～ にする（set item to）」を「最初だけ（on start）」ブロックに組み入れます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66870" identifier="9cabec827f66d97a272d967eec954295">
+        <source>Attach the ‘create sprite’ block to the ‘set item’ block</source>
+        <target state="translated">「スプライトを作成（create sprite）」ブロックを「変数 item を ～ にする（set item to）」ブロックに組み込みます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66871" identifier="ce991b10b5b512491949036f63dada1d">
+        <source>let item: game.LedSprite = null
+item = game.createSprite(0, 0)</source>
+        <target state="translated">let item: game.LedSprite = null
+item = game.createSprite(0, 0)</target>
+        <note>Context: Text&#13;
+XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="66872" identifier="d8a2e3f1d956b7e598620e698e75370c">
+        <source>You should now see the sprite appear in the top left of the micro:bit simulator.</source>
+        <target state="translated">これで micro:bit シミュレーターのLED画面左上にスプライトが現れるようになりました。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[15]</note>
+      </trans-unit>
+      <trans-unit id="66873" identifier="56c1c0bfa0b937e0b9c3cd04eaab58ea">
+        <source>To add more control for when our sprite moves, drag a ‘on button A pressed’ block from the Input menu.</source>
+        <target state="needs-translation">To add more control for when our sprite moves, drag a ‘on button A pressed’ block from the Input menu.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li</note>
+      </trans-unit>
+      <trans-unit id="66874" identifier="1437932b673c255824882d5b7e0bacd7">
+        <source>Place the ‘repeat’ block into the ‘on button A pressed’ block</source>
+        <target state="translated">「くりかえし（Repeat）」ブロックを「ボタンAが押されたとき（on button A pressed）」ブロックに組み込みます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66875" identifier="0b65e95898025b1c78820e21e35f333b">
+        <source>Place the ‘move by’ block into the ‘repeat’ block</source>
+        <target state="translated">「スプライトを１ドット進める（move by）」ブロックを「くりかえし（Repeat）」ブロックに組み込みます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66876" identifier="a28fc564631537939549b1868c77dde1">
+        <source>Place the ‘turn right by’ block into the ‘repeat’ block just under the ‘move by’ block.</source>
+        <target state="translated">「スプライトを方向転換右に45度（turn right by）」を、「くりかえし（Repeat）」ブロック内にある「スプライトを１ドット進める（move by）」ブロックのすぐしたに組み込みます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="66877" identifier="2d1b9d5e2c80da530037b27a9c7452e6">
+        <source>let item: game.LedSprite = null
+item = game.createSprite(0, 0)
+
+input.onButtonPressed(Button.A, () =&amp;gt; {
+   for (let i = 0; i &amp;lt; 4; i++) {
+       item.move(4)
+       item.turn(Direction.Right, 90)
+   }
+})</source>
+        <target state="translated">let item: game.LedSprite = null
+item = game.createSprite(0, 0)
+
+input.onButtonPressed(Button.A, () =&amp;gt; {
+   for (let i = 0; i &amp;lt; 4; i++) {
+       item.move(4)
+       item.turn(Direction.Right, 90)
+   }
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre[2]/code</note>
+      </trans-unit>
+      <trans-unit id="66878" identifier="63901a06d5c159bb68cfec99425b4920">
+        <source>Go ahead and run the program. Make the sprite move by pressing button A.</source>
+        <target state="translated">プログラムを実行します。Aボタンを押してスプライトを移動させてみましょう。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[16]</note>
+      </trans-unit>
+      <trans-unit id="66879" identifier="8b237d3b032899f19963396c5b26479a">
+        <source>What happened? Did you see the sprite move? No?</source>
+        <target state="translated">どうなりましたか？スプライトはきちんと動きましたか？ダメでしたか？</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[17]</note>
+      </trans-unit>
+      <trans-unit id="66880" identifier="7868b8ee30c8e253ef66664ce04d339a" translate="no">
+        <source>Slo-Mo</source>
+        <target state="translated">スローモー（Slo-Mo）</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="66881" identifier="6303ec96ba8e40679e61daf57b93d425">
+        <source>A helpful feature of Microsoft MakeCode is &quot;Slo-Mo&quot;, or slow-motion mode.</source>
+        <target state="translated">Microsoft MakeCode の &quot;Slo-Mo&quot;、別名スローモーションモードは便利な機能です。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[18]</note>
+      </trans-unit>
+      <trans-unit id="66882" identifier="c7587bb13a485f7a062536878b943904">
+        <source>Click on the snail icon under the micro:bit simulator.</source>
+        <target state="translated">micro:bit シミュレーターのカタツムリ アイコンをクリックします。</target>
+        <note>Context: XPath: /ul[7]/li</note>
+      </trans-unit>
+      <trans-unit id="66883" identifier="3459ef44e3059a752826fd6f0fd8ec3b">
+        <source>This will slow down the execution (running) of the program, and highlight parts of your code so you can see step-by-step, which line of code is being processed.</source>
+        <target state="needs-translation">This will slow down the execution (running) of the program, and highlight parts of your code so you can see step-by-step, which line of code is being processed.</target>
+        <note>Context: XPath: /ul[7]/li</note>
+      </trans-unit>
+      <trans-unit id="66884" identifier="464e2d174ef712d368494ec51355b6c6" translate="no">
+        <source>/static/courses/csintro/iteration/slo-mo.gif</source>
+        <target>/static/courses/csintro/iteration/slo-mo.gif</target>
+        <note>Context: Image Source&#13;
+XPath: /p[19]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66885" identifier="0065c9a9f7067d716f6f350c9bead0b1">
+        <source>micro:bit sim in slo-mo</source>
+        <target state="needs-translation">micro:bit sim in slo-mo</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[19]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="66886" identifier="d0363a9fb2552a15a820d286e840f190">
+        <source>Now run your program several more times. Do you see the different lines of your code highlighted as the program runs? Do you see the sprite move?</source>
+        <target state="needs-translation">Now run your program several more times. Do you see the different lines of your code highlighted as the program runs? Do you see the sprite move?</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[20]</note>
+      </trans-unit>
+      <trans-unit id="66887" identifier="61e46f4642778b72c00afe60e64a218b" translate="no">
+        <source>/static/courses/csintro/iteration/slo-mo-blocks.png</source>
+        <target>/static/courses/csintro/iteration/slo-mo-blocks.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[21]/l/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66888" identifier="615e521ca77641d9799d5f3e53f8897e">
+        <source>Slo-Mo in blocks</source>
+        <target state="needs-translation">Slo-Mo in blocks</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[21]/l/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="66889" identifier="c22ad9d958c5c7fd291a677a03a50529">
+        <source>Slo-Mo in Blocks</source>
+        <target state="needs-translation">Slo-Mo in Blocks</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[21]</note>
+      </trans-unit>
+      <trans-unit id="66890" identifier="47ae7fd684fe2c9a4ba2cfebabc3322f" translate="no">
+        <source>/static/courses/csintro/iteration/slo-mo-javascript.png</source>
+        <target>/static/courses/csintro/iteration/slo-mo-javascript.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[22]/l/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66891" identifier="ba9e097bc67b37b9c7af15379f2e36a9">
+        <source>Slo-mo-in JavaScript</source>
+        <target state="needs-translation">Slo-mo-in JavaScript</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[22]/l/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="66892" identifier="129d2ca820668c24862ce65fb8f0774c">
+        <source>Slo-Mo in JavaScript</source>
+        <target state="needs-translation">Slo-Mo in JavaScript</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[22]</note>
+      </trans-unit>
+      <trans-unit id="66893" identifier="3062a02981e6f77bb5f8f76a5776762f">
+        <source>So, the code is running and the sprite is moving!</source>
+        <target state="needs-translation">So, the code is running and the sprite is moving!</target>
+        <note>Context: XPath: /p[23]</note>
+      </trans-unit>
+      <trans-unit id="66894" identifier="4f7defa1b775468c55dc1d3f4a460465">
+        <source>Sometimes we forget just how fast computers are.</source>
+        <target state="needs-translation">Sometimes we forget just how fast computers are.</target>
+        <note>Context: XPath: /p[23]</note>
+      </trans-unit>
+      <trans-unit id="66895" identifier="ea77892e55662ccf71ee5e148ef6ba43">
+        <source>So that we can see the sprite move even in ‘regular’ mode, lets add a pause to our program right after each time the sprite moves.</source>
+        <target state="needs-translation">So that we can see the sprite move even in ‘regular’ mode, lets add a pause to our program right after each time the sprite moves.</target>
+        <note>Context: XPath: /p[23]</note>
+      </trans-unit>
+      <trans-unit id="66896" identifier="24745c450cee5277a2f4ad71729ed3aa">
+        <source>This will give our human eyes a chance to see it move.</source>
+        <target state="needs-translation">This will give our human eyes a chance to see it move.</target>
+        <note>Context: XPath: /p[23]</note>
+      </trans-unit>
+      <trans-unit id="66897" identifier="11fe6ad08b5f5ab4921a8ba402c254f4">
+        <source>Click the snail icon again to turn off Slo-Mo.</source>
+        <target state="needs-translation">Click the snail icon again to turn off Slo-Mo.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[8]/li</note>
+      </trans-unit>
+      <trans-unit id="66898" identifier="577163a8fd5b340b564f2a9c940ccfa8">
+        <source>From the Basic Toolbox category, drag a ‘pause’ block to the coding window and add it to our ‘repeat’ block right after the ‘turn right by’ block.</source>
+        <target state="needs-translation">From the Basic Toolbox category, drag a ‘pause’ block to the coding window and add it to our ‘repeat’ block right after the ‘turn right by’ block.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[8]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66899" identifier="0b05a159551a7604b4c0b420562deaff">
+        <source>Your final program should look like this:</source>
+        <target state="needs-translation">Your final program should look like this:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[24]</note>
+      </trans-unit>
+      <trans-unit id="66900" identifier="408cfa5b010473e4c50ad28b4e2c6294">
+        <source>let item: game.LedSprite = null
+input.onButtonPressed(Button.A, () =&amp;gt; {
+   for (let i = 0; i &amp;lt; 4; i++) {
+       item.move(4)
+       item.turn(Direction.Right, 90)
+       basic.pause(100)
+   }
+})
+item = game.createSprite(0, 0)</source>
+        <target state="needs-translation">let item: game.LedSprite = null
+input.onButtonPressed(Button.A, () =&amp;gt; {
+   for (let i = 0; i &amp;lt; 4; i++) {
+       item.move(4)
+       item.turn(Direction.Right, 90)
+       basic.pause(100)
+   }
+})
+item = game.createSprite(0, 0)</target>
+        <note>Context: Text&#13;
+XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="66901" identifier="1ddb99bd7c5391440f153ddd548b78ca">
+        <source>Run your program again. Now we can see the sprite move. It still moves pretty quickly, but at least we can see it move.</source>
+        <target state="needs-translation">Run your program again. Now we can see the sprite move. It still moves pretty quickly, but at least we can see it move.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[25]</note>
+      </trans-unit>
+      <trans-unit id="66902" identifier="8499b28ec7df4144a919f5432bfe95e0">
+        <source>If there is time, let the students experiment with changing the parameters to see how these changes affect their program.</source>
+        <target state="needs-translation">If there is time, let the students experiment with changing the parameters to see how these changes affect their program.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[26]</note>
+      </trans-unit>
+      <trans-unit id="66903" identifier="c12869a7f71206e0ff7ed29b66e66ca5">
+        <source>We just used the first of the 3 different types of Loop blocks available to us. What about the other 2 loop blocks, ‘while’ and ‘for’?</source>
+        <target state="needs-translation">We just used the first of the 3 different types of Loop blocks available to us. What about the other 2 loop blocks, ‘while’ and ‘for’?</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[27]</note>
+      </trans-unit>
+      <trans-unit id="66904" identifier="7b3e9fbbcfabb25771ffceff2f1f18e2">
+        <source>‘For’ block: traveling light</source>
+        <target state="needs-translation">‘For’ block: traveling light</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="66905" identifier="9306afaad184e5a247bffbd4c9de9230">
+        <source>The ‘for’ block is useful when you have a variable in your loop that you want to change by a fixed amount within a specific range each time through a loop.</source>
+        <target state="needs-translation">The ‘for’ block is useful when you have a variable in your loop that you want to change by a fixed amount within a specific range each time through a loop.</target>
+        <note>Context: XPath: /p[28]</note>
+      </trans-unit>
+      <trans-unit id="66906" identifier="bb1e2059ed47340b11d012eacca69dbf">
+        <source>What does this mean?</source>
+        <target state="needs-translation">What does this mean?</target>
+        <note>Context: XPath: /p[28]</note>
+      </trans-unit>
+      <trans-unit id="66907" identifier="040fa6e2d0a727744361b22407d1b73e">
+        <source>Let’s look at an example.</source>
+        <target state="needs-translation">Let’s look at an example.</target>
+        <note>Context: XPath: /p[28]</note>
+      </trans-unit>
+      <trans-unit id="66908" identifier="e70e83a7d1a717a489e91f1cfc85440a">
+        <source>Let’s make an led light move across the entire display from left to right, top row to bottom row.</source>
+        <target state="needs-translation">Let’s make an led light move across the entire display from left to right, top row to bottom row.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[29]</note>
+      </trans-unit>
+      <trans-unit id="66909" identifier="bcf4e58021c6dc7dba73f9e4a0cc40e1">
+        <source>Our pseudocode for the first row might look like this:</source>
+        <target state="needs-translation">Our pseudocode for the first row might look like this:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[30]</note>
+      </trans-unit>
+      <trans-unit id="66910" identifier="876a4f2d81e137adafdeaac05d6e85af">
+        <source>Turn led x:0, y:0 on
+Pause
+Turn led x:0, y:0 off
+Pause
+Turn led x:1, y:0 on
+Pause
+Turn led x:1, y:0 off
+Pause
+Turn led x:2, y:0 on
+Pause
+Turn led x:2, y:0 off
+Pause
+Turn led x:3, y:0 on
+Pause
+Turn led x:3, y:0 off
+Pause
+Turn led x:4, y:0 on
+Pause
+Turn led x:4, y:0 off</source>
+        <target state="needs-translation">Turn led x:0, y:0 on
+Pause
+Turn led x:0, y:0 off
+Pause
+Turn led x:1, y:0 on
+Pause
+Turn led x:1, y:0 off
+Pause
+Turn led x:2, y:0 on
+Pause
+Turn led x:2, y:0 off
+Pause
+Turn led x:3, y:0 on
+Pause
+Turn led x:3, y:0 off
+Pause
+Turn led x:4, y:0 on
+Pause
+Turn led x:4, y:0 off</target>
+        <note>Context: Text&#13;
+XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="66911" identifier="58e4bb2c00842d031ef4c771ffb8cf75">
+        <source>That’s a lot of code, most of it repeated. Perfect for a loop.</source>
+        <target state="needs-translation">That’s a lot of code, most of it repeated. Perfect for a loop.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[31]</note>
+      </trans-unit>
+      <trans-unit id="66912" identifier="60e2e97d3653828ba5c84721c8600588">
+        <source>What is the only variable that is changing in this pseudocode? &lt;em&gt;The value of the x coordinate&lt;/em&gt;.</source>
+        <target state="needs-translation">What is the only variable that is changing in this pseudocode? &lt;em&gt;The value of the x coordinate&lt;/em&gt;.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[9]/li</note>
+      </trans-unit>
+      <trans-unit id="66913" identifier="47e110300012152358bb31af412d9ab6">
+        <source>How much is the value of the x coordinate changing each time? &lt;em&gt;The value of the x coordinate is changing by 1 each time&lt;/em&gt;.</source>
+        <target state="needs-translation">How much is the value of the x coordinate changing each time? &lt;em&gt;The value of the x coordinate is changing by 1 each time&lt;/em&gt;.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[9]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66914" identifier="1c29a371ac09307617175ba7d68119a9">
+        <source>What is the range of values for the x coordinate? &lt;em&gt;The range of values for the x coordinate is 0 through 4&lt;/em&gt;.</source>
+        <target state="needs-translation">What is the range of values for the x coordinate? &lt;em&gt;The range of values for the x coordinate is 0 through 4&lt;/em&gt;.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[9]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66915" identifier="da16af22808c8dc939ccfacd0c49f7dc">
+        <source>Now let’s code!</source>
+        <target state="needs-translation">Now let’s code!</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[32]</note>
+      </trans-unit>
+      <trans-unit id="66916" identifier="3ac02838c3635586757b34519e0eccd1">
+        <source>From the Loops Toolbox drawer, drag a ‘for’ block to the coding workspace.</source>
+        <target state="needs-translation">From the Loops Toolbox drawer, drag a ‘for’ block to the coding workspace.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[10]/li</note>
+      </trans-unit>
+      <trans-unit id="66917" identifier="0288b76e9d73a1265faedc4f915fc1cf">
+        <source>Since we’ll be changing the value of the x coordinate, make a new variable, named &lt;strong&gt;xindex&lt;/strong&gt;.</source>
+        <target state="needs-translation">Since we’ll be changing the value of the x coordinate, make a new variable, named &lt;strong&gt;xindex&lt;/strong&gt;.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[10]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66918" identifier="284a0ac6c13d3ac8bbd3f213e04087a4">
+        <source>We’ll plot and unplot the leds to turn them on and off. From the Led Toolbox drawer, drag a 'plot' block and an 'unplot' block to the coding workspace.</source>
+        <target state="needs-translation">We’ll plot and unplot the leds to turn them on and off. From the Led Toolbox drawer, drag a 'plot' block and an 'unplot' block to the coding workspace.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[10]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66919" identifier="68605a293af5cb3a3ebc99d76bfedfd6">
+        <source>From the Basic Toolbox drawer, drag two ‘pause’ blocks to the coding workspace.</source>
+        <target state="needs-translation">From the Basic Toolbox drawer, drag two ‘pause’ blocks to the coding workspace.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[10]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="66920" identifier="bc255533c0aa926c657a70127c53d291">
+        <source>Place the following blocks into the ‘for’ block: the ‘plot’ block, a ‘pause’ block, the ‘unplot’ block, the second 'pause' block.</source>
+        <target state="needs-translation">Place the following blocks into the ‘for’ block: the ‘plot’ block, a ‘pause’ block, the ‘unplot’ block, the second 'pause' block.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[10]/li[5]</note>
+      </trans-unit>
+      <trans-unit id="66921" identifier="c84fce896c79bdfcf4176012b028bd37">
+        <source>Place the ‘for’ block inside a forever block.</source>
+        <target state="needs-translation">Place the ‘for’ block inside a forever block.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[10]/li[6]</note>
+      </trans-unit>
+      <trans-unit id="66922" identifier="da0fb8df79178af321b8d984e1941394">
+        <source>basic.forever(() =&amp;gt; {
+   for (let index = 0; index &amp;lt;= 4; index++) {
+       led.plot(0, 0)
+       basic.pause(100)
+       led.unplot(0, 0)
+       basic.pause(100)
+   }
+})</source>
+        <target state="needs-translation">basic.forever(() =&amp;gt; {
+   for (let index = 0; index &amp;lt;= 4; index++) {
+       led.plot(0, 0)
+       basic.pause(100)
+       led.unplot(0, 0)
+       basic.pause(100)
+   }
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="66923" identifier="567d53aa93f869333c9ffc2cecb3b98d">
+        <source>Let’s look at the parameters.</source>
+        <target state="needs-translation">Let’s look at the parameters.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[33]</note>
+      </trans-unit>
+      <trans-unit id="66924" identifier="a4d90115e5ea7ebf6d7226bed34f4ea7">
+        <source>Change the ‘index’ in the ‘for’ block to the ‘xindex’ variable we made.</source>
+        <target state="needs-translation">Change the ‘index’ in the ‘for’ block to the ‘xindex’ variable we made.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[11]/li</note>
+      </trans-unit>
+      <trans-unit id="66925" identifier="08c2f7d3de47d8d37f14698cdae587dc">
+        <source>Change the value of the x coordinates in the plot and unplot blocks to this same variable.</source>
+        <target state="needs-translation">Change the value of the x coordinates in the plot and unplot blocks to this same variable.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[11]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66926" identifier="a52102fe7b2222328490e6afc24c684d">
+        <source>let index = 0
+basic.forever(() =&amp;gt; {
+   for (let xindex = 0; xindex &amp;lt;= 4; xindex++) {
+       led.plot(xindex, 0)
+       basic.pause(100)
+       led.unplot(xindex, 0)
+       basic.pause(100)
+   }
+})</source>
+        <target state="needs-translation">let index = 0
+basic.forever(() =&amp;gt; {
+   for (let xindex = 0; xindex &amp;lt;= 4; xindex++) {
+       led.plot(xindex, 0)
+       basic.pause(100)
+       led.unplot(xindex, 0)
+       basic.pause(100)
+   }
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre[6]/code</note>
+      </trans-unit>
+      <trans-unit id="66927" identifier="a81e9b497a383088fb65cc597ba66ab1">
+        <source>We can use the default values for the rest of the parameters.</source>
+        <target state="needs-translation">We can use the default values for the rest of the parameters.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[34]</note>
+      </trans-unit>
+      <trans-unit id="66928" identifier="36f2a0df348c2251a059a91519010502">
+        <source>You should now see a light moving from left to right along the top row of the micro:bit simulator.</source>
+        <target state="needs-translation">You should now see a light moving from left to right along the top row of the micro:bit simulator.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[35]</note>
+      </trans-unit>
+      <trans-unit id="70391" identifier="51759608b8f3d97427a008c17a42122d" translate="no">
+        <source>let index = 0
+basic.forever(() =&amp;gt; {
+   for (let xindex = 0; xindex &amp;lt;= 4; xindex++) {
+       led.plot(xindex, 0)
+       basic.pause(100)
+       led.unplot(xindex, 0)
+       basic.pause(100)
+   }
+})</source>
+        <target>let index = 0
+basic.forever(() =&amp;gt; {
+   for (let xindex = 0; xindex &amp;lt;= 4; xindex++) {
+       led.plot(xindex, 0)
+       basic.pause(100)
+       led.unplot(xindex, 0)
+       basic.pause(100)
+   }
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="70392" identifier="76861950c1d1bb5366e4cdd68854d6c6">
+        <source>To make our pattern continue through all the leds, we can change the value of the y coordinate as well.</source>
+        <target state="needs-translation">To make our pattern continue through all the leds, we can change the value of the y coordinate as well.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[36]</note>
+      </trans-unit>
+      <trans-unit id="70393" identifier="8a4afbe7ce8a1307a09b3408ba585d4d">
+        <source>To do this efficiently, using the fewest lines of code, we can even put a loop inside a loop. Loops inside other loops are known as &lt;strong&gt;nested loops&lt;/strong&gt;.</source>
+        <target state="needs-translation">To do this efficiently, using the fewest lines of code, we can even put a loop inside a loop. Loops inside other loops are known as &lt;strong&gt;nested loops&lt;/strong&gt;.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[37]</note>
+      </trans-unit>
+      <trans-unit id="66933" identifier="cb07880caecd042d5663037f89e6d500">
+        <source>So that we can change the value of the y coordinate, make a new variable, named &lt;strong&gt;yindex&lt;/strong&gt;.</source>
+        <target state="needs-translation">So that we can change the value of the y coordinate, make a new variable, named &lt;strong&gt;yindex&lt;/strong&gt;.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[12]/li</note>
+      </trans-unit>
+      <trans-unit id="66934" identifier="199351c1f505d494d2fc765580b09c1e">
+        <source>Drag out another ‘for’ block from the Loops Toolbox drawer.</source>
+        <target state="needs-translation">Drag out another ‘for’ block from the Loops Toolbox drawer.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[12]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66935" identifier="b3c386d4dc9b39361fe7f885526d3793">
+        <source>Place this new ‘for’ block around our original ‘for’ block, all within the forever block.</source>
+        <target state="needs-translation">Place this new ‘for’ block around our original ‘for’ block, all within the forever block.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[12]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66936" identifier="c833de5e2b8e70ad6cd80564e28f12f3">
+        <source>Change the ‘index’ in the outer ‘for’ block to the ‘yindex’ variable we made.</source>
+        <target state="needs-translation">Change the ‘index’ in the outer ‘for’ block to the ‘yindex’ variable we made.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[12]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="66937" identifier="e32c221236a546bbc1bfb74f6a15201b">
+        <source>Change the value of the y coordinates in the plot and unplot blocks to this same variable.</source>
+        <target state="needs-translation">Change the value of the y coordinates in the plot and unplot blocks to this same variable.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[12]/li[5]</note>
+      </trans-unit>
+      <trans-unit id="70394" identifier="af453f907d0e083349c89cb1203aadff">
+        <source>let index = 0
+let yindex = 0
+basic.forever(() =&amp;gt; {
+   for (let yindex = 0; yindex &amp;lt;= 4; yindex++) {
+       for (let xindex = 0; xindex &amp;lt;= 4; xindex++) {
+           led.plot(xindex, yindex)
+           basic.pause(100)
+           led.unplot(xindex, yindex)
+           basic.pause(100)
+       }
+   }
+})</source>
+        <target state="needs-translation">let index = 0
+let yindex = 0
+basic.forever(() =&amp;gt; {
+   for (let yindex = 0; yindex &amp;lt;= 4; yindex++) {
+       for (let xindex = 0; xindex &amp;lt;= 4; xindex++) {
+           led.plot(xindex, yindex)
+           basic.pause(100)
+           led.unplot(xindex, yindex)
+           basic.pause(100)
+       }
+   }
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre[8]/code</note>
+      </trans-unit>
+      <trans-unit id="70395" identifier="375ef7435e784809663b2249b361be9c">
+        <source>There! With only a half dozen or so lines of code, we have made our light travel through all the coordinates on the micro:bit screen.</source>
+        <target state="needs-translation">There! With only a half dozen or so lines of code, we have made our light travel through all the coordinates on the micro:bit screen.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[38]</note>
+      </trans-unit>
+      <trans-unit id="70396" identifier="a3960772dd39b8ea6fccfdbe29a5d16c" translate="no">
+        <source>let index = 0
+let yindex = 0
+basic.forever(() =&amp;gt; {
+   for (let yindex = 0; yindex &amp;lt;= 4; yindex++) {
+       for (let xindex = 0; xindex &amp;lt;= 4; xindex++) {
+           led.plot(xindex, yindex)
+           basic.pause(100)
+           led.unplot(xindex, yindex)
+           basic.pause(100)
+       }
+   }
+})</source>
+        <target>let index = 0
+let yindex = 0
+basic.forever(() =&amp;gt; {
+   for (let yindex = 0; yindex &amp;lt;= 4; yindex++) {
+       for (let xindex = 0; xindex &amp;lt;= 4; xindex++) {
+           led.plot(xindex, yindex)
+           basic.pause(100)
+           led.unplot(xindex, yindex)
+           basic.pause(100)
+       }
+   }
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="70397" identifier="964ddb6d5db57658952e3ab8f1c59eeb">
+        <source>&lt;strong&gt;Check:&lt;/strong&gt; Make sure the students can read this code.</source>
+        <target state="needs-translation">&lt;strong&gt;Check:&lt;/strong&gt; Make sure the students can read this code.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[39]</note>
+      </trans-unit>
+      <trans-unit id="70398" identifier="9eab3bc2c9bfa019ecb2241e1b1263ce">
+        <source>Here is what is happening to the values of the x &amp;amp; y coordinates as the program steps through each line and loop inside the forever block:</source>
+        <target state="needs-translation">Here is what is happening to the values of the x &amp;amp; y coordinates as the program steps through each line and loop inside the forever block:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[40]</note>
+      </trans-unit>
+      <trans-unit id="66944" identifier="9a65c6c2c0ce4d1d265877b885fe6995">
+        <source>In the outer of the two for loops, the value of the y-coordinate is set to 0.</source>
+        <target state="needs-translation">In the outer of the two for loops, the value of the y-coordinate is set to 0.</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li</note>
+      </trans-unit>
+      <trans-unit id="66945" identifier="c88407dac333ec6d187bb93ce2858bcf">
+        <source>The nested inner loop then sets the value of the x-coordinate to zero.</source>
+        <target state="needs-translation">The nested inner loop then sets the value of the x-coordinate to zero.</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66946" identifier="c676b2791c176905e1485597d6828188">
+        <source>The corresponding led (x:0, y:0) is plotted and then unplotted.</source>
+        <target state="needs-translation">The corresponding led (x:0, y:0) is plotted and then unplotted.</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66947" identifier="c666cfd4dcb4f1d9ca9d53bcc692f434">
+        <source>Then the value of the x-coordinate is increased by 1 and step #3 runs again with the coordinates now (x:1, y:0).</source>
+        <target state="needs-translation">Then the value of the x-coordinate is increased by 1 and step #3 runs again with the coordinates now (x:1, y:0).</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li[4]</note>
+      </trans-unit>
+      <trans-unit id="66948" identifier="01467cc6f6674cb25cdf8cda9b41acef">
+        <source>Then the value of the x-coordinate is increased by 1 again and step #3 runs again with the coordinates now (x:2, y:0).</source>
+        <target state="needs-translation">Then the value of the x-coordinate is increased by 1 again and step #3 runs again with the coordinates now (x:2, y:0).</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li[5]</note>
+      </trans-unit>
+      <trans-unit id="66949" identifier="ccdc77f0d6577bda7ee60ec3573ef771">
+        <source>The inner loop keeps running like this until it has completed its loop with the value of the x coordinate now 4.</source>
+        <target state="needs-translation">The inner loop keeps running like this until it has completed its loop with the value of the x coordinate now 4.</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li[6]</note>
+      </trans-unit>
+      <trans-unit id="66950" identifier="e34d17e9560d30cee3416dbf5563ba19">
+        <source>With the inner loop complete, the program now runs the second iteration of the outer loop, increasing the value of the y-coordinate by 1, then back to the inner loop which runs 4 more times stepping through values for x from 0 through 4.</source>
+        <target state="needs-translation">With the inner loop complete, the program now runs the second iteration of the outer loop, increasing the value of the y-coordinate by 1, then back to the inner loop which runs 4 more times stepping through values for x from 0 through 4.</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li[7]</note>
+      </trans-unit>
+      <trans-unit id="70399" identifier="1e483b25ff1e4fb7fabbf766a66925c2">
+        <source>Have the students use the Slo-Mo mode to watch the program step through the loops.</source>
+        <target state="needs-translation">Have the students use the Slo-Mo mode to watch the program step through the loops.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[41]</note>
+      </trans-unit>
+      <trans-unit id="66952" identifier="8a54ca9e8bdf2a1869c2249ed875c731">
+        <source>By the end of the program run, how many times has the inner loop executed? 25</source>
+        <target state="needs-translation">By the end of the program run, how many times has the inner loop executed? 25</target>
+        <note>Context: List Item&#13;
+XPath: /ul[13]/li</note>
+      </trans-unit>
+      <trans-unit id="66953" identifier="c77bf427e4afe28e6723ac4aa3010725">
+        <source>Other than knowing that there are 25 LEDs and each is lit up once, how can you figure this out?</source>
+        <target state="needs-translation">Other than knowing that there are 25 LEDs and each is lit up once, how can you figure this out?</target>
+        <note>Context: XPath: /ul[13]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66954" identifier="6e7fc1ceb075bf2a506808a87805c90b">
+        <source>&gt;&lt;em&gt;The outer loop loops 5 times altogether, once for every value of the y coordinate from 0 through 4.</source>
+        <target state="needs-translation">&gt;&lt;em&gt;The outer loop loops 5 times altogether, once for every value of the y coordinate from 0 through 4.</target>
+        <note>Context: XPath: /ul[13]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66955" identifier="24235f6e58ddd9c2c5e61ef14668cad0">
+        <source>Each time the outer loop runs, the inner loop runs 5 times, once for every value of the x coordinate from 0 through 4. 5 runs of the outer loop x 5 runs of the inner loop = 25 times the inner loop executes.&lt;/em&gt;</source>
+        <target state="needs-translation">Each time the outer loop runs, the inner loop runs 5 times, once for every value of the x coordinate from 0 through 4. 5 runs of the outer loop x 5 runs of the inner loop = 25 times the inner loop executes.&lt;/em&gt;</target>
+        <note>Context: XPath: /ul[13]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66956" identifier="7f3324f808c82380ec2bbea9fb293502">
+        <source>Mods</source>
+        <target state="needs-translation">Mods</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[4]</note>
+      </trans-unit>
+      <trans-unit id="66957" identifier="7f262786103d87b46b25a3865a044dd6" translate="no">
+        <source>If there is time, let the students experiment with changing the parameters to see how these changes affect their program.</source>
+        <target>If there is time, let the students experiment with changing the parameters to see how these changes affect their program.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[14]/li</note>
+      </trans-unit>
+      <trans-unit id="66958" identifier="6c7e0aea62d6755d8f209ecaf2cf504d">
+        <source>What happens if you switch the positions of the nested loops, so the outer loop loops through the xindex values and the inner loop loops through the yindex values?</source>
+        <target state="needs-translation">What happens if you switch the positions of the nested loops, so the outer loop loops through the xindex values and the inner loop loops through the yindex values?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[14]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66959" identifier="431ed113d3ff9795a9ec60fde7a4aa94">
+        <source>What happens if you remove the ‘unplot’ block and the ‘pause’ block below it?</source>
+        <target state="needs-translation">What happens if you remove the ‘unplot’ block and the ‘pause’ block below it?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[14]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66960" identifier="dc4f799da3c625eee7ec0d766678febe">
+        <source>‘While’ block: micro:bit alarm!</source>
+        <target state="needs-translation">‘While’ block: micro:bit alarm!</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[5]</note>
+      </trans-unit>
+      <trans-unit id="70400" identifier="773eceada59aba3ee06b2c106a29ccf0">
+        <source>The while block is useful when you want your program to loop until a certain event happens or a different condition is met.</source>
+        <target state="needs-translation">The while block is useful when you want your program to loop until a certain event happens or a different condition is met.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[42]</note>
+      </trans-unit>
+      <trans-unit id="70401" identifier="8d80ce1febba626dd172218f2a864a72">
+        <source>For example, maybe you want an alarm to sound if someone shakes your micro:bit!
+In order to turn the alarm off, you press the button A. Until you press the button, the alarm should continue to sound!</source>
+        <target state="needs-translation">For example, maybe you want an alarm to sound if someone shakes your micro:bit!
+In order to turn the alarm off, you press the button A. Until you press the button, the alarm should continue to sound!</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[43]</note>
+      </trans-unit>
+      <trans-unit id="70402" identifier="4222fe5d21fb9d120e02f7897a132e6e">
+        <source>You can use a 'while' block with a nested ‘repeat’ block like this:</source>
+        <target state="needs-translation">You can use a 'while' block with a nested ‘repeat’ block like this:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[44]</note>
+      </trans-unit>
+      <trans-unit id="70403" identifier="6317391a614de8c67f01f6d557885132">
+        <source>input.onGesture(Gesture.Shake, () =&amp;gt; {
+   while (!(input.buttonIsPressed(Button.A))) {
+       for (let i = 0; i &amp;lt; 2; i++) {
+           music.playTone(262, music.beat(BeatFraction.Half))
+           music.playTone(523, music.beat(BeatFraction.Half))
+       }
+   }
+})</source>
+        <target state="needs-translation">input.onGesture(Gesture.Shake, () =&amp;gt; {
+   while (!(input.buttonIsPressed(Button.A))) {
+       for (let i = 0; i &amp;lt; 2; i++) {
+           music.playTone(262, music.beat(BeatFraction.Half))
+           music.playTone(523, music.beat(BeatFraction.Half))
+       }
+   }
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="66965" identifier="d6daa9b217298c1f77eb1150219b6575">
+        <source>Can you read what this code does?</source>
+        <target state="needs-translation">Can you read what this code does?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[15]/li</note>
+      </trans-unit>
+      <trans-unit id="66966" identifier="f40a5fc1eb434732828ac4a5f9860897">
+        <source>Can you write out pseudocode that describes what this code does?</source>
+        <target state="needs-translation">Can you write out pseudocode that describes what this code does?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[15]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="70404" identifier="991b4e161eba1b8db5b25ab9aa0064df">
+        <source>Example Pseudocode:</source>
+        <target state="needs-translation">Example Pseudocode:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[45]</note>
+      </trans-unit>
+      <trans-unit id="70405" identifier="342d1af222c8a32a8fb52edba020e5c0">
+        <source>When someone shakes the micro:bit, while button A is not pressed, play the two tone alarm twice. Keep playing the alarm tones until the user presses the A button.</source>
+        <target state="needs-translation">When someone shakes the micro:bit, while button A is not pressed, play the two tone alarm twice. Keep playing the alarm tones until the user presses the A button.</target>
+        <note>Context: Text&#13;
+XPath: /p[46]/em</note>
+      </trans-unit>
+      <trans-unit id="70406" identifier="b32841435b6c01b0ba46559c8e080d6f">
+        <source>To use sound with your micro:bit, you will need to connect it to some speakers or headphones. See how to do this here: &lt;a href=&quot;/projects/hack-your-headphones&quot;&gt;Hack you headphones&lt;/a&gt;.</source>
+        <target state="needs-translation">To use sound with your micro:bit, you will need to connect it to some speakers or headphones. See how to do this here: &lt;a href=&quot;/projects/hack-your-headphones&quot;&gt;Hack you headphones&lt;/a&gt;.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[47]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

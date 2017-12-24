@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1866" original="/microbit/docs/courses/csintro/miniproject/project.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="67380" identifier="e5384da151d162b0965bf80ede3f633c">
+        <source>Project: Mini-Project</source>
+        <target state="needs-translation">Project: Mini-Project</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="67381" identifier="aeed38e2907763e6a575f18cf71e61a2">
+        <source>This project takes approximately a week to complete.  Most of that time is spent working on the project in a makerspace or art classroom.</source>
+        <target state="needs-translation">This project takes approximately a week to complete.  Most of that time is spent working on the project in a makerspace or art classroom.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="67382" identifier="e3b2eacf7d017d172f2509c5a5ff4efb">
+        <source>The mini-project is an opportunity for students to design a project that serves a purpose by solving a problem or filling a need. It is also an opportunity to do two things:</source>
+        <target state="needs-translation">The mini-project is an opportunity for students to design a project that serves a purpose by solving a problem or filling a need. It is also an opportunity to do two things:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="67383" identifier="2a0dd354743ee1c132eac7a0cbda4e75">
+        <source>Show what you know</source>
+        <target state="needs-translation">Show what you know</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="67384" identifier="99f7570781792d7bd33ee2eaca637eb5">
+        <source>Learn something new</source>
+        <target state="needs-translation">Learn something new</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67385" identifier="a4fe610a92276a9386397cde83aed573">
+        <source>Ideally, there should be a maker component to this project.  This is a real world component that works with the code on the micro:bit to do something unique.</source>
+        <target state="needs-translation">Ideally, there should be a maker component to this project.  This is a real world component that works with the code on the micro:bit to do something unique.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="67386" identifier="5e5ee149cf8cff96da5281cb3f83506f">
+        <source>Students are asked to each propose an original independent project.</source>
+        <target state="needs-translation">Students are asked to each propose an original independent project.</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="67387" identifier="7ea07ca22282d85740db488cec6b9eb6">
+        <source>Students are allowed to work on the same idea, but they cannot turn in the same code.</source>
+        <target state="needs-translation">Students are allowed to work on the same idea, but they cannot turn in the same code.</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="67388" identifier="fd506fb4b6d1224fdaef59d00d087c63">
+        <source>They can, and should work collaboratively, solving the same kinds of problems together, but the projects they turn in should be unique and original.</source>
+        <target state="needs-translation">They can, and should work collaboratively, solving the same kinds of problems together, but the projects they turn in should be unique and original.</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="67389" identifier="fb15cad88ecf1cb361581009836a8267">
+        <source>Showcasing student work</source>
+        <target state="needs-translation">Showcasing student work</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="67390" identifier="ab061aa5d2a8a0795d86b0fba84d97b5">
+        <source>Students will be showing their work regularly to each other in informal ways.</source>
+        <target state="needs-translation">Students will be showing their work regularly to each other in informal ways.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="67391" identifier="9522ca2347e541a4fa33be92b7ca93ee">
+        <source>Think about also organizing a day or an evening when parents, administrators, or others from the community are invited to come and view the students' projects.</source>
+        <target state="needs-translation">Think about also organizing a day or an evening when parents, administrators, or others from the community are invited to come and view the students' projects.</target>
+        <note>Context: XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="67392" identifier="72e88a1fe818a6c43a3790ea5daffa62">
+        <source>We find that a &quot;science fair&quot; type of setup works well here, with students stationed at their own tables, showing off and demonstrating their project. An event like this works well for these reasons:</source>
+        <target state="needs-translation">We find that a &quot;science fair&quot; type of setup works well here, with students stationed at their own tables, showing off and demonstrating their project. An event like this works well for these reasons:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="67393" identifier="f3afe5f5e8236af49ce5a5c9fe8e2275">
+        <source>A real world audience for the work students have done can be very motivating</source>
+        <target state="needs-translation">A real world audience for the work students have done can be very motivating</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="67394" identifier="95af2a091cb5080d4213081d6cb2fabe">
+        <source>It is a chance for people who are not familiar with the micro:bit to appreciate the finished product</source>
+        <target state="needs-translation">It is a chance for people who are not familiar with the micro:bit to appreciate the finished product</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67395" identifier="0b4663460df5b4ba23d3bb27ceffb829">
+        <source>It provides good feedback to students about how someone interacts with their product</source>
+        <target state="needs-translation">It provides good feedback to students about how someone interacts with their product</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67396" identifier="ff1fa48eb325931e25e8e4a5142a0e60">
+        <source>It is a chance to have real conversations with the people behind the product, rather than just viewing the product on display by itself</source>
+        <target state="needs-translation">It is a chance to have real conversations with the people behind the product, rather than just viewing the product on display by itself</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="67397" identifier="15a890b4a556df6c5b5f9a764951a5f4">
+        <source>Finally, and most importantly, it is a chance to bring the community together to celebrate the great work all of your students have done!</source>
+        <target state="needs-translation">Finally, and most importantly, it is a chance to bring the community together to celebrate the great work all of your students have done!</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[5]</note>
+      </trans-unit>
+      <trans-unit id="67398" identifier="50b18c8e2ae8d9b06c31b82f8e815888" translate="no" approved="yes">
+        <source>Assignment</source>
+        <target>課題</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="67399" identifier="4fb3bb2fe0b3bbc25825919c6a5a886d">
+        <source>Create an original project using the micro:bit.</source>
+        <target state="needs-translation">Create an original project using the micro:bit.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li</note>
+      </trans-unit>
+      <trans-unit id="67400" identifier="ac61ab8216e4883f2484fe127d2cc342">
+        <source>Incorporate a physical component to the project.</source>
+        <target state="needs-translation">Incorporate a physical component to the project.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67401" identifier="e71a20b80866101a391dbce556fa9ce2">
+        <source>Demonstrate the use of one of the following concepts:</source>
+        <target state="needs-translation">Demonstrate the use of one of the following concepts:</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67402" identifier="1e674a7589413b4053b4adce65ca6f55">
+        <source>Input / Processing / Output</source>
+        <target state="needs-translation">Input / Processing / Output</target>
+        <note>Context: List Item&#13;
+XPath: /blockquote/ul/li</note>
+      </trans-unit>
+      <trans-unit id="67403" identifier="9f5de5aec81d4203824ab03733d9a034" translate="no">
+        <source>Variables</source>
+        <target>Variables</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li</note>
+      </trans-unit>
+      <trans-unit id="67404" identifier="fca4719dc5dca1b84dc451fa10d1037a">
+        <source>Simple Circuits</source>
+        <target state="needs-translation">Simple Circuits</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67405" identifier="a890c1a851229a671a0bd49ef7f3b445">
+        <source>Iteration/Loops</source>
+        <target state="needs-translation">Iteration/Loops</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67406" identifier="a55e3198740fdee7065d146d97c94434">
+        <source>Conditional Statements</source>
+        <target state="needs-translation">Conditional Statements</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="67407" identifier="dc27e3a356e892b12218fcae17e6cd8e">
+        <source>Project ideas</source>
+        <target state="needs-translation">Project ideas</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[4]</note>
+      </trans-unit>
+      <trans-unit id="67408" identifier="72a8a3075f0f4282ff91cd0353f97995">
+        <source>Make a “New and Improved” Fidget Cube</source>
+        <target state="needs-translation">Make a “New and Improved” Fidget Cube</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li</note>
+      </trans-unit>
+      <trans-unit id="67409" identifier="835f88e3c0193b9763dc73a98a9d0a08">
+        <source>Make a Moving Monster</source>
+        <target state="needs-translation">Make a Moving Monster</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67410" identifier="f3ecde63e2dee9d8f4800f495b14dade">
+        <source>Make a musical instrument</source>
+        <target state="needs-translation">Make a musical instrument</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67411" identifier="1edd144fa1504a768e00527acb199aeb">
+        <source>Fishing Game</source>
+        <target state="needs-translation">Fishing Game</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="67412" identifier="b473883a1dd12e4d93e5c98bc65f3135">
+        <source>Make an Air Guitar (uses while loop to do tempo and pitch)</source>
+        <target state="needs-translation">Make an Air Guitar (uses while loop to do tempo and pitch)</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[5]</note>
+      </trans-unit>
+      <trans-unit id="67413" identifier="428aaef43eb40d4386e7c8d556731e0c">
+        <source>Screensaver</source>
+        <target state="needs-translation">Screensaver</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[6]</note>
+      </trans-unit>
+      <trans-unit id="67414" identifier="51d982411e8fe0ecf3be3fd36e330b39">
+        <source>Screensaver that uses other inputs to draw</source>
+        <target state="needs-translation">Screensaver that uses other inputs to draw</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[7]</note>
+      </trans-unit>
+      <trans-unit id="67415" identifier="2ca1d1e0422b9930eb6a754db7e21067">
+        <source>Interactive book</source>
+        <target state="needs-translation">Interactive book</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[8]</note>
+      </trans-unit>
+      <trans-unit id="67416" identifier="9b65366f7e33fda1634452e2b5e35e3c">
+        <source>Binary Clock or some other way to represent numbers visually</source>
+        <target state="needs-translation">Binary Clock or some other way to represent numbers visually</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[9]</note>
+      </trans-unit>
+      <trans-unit id="67417" identifier="481e1702a2d0cf11d814b9534753fe70">
+        <source>View projects at the following sites for inspiration:</source>
+        <target state="needs-translation">View projects at the following sites for inspiration:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="67418" identifier="27cbb0ca31a5647416f5842fc6bbc8fd">
+        <source>http://make.techwillsaveus.com/bbc-microbit</source>
+        <target state="needs-translation">http://make.techwillsaveus.com/bbc-microbit</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li</note>
+      </trans-unit>
+      <trans-unit id="67419" identifier="3119c40ecea79dfcef8866de1f2992b2">
+        <source>http://microbit.org/ideas/</source>
+        <target state="needs-translation">http://microbit.org/ideas/</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67420" identifier="0f25c3f3ac78b96c12b54252dd19b720">
+        <source>https://twitter.com/MicroMonstersUK</source>
+        <target state="needs-translation">https://twitter.com/MicroMonstersUK</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67421" identifier="8920a44293cb13a81df182ef0140b7c0" translate="no">
+        <source>/projects</source>
+        <target>/projects</target>
+        <note>Context: Link Resource&#13;
+XPath: /ul[6]/li[4]/a[@href]</note>
+      </trans-unit>
+      <trans-unit id="67422" identifier="0ac799f032577a473099d230ea81abe2" translate="no" approved="yes">
+        <source>Projects</source>
+        <target>プロジェクト</target>
+        <note>Context: Anchor Link&#13;
+XPath: /ul[6]/li[4]/a</note>
+      </trans-unit>
+      <trans-unit id="67423" identifier="316995171f18b1e2c1e3e970ee337301" translate="no" approved="yes">
+        <source>Examples</source>
+        <target>サンプル</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[5]</note>
+      </trans-unit>
+      <trans-unit id="67424" identifier="5d544ddf2b5f3af4b3b104e3a5f43907" translate="no">
+        <source>/static/courses/csintro/miniproject/toss-the-ball.jpg</source>
+        <target>/static/courses/csintro/miniproject/toss-the-ball.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p[8]/l/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67425" identifier="6bebf47d14027ceb37fedb08241574f4">
+        <source>Toss the ball project</source>
+        <target state="needs-translation">Toss the ball project</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[8]/l/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67426" identifier="f5f660c3ff9e2f59ae2195f9289d9f71">
+        <source>Toss the Ball</source>
+        <target state="needs-translation">Toss the Ball</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="67427" identifier="7215ad0e48dbcf7e6786bb97b1f5b766">
+        <source>This is a skill game in which an aluminum foil ball is thrown into a plastic cup. Copper tape lining the sides and bottom of the cup completes the circuit when the ball touches it.</source>
+        <target state="needs-translation">This is a skill game in which an aluminum foil ball is thrown into a plastic cup. Copper tape lining the sides and bottom of the cup completes the circuit when the ball touches it.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="67428" identifier="46ccca11703c81b23a80f6088886dbd2">
+        <source>&lt;a href=&quot;https://youtu.be/NZUpoSixf4E&quot;&gt;&lt;strong&gt;micro:bit Bullseye Project&lt;/strong&gt;&lt;/a&gt;
+https://youtu.be/NZUpoSixf4E</source>
+        <target state="needs-translation">&lt;a href=&quot;https://youtu.be/NZUpoSixf4E&quot;&gt;&lt;strong&gt;micro:bit Bullseye Project&lt;/strong&gt;&lt;/a&gt;
+https://youtu.be/NZUpoSixf4E</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="67429" identifier="d208eebfe2d7474e839f217ee9aa050d">
+        <source>This is a skill game in which tennis balls are thrown underhand at one of the three rings, which are lined with aluminum foil so they complete a circuit underneath when the ball makes contact with the ring.</source>
+        <target state="needs-translation">This is a skill game in which tennis balls are thrown underhand at one of the three rings, which are lined with aluminum foil so they complete a circuit underneath when the ball makes contact with the ring.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="67430" identifier="874043cbac33c1474847762c57fa2d12">
+        <source>&lt;a href=&quot;https://youtu.be/yg1NNLMqa9c&quot;&gt;&lt;strong&gt;micro:bit Storybook&lt;/strong&gt;&lt;/a&gt;
+https://youtu.be/yg1NNLMqa9c</source>
+        <target state="needs-translation">&lt;a href=&quot;https://youtu.be/yg1NNLMqa9c&quot;&gt;&lt;strong&gt;micro:bit Storybook&lt;/strong&gt;&lt;/a&gt;
+https://youtu.be/yg1NNLMqa9c</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="67431" identifier="2caa247045e8c32655d832cd0f0d30be">
+        <source>This is a prototype of a storybook that could use the micro:bit to display animations for part of the story.</source>
+        <target state="needs-translation">This is a prototype of a storybook that could use the micro:bit to display animations for part of the story.</target>
+        <note>Context: XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="67432" identifier="b4223aae775cd0b86d127994e2262b4a">
+        <source>Copper tape is used on the underside of the paper flaps to make contact between the GND pin and each of the other pins in sequence.</source>
+        <target state="needs-translation">Copper tape is used on the underside of the paper flaps to make contact between the GND pin and each of the other pins in sequence.</target>
+        <note>Context: XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="67433" identifier="19c564de7107e37d8a9c90452a6844a6" translate="no">
+        <source>Work logs</source>
+        <target>Work logs</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[6]</note>
+      </trans-unit>
+      <trans-unit id="67434" identifier="45fbb7f735b2f18462d13b06a6fa7c81">
+        <source>Because students are working on the projects in class, and much of the benefit comes from working together to solve problems, they should account for the work they are doing by writing a work log.</source>
+        <target state="needs-translation">Because students are working on the projects in class, and much of the benefit comes from working together to solve problems, they should account for the work they are doing by writing a work log.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[14]</note>
+      </trans-unit>
+      <trans-unit id="67435" identifier="fdbae253670ca22afcfb7abc09f412aa">
+        <source>A work log is a short, bullet point list of what they worked on, and how long it took.</source>
+        <target state="needs-translation">A work log is a short, bullet point list of what they worked on, and how long it took.</target>
+        <note>Context: XPath: /p[15]</note>
+      </trans-unit>
+      <trans-unit id="67436" identifier="2ef543524b397fc4301893e0203b0a52">
+        <source>Stick to the facts.</source>
+        <target state="needs-translation">Stick to the facts.</target>
+        <note>Context: XPath: /p[15]</note>
+      </trans-unit>
+      <trans-unit id="67437" identifier="e18d6cad823a43a55c7db48f8d852473" translate="no">
+        <source>It shouldn’t take more than thirty seconds or so to write up a work log.</source>
+        <target>It shouldn’t take more than thirty seconds or so to write up a work log.</target>
+        <note>Context: XPath: /p[15]</note>
+      </trans-unit>
+      <trans-unit id="67438" identifier="f0a54f90fd3de7873d70a7cf985bc8fd">
+        <source>Students should do one for every class.</source>
+        <target state="needs-translation">Students should do one for every class.</target>
+        <note>Context: XPath: /p[15]</note>
+      </trans-unit>
+      <trans-unit id="67439" identifier="ea0b382112dc579067e1d74b6d5d2848" translate="no">
+        <source>A shared Microsoft OneNote notebook is a great way to keep a work log that students can update regularly.</source>
+        <target>A shared Microsoft OneNote notebook is a great way to keep a work log that students can update regularly.</target>
+        <note>Context: XPath: /p[15]</note>
+      </trans-unit>
+      <trans-unit id="67440" identifier="5430c4bad01c31b1cae5345e6455390d" translate="no">
+        <source>Alternately, you might use a collaborative shared document, or your classroom management system, or even e-mail.</source>
+        <target>Alternately, you might use a collaborative shared document, or your classroom management system, or even e-mail.</target>
+        <note>Context: XPath: /p[15]</note>
+      </trans-unit>
+      <trans-unit id="73169" identifier="7cb7756a47a05d51f1821d80a8fb46ef">
+        <source>Sample Work Log</source>
+        <target state="needs-translation">Sample Work Log</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3</note>
+      </trans-unit>
+      <trans-unit id="67442" identifier="1061495299fe847b76f3d206c1e0926f">
+        <source>&lt;strong&gt;&lt;em&gt;April 11&lt;/em&gt;&lt;/strong&gt;&lt;br/&gt;
+  &lt;em&gt;20 min. Created code that reacts when pins P0 and P1 are pressed._&lt;br/&gt;
+  _0 min. Talked with Mr. Kiang about how to attach wires so they won’t fall off_&lt;br/&gt;
+  _20 min. Put target back together with pins_&lt;br/&gt;
+  _10 min. Helped Cody with attaching his scoreboard&lt;/em&gt;</source>
+        <target state="needs-translation">&lt;strong&gt;&lt;em&gt;April 11&lt;/em&gt;&lt;/strong&gt;&lt;br/&gt;
+  &lt;em&gt;20 min. Created code that reacts when pins P0 and P1 are pressed._&lt;br/&gt;
+  _0 min. Talked with Mr. Kiang about how to attach wires so they won’t fall off_&lt;br/&gt;
+  _20 min. Put target back together with pins_&lt;br/&gt;
+  _10 min. Helped Cody with attaching his scoreboard&lt;/em&gt;</target>
+        <note>Context: Paragraph text&#13;
+XPath: /blockquote[2]/p</note>
+      </trans-unit>
+      <trans-unit id="67443" identifier="da97c44025c558c6264d2c6c979396a4" translate="no">
+        <source>Reflection</source>
+        <target>Reflection</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[7]</note>
+      </trans-unit>
+      <trans-unit id="67444" identifier="cf851b964dcfc09fe592e2883e54ad41">
+        <source>At the end of the week, students should compose a final reflection that summarizes the process of their learning over the course of the week.</source>
+        <target state="needs-translation">At the end of the week, students should compose a final reflection that summarizes the process of their learning over the course of the week.</target>
+        <note>Context: XPath: /p[16]</note>
+      </trans-unit>
+      <trans-unit id="67445" identifier="8dcfacfe0fc0a7970236c269107e8c9a">
+        <source>They should go back through their work logs and talk about the following:</source>
+        <target state="needs-translation">They should go back through their work logs and talk about the following:</target>
+        <note>Context: XPath: /p[16]</note>
+      </trans-unit>
+      <trans-unit id="67446" identifier="fca75fa627bc91aca2179d9ce17f0ad6">
+        <source>Talk about one challenge you faced in creating this project, either a challenge in coding or in making the artifact. How did you overcome this challenge?</source>
+        <target state="needs-translation">Talk about one challenge you faced in creating this project, either a challenge in coding or in making the artifact. How did you overcome this challenge?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[7]/li</note>
+      </trans-unit>
+      <trans-unit id="67447" identifier="a3b071a834435f400d6d119d547f56f4">
+        <source>What did you demonstrate that you already knew?</source>
+        <target state="needs-translation">What did you demonstrate that you already knew?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[7]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67448" identifier="56ccb79bae28ae7e4419d52e7052df81">
+        <source>What was the new thing you learned in order to make this? How did you learn about it?</source>
+        <target state="needs-translation">What was the new thing you learned in order to make this? How did you learn about it?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[7]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67449" identifier="9def2135603e1f633bcbd029ce2aa411" translate="no">
+        <source>Who in the class provided help to you along the way? How?</source>
+        <target>Who in the class provided help to you along the way? How?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[7]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="67450" identifier="febb7a933b801f479a2090a5b85897ec">
+        <source>Describe one specific thing you are proud of in this project.</source>
+        <target state="needs-translation">Describe one specific thing you are proud of in this project.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[7]/li[5]</note>
+      </trans-unit>
+      <trans-unit id="67451" identifier="ab1281d9b495fcf2030c526e7ff40ece" translate="no">
+        <source>What would you do differently next time?</source>
+        <target>What would you do differently next time?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[7]/li[6]</note>
+      </trans-unit>
+      <trans-unit id="67452" identifier="3e275f0138610db12a5994cd8b3842ca">
+        <source>If you had another week to work on this project, what might you add or improve?</source>
+        <target state="needs-translation">If you had another week to work on this project, what might you add or improve?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[7]/li[7]</note>
+      </trans-unit>
+      <trans-unit id="67453" identifier="a848e8e7da7de212feb7b77543cbbdaf">
+        <source>Sample Reflection (excerpt)</source>
+        <target state="needs-translation">Sample Reflection (excerpt)</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[17]</note>
+      </trans-unit>
+      <trans-unit id="67454" identifier="fb963665a7b3868ced6347d00c124130">
+        <source>“I spent this week finishing up little details with my program, making it work better and more user friendly.</source>
+        <target state="needs-translation">“I spent this week finishing up little details with my program, making it work better and more user friendly.</target>
+        <note>Context: XPath: /blockquote[3]/p/em</note>
+      </trans-unit>
+      <trans-unit id="67455" identifier="ee8bd741ccf861aed6422449339fa049">
+        <source>The part that surprised me the most was the little things that kept popping into my head, little suggestions that could potentially be good to add, but might not be necessary or even useful.</source>
+        <target state="needs-translation">The part that surprised me the most was the little things that kept popping into my head, little suggestions that could potentially be good to add, but might not be necessary or even useful.</target>
+        <note>Context: XPath: /blockquote[3]/p/em</note>
+      </trans-unit>
+      <trans-unit id="67456" identifier="02d4c9a66994cfe4c00c493aa8906363">
+        <source>At the beginning of the assignment, I just added them as quickly as I thought of them, but as the project neared the midpoint and conclusion, I find myself considering if I actually need them (as previous additions have been since quickly deleted).</source>
+        <target state="needs-translation">At the beginning of the assignment, I just added them as quickly as I thought of them, but as the project neared the midpoint and conclusion, I find myself considering if I actually need them (as previous additions have been since quickly deleted).</target>
+        <note>Context: XPath: /blockquote[3]/p/em</note>
+      </trans-unit>
+      <trans-unit id="67457" identifier="76f772f28d29d4cbb2c78d868ac3ec65">
+        <source>Another thing that I find interesting about this is that it is a rather specialized project.</source>
+        <target state="needs-translation">Another thing that I find interesting about this is that it is a rather specialized project.</target>
+        <note>Context: XPath: /blockquote[3]/p/em</note>
+      </trans-unit>
+      <trans-unit id="67458" identifier="555f41b6ba233e56066c0c835fb3899f">
+        <source>Not many people would use it except for me.</source>
+        <target state="needs-translation">Not many people would use it except for me.</target>
+        <note>Context: XPath: /blockquote[3]/p/em</note>
+      </trans-unit>
+      <trans-unit id="67459" identifier="4b48274f9ef04d8881e0da84f208e427">
+        <source>However, this is supposed to be easily used by other people, so I have to take them into consideration as I design the project.</source>
+        <target state="needs-translation">However, this is supposed to be easily used by other people, so I have to take them into consideration as I design the project.</target>
+        <note>Context: XPath: /blockquote[3]/p/em</note>
+      </trans-unit>
+      <trans-unit id="67460" identifier="653333252981ea62ccb5a8d286497198">
+        <source>I also realized that I had, at some point, broken part of my code without realizing it, so I now have to fix part of it.</source>
+        <target state="needs-translation">I also realized that I had, at some point, broken part of my code without realizing it, so I now have to fix part of it.</target>
+        <note>Context: XPath: /blockquote[3]/p/em</note>
+      </trans-unit>
+      <trans-unit id="67461" identifier="8c610601939c60971cd07faac39f0526">
+        <source>The reason that it is a problem is because I added a lot of code at once without deleting it, which is unfortunate.</source>
+        <target state="needs-translation">The reason that it is a problem is because I added a lot of code at once without deleting it, which is unfortunate.</target>
+        <note>Context: XPath: /blockquote[3]/p/em</note>
+      </trans-unit>
+      <trans-unit id="67462" identifier="bb3dc7c003d2a875c2218debe7400a7d">
+        <source>Next time I will add small amounts of code and test it first.”</source>
+        <target state="needs-translation">Next time I will add small amounts of code and test it first.”</target>
+        <note>Context: XPath: /blockquote[3]/p/em</note>
+      </trans-unit>
+      <trans-unit id="67463" identifier="5408ac30f38d2f6dbd14f67162e3ac1e" translate="no" approved="yes">
+        <source>Assessment</source>
+        <target>評価</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[8]</note>
+      </trans-unit>
+      <trans-unit id="67464" identifier="767a2716e5fe7104279e503d55421e51" translate="no">
+        <source>&lt;strong&gt;Competency scores&lt;/strong&gt;: 4, 3, 2, 1</source>
+        <target>&lt;strong&gt;Competency scores&lt;/strong&gt;: 4, 3, 2, 1</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[18]</note>
+      </trans-unit>
+      <trans-unit id="73170" identifier="2c93ba0a923c6511c04217a7efb797fe" translate="no">
+        <source>Code - Show what you know</source>
+        <target>Code - Show what you know</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[2]</note>
+      </trans-unit>
+      <trans-unit id="67466" identifier="2b33ce32b44cf695f2e60a377bca3cbe" translate="no">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; Code very effectively demonstrates the use of previous concept(s).</source>
+        <target>&lt;strong&gt;4 =&lt;/strong&gt; Code very effectively demonstrates the use of previous concept(s).</target>
+        <note>Context: XPath: /p[19]</note>
+      </trans-unit>
+      <trans-unit id="67467" identifier="31284667dd83a90fc5d637086c19e821">
+        <source>Variable names are unique and clearly describe what information values the variables hold.</source>
+        <target state="needs-translation">Variable names are unique and clearly describe what information values the variables hold.</target>
+        <note>Context: XPath: /p[19]</note>
+      </trans-unit>
+      <trans-unit id="67468" identifier="f36be1ec08fc2aec749e9db09cecd8c3">
+        <source>Code is highly efficient.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Code only partially demonstrates previous concepts, and/or is not efficient.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Code only partially demonstrates previous concepts, and/or is not efficient, variable names not clear.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; Code does not demonstrate previous concepts, is not efficient, variable names not clear.</source>
+        <target state="needs-translation">Code is highly efficient.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Code only partially demonstrates previous concepts, and/or is not efficient.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Code only partially demonstrates previous concepts, and/or is not efficient, variable names not clear.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; Code does not demonstrate previous concepts, is not efficient, variable names not clear.</target>
+        <note>Context: XPath: /p[19]</note>
+      </trans-unit>
+      <trans-unit id="73171" identifier="c98a2cfcdaf42d4ceada85d365fbb7af" translate="no">
+        <source>Code - Show something new</source>
+        <target>Code - Show something new</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[3]</note>
+      </trans-unit>
+      <trans-unit id="67470" identifier="55e84966a9cd1413ed74ea68df558081" translate="no">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; Code very effectively demonstrates the use of new concept(s).</source>
+        <target>&lt;strong&gt;4 =&lt;/strong&gt; Code very effectively demonstrates the use of new concept(s).</target>
+        <note>Context: XPath: /p[20]</note>
+      </trans-unit>
+      <trans-unit id="67471" identifier="f0123684d5abaa9559b781da7d00091c" translate="no">
+        <source>Variable names are unique and clearly describe what information values the variables hold.</source>
+        <target>Variable names are unique and clearly describe what information values the variables hold.</target>
+        <note>Context: XPath: /p[20]</note>
+      </trans-unit>
+      <trans-unit id="67472" identifier="d7baa64525a6c7bff40dc8cdf5ac3f56">
+        <source>Code is highly efficient.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Code only minimally demonstrates new concepts, and/or is not efficient.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Code only minimally demonstrates new concepts, and/or is not efficient, variable names not clear.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; Code does not demonstrate new concepts, is not efficient, variable names not clear.</source>
+        <target state="needs-translation">Code is highly efficient.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Code only minimally demonstrates new concepts, and/or is not efficient.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Code only minimally demonstrates new concepts, and/or is not efficient, variable names not clear.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; Code does not demonstrate new concepts, is not efficient, variable names not clear.</target>
+        <note>Context: XPath: /p[20]</note>
+      </trans-unit>
+      <trans-unit id="73172" identifier="13465b68a875e4e411a60ec9131c971e" translate="no">
+        <source>Maker component</source>
+        <target>Maker component</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[4]</note>
+      </trans-unit>
+      <trans-unit id="67474" identifier="aac256a9cdc096be642cd6e7a1218f6c">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; Tangible component is tightly integrated with the micro:bit and each relies heavily on the other to make the project complete.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt;Tangible component is somewhat integrated with the micro:bit but is not essential.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Tangible component does not add to the functionality of the program.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; No tangible component.</source>
+        <target state="needs-translation">&lt;strong&gt;4 =&lt;/strong&gt; Tangible component is tightly integrated with the micro:bit and each relies heavily on the other to make the project complete.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt;Tangible component is somewhat integrated with the micro:bit but is not essential.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Tangible component does not add to the functionality of the program.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; No tangible component.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[21]</note>
+      </trans-unit>
+      <trans-unit id="73173" identifier="d9e4e68d6c47bc1e14eda9b337adca87" translate="no">
+        <source>Work Logs</source>
+        <target>Work Logs</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[5]</note>
+      </trans-unit>
+      <trans-unit id="67476" identifier="4d6a0b57a90e89d740b27c7f6a22c493">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; All work logs submitted on time, and accurate.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; One late or missing work log and/or work logs not accurate nor sufficiently detailed.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Two late or missing work logs and/or work logs not accurate nor sufficiently detailed.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; More than two late or missing work logs and/or not accurate nor sufficiently detailed.</source>
+        <target state="needs-translation">&lt;strong&gt;4 =&lt;/strong&gt; All work logs submitted on time, and accurate.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; One late or missing work log and/or work logs not accurate nor sufficiently detailed.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Two late or missing work logs and/or work logs not accurate nor sufficiently detailed.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; More than two late or missing work logs and/or not accurate nor sufficiently detailed.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[22]</note>
+      </trans-unit>
+      <trans-unit id="73174" identifier="27983323be3f23e2fa9dbbc54a556e51" translate="no">
+        <source>Reflection</source>
+        <target>Reflection</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[6]</note>
+      </trans-unit>
+      <trans-unit id="67478" identifier="019248229981347d31c742af3dae469c">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; Reflection piece describes:&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Development Process&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Something new&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Something proud of&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Future mods&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Reflection piece lacks 1 of the required elements.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Reflection piece lacks 2 of the required elements.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; Reflection piece lacks 3 of the required elements.</source>
+        <target state="needs-translation">&lt;strong&gt;4 =&lt;/strong&gt; Reflection piece describes:&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Development Process&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Something new&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Something proud of&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Future mods&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Reflection piece lacks 1 of the required elements.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Reflection piece lacks 2 of the required elements.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; Reflection piece lacks 3 of the required elements.</target>
+        <note>Context: XPath: /p[23]</note>
+      </trans-unit>
+      <trans-unit id="67479" identifier="4922340e7f2652698c011fcda3c94872" translate="no">
+        <source> </source>
+        <target state="translated"> </target>
+        <note>Context: XPath: /p[23]</note>
+      </trans-unit>
+      <trans-unit id="67480" identifier="c74ea7c0e13abb7221b13fce96637d18" translate="no" approved="yes">
+        <source>Notes</source>
+        <target>追加情報：</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[9]</note>
+      </trans-unit>
+      <trans-unit id="67481" identifier="61505b94e1f86aeaa74f42e79a7b8825">
+        <source>We actually split the grading of code between &quot;show what you know&quot; and &quot;show something new.&quot; If a student uses variables incorrectly or uses bad variable names, we generally would take off points in both places.</source>
+        <target state="needs-translation">We actually split the grading of code between &quot;show what you know&quot; and &quot;show something new.&quot; If a student uses variables incorrectly or uses bad variable names, we generally would take off points in both places.</target>
+        <note>Context: XPath: /p[24]</note>
+      </trans-unit>
+      <trans-unit id="67482" identifier="e313d52528ab3f73d079a6a7ba5a7195">
+        <source>Sometimes it is difficult to distinguish between what is old and new if the student's reflection is less than clear; in those cases, we have to use some discretion in terms of where we take points off.</source>
+        <target state="needs-translation">Sometimes it is difficult to distinguish between what is old and new if the student's reflection is less than clear; in those cases, we have to use some discretion in terms of where we take points off.</target>
+        <note>Context: XPath: /p[24]</note>
+      </trans-unit>
+      <trans-unit id="67483" identifier="a50b529902e75e33705387397ad1b3ae">
+        <source>Another option would be to break out the Variables category into its own row.</source>
+        <target state="needs-translation">Another option would be to break out the Variables category into its own row.</target>
+        <note>Context: XPath: /p[24]</note>
+      </trans-unit>
+      <trans-unit id="67484" identifier="8049873c0708cd41d67bd95e45fc09ad" translate="no">
+        <source>As always, these rubrics are just a starting point and you should certainly feel free to adjust them as appropriate for your own classroom or learning environment.</source>
+        <target>As always, these rubrics are just a starting point and you should certainly feel free to adjust them as appropriate for your own classroom or learning environment.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[25]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

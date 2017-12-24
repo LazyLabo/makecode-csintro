@@ -1,0 +1,1506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1871" original="/microbit/docs/courses/csintro/radio/activity.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="67531" identifier="7edaf928fd809ed1383a58a9d64b7cc8">
+        <source>Activity: Marco Polo and Morse code</source>
+        <target state="needs-translation">Activity: Marco Polo and Morse code</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="67532" identifier="99a225d030d1b21eea63b049bb96a112" translate="no">
+        <source>/static/courses/csintro/radio/marco-polo.png</source>
+        <target>/static/courses/csintro/radio/marco-polo.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67533" identifier="449441150d25e6c65b859dedb7d65000">
+        <source>Marco Polo Cartoon</source>
+        <target state="needs-translation">Marco Polo Cartoon</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67534" identifier="85e2db433d2b99f8605eed720aa80d06">
+        <source>Guide the students in creating programs that use the radio communication blocks to send and receive data between two micro:bits.</source>
+        <target state="needs-translation">Guide the students in creating programs that use the radio communication blocks to send and receive data between two micro:bits.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="67535" identifier="05ce3107755c9bb923164b65af46325d" translate="no" approved="yes">
+        <source>Notes:</source>
+        <target>追加情報：</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="67536" identifier="09eebd55befee577b2436393c0abaf1d">
+        <source>When using the radio blocks, the micro:bit simulator will show two micro:bits</source>
+        <target state="needs-translation">When using the radio blocks, the micro:bit simulator will show two micro:bits</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="67537" identifier="4a68bd70f266afea694b1eecf38860fc">
+        <source>In the simulator, a radio transmission icon will appear in the top right corner of the micro:bit. The icon will light up as the micro:bit is transmitting data.</source>
+        <target state="needs-translation">In the simulator, a radio transmission icon will appear in the top right corner of the micro:bit. The icon will light up as the micro:bit is transmitting data.</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67538" identifier="400582ca96d8eec0f72e55bfadde76bb">
+        <source>In the simulator, all the code in the coding workspace runs on both virtual micro:bits. You should include for how to send data as well as what to do when it receives data.</source>
+        <target state="needs-translation">In the simulator, all the code in the coding workspace runs on both virtual micro:bits. You should include for how to send data as well as what to do when it receives data.</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67539" identifier="24403dd890a97429a5d72eab0ec5c5ac">
+        <source>Marco Polo</source>
+        <target state="needs-translation">Marco Polo</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="67540" identifier="b7c820258c9950232f7c19624cc75769">
+        <source>Send and receive strings between micro:bits.
+On button A pressed, we will send the string Marco and on button B pressed we will send the string Polo.</source>
+        <target state="needs-translation">Send and receive strings between micro:bits.
+On button A pressed, we will send the string Marco and on button B pressed we will send the string Polo.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="67541" identifier="fbba20e0e568b408738b0c43e1aa56f2">
+        <source>When communicating between micro:bits, it is important that the micro:bits involved are all using the same group ID. So, the first thing we will do is set the group ID number.</source>
+        <target state="needs-translation">When communicating between micro:bits, it is important that the micro:bits involved are all using the same group ID. So, the first thing we will do is set the group ID number.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="67542" identifier="c14256ca649779e4dc2c00e42568272b">
+        <source>From the Radio menu, drag a 'radio set group' block to the coding workspace and place the block into the on start block.</source>
+        <target state="needs-translation">From the Radio menu, drag a 'radio set group' block to the coding workspace and place the block into the on start block.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67543" identifier="8a3a843c1d8909e962e64ed614f7fdfe">
+        <source>In the 'radio set group block', leave the default value of 1 for the group ID</source>
+        <target state="needs-translation">In the 'radio set group block', leave the default value of 1 for the group ID</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67544" identifier="6845ef39ecdab9b5eb40e10bb00f5234">
+        <source>radio.setGroup(1)</source>
+        <target state="needs-translation">radio.setGroup(1)</target>
+        <note>Context: Text&#13;
+XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67545" identifier="907081ceeb88f3ac52ca7835d791c164">
+        <source>Drag 2 'on button pressed' blocks to the coding workspace</source>
+        <target state="needs-translation">Drag 2 'on button pressed' blocks to the coding workspace</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li</note>
+      </trans-unit>
+      <trans-unit id="67546" identifier="64f7d97cec79b61d158fc7aeed9985e8">
+        <source>Leave one with the default value A and change the other button to B</source>
+        <target state="needs-translation">Leave one with the default value A and change the other button to B</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67547" identifier="97c8e2147722ae38e603f92c812eb6c8">
+        <source>From the Radio Toolbox drawer, drag 2 'radio send string' blocks to the coding workspace</source>
+        <target state="needs-translation">From the Radio Toolbox drawer, drag 2 'radio send string' blocks to the coding workspace</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67548" identifier="c7cadd61dcd8a3f486ed05d44c2e42ca">
+        <source>Place one 'radio send string' block into the 'on button A pressed' block, and the other'radio send string' block into the 'on button B pressed' block</source>
+        <target state="needs-translation">Place one 'radio send string' block into the 'on button A pressed' block, and the other'radio send string' block into the 'on button B pressed' block</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="67549" identifier="b00424611189df1a4ce442f6a2e647d7">
+        <source>In the 'on button A pressed' block, change the default empty string value of the 'radio send string' block to the string &quot;Marco&quot;</source>
+        <target state="needs-translation">In the 'on button A pressed' block, change the default empty string value of the 'radio send string' block to the string &quot;Marco&quot;</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[5]</note>
+      </trans-unit>
+      <trans-unit id="67550" identifier="1a4a446a0cee80dbafa329d90cda2195">
+        <source>In the 'on button B pressed' block, change the default empty string value of the 'radio send string' block to the string &quot;Polo&quot;</source>
+        <target state="needs-translation">In the 'on button B pressed' block, change the default empty string value of the 'radio send string' block to the string &quot;Polo&quot;</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[6]</note>
+      </trans-unit>
+      <trans-unit id="67551" identifier="680f1a8f773508e6b89cd5da055962e0">
+        <source>input.onButtonPressed(Button.A, () =&amp;gt; {
+    radio.sendString(&quot;Marco&quot;)
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+    radio.sendString(&quot;Polo&quot;)
+})</source>
+        <target state="needs-translation">input.onButtonPressed(Button.A, () =&amp;gt; {
+    radio.sendString(&quot;Marco&quot;)
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+    radio.sendString(&quot;Polo&quot;)
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre[2]/code</note>
+      </trans-unit>
+      <trans-unit id="67552" identifier="34fb32f384c030d8616666242ddb0d22">
+        <source>To display the data sent between the micro:bits, drag an 'on radio received receivedString' block to the coding workspace</source>
+        <target state="needs-translation">To display the data sent between the micro:bits, drag an 'on radio received receivedString' block to the coding workspace</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li</note>
+      </trans-unit>
+      <trans-unit id="67553" identifier="d1991a7d1c069f3296c90b952fffa42e">
+        <source>From the Basic Toolbox drawer, drag a 'show string' block into the 'on radio received receivedString' block</source>
+        <target state="needs-translation">From the Basic Toolbox drawer, drag a 'show string' block into the 'on radio received receivedString' block</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67554" identifier="a2a369b801410abbf68c26edf891f083">
+        <source>From the Variables Toolbox drawer, drag a 'receivedString' variable block into the default string value of &quot;Hello&quot; in the 'show string' block</source>
+        <target state="needs-translation">From the Variables Toolbox drawer, drag a 'receivedString' variable block into the default string value of &quot;Hello&quot; in the 'show string' block</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67555" identifier="2cda085187540303edefdda11f1c57b1">
+        <source>Here is the complete Marco Polo program:</source>
+        <target state="needs-translation">Here is the complete Marco Polo program:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="67556" identifier="3f3fac48334992e0ddb18f208f41e979">
+        <source>input.onButtonPressed(Button.A, () =&amp;gt; {
+    radio.sendString(&quot;Marco&quot;)
+})
+
+radio.onDataPacketReceived(({ receivedString }) =&amp;gt; {
+    basic.showString(receivedString)
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+    radio.sendString(&quot;Polo&quot;)
+})
+radio.setGroup(1)</source>
+        <target state="needs-translation">input.onButtonPressed(Button.A, () =&amp;gt; {
+    radio.sendString(&quot;Marco&quot;)
+})
+
+radio.onDataPacketReceived(({ receivedString }) =&amp;gt; {
+    basic.showString(receivedString)
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+    radio.sendString(&quot;Polo&quot;)
+})
+radio.setGroup(1)</target>
+        <note>Context: Text&#13;
+XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="67557" identifier="d4b8f3fc632f057216e96a533650c5b9" translate="no">
+        <source>Mods</source>
+        <target>Mods</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="67558" identifier="db52ec9b0faa4f2bc8e780d3e2f2951c">
+        <source>Add a 'show leds' block to the 'on start' block. We created an image of the initials MP.</source>
+        <target state="needs-translation">Add a 'show leds' block to the 'on start' block. We created an image of the initials MP.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li</note>
+      </trans-unit>
+      <trans-unit id="67559" identifier="96e6477b8077aca621984a7c1828f56b">
+        <source>From the Music Toolbox drawer, drag 2 'play tone' blocks to the coding workspace.</source>
+        <target state="needs-translation">From the Music Toolbox drawer, drag 2 'play tone' blocks to the coding workspace.</target>
+        <note>Context: XPath: /ul[5]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67560" identifier="e85dc1da15049b82e03e76794ba51c20">
+        <source>See &lt;a href=&quot;/projects/hack-your-headphones&quot;&gt;hack your headphones&lt;/a&gt; for how to connect a speaker or headphones to the micro:bit.</source>
+        <target state="needs-translation">See &lt;a href=&quot;/projects/hack-your-headphones&quot;&gt;hack your headphones&lt;/a&gt; for how to connect a speaker or headphones to the micro:bit.</target>
+        <note>Context: XPath: /ul[5]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67561" identifier="6d2f4cd3ea2aaacbd151d05f7d098412">
+        <source>Drag one of the 'play tone' blocks to the 'on button A pressed' block, and the other one to the 'on button B pressed' block.</source>
+        <target state="needs-translation">Drag one of the 'play tone' blocks to the 'on button A pressed' block, and the other one to the 'on button B pressed' block.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67562" identifier="ce5420f45a19f61395e396c4a5978fad">
+        <source>Change the default value in the 'play tone' block that is inside the 'on button A pressed' block to the value Low C.</source>
+        <target state="needs-translation">Change the default value in the 'play tone' block that is inside the 'on button A pressed' block to the value Low C.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="67563" identifier="86c377bd42667a73c5c10c3b0977a229">
+        <source>Complete Marco Polo program with mods:</source>
+        <target state="needs-translation">Complete Marco Polo program with mods:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="67564" identifier="28e504b37118f2ebed4ab1b381898c1a">
+        <source>input.onButtonPressed(Button.A, () =&amp;gt; {
+    radio.sendString(&quot;Marco&quot;)
+    music.playTone(131, music.beat(BeatFraction.Whole))
+})
+    radio.onDataPacketReceived( ({ receivedString }) =&amp;gt; {
+    basic.showString(receivedString)
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+    radio.sendString(&quot;Polo&quot;)
+    music.playTone(262, music.beat(BeatFraction.Whole))
+})
+radio.setGroup(1)
+basic.showLeds(`
+    # .</source>
+        <target state="needs-translation">input.onButtonPressed(Button.A, () =&amp;gt; {
+    radio.sendString(&quot;Marco&quot;)
+    music.playTone(131, music.beat(BeatFraction.Whole))
+})
+    radio.onDataPacketReceived( ({ receivedString }) =&amp;gt; {
+    basic.showString(receivedString)
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+    radio.sendString(&quot;Polo&quot;)
+    music.playTone(262, music.beat(BeatFraction.Whole))
+})
+radio.setGroup(1)
+basic.showLeds(`
+    # .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="67565" identifier="2887610ba8af99ab858810c35297b9db">
+        <source># # #
+    # # # # #
+    # .</source>
+        <target state="needs-translation"># # #
+    # # # # #
+    # .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="67566" identifier="d3514eb0e12bf984568ac5b25d00c86a">
+        <source># # #
+    # .</source>
+        <target state="needs-translation"># # #
+    # .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="67567" identifier="9dda78f5ad26d3f1effeb0fb0066e180" translate="no">
+        <source># # .</source>
+        <target># # .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="67568" identifier="d5fbea3c22df2e44c8c76cb9b5e27ecf" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="67569" identifier="aa8b7880de36c98a56c3eb32568cce2d" translate="no">
+        <source># # .</source>
+        <target># # .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="67570" identifier="f0d6de1bb5eaf5886bf068126f5b7821">
+        <source>`)</source>
+        <target state="needs-translation">`)</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="67571" identifier="88ca806812d2bfba61fcfa8027e07e9a">
+        <source>Morse Code</source>
+        <target state="needs-translation">Morse Code</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="67572" identifier="13239451b75a27487172d685e4684f8c">
+        <source>Send and receive numbers between micro:bits.</source>
+        <target state="needs-translation">Send and receive numbers between micro:bits.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="67573" identifier="5d59a9c6119ff37b49b7d3c77656f289">
+        <source>Depending on the button pressed, send a different number value between micro:bits.</source>
+        <target state="needs-translation">Depending on the button pressed, send a different number value between micro:bits.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="67574" identifier="af5e946f740830ff226db97414d3f2a2">
+        <source>On receiving a number, display a different image unique to the number sent.</source>
+        <target state="needs-translation">On receiving a number, display a different image unique to the number sent.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="67575" identifier="7080b4fc9aef66aa9c0fab1e61db8bc4">
+        <source>One number will represent a dot, another a dash and another a space or stop.</source>
+        <target state="needs-translation">One number will represent a dot, another a dash and another a space or stop.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="67576" identifier="f89bf0b48d8ec76872f3652f1c3638cf" translate="no">
+        <source>/static/courses/csintro/radio/morse.png</source>
+        <target>/static/courses/csintro/radio/morse.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[8]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67577" identifier="9c9861a9fa0af0d3a69b35458fdf3bee">
+        <source>Morse code alphabet</source>
+        <target state="needs-translation">Morse code alphabet</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[8]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67578" identifier="89501c9704c093486cc4ac2bc7f81872">
+        <source>Set the group ID number.</source>
+        <target state="needs-translation">Set the group ID number.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li</note>
+      </trans-unit>
+      <trans-unit id="67579" identifier="9d70bc3ffdd0882d3e076928c5449614">
+        <source>Add a 'show string' block to the 'on start' block, to identify the program.</source>
+        <target state="needs-translation">Add a 'show string' block to the 'on start' block, to identify the program.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67580" identifier="f1526756e67afc3638ba3a012c040355">
+        <source>We choose to change the default string value of &quot;Hello&quot; to the value &quot;Morse Code&quot;</source>
+        <target state="needs-translation">We choose to change the default string value of &quot;Hello&quot; to the value &quot;Morse Code&quot;</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67581" identifier="7f06c41b2e30dfc22b8e58b4ab744888">
+        <source>radio.setGroup(1)
+basic.showString(&quot;Morse Code&quot;)</source>
+        <target state="needs-translation">radio.setGroup(1)
+basic.showString(&quot;Morse Code&quot;)</target>
+        <note>Context: Text&#13;
+XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="67582" identifier="f60c446af7d06b3ea1f89e64b7a55c6c">
+        <source>Drag 3 'on button pressed' blocks to the coding workspace.</source>
+        <target state="needs-translation">Drag 3 'on button pressed' blocks to the coding workspace.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[7]/li</note>
+      </trans-unit>
+      <trans-unit id="67583" identifier="5f8da212cf04a79bcf235f4c9134e9de">
+        <source>Leave one with the default value A, change the value in the second block to B, and change the value in the third block to A+B.</source>
+        <target state="needs-translation">Leave one with the default value A, change the value in the second block to B, and change the value in the third block to A+B.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[7]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67584" identifier="572a38b36f955d28ac1cc6c11ce75ac6">
+        <source>From the Radio Toolbox drawer, drag 3 'radio send number' blocks to the coding workspace.</source>
+        <target state="needs-translation">From the Radio Toolbox drawer, drag 3 'radio send number' blocks to the coding workspace.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[7]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67585" identifier="830544676697604c9863f2cbaf001cd9">
+        <source>Place one radio send number block into each of the 'on button pressed' blocks.</source>
+        <target state="needs-translation">Place one radio send number block into each of the 'on button pressed' blocks.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[7]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="67586" identifier="fc6da9ecf7bc8a1e590df6d4809eeb21">
+        <source>In the 'on button A pressed' block, leave the default number value of the 'radio send number' block as 0.</source>
+        <target state="needs-translation">In the 'on button A pressed' block, leave the default number value of the 'radio send number' block as 0.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[7]/li[5]</note>
+      </trans-unit>
+      <trans-unit id="67587" identifier="f1beb69865a1b5d45e9f22d474fee6d0">
+        <source>In the 'on button B pressed' block, change the default number value of the 'radio send number' block to the value 1.</source>
+        <target state="needs-translation">In the 'on button B pressed' block, change the default number value of the 'radio send number' block to the value 1.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[7]/li[6]</note>
+      </trans-unit>
+      <trans-unit id="67588" identifier="a003ca531bd1425c881f36ea338f1a62">
+        <source>In the 'on button A+B pressed' block, change the default number value of the 'radio send number' block to the value 2.</source>
+        <target state="needs-translation">In the 'on button A+B pressed' block, change the default number value of the 'radio send number' block to the value 2.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[7]/li[7]</note>
+      </trans-unit>
+      <trans-unit id="67589" identifier="6351d36a771aabd04c85a7442c19b192">
+        <source>input.onButtonPressed(Button.A, () =&amp;gt; {
+    radio.sendNumber(0)
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+    radio.sendNumber(1)
+})
+input.onButtonPressed(Button.AB, () =&amp;gt; {
+    radio.sendNumber(2)
+})</source>
+        <target state="needs-translation">input.onButtonPressed(Button.A, () =&amp;gt; {
+    radio.sendNumber(0)
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+    radio.sendNumber(1)
+})
+input.onButtonPressed(Button.AB, () =&amp;gt; {
+    radio.sendNumber(2)
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre[6]/code</note>
+      </trans-unit>
+      <trans-unit id="67590" identifier="195e6551845e6d8b095a81e19469426c">
+        <source>From the Radio Toolbox drawer, drag an 'on radio received receivedNumber' event handler to the coding workspace.</source>
+        <target state="needs-translation">From the Radio Toolbox drawer, drag an 'on radio received receivedNumber' event handler to the coding workspace.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[8]/li</note>
+      </trans-unit>
+      <trans-unit id="67591" identifier="785013a8ed75a3c1af827df6d1e9b3e5">
+        <source>Since we will display a different image depending on the number value received, we need a logic block.</source>
+        <target state="needs-translation">Since we will display a different image depending on the number value received, we need a logic block.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[8]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67592" identifier="a88bdba25ca95dc2d101cae2267de025">
+        <source>From the Logic Toolbox drawer, drag an 'if...then' block to the coding workspace and place it in the 'on radio received receivedNumber' event handler.</source>
+        <target state="needs-translation">From the Logic Toolbox drawer, drag an 'if...then' block to the coding workspace and place it in the 'on radio received receivedNumber' event handler.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[8]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67593" identifier="468c412605d9c278cf82b27eb9cd02b6">
+        <source>In order to know whether to display a dot, a dash, or a space/stop image, we need to compare the number received to the values 0, 1, and 2.</source>
+        <target state="needs-translation">In order to know whether to display a dot, a dash, or a space/stop image, we need to compare the number received to the values 0, 1, and 2.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="67594" identifier="dc1720cc70089489030e532e54903a04">
+        <source>From the Logic Toolbox drawer, drag a 0=0 comparison block into the coding workspace.</source>
+        <target state="needs-translation">From the Logic Toolbox drawer, drag a 0=0 comparison block into the coding workspace.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[9]/li</note>
+      </trans-unit>
+      <trans-unit id="67595" identifier="06a247376f9db03dee4f30a5f546f74a">
+        <source>Replace the default value 'true' of the 'if...then' block with the comparison block.</source>
+        <target state="needs-translation">Replace the default value 'true' of the 'if...then' block with the comparison block.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[9]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67596" identifier="0774c06a41f04907322220fb42c2a69b">
+        <source>From the Variables Toolbox drawer, drag a 'receivedNumber' variable block into the coding workspace, and drop it into the first slot of the comparison block</source>
+        <target state="needs-translation">From the Variables Toolbox drawer, drag a 'receivedNumber' variable block into the coding workspace, and drop it into the first slot of the comparison block</target>
+        <note>Context: List Item&#13;
+XPath: /ul[9]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67597" identifier="b90659396f0d3b9f54e6a0d8322176b6">
+        <source>Leave the righthand side default value of zero in the 0=0 block.</source>
+        <target state="needs-translation">Leave the righthand side default value of zero in the 0=0 block.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[9]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="67598" identifier="e082028898371d7cb76a47436a995ebd">
+        <source>radio.onDataPacketReceived( ({ receivedNumber }) =&amp;gt; {
+    if (receivedNumber == 0) {
+
+    }
+})</source>
+        <target state="needs-translation">radio.onDataPacketReceived( ({ receivedNumber }) =&amp;gt; {
+    if (receivedNumber == 0) {
+
+    }
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre[7]/code</note>
+      </trans-unit>
+      <trans-unit id="67599" identifier="a1020bc5aa019896b962512cd491fe24">
+        <source>Place a 'show leds' block in the space after the then of the 'if...then' block.</source>
+        <target state="needs-translation">Place a 'show leds' block in the space after the then of the 'if...then' block.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[10]/li</note>
+      </trans-unit>
+      <trans-unit id="67600" identifier="ed3116a375377872061770bea698e348">
+        <source>Create an image to represent a dot.</source>
+        <target state="needs-translation">Create an image to represent a dot.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[10]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67601" identifier="3726a768dba15a724dbe494bcb064a62">
+        <source>radio.onDataPacketReceived( ({ receivedNumber }) =&amp;gt; {
+    if (receivedNumber == 0) {
+        basic.showLeds(`
+            .</source>
+        <target state="needs-translation">radio.onDataPacketReceived( ({ receivedNumber }) =&amp;gt; {
+    if (receivedNumber == 0) {
+        basic.showLeds(`
+            .</target>
+        <note>Context: XPath: /pre[8]/code</note>
+      </trans-unit>
+      <trans-unit id="67602" identifier="217510a8edf077385672799b0406b801" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[8]/code</note>
+      </trans-unit>
+      <trans-unit id="67603" identifier="d72d1ea150df4fbfd82c05a8103eacdf" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[8]/code</note>
+      </trans-unit>
+      <trans-unit id="67604" identifier="0cd00eaad7d27bd0a35a7f8aece9ffe6" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[8]/code</note>
+      </trans-unit>
+      <trans-unit id="67605" identifier="bb5d8d911dd7014c8abf260598448871" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[8]/code</note>
+      </trans-unit>
+      <trans-unit id="67606" identifier="c3ae3e58cd301bebb86623b4cbf6ab84" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[8]/code</note>
+      </trans-unit>
+      <trans-unit id="67607" identifier="b3ef997374a373889e012a313fa784fb" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[8]/code</note>
+      </trans-unit>
+      <trans-unit id="67608" identifier="56b0b7791f533355b7725acc8fcc9b52" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[8]/code</note>
+      </trans-unit>
+      <trans-unit id="67609" identifier="e4db28b4fde742804f02d6453f939033" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[8]/code</note>
+      </trans-unit>
+      <trans-unit id="67610" identifier="9bbbcc18d3d82c20ca70157b417eb070" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[8]/code</note>
+      </trans-unit>
+      <trans-unit id="67611" identifier="4ff428d7021d7d5d406317c3e3f1ecf4" translate="no">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[8]/code</note>
+      </trans-unit>
+      <trans-unit id="67612" identifier="7d0613d20b1a55f79e3924c79b6495f3" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[8]/code</note>
+      </trans-unit>
+      <trans-unit id="67613" identifier="a7a979a7d3c557dc5976662b977b7ac3" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[8]/code</note>
+      </trans-unit>
+      <trans-unit id="67614" identifier="b46fc17c297c223312c3b0e564190997" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[8]/code</note>
+      </trans-unit>
+      <trans-unit id="67615" identifier="96d912b58560cf43e7114a60ea7f6213" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[8]/code</note>
+      </trans-unit>
+      <trans-unit id="67616" identifier="d93405e9ef7de2f9eeb21858d045b795" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[8]/code</note>
+      </trans-unit>
+      <trans-unit id="67617" identifier="711914c6fc4cfd16eba40dbbc1a55463" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[8]/code</note>
+      </trans-unit>
+      <trans-unit id="67618" identifier="5690c19d82f19d4d8bf7ccc1acdc0637" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[8]/code</note>
+      </trans-unit>
+      <trans-unit id="67619" identifier="4b6f0f5fe11bff2539424fbf61542ca3" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[8]/code</note>
+      </trans-unit>
+      <trans-unit id="67620" identifier="bd1f6cf404029cc1b80995aacbe4a8c8" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[8]/code</note>
+      </trans-unit>
+      <trans-unit id="67621" identifier="8c7c363e3fbbf7220ce0f4721a04026a" translate="no">
+        <source>`)
+    }
+})</source>
+        <target>`)
+    }
+})</target>
+        <note>Context: XPath: /pre[8]/code</note>
+      </trans-unit>
+      <trans-unit id="67622" identifier="cc64492a706fc309c1972a46b2dbfc39">
+        <source>Try it!</source>
+        <target state="needs-translation">Try it!</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3</note>
+      </trans-unit>
+      <trans-unit id="67623" identifier="dd4d3b00c52335432ea088f7292f75cf">
+        <source>Download your program to the micro:bit</source>
+        <target state="needs-translation">Download your program to the micro:bit</target>
+        <note>Context: List Item&#13;
+XPath: /ul[11]/li</note>
+      </trans-unit>
+      <trans-unit id="67624" identifier="72b5627fb9330d06bdbcf882586af5b4">
+        <source>Press button A on the sending micro:bit</source>
+        <target state="needs-translation">Press button A on the sending micro:bit</target>
+        <note>Context: List Item&#13;
+XPath: /ul[11]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67625" identifier="cdf07c45afa217e03d016b1f03f7094f">
+        <source>Does this cause a dot to be displayed on the receiving micro:bit?</source>
+        <target state="needs-translation">Does this cause a dot to be displayed on the receiving micro:bit?</target>
+        <note>Context: List Item&#13;
+XPath: /ul[11]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67626" identifier="e9eb3d371566da6893175b35c2d60d90">
+        <source>However, pressing button A again does not appear to send another dot as the image on the receiving micro:bit does not appear to change.</source>
+        <target state="needs-translation">However, pressing button A again does not appear to send another dot as the image on the receiving micro:bit does not appear to change.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[11]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="67627" identifier="253d5f4de0c40e75c95e12da967181c9">
+        <source>Challenge question: How can we fix this?</source>
+        <target state="needs-translation">Challenge question: How can we fix this?</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="67628" identifier="e801ccce6bba332a84977e586650d982">
+        <source>Add a 'pause' block and a 'clear screen' block after the 'show leds' block</source>
+        <target state="needs-translation">Add a 'pause' block and a 'clear screen' block after the 'show leds' block</target>
+        <note>Context: List Item&#13;
+XPath: /ul[12]/li</note>
+      </trans-unit>
+      <trans-unit id="67629" identifier="61a0164d70f484dd417b5d7c0fd9d4cf" translate="no">
+        <source>radio.onDataPacketReceived( ({ receivedNumber }) =&amp;gt; {
+    if (receivedNumber == 0) {
+        basic.showLeds(`
+            .</source>
+        <target>radio.onDataPacketReceived( ({ receivedNumber }) =&amp;gt; {
+    if (receivedNumber == 0) {
+        basic.showLeds(`
+            .</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="67630" identifier="d6dde30ad4d9b977bbb3d95dce8cb0ea" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="67631" identifier="ed25d6276f012b684295f2a0164f16b9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="67632" identifier="ee2a2daff91a7786c246b8641a3c2047" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="67633" identifier="bd67cbbea2921e97d2bc9e8234bda95b" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="67634" identifier="9399e58169391490a69d04a265209b46" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="67635" identifier="6af6ee4bca5588887c18188aaa459aae" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="67636" identifier="f76f9b0e1b27449565465bdcb458b12f" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="67637" identifier="16b024d04e02b2fe1132e99e76dc1917" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="67638" identifier="064e557d510ad269b675163dc45e4d52" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="67639" identifier="1cfc7e906fac519ba0e6062d2b214e51" translate="no">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="67640" identifier="c673687b984c151a2a443c1c94c1dd35" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="67641" identifier="e87f0a13065a801837b476063227db5a" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="67642" identifier="1870f64399fe2a5f7a651bfa1c8e2e3b" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="67643" identifier="c59152de6c913d8bd1bb9508f2c75040" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="67644" identifier="adb24bbcc7a80dbaeaf479688dc01266" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="67645" identifier="2dfee331d6e84cb9b950e80ab81cf85d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="67646" identifier="dda8c70f652f4c334a56151e31101c27" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="67647" identifier="751f0e93f6c130d3988bf4bc3b696a5a" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="67648" identifier="98c0d6393307cd3b776882a037cf95f9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="67649" identifier="bb8c491256d029b3b079dfe1bf858954">
+        <source>`)
+        basic.pause(1)
+        basic.clearScreen()
+    }
+})</source>
+        <target state="needs-translation">`)
+        basic.pause(1)
+        basic.clearScreen()
+    }
+})</target>
+        <note>Context: XPath: /pre[9]/code</note>
+      </trans-unit>
+      <trans-unit id="67650" identifier="28f315d6b5d42d8bfa9968eab9d564ab">
+        <source>Try running the program again. 
+Now each time the sender presses button A, you see a dot appear.</source>
+        <target state="needs-translation">Try running the program again. 
+Now each time the sender presses button A, you see a dot appear.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="67651" identifier="e54849467c5d5402b882c205eaca2a00" translate="no">
+        <source>/static/courses/csintro/radio/microbit-dot-display.png</source>
+        <target>/static/courses/csintro/radio/microbit-dot-display.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[12]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67652" identifier="f50d279f878e37bf34be5cc3f1834ec4">
+        <source>micro:bit dot display</source>
+        <target state="needs-translation">micro:bit dot display</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[12]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67653" identifier="63c70ff9c69ed7cac128478e6a9338f5">
+        <source>You can now right-click on the 'if…then' block and select Duplicate to copy that piece of code twice for the other 2 values that a sender may send.</source>
+        <target state="needs-translation">You can now right-click on the 'if…then' block and select Duplicate to copy that piece of code twice for the other 2 values that a sender may send.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[13]/li</note>
+      </trans-unit>
+      <trans-unit id="67654" identifier="c338de66a1bfc4daed5ffc12f07a216f" translate="no">
+        <source>/static/courses/csintro/radio/if-then-duplicate.png</source>
+        <target>/static/courses/csintro/radio/if-then-duplicate.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[13]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67655" identifier="74cd6f823ff2a64d3723f863255a2e2a">
+        <source>If-block, right-click and duplicate</source>
+        <target state="needs-translation">If-block, right-click and duplicate</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[13]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67656" identifier="b277876570c02ae4a1a9b4c54473821f">
+        <source>Change the values on the righthand side of the comparison block to 1, and 2.</source>
+        <target state="needs-translation">Change the values on the righthand side of the comparison block to 1, and 2.</target>
+        <note>Context: List Item&#13;
+XPath: /ul[14]/li</note>
+      </trans-unit>
+      <trans-unit id="67657" identifier="2914f531d80d4f69ab82de9ea3b5cfdb">
+        <source>Modify the images displayed to show a dash, and a full screen of lights</source>
+        <target state="needs-translation">Modify the images displayed to show a dash, and a full screen of lights</target>
+        <note>Context: List Item&#13;
+XPath: /ul[14]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67658" identifier="accf867ec66d47e363e59a2283257e55">
+        <source>Morse code program</source>
+        <target state="needs-translation">Morse code program</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[2]</note>
+      </trans-unit>
+      <trans-unit id="67659" identifier="7cabd51b86373087e1b42a688a8aadd9">
+        <source>radio.onDataPacketReceived( ({ receivedNumber }) =&amp;gt;  {
+    if (receivedNumber == 0) {
+        basic.showLeds(`
+            .</source>
+        <target state="needs-translation">radio.onDataPacketReceived( ({ receivedNumber }) =&amp;gt;  {
+    if (receivedNumber == 0) {
+        basic.showLeds(`
+            .</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67660" identifier="93bbce0809ae10802b0b7f45ea8faf7f" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67661" identifier="230b8ba41b811293a406ade3e29b04ba" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67662" identifier="7b28330d84e473c605b9867efeddb716" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67663" identifier="a55ccc86688ff05d2949ba45a0310534" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67664" identifier="7816fef18384cff6e4850fa54dc04bd1" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67665" identifier="26ba8d79cbe5597d93884b88463ffec0" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67666" identifier="8f9a13a2e4f359014c1ccd9770c07b56" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67667" identifier="282e38431a17b999771de9fb4ff4bfd7" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67668" identifier="5383467b18e2a87995fe312dbdba092c" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67669" identifier="9c2f815807bcfc370f424c0fdba4b6bf" translate="no">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67670" identifier="79dce0bd7f935affe434ee9c3b43c63f" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67671" identifier="3aec07f23df3cdc840407c9cce4e1a80" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67672" identifier="b1d0866313f131419d30b5bcd134b899" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67673" identifier="5beaeb4ea37546229eb7a99db6f790c7" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67674" identifier="5b1bd7859bd02ee6e0499485aa5ee97b" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67675" identifier="ac56f2bddf84c8473d5a8eba540da6f4" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67676" identifier="54eb39eca902c060194b54c58988cecb" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67677" identifier="7f2a53b152e883caef546eb96d5e7e2f" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67678" identifier="daa6dd4fd0f82371b3b7c745e6be6b92" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67679" identifier="feaf895c2c86075b9ddbdf0b865f56dd">
+        <source>`)
+        basic.pause(100)
+        basic.clearScreen()
+    }
+    if (receivedNumber == 1) {
+        basic.showLeds(`
+            .</source>
+        <target state="needs-translation">`)
+        basic.pause(100)
+        basic.clearScreen()
+    }
+    if (receivedNumber == 1) {
+        basic.showLeds(`
+            .</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67680" identifier="9fc26f7ef73505bc1264d80f494bee1b" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67681" identifier="0c564102c1c19934b44bf57038162cd1" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67682" identifier="a748c9d9682c03874f264fbb46b0d905" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67683" identifier="71321241bfdc7a3b90de5a7b69c12262" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67684" identifier="1e27498f31eca5cf9a9cb7a341c3a2e9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67685" identifier="9db8a4d4e8b16b07fb7aa251c2d067b6" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67686" identifier="89c9b7c2ab75032b4747a6c7a1bb0ed5" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67687" identifier="296687431dd48ec6bf013faf127a9949" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67688" identifier="c04b2c30704a4cde4471bc52fbdeab82" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67689" identifier="40313d4d7ffe9b46ac8b1e59173a6de0" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67690" identifier="5785013bc6092a6a6228fd2536b11c50" translate="no">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67691" identifier="917329d21586af73a40930e1184ae33c" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67692" identifier="f60af1c601c52fdf56e26b39d738e2da" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67693" identifier="4dae4108c08bf2d0efd96eee95e47ece" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67694" identifier="5845831227147e8087e620a6fd171cc5" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67695" identifier="04a9aa4634db90b54dbdefb3937dda17" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67696" identifier="dd482d3993c0664507b010a59dbe2f2b" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67697" identifier="a8e11e02a972ee83b64e1fd49cd038c3" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67698" identifier="b5370b9f04302a6e79f498de8847ff1a" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67699" identifier="4c26d8d34ea15240a46562c1eef80bdd" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67700" identifier="6285637bb7043a2ca2c7b5cfaefc29b5" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67701" identifier="d18eaf99098d99d5fe6362d6b5fd26db">
+        <source>`)
+        basic.pause(100)
+        basic.clearScreen()
+    }
+    if (receivedNumber == 2) {
+        basic.showLeds(`
+            # # # # #
+            # # # # #
+            # # # # #
+            # # # # #
+            # # # # #
+            `)
+        basic.pause(100)
+        basic.clearScreen()
+    }
+})
+input.onButtonPressed(Button.A, () =&amp;gt; {
+    radio.sendNumber(0)
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+    radio.sendNumber(1)
+})
+input.onButtonPressed(Button.AB, () =&amp;gt; {
+    radio.sendNumber(2)
+})
+radio.setGroup(1)
+basic.showString(&quot;Morse Code&quot;)</source>
+        <target state="needs-translation">`)
+        basic.pause(100)
+        basic.clearScreen()
+    }
+    if (receivedNumber == 2) {
+        basic.showLeds(`
+            # # # # #
+            # # # # #
+            # # # # #
+            # # # # #
+            # # # # #
+            `)
+        basic.pause(100)
+        basic.clearScreen()
+    }
+})
+input.onButtonPressed(Button.A, () =&amp;gt; {
+    radio.sendNumber(0)
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+    radio.sendNumber(1)
+})
+input.onButtonPressed(Button.AB, () =&amp;gt; {
+    radio.sendNumber(2)
+})
+radio.setGroup(1)
+basic.showString(&quot;Morse Code&quot;)</target>
+        <note>Context: XPath: /pre[10]/code</note>
+      </trans-unit>
+      <trans-unit id="67702" identifier="d51fcf08e98f5acc2ebd7ebdb6ee8aed" translate="no">
+        <source>Try it!</source>
+        <target>Try it!</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[3]</note>
+      </trans-unit>
+      <trans-unit id="67703" identifier="7c8f46c5545bf1b4f9856da695d2a291" translate="no">
+        <source>Download your program to the micro:bit</source>
+        <target>Download your program to the micro:bit</target>
+        <note>Context: List Item&#13;
+XPath: /ul[15]/li</note>
+      </trans-unit>
+      <trans-unit id="67704" identifier="9c139bbf3487effbfbcec93b271069e0">
+        <source>Press buttons A, B, and A+B together on the micro:bit</source>
+        <target state="needs-translation">Press buttons A, B, and A+B together on the micro:bit</target>
+        <note>Context: List Item&#13;
+XPath: /ul[15]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67705" identifier="a7a0aaf24d169436efb2a5adad071369">
+        <source>Challenge question: Can our code be made more efficient?</source>
+        <target state="needs-translation">Challenge question: Can our code be made more efficient?</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[14]</note>
+      </trans-unit>
+      <trans-unit id="67706" identifier="a8a19ef1b5344b5899d5b4b60f73505e">
+        <source>Whenever you look over a program and see the same lines of code repeated, there is usually a chance to improve the code making it more efficient by reducing the number of lines of code</source>
+        <target state="needs-translation">Whenever you look over a program and see the same lines of code repeated, there is usually a chance to improve the code making it more efficient by reducing the number of lines of code</target>
+        <note>Context: List Item&#13;
+XPath: /ul[16]/li</note>
+      </trans-unit>
+      <trans-unit id="67707" identifier="0debc962650b826a9e928e1f0fbff400">
+        <source>What lines are repeated in our program?  If...then, pause, clear screen</source>
+        <target state="needs-translation">What lines are repeated in our program?  If...then, pause, clear screen</target>
+        <note>Context: List Item&#13;
+XPath: /ul[16]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67708" identifier="d52d13494c6cb3b820974f99d975e0ba">
+        <source>Can we edit the code to use only one 'if...then' block, one 'pause' block, and one 'clear screen' block? Yes!</source>
+        <target state="needs-translation">Can we edit the code to use only one 'if...then' block, one 'pause' block, and one 'clear screen' block? Yes!</target>
+        <note>Context: List Item&#13;
+XPath: /ul[16]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67709" identifier="5fc0e9cd0f5053fdbfc961419822031e">
+        <source>Making our code more efficient</source>
+        <target state="needs-translation">Making our code more efficient</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[4]</note>
+      </trans-unit>
+      <trans-unit id="67710" identifier="30850b8a66edf5448264026d01c493ca">
+        <source>Remind students that they can edit the 'if...then' block, adding as many 'else if' conditions as needed.</source>
+        <target state="needs-translation">Remind students that they can edit the 'if...then' block, adding as many 'else if' conditions as needed.</target>
+        <note>Context: XPath: /p[15]</note>
+      </trans-unit>
+      <trans-unit id="67711" identifier="018a8d642010d53d244109ff698ce4a4">
+        <source>They can do this by clicking on the blue gear-wheel icon in the top left corner of the 'if...then' block.</source>
+        <target state="needs-translation">They can do this by clicking on the blue gear-wheel icon in the top left corner of the 'if...then' block.</target>
+        <note>Context: XPath: /p[15]</note>
+      </trans-unit>
+      <trans-unit id="67712" identifier="b51c4dc8a7f086f4faa52ada1d7cbd45" translate="no">
+        <source>/static/courses/csintro/radio/if-then-else-if.png</source>
+        <target>/static/courses/csintro/radio/if-then-else-if.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[16]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67713" identifier="64d86b7a8cf919cbd5a04946f5e77983">
+        <source>Add else-if to if-then block</source>
+        <target state="needs-translation">Add else-if to if-then block</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[16]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67714" identifier="55b29165206e607e898e8705607f73af">
+        <source>A final else
+In a conditional that might receive a number of different values, it is good coding practice to have a catch-all 'else' clause.</source>
+        <target state="needs-translation">A final else
+In a conditional that might receive a number of different values, it is good coding practice to have a catch-all 'else' clause.</target>
+        <note>Context: XPath: /p[17]</note>
+      </trans-unit>
+      <trans-unit id="67715" identifier="da0d70c018a00d180b9a44b64d75b2f6">
+        <source>In our example, if any number value other than the ones we coded for (0,1, and 2) is received, we can signal the user that an error has occurred by using a 'show icon' block to display an X.</source>
+        <target state="needs-translation">In our example, if any number value other than the ones we coded for (0,1, and 2) is received, we can signal the user that an error has occurred by using a 'show icon' block to display an X.</target>
+        <note>Context: XPath: /p[17]</note>
+      </trans-unit>
+      <trans-unit id="67716" identifier="4cf9b572c1c4b56851588952b849c256">
+        <source>The pause and clear screen
+Rather than repeat these lines of code 3 times, we can move the 'pause' block and the 'clear screen' block outside of the edited 'if...then…else' block.</source>
+        <target state="needs-translation">The pause and clear screen
+Rather than repeat these lines of code 3 times, we can move the 'pause' block and the 'clear screen' block outside of the edited 'if...then…else' block.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[18]</note>
+      </trans-unit>
+      <trans-unit id="67717" identifier="c62b6ecb6b26620da7284df082127d99">
+        <source>Now our program runs as we designed it to run and is more efficient, too!</source>
+        <target state="needs-translation">Now our program runs as we designed it to run and is more efficient, too!</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[19]</note>
+      </trans-unit>
+      <trans-unit id="67718" identifier="82719b09465bd6acd8a65342d52a8538">
+        <source>Final Morse Code Program:</source>
+        <target state="needs-translation">Final Morse Code Program:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[20]</note>
+      </trans-unit>
+      <trans-unit id="67719" identifier="7403c7efc7c41c922325347478c5dd1f">
+        <source>input.onButtonPressed(Button.A, () =&amp;gt; {
+    radio.sendNumber(0)
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+    radio.sendNumber(1)
+})
+input.onButtonPressed(Button.AB, () =&amp;gt; {
+    radio.sendNumber(2)
+})
+radio.onDataPacketReceived(({ receivedNumber }) =&amp;gt; {
+    if (receivedNumber == 0) {
+        basic.showLeds(`
+            .</source>
+        <target state="needs-translation">input.onButtonPressed(Button.A, () =&amp;gt; {
+    radio.sendNumber(0)
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+    radio.sendNumber(1)
+})
+input.onButtonPressed(Button.AB, () =&amp;gt; {
+    radio.sendNumber(2)
+})
+radio.onDataPacketReceived(({ receivedNumber }) =&amp;gt; {
+    if (receivedNumber == 0) {
+        basic.showLeds(`
+            .</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67720" identifier="03194ed0ba06623313da564a5f389d41" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67721" identifier="95e6596dc01bd96f7d94f582a6dc98c7" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67722" identifier="cf384d1952ff0f7544cb6ff564e1a0b3" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67723" identifier="e009e26ce891acff703a2fc7301a8d0c" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67724" identifier="138a66afa9fe3580f4592d69547c9dbc" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67725" identifier="b65227ff3d4180e430606c26ad9ffef3" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67726" identifier="0d9a8a6559e6a2a1117dc64dfd72d7cd" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67727" identifier="4b59785526942fe9d2159ee6e9235088" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67728" identifier="d7908b7c94c490e82b0e1a49a655902c" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67729" identifier="6fff1762ab7ac62545af09665c410b08" translate="no">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67730" identifier="688cfc957d2f41c2ee7a203b4d705430" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67731" identifier="c03142f5b9b6b7c53698f2f58208b1b9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67732" identifier="272f2753a82b8f0dec359d03b185228a" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67733" identifier="ec8e47de5484879ec67fa30417a800ad" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67734" identifier="dd1bc12aa335954f014d42cac546afee" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67735" identifier="dc04ae3b2927f0ad64c9893c745d3a7d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67736" identifier="63c6401d32f9a5b65e96fad6633f4bd2" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67737" identifier="068dc8e8a24569c7b10fd0dc25bff2ac" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67738" identifier="d4918157e67041e095b0a2c488b427cd" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67739" identifier="34a1ab988f7ff32b6d4654d1bb76bd3b">
+        <source>`)
+    } else if (receivedNumber == 1) {
+        basic.showLeds(`
+            .</source>
+        <target state="needs-translation">`)
+    } else if (receivedNumber == 1) {
+        basic.showLeds(`
+            .</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67740" identifier="e050dd887a82776012a49f9dbc92411d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67741" identifier="9585c7a48cd91ab5097fe20d9d075bba" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67742" identifier="1a7abb6b8811f3fded15c8277aae78b7" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67743" identifier="22db0f08f2694abde31049652c5874d6" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67744" identifier="95b1ab35abbb3ee574e1a88cb68c3575" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67745" identifier="af44f8fb2048d54eb883ed6ed71eb4ed" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67746" identifier="33038a17f5cff03f0a61c72859b18ebc" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67747" identifier="f6403fdcc8d9c79e68f1f26a852ffdb9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67748" identifier="ffdb75eb19add5c86d4c91c895c14ff4" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67749" identifier="cb14ded55d6f618940a77dfc44e01dfa" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67750" identifier="f2f4b99e7db004822ebd2991517380c7" translate="no">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67751" identifier="11c6ac6f9fb607d4ab94b552afa54a06" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67752" identifier="0d7eaee6755898c0552b782625d2174c" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67753" identifier="93a1051e1ad9c051efc86db1d0235d8e" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67754" identifier="7ae2d2d0b4e1e27e556a7dfd3f93d800" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67755" identifier="486e591463e8327d325fd70ac86224b7" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67756" identifier="81ba6a25ba2abec302d4afcc499bac20" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67757" identifier="408b19f59850c53c282bf306c59bdbb4" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67758" identifier="39b0315a4b3ddab6a5d76ee90aba3e22" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67759" identifier="7e1b6d96b3bf075ebf457d820758e555" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67760" identifier="d76ab03850efc26ef6302f1c8b79bae5" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="67761" identifier="097132bb60ace2df91a44090de384770">
+        <source>`)
+    } else if (receivedNumber == 2) {
+        basic.showLeds(`
+            # # # # #
+            # # # # #
+            # # # # #
+            # # # # #
+            # # # # #
+        `)
+    } else {
+        basic.showIcon(IconNames.No)
+    }
+    basic.pause(100)
+    basic.clearScreen()
+})
+radio.setGroup(1)
+basic.showString(&quot;Morse Code&quot;)</source>
+        <target state="needs-translation">`)
+    } else if (receivedNumber == 2) {
+        basic.showLeds(`
+            # # # # #
+            # # # # #
+            # # # # #
+            # # # # #
+            # # # # #
+        `)
+    } else {
+        basic.showIcon(IconNames.No)
+    }
+    basic.pause(100)
+    basic.clearScreen()
+})
+radio.setGroup(1)
+basic.showString(&quot;Morse Code&quot;)</target>
+        <note>Context: XPath: /pre[11]/code</note>
+      </trans-unit>
+      <trans-unit id="71532" identifier="e9201278a7b430fbb34248160cf7bd6b" translate="no" approved="yes">
+        <source>radio</source>
+        <target>無線</target>
+        <note>Context: Text&#13;
+XPath: /pre[12]/code</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1833" original="/microbit/docs/courses/csintro/conditionals/standards.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="66196" identifier="a6ab61cb2df7d09e35af9890bbb7cece" translate="no">
+        <source>Standards</source>
+        <target>Standards</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="66197" identifier="56a637bf2e737901b551726a1f0739f5" translate="no">
+        <source>CSTA K-12 Computer Science Standards</source>
+        <target state="translated">CSTA K 12 コンピューターサイエンス標準</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="66198" identifier="320edae9f4047f9c00cd50c78958d7bb">
+        <source>CL.L2-03 Collaborate with peers, experts, and others using collaborative practices such as pair programming, working in project teams, and participating in group active learning activities.</source>
+        <target state="translated">CL.L2-03 協業プログラミング、プロジェクトチームでの作業、グループでの能動的学習アクティビティに参加するなど、協業演習を通じてクラスメート、専門家、および他の人と共同作業を行います。 </target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="66199" identifier="850dcbbacdec013c64b61cfb263cb957">
+        <source>CL.L2-04 Exhibit dispositions necessary for collaboration: providing useful feedback, integrating feedback, understanding and accepting multiple perspectives, socialization.   </source>
+        <target state="translated">CL.L2-04 コラボレーションに必要な解決の提示: 有用なフィードバックを提供する、一体化に関するフィードバック、複数の視点、社会化を理解し受け入れます。  </target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66200" identifier="e8ce905f6dd126692e175eb0004eded4">
+        <source>CL.L3A-01 Work in a team to design and develop a software artifact.</source>
+        <target state="translated">CL,L3A 01 ソフトウェア成果物の設計および開発するチームでの作業。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66201" identifier="aa60b8c6f7d7b07bab24579f65a58925">
+        <source>K-12 Computer Science Framework Core concept: Control Structures</source>
+        <target state="translated">K-12 コンピュータサイエンスののフレームワークの主要概念: 制御構造</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[4]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

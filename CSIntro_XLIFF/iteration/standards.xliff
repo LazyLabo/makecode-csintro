@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1854" original="/microbit/docs/courses/csintro/iteration/standards.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="67066" identifier="a6ab61cb2df7d09e35af9890bbb7cece" translate="no">
+        <source>Standards</source>
+        <target state="translated">CSTA標準</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="67067" identifier="56a637bf2e737901b551726a1f0739f5" translate="no">
+        <source>CSTA K-12 Computer Science Standards</source>
+        <target state="translated">CSTA K 12 コンピューターサイエンス標準</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="67068" identifier="ff561b4471791bb3e88b21b9a47b2615">
+        <source>CL.L2-05 Implement problem solutions using a programming language, including: looping behavior, conditional statements logic, expressions, variables, and functions.</source>
+        <target state="translated">CL.L2-05 ループ、条件文付きのロジック、式、変数、および関数などを使用し、プログラミング言語で問題解決を実装する</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="67069" identifier="78f86bfc6e5bdf44cfdcbb8abd4cfa2a">
+        <source>CL.L3A-03 Explain how sequence, selection, iteration, and recursion are building blocks of algorithms.</source>
+        <target state="translated">CL.L3A-03 シーケンス、選択、繰り返し、再帰などがアルゴリズムの構成要素であることを説明できる。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

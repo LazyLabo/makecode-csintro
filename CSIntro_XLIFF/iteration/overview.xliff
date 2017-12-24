@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1852" original="/microbit/docs/courses/csintro/iteration/overview.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="66970" identifier="913f6422d41f0413a2feb499068e4895" translate="no">
+        <source>Introduction</source>
+        <target state="translated">はじめに</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="66971" identifier="e72dfe52f880527fb1c87b5daa7e3015">
+        <source>In computer programming, iteration is the repetition of a sequence of code. A loop is a form of iteration. A loop repeats code until a certain condition is met.</source>
+        <target state="translated">コンピューター プログラミングにおけるイテレーションとは、あるコードのシーケンスの繰り返しのことです。そしてループとはイテレーションのひとつ形態です。ループは、特定の条件が満たされるまでコードを繰り返します。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="66972" identifier="49ada08ca4b1e755e1d02c0217b4383d">
+        <source>Questions for the students:</source>
+        <target state="translated">生徒への質問:</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="66973" identifier="9ee3de6ff4418c67df7e65719680fb98">
+        <source>Do you use shampoo to wash your hair? &lt;em&gt;Most will say ‘Yes’&lt;/em&gt;.</source>
+        <target state="translated">みなさんは髪を洗う時にシャンプーを使いますか。&lt;em&gt;ほとんど全員 「はい」と答えるでしょう&lt;/em&gt;。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="66974" identifier="c63afc3dc605d3dad464a9326e506e3b">
+        <source>Have you ever read the instructions on a bottle of shampoo? &lt;em&gt;Most will say ‘No’&lt;/em&gt;.</source>
+        <target state="translated">シャンプーのボトルに書いてある使い方の説明を読んだことがありますか。&lt;em&gt;ほとんどみんな「いいえ」と答えるでしょう&lt;/em&gt;。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66975" identifier="47cd28974c79958e67e8dad86dc52cbd">
+        <source>Most of us have never read the instructions on a bottle of shampoo, because we already know how to use shampoo.</source>
+        <target state="translated">私たちのほとんどはシャンプーの使い方をすでに知っているので、シャンプーの容器に書いてある使用方法を読むことはありません。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="66976" identifier="b46a1fead51d13fb4e5122b643085184">
+        <source>What algorithm could you write for shampooing your hair?
+Example:</source>
+        <target state="translated">髪をシャンプーする手順を表すアルゴリズムを書くとしたらどのように書きますか？
+例:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="66977" identifier="d66c25cae9712f3c33544ab3ca4a2ea5">
+        <source>Wet hair.</source>
+        <target state="translated">髪を濡らす</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li</note>
+      </trans-unit>
+      <trans-unit id="66978" identifier="881b4ddaccc3274f96869a5213a7deda">
+        <source>Apply shampoo to wet hair</source>
+        <target state="translated">濡れた髪にシャンプーを適用する。</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66979" identifier="c89e0967c82ef877e53cb531ae15a3a1">
+        <source>Scrub shampoo into hair</source>
+        <target state="translated">シャンプーで髪をゴシゴシとこする。</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66980" identifier="13397430307070504be97f31589a0541">
+        <source>Rinse shampoo out of hair</source>
+        <target state="translated">水でシャンプーを洗い落す。</target>
+        <note>Context: List Item&#13;
+XPath: /ol/li[4]</note>
+      </trans-unit>
+      <trans-unit id="66981" identifier="d5a0b3969b923b5d856e6efe24482338">
+        <source>If you did read the instructions on a bottle of shampoo, you may read similar instructions as the ones you just wrote with one added step at the end.</source>
+        <target state="translated">シャンプーのボトルの使い方を読むと、きっとあなたが今書いたアルゴリズムとほとんど同じ、ただし最後に 1 つだけステップが追加された、使い方が書いてあるでしょう。</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="66982" identifier="3ec0da0fc9172a559e2fb542b4854a60">
+        <source>That step is ‘Repeat.’
+How does this one extra step affect the algorithm?</source>
+        <target state="translated">そのステップは「繰り返す」というものです。
+この 1 つの余分なステップがアルゴリズムにどんな影響を与えるでしょうか？</target>
+        <note>Context: XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="66983" identifier="4d7f5e10e85ca1b11e98ea3141c1c93b" translate="no">
+        <source>/static/courses/csintro/iteration/shampoo-flowchart.png</source>
+        <target>/static/courses/csintro/iteration/shampoo-flowchart.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[5]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66984" identifier="7ab427eec6d222bcdd20f33feb9012a1">
+        <source>Shampoo flowchart</source>
+        <target state="needs-translation">Shampoo flowchart</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[5]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="66985" identifier="dd20cfceacc6a1ad5ac774388d743e30">
+        <source>In computer programming, this is known as the ‘shampoo algorithm’ and is an example of a loop.</source>
+        <target state="translated">コンピューター プログラミングでは、これは 「シャンプー アルゴリズム」として知られていて、ループの一例でもあります。</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="66986" identifier="d7641c9120f7b66025e017b4479b39dd">
+        <source>It is also an example of an ‘infinite’ or ‘endless’ loop as the algorithm keeps repeating with no condition that ends the looping.</source>
+        <target state="translated">これはまた、ループを終了させる条件がない、「無限」または「終わることのない」ループのアルゴリズムの例です。</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="66987" identifier="148308d0d14e60a8a36eb85e82ea38a0" translate="no">
+        <source>/static/courses/csintro/iteration/iteration-cartoon.png</source>
+        <target>/static/courses/csintro/iteration/iteration-cartoon.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[7]/l/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66988" identifier="b0f2facce09eca443be8b0ff5e01ff10">
+        <source>Iteration cartoon</source>
+        <target state="needs-translation">Iteration cartoon</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[7]/l/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="66989" identifier="2c74087151c9026c265cc42537aaf67d">
+        <source>DBwebsolutions.com</source>
+        <target state="needs-translation">DBwebsolutions.com</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="66990" identifier="02a3335336743a8debef7188ab9af0c3">
+        <source>‘Rinse.</source>
+        <target state="translated">「洗い流す・</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="66991" identifier="5afb506448d322176fad2772eecb4aa9">
+        <source>Repeat.’ has even become a meme and made its way into modern song lyrics.</source>
+        <target state="translated">繰り返す」はもはやインターネットミーム（人から人へと拡がっていくアイデア・行動・スタイル・慣習）になり、最近の曲の歌詞になったりもしています。</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="66992" identifier="23af4f69ac92c5390b713cb27c140fd8">
+        <source>What other common activities involve repetitive actions?</source>
+        <target state="translated">反復動作を含む一般的なアクティビティーとしては他にどんなものがあるでしょう？</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="66993" identifier="1b11d0ee65b271b41eb5a61044e0f310">
+        <source>&lt;em&gt;Examples: Singing (choruses repeat), dancing, school cheers, walking and running, exercise routines...&lt;/em&gt;</source>
+        <target state="translated">&lt;em&gt;例: 歌（コーラスの繰り返し、ダンス、チアリーディング、徒歩とランニング、エクササイズのメニュー・・・&lt;/em&gt;</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="66994" identifier="e75e406de4a512a56a2bfc5940233a98">
+        <source>Optional</source>
+        <target state="needs-translation">Optional</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="66995" identifier="da54c3adeee56204055f407d99464cda">
+        <source>Share with your students the history of ‘Lather, Rinse, Repeat.’</source>
+        <target state="needs-translation">Share with your students the history of ‘Lather, Rinse, Repeat.’</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="66996" identifier="3388974d184985b60eb1052c827a92fb">
+        <source>Lather, Rinse, Repeat: Hygiene Tip or Marketing Ploy
+By Lauren Goldstein
+October 11, 1999
+http://archive.fortune.com/magazines/fortune/fortune_archive/1999/10/11/267035/index.htm
+(FORTUNE Magazine) – In Benjamin Cheever's novel The Plagiarist, a marketing executive becomes an industry legend by adding one word to shampoo bottles: REPEAT.</source>
+        <target state="needs-translation">Lather, Rinse, Repeat: Hygiene Tip or Marketing Ploy
+By Lauren Goldstein
+October 11, 1999
+http://archive.fortune.com/magazines/fortune/fortune_archive/1999/10/11/267035/index.htm
+(FORTUNE Magazine) – In Benjamin Cheever's novel The Plagiarist, a marketing executive becomes an industry legend by adding one word to shampoo bottles: REPEAT.</target>
+        <note>Context: XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="66997" identifier="e282f38ff9083210545105359f3d6a67">
+        <source>He doubles shampoo sales overnight.</source>
+        <target state="needs-translation">He doubles shampoo sales overnight.</target>
+        <note>Context: XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="66998" identifier="524cb8807c705ae4bf457c41b5a90ecd">
+        <source>This bit of fiction reflects a small yet significant eddy of U.S. consumer angst: If we REPEAT, are we or are we not playing into the hands of some marketing scheme?</source>
+        <target state="needs-translation">This bit of fiction reflects a small yet significant eddy of U.S. consumer angst: If we REPEAT, are we or are we not playing into the hands of some marketing scheme?</target>
+        <note>Context: XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="66999" identifier="3f6677b9a8e1b524c83e3c0e4a175836">
+        <source>It turns out that in real life there's a reason you should repeat, or at least there used to be.</source>
+        <target state="needs-translation">It turns out that in real life there's a reason you should repeat, or at least there used to be.</target>
+        <note>Context: XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="67000" identifier="6ee02ccfc3a3e130f7c61c5752683ce4">
+        <source>In the 1950s, when shampoos began to be mass-marketed, we didn't wash our hair all that often--once or twice a week, as opposed to five times a week as most of us do now.</source>
+        <target state="needs-translation">In the 1950s, when shampoos began to be mass-marketed, we didn't wash our hair all that often--once or twice a week, as opposed to five times a week as most of us do now.</target>
+        <note>Context: XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="67001" identifier="40ef2ac2bb068c1bde2a7b00c8af68d3">
+        <source>Also, we used a lot more goop in our hair.</source>
+        <target state="needs-translation">Also, we used a lot more goop in our hair.</target>
+        <note>Context: XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="67002" identifier="6baab645e8f76d6a02307bff1adcafa8">
+        <source>It was the age of Brylcream and antimacassars, remember.</source>
+        <target state="needs-translation">It was the age of Brylcream and antimacassars, remember.</target>
+        <note>Context: XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="67003" identifier="b36c701cf54d4143700106010fb8774c">
+        <source>Paul Wallace, the director of hair-care research and development for Clairol, says that when cleaning agents in shampoo came up against that amount of oil and goop, &quot;it depressed the lather.&quot; A second application was needed to get the suds that consumers expected.</source>
+        <target state="needs-translation">Paul Wallace, the director of hair-care research and development for Clairol, says that when cleaning agents in shampoo came up against that amount of oil and goop, &quot;it depressed the lather.&quot; A second application was needed to get the suds that consumers expected.</target>
+        <note>Context: XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="67004" identifier="f3d42da48d2d58e6f64cbbf819df08d0">
+        <source>Lots of suds mean that hair is already clean.</source>
+        <target state="needs-translation">Lots of suds mean that hair is already clean.</target>
+        <note>Context: XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="67005" identifier="9e80936786353d486404d6764f25059b">
+        <source>Maybe too clean (there's no oil to break through), but consumers like it.</source>
+        <target state="needs-translation">Maybe too clean (there's no oil to break through), but consumers like it.</target>
+        <note>Context: XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="67006" identifier="4dae733e7d5d0671d827381f9a373d70">
+        <source>FORTUNE asked Frederic Fekkai, the noted and notably expensive New York City hairdresser, what he thought about the double lather.</source>
+        <target state="needs-translation">FORTUNE asked Frederic Fekkai, the noted and notably expensive New York City hairdresser, what he thought about the double lather.</target>
+        <note>Context: XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="67007" identifier="5c5ad93788e883f179448eddd96600bf">
+        <source>He says, &quot;Yesterday I put oil on my hair for a different look and went to a restaurant where the smoke was horrible.</source>
+        <target state="needs-translation">He says, &quot;Yesterday I put oil on my hair for a different look and went to a restaurant where the smoke was horrible.</target>
+        <note>Context: XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="67008" identifier="1b215cb08c670c1efb29ddf226b89f2b">
+        <source>This morning I realized I had to do two shampoos.&quot;</source>
+        <target state="needs-translation">This morning I realized I had to do two shampoos.&quot;</target>
+        <note>Context: XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="67009" identifier="78884dc0cbb077b19c4fcb9f92c303ae">
+        <source>At any rate, Wallace says advances in shampoo technology mean that only one application of, for instance, Clairol's Herbal Essences is sufficient to break through the oiliest hair.</source>
+        <target state="needs-translation">At any rate, Wallace says advances in shampoo technology mean that only one application of, for instance, Clairol's Herbal Essences is sufficient to break through the oiliest hair.</target>
+        <note>Context: XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="67010" identifier="02f2a058974b03bed3587fd6ab4e6082">
+        <source>The company has stricken the use of both REPEAT and REPEAT IF DESIRED from all Clairol products.</source>
+        <target state="needs-translation">The company has stricken the use of both REPEAT and REPEAT IF DESIRED from all Clairol products.</target>
+        <note>Context: XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="67011" identifier="a5f3544cd0e5186ad68a29bd01554c81">
+        <source>Yet a lot of brands, like Suave by Unilever and L'Oreal, still say REPEAT.</source>
+        <target state="needs-translation">Yet a lot of brands, like Suave by Unilever and L'Oreal, still say REPEAT.</target>
+        <note>Context: XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="67012" identifier="aa6b54caf1484f23d3c96f712af7120f">
+        <source>Others, like Unilever's Finesse and Revlon's Flex, opt for the less imperative REPEAT IF DESIRED.</source>
+        <target state="needs-translation">Others, like Unilever's Finesse and Revlon's Flex, opt for the less imperative REPEAT IF DESIRED.</target>
+        <note>Context: XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="67013" identifier="1eec853d90c978c56e44ab17b4d516e1">
+        <source>Procter &amp;amp; Gamble uses REPEAT IF NECESSARY on Pantene.</source>
+        <target state="needs-translation">Procter &amp;amp; Gamble uses REPEAT IF NECESSARY on Pantene.</target>
+        <note>Context: XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="67014" identifier="84dcc1ca5cfaa7214ef3325ad5a93190">
+        <source>Getting consumers to wash twice can, of course, increase sales--in ways one might not imagine.</source>
+        <target state="needs-translation">Getting consumers to wash twice can, of course, increase sales--in ways one might not imagine.</target>
+        <note>Context: XPath: /p[14]</note>
+      </trans-unit>
+      <trans-unit id="67015" identifier="44ef0e2bb2f38a5deaa59e7b1452754a">
+        <source>Double sudsing leads to dry hair, Fekkai points out, and that means more beauty products!</source>
+        <target state="needs-translation">Double sudsing leads to dry hair, Fekkai points out, and that means more beauty products!</target>
+        <note>Context: XPath: /p[14]</note>
+      </trans-unit>
+      <trans-unit id="67016" identifier="42db3926660ee4f7a86ffd0742e7584e">
+        <source>&quot;When you do two shampoos, even if you don't usually use a conditioner, you have to use a little,&quot; he says.</source>
+        <target state="needs-translation">&quot;When you do two shampoos, even if you don't usually use a conditioner, you have to use a little,&quot; he says.</target>
+        <note>Context: XPath: /p[14]</note>
+      </trans-unit>
+      <trans-unit id="67017" identifier="1a98c76f855a5be769c837c21219faaa">
+        <source>&quot;The conditioner becomes very important.&quot; REPEAT.</source>
+        <target state="needs-translation">&quot;The conditioner becomes very important.&quot; REPEAT.</target>
+        <note>Context: XPath: /p[14]</note>
+      </trans-unit>
+      <trans-unit id="67018" identifier="c66858811c4471fbc64649c600fa47ff">
+        <source>FOLLOW WITH CONDITIONER.</source>
+        <target state="needs-translation">FOLLOW WITH CONDITIONER.</target>
+        <note>Context: XPath: /p[14]</note>
+      </trans-unit>
+      <trans-unit id="67019" identifier="ce5202ee6d2fd7cd619f42c7ee09557c">
+        <source>Words Cheever's marketer could have retired on.</source>
+        <target state="needs-translation">Words Cheever's marketer could have retired on.</target>
+        <note>Context: XPath: /p[14]</note>
+      </trans-unit>
+      <trans-unit id="67020" identifier="a7135efd7b20bf387ad036ba86ff44ea">
+        <source>--Lauren Goldstein</source>
+        <target state="needs-translation">--Lauren Goldstein</target>
+        <note>Context: XPath: /p[14]</note>
+      </trans-unit>
+      <trans-unit id="67021" identifier="c15a013737cc21e92f4def2562e637a9" translate="no">
+        <source>/static/courses/csintro/iteration/shampoo.png</source>
+        <target>/static/courses/csintro/iteration/shampoo.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[15]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67022" identifier="21028c4b99876a540769b5bdc55dd242">
+        <source>Shampoo bottle</source>
+        <target state="needs-translation">Shampoo bottle</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[15]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67023" identifier="24cd257d8bb0f318287de2c3b0b8008a">
+        <source>From Wikipedia (https://en.wikipedia.org/wiki/Lather,_rinse,_repeat):
+Lather, rinse, repeat (sometimes wash, rinse, repeat) is an idiom roughly quoting the instructions found on many brands of shampoo.</source>
+        <target state="needs-translation">From Wikipedia (https://en.wikipedia.org/wiki/Lather,_rinse,_repeat):
+Lather, rinse, repeat (sometimes wash, rinse, repeat) is an idiom roughly quoting the instructions found on many brands of shampoo.</target>
+        <note>Context: XPath: /p[16]</note>
+      </trans-unit>
+      <trans-unit id="67024" identifier="75682ad44b00b5c6dfa7d0255ff72be5">
+        <source>It is also used as a humorous way of pointing out that such instructions if taken literally would result in an endless loop of repeating the same steps, at least until one runs out of shampoo.</source>
+        <target state="needs-translation">It is also used as a humorous way of pointing out that such instructions if taken literally would result in an endless loop of repeating the same steps, at least until one runs out of shampoo.</target>
+        <note>Context: XPath: /p[16]</note>
+      </trans-unit>
+      <trans-unit id="67025" identifier="8985524eb7de83ead40a37813600cdc4">
+        <source>It is also a sarcastic metaphor for following instructions or procedures slavishly without critical thought.</source>
+        <target state="needs-translation">It is also a sarcastic metaphor for following instructions or procedures slavishly without critical thought.</target>
+        <note>Context: XPath: /p[16]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

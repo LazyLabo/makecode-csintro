@@ -1,0 +1,1242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1880" original="/microbit/docs/courses/csintro/variables/activity.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="68203" identifier="1605760b7de81fc585e884902bc7f2b2" approved="yes">
+        <source>Activity: Scorekeeper</source>
+        <target>アクティビティ：スコアキーパー</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="68204" identifier="aa74ee47650014a194f69d81643a0253" approved="yes">
+        <source>This micro:bit activity guides the students to create a program with three variables that will keep score for their &lt;em&gt;Rock Paper Scissors&lt;/em&gt; game.</source>
+        <target>このmicro:bitを使ったアクティビティを通して、生徒たちは&lt;em&gt;じゃんけん&lt;/em&gt;のスコアを記録する、３つの変数を使用したプログラムを作成します。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="68205" identifier="71c597395796fea30ac5c2ce7edadb73" approved="yes">
+        <source>Tell the students that they will be creating a program that will act as a scorekeeper for their next Rock Paper Scissors game.</source>
+        <target>生徒たちに、これから次のじゃんけん用にスコアの記録用プログラムを作成することを伝えます。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="68206" identifier="2927819e7763dfe339eb6203af37f07a">
+        <source>They will need to create variables for the parts of scorekeeping that change over the course of a gaming session.</source>
+        <target state="translated">生徒たちは、ゲームセッション中に変化するスコアキーピング作業の一部として変数を使用しなくてはなりません。</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="68207" identifier="58b4c5a9af595bb0e776d85b873284f4">
+        <source>What are those variables?</source>
+        <target state="translated">変数とはいったい何でしょう？</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="68208" identifier="0d523fc27b392bc97e25e243009daff5" approved="yes">
+        <source>The number of times the first player wins</source>
+        <target>最初のプレーヤーが勝った回数</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="68209" identifier="eda59813df94cff37cf665b991053e74" approved="yes">
+        <source>The number of times the second player wins</source>
+        <target>２番目のプレーヤーが勝った回数</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="68210" identifier="d5921ac4e3fe23fcd3a253ed77dcc0b1" approved="yes">
+        <source>the number of times the players tie</source>
+        <target>プレーヤーが引き分けになった回数</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="68211" identifier="f3e659b2c02aa27f3badae1b0b4cd75f" approved="yes">
+        <source>Creating and naming variables: Lead the students to create meaningful names for their variables.</source>
+        <target>変数を作成し、名前をつける: 生徒たちが変数に有意義な名前をつけるよう指導します。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="68212" identifier="c811bcf4cf631c9e9cc29346adbea998">
+        <source>What would be a unique and clear name for the variable that will keep track of the number of times Player A wins?</source>
+        <target state="translated">プレーヤーAが勝った回数を記録する変数には、どのような名前が特有で分かりやすいでしょうか？</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="71534" identifier="0fd713f52311dcebe3605cd2d58b5126" approved="yes">
+        <source>Student suggestions may be: &lt;code&gt;PAW&lt;/code&gt;, &lt;code&gt;PlayerA&lt;/code&gt;, &lt;code&gt;AButtonPress&lt;/code&gt;, &lt;code&gt;AButtonCount&lt;/code&gt;, &lt;code&gt;PlayerAWins&lt;/code&gt;...</source>
+        <target>生徒たちの提案例: &lt;code&gt;PAW&lt;/code&gt;, &lt;code&gt;PlayerA&lt;/code&gt;, &lt;code&gt;AButtonPress&lt;/code&gt;, &lt;code&gt;AButtonCount&lt;/code&gt;, &lt;code&gt;PlayerAWins&lt;/code&gt;...</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="68214" identifier="df1b5341927ec781fadd06740a39920f">
+        <source>Discuss why (or why not) different suggestions make clear what value the variable will hold. In general, variable names should clearly describe what type of information they hold.</source>
+        <target state="translated">なぜ他の提案が、どのような値を変数が保持しているか明確に表しているか(または、いないか）話し合いましょう。通常、変数名はどのような種類の情報を持っているか、明確に表している必要があります。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="68215" identifier="5b20e70755b0eab9cec42709c167fb68">
+        <source>In MakeCode, from the Variables menu, make and name these three variables: &lt;code&gt;PlayerAWins&lt;/code&gt;, &lt;code&gt;PlayerBWins&lt;/code&gt;, &lt;code&gt;PlayersTie&lt;/code&gt;.</source>
+        <target state="translated">MakeCodeでは、Variables（変数）メニューから、これら３つの変数を作成し名前を付けています: &lt;code&gt;PlayerAWins&lt;/code&gt;, &lt;code&gt;PlayerBWins&lt;/code&gt;, &lt;code&gt;PlayersTie&lt;/code&gt;.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="68216" identifier="fbfc12fd82f93c924689af289aec4b7f" translate="no">
+        <source>/static/courses/csintro/variables/make-a-variable.png</source>
+        <target state="translated">/static/courses/csintro/variables/make-a-variable.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[5]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="68217" identifier="4f5e6953f7f924c1e44a0e9cfaf5adee">
+        <source>Make a new variable</source>
+        <target state="translated">変数の新規作成</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[5]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="68218" identifier="1c45b41bd476d4df326c01380b210b1f" translate="no">
+        <source>/static/courses/csintro/variables/new-variable.png</source>
+        <target state="translated">/static/courses/csintro/variables/new-variable.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[6]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="68219" identifier="483738b7ff2570e503d55977e97e12fc">
+        <source>Set new variable name</source>
+        <target state="translated">新しい変数名を設定</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[6]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="68220" identifier="40da2b587ef9db5f8f726c68dd31da59" approved="yes">
+        <source>Initializing the variable value</source>
+        <target>変数の値の初期化</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="68221" identifier="057a346c766537ea17741b55a29cb57c" approved="yes">
+        <source>It is important to give your variables an initial value.</source>
+        <target>変数に初期値を割り当てることが重要です。</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="68222" identifier="fbaeab533e1d8d43da7ef602254b4a94" approved="yes">
+        <source>The initial value is the value the variable will hold each time the program starts.</source>
+        <target>初期値は、プログラムが開始する毎に変数が保持する値です。</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="68223" identifier="af5eb255ced18c65e0b5bb3ac882a421" approved="yes">
+        <source>For our counter program, we will give each variable the value 0 (zero) at the start of the program.</source>
+        <target>私たちのカウンタープログラムでは、プログラム開始時にそれぞれの変数に０を割り当てます。</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="68224" identifier="a61118ac06d562c41cacf048359d9ef2" approved="yes">
+        <source>let PlayerAWins = 0
+let PlayerBWins = 0
+let PlayersTie = 0</source>
+        <target>let PlayerAWins = 0
+let PlayerBWins = 0
+let PlayersTie = 0</target>
+        <note>Context: Text&#13;
+XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="68225" identifier="daef4f481c9b1d7980e007c61a282e08" approved="yes">
+        <source>Updating the variable value</source>
+        <target>変数の値の更新</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="68226" identifier="dbe133e9022595f6364e386a41cc025a" approved="yes">
+        <source>In our program, we want to keep track of the number of times each player wins and the number of times they tie. We can use the buttons A and B to do this.</source>
+        <target>私たちのプログラムでは、各プレーヤーの勝った回数、引き分けた回数の記録を取ることを目的とします。記録を取るために、ボタンAとボタンBを使用します。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="68227" identifier="f6113a9ac5bb190f1f54472e2e0058bd" approved="yes">
+        <source>Pseudocode:</source>
+        <target>疑似コード</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="68228" identifier="56a8f8618e0f05771deb6986607b812d" approved="yes">
+        <source>Press button A to record a win for player A</source>
+        <target>プレーヤーAの勝ちを記録するため、ボタンAを押す</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li</note>
+      </trans-unit>
+      <trans-unit id="68229" identifier="c9e37fe48fec7aee2b28e888fb5ea25a" approved="yes">
+        <source>Press button B to record a win for player B</source>
+        <target>プレーヤーBの勝ちを記録するため、ボタンBを押す</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="68230" identifier="35945cf79a94971e4d259f216f23f78a" approved="yes">
+        <source>Press both button A and button B together to record a tie</source>
+        <target>引き分けを記録するため、ボタンA、ボタンB両方を同時に押す</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="68231" identifier="ea4e7c1c4dd3cf71358d9c7a069ecf29" approved="yes">
+        <source>We already initialized these variables and now need to code to update the values at each round of the game.</source>
+        <target>これらの変数はすでに初期化されているので、各ラウンドごとに値が更新されるよう、コーディングする必要があります。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="68232" identifier="9d6f18d63d7c55b7064bf1a296b6fe67" approved="yes">
+        <source>Each time the scorekeeper presses button A to record a win for Player A, we want to add 1 to the current value of the variable &lt;code&gt;PlayerAWins&lt;/code&gt;.</source>
+        <target>スコアキーパーが、プレーヤーAの勝ちを記録するためにボタンAを押す毎に、変数&lt;code&gt;PlayerAWins&lt;/code&gt;の現在の値に１を足したい</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li</note>
+      </trans-unit>
+      <trans-unit id="68233" identifier="776b5a1d6b52702fd6e0590411a1f9ce" approved="yes">
+        <source>Each time the scorekeeper presses button B, to record a win for Player B, we want to add 1 to the current value of the variable &lt;code&gt;PlayerBWins&lt;/code&gt;.</source>
+        <target>スコアキーパーが、プレーヤーBの勝ちを記録するためにボタンBを押す毎に、変数&lt;code&gt;PlayerBWins&lt;/code&gt;の現在の値に１を足したい</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="68234" identifier="3b68fcb73c4080e5c098121e1577ab03" approved="yes">
+        <source>Each time the scorekeeper presses both button A and button B at the same time to record a tie, we want to add 1 to the current value of the variable &lt;code&gt;PlayersTie&lt;/code&gt;.</source>
+        <target>スコアキーパーが、引き分けを記録するためにボタンA、ボタンB両方を押す毎に、変数&lt;code&gt;PlayersTie&lt;/code&gt;の現在の値に1を足したい</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="68235" identifier="9d9bb080de1cd5d66349dd4331715cdc">
+        <source>From the Input menu, drag 3 of the ‘on button A pressed’ event handlers to your Programming Workspace.</source>
+        <target state="translated">入力メニューから、３つの「ボタン A が押されたとき（on button A pressed）」イベントハンドラーをあなたのプログラミングワークスペースにドラッグします。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="68236" identifier="42fdfd3d548048a6eb21b188884eb990" translate="no">
+        <source>/static/courses/csintro/variables/on-button-pressed.png</source>
+        <target state="translated">/static/courses/csintro/variables/on-button-pressed.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[12]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="68237" identifier="61735ab3da4b15e1ddbd6ff7d6fe2e1d">
+        <source>onButtonPressed A</source>
+        <target state="translated">ボタンAが押されたとき</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[12]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="68238" identifier="80e9264c043cdd9fa788fc4d700bc9b4">
+        <source>Leave one block with ‘A’. Use the drop-down menu in the block to choose ‘B’ for the second block and ‘A+B’ for the third block.</source>
+        <target state="translated">１つ目のブロックは「A’」ままにします。2つ目のブロックは、ドロップダウンメニューから「B」を選び、3つ目のブロックは「A+B」を選びます。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="68239" identifier="efc694318149ad4b9baf6dfa1692b813">
+        <source>From the Variables menu, drag 3 of the ‘change item by 1’ blocks to your Programming Workspace.</source>
+        <target state="translated">変数メニューから、３つの 「変数を１づつ変える（change item by 1）」ブロックをあなたのプログラミングワークスペースにドラッグします。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[14]</note>
+      </trans-unit>
+      <trans-unit id="68240" identifier="0f7063dc473f1b1378f90841acfaf8e5" translate="no">
+        <source>/static/courses/csintro/variables/change-variable.png</source>
+        <target state="translated">/static/courses/csintro/variables/change-variable.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[15]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="68241" identifier="ef23b931b36d3e76c186d9f82c49783d">
+        <source>Change variable</source>
+        <target state="translated">変数の変更</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[15]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="68242" identifier="8c3518a2c47135b175a0516d2469c165">
+        <source>Place one change block into each of the Button Pressed blocks.</source>
+        <target state="translated">‘変数を１づつ変える’ブロックをそれぞれの「ボタンを押す（Button Pressed）」ブロックに入れます。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[16]</note>
+      </trans-unit>
+      <trans-unit id="68243" identifier="04800f739c66e3891a1c7ebeec220dc8">
+        <source>Choose the appropriate variable from the pull down menus in the change blocks.</source>
+        <target state="translated">‘変数を１づつ変える’ブロックの適切な変数を、プルダウンメニューから選び、変更します。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[17]</note>
+      </trans-unit>
+      <trans-unit id="71535" identifier="6b279f4512924fd2d68d582b4e355863">
+        <source>let PlayerAWins = 0
+let PlayerBWins = 0
+let PlayersTie = 0
+
+input.onButtonPressed(Button.A, () =&amp;gt; {
+   PlayerAWins += 1
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+   PlayerBWins += 1
+})
+input.onButtonPressed(Button.AB, () =&amp;gt; {
+   PlayersTie += 1
+})</source>
+        <target state="translated">input.onButtonPressed(Button.A, () =&amp;gt; {
+   PlayerAWins += 1
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+   PlayerBWins += 1
+})
+input.onButtonPressed(Button.AB, () =&amp;gt; {
+   PlayersTie += 1
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre[2]/code</note>
+      </trans-unit>
+      <trans-unit id="68245" identifier="770fe6c857fb21ef1b5b4fc6e2c39a02">
+        <source>User feedback</source>
+        <target state="translated">ユーザーフィードバック</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="68246" identifier="ba4e492758b45ba613a4ef0accb96b8b">
+        <source>Whenever the scorekeeper presses button A, button B, or both buttons together, we will give the user visual feedback acknowledging that the user pressed a button.</source>
+        <target state="translated">スコアキーパーがボタンA、ボタンBまたは両方のボタンを同時に押すたびに、ユーザーにボタンを押したことを確認する視覚的フィードバックを送ります。</target>
+        <note>Context: XPath: /p[18]</note>
+      </trans-unit>
+      <trans-unit id="68247" identifier="effdddcce5bcbee878995e29b1bd8702">
+        <source>We can do this by coding our program to display:</source>
+        <target state="translated">表示するためのコーディングを行うことで可能となります。</target>
+        <note>Context: XPath: /p[18]</note>
+      </trans-unit>
+      <trans-unit id="68248" identifier="7482e9fa4486476d8e1b27a71dfe48d0">
+        <source>an ‘A’ each time the user presses button A to record a win for Player A,</source>
+        <target state="translated">ユーザーが、プレーヤーAの勝ちを記録するためにボタンAを押す度に‘A’を表示</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li</note>
+      </trans-unit>
+      <trans-unit id="68249" identifier="1a400f1dfd6ac3b3886b2db3edd334af">
+        <source>a ‘B’ for each time the user presses button ‘B’ to record a win for Player B,</source>
+        <target state="translated">ユーザーが、プレーヤーBの勝ちを記録するためにボタンBを押す度に‘B’を表示</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="68250" identifier="fd8b5952d0ed417bd8c10857c752e94f">
+        <source>a ‘T’ for each time the user presses both button A and button B together to record a tie.</source>
+        <target state="translated">ユーザーが、引き分けを記録するためにボタンAとBを同時に押す度に‘T’を表示</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="68251" identifier="6cf54067abf3f1330a2f60a930b60013">
+        <source>We can display an ‘A’, ‘B’, or ‘T’ using either the ‘show leds’ block or the ‘show string’ block.</source>
+        <target state="translated">‘LEDに表示’または‘文字列を表示’ブロックのどちらかを使用して 、‘A’、‘B’、または‘T’を表示することができます。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[19]</note>
+      </trans-unit>
+      <trans-unit id="68252" identifier="bc031dd977930e6e6259f9c6989e59b4" translate="no">
+        <source>/static/courses/csintro/variables/show-leds.png</source>
+        <target>/static/courses/csintro/variables/show-leds.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[20]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="68253" identifier="b9dda196b14bad8ab4a259bb0e19a81f" translate="no">
+        <source>Show LEDs</source>
+        <target state="translated">LEDに表示</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[20]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="68254" identifier="9592ab05f8a7810d3e9ea234a702b04c">
+        <source>In this example, we have used the ‘show leds’ block.</source>
+        <target state="translated">この例では、‘LEDに表示’ブロックを使用します。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[21]</note>
+      </trans-unit>
+      <trans-unit id="71536" identifier="33d6b31cd1e064d1a2e587af90376201" approved="yes">
+        <source>let PlayerAWins = 0
+let PlayerBWins = 0
+let PlayersTie = 0
+
+input.onButtonPressed(Button.A, () =&amp;gt; {
+   PlayerAWins += 1
+   basic.showLeds(`
+       .</source>
+        <target>let PlayerAWins = 0
+let PlayerBWins = 0
+let PlayersTie = 0
+
+input.onButtonPressed(Button.A, () =&amp;gt; {
+   PlayerAWins += 1
+   basic.showLeds(`
+       .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="68256" identifier="68485487926b30e8c2f23d740a58be17" translate="no" approved="yes">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="71537" identifier="c1a9bc8eaaf158e5fc0d112d729f5430" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="68258" identifier="76c920e9a82f49768e313b55aeb14675" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="68259" identifier="1f5cecfffefff8d07b1ca2c5cf5ca4dd" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="71538" identifier="067219c418189cee85777be857fc176e" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="68261" identifier="d5f94becf1d75b3d42214fa3e4797662" translate="no" approved="yes">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="71539" identifier="ab5ea79dfe9c4e20d9697aa466bc64e2" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="68263" identifier="77d4fe2ad2448225f0564081157eb807" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="68264" identifier="036a61995aec205ffb9061d960fe7953" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="71540" identifier="8895bf17dc7f9e9ab758ace4904e5a07" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="68266" identifier="0275d94434bc92368bc2cfb87306ac60" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="68267" identifier="54d696fd33517289c72d46221899ba71" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="71541" identifier="55100ce2a230f1850e72ffca13fff294" approved="yes">
+        <source>`)
+   basic.clearScreen()
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+   PlayerBWins += 1
+   basic.showLeds(`
+       .</source>
+        <target>`)
+   basic.clearScreen()
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+   PlayerBWins += 1
+   basic.showLeds(`
+       .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="68269" identifier="198d4f3a0511fb4f9bd345d9fdc0482b" translate="no" approved="yes">
+        <source># # .</source>
+        <target># # .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="68270" identifier="885e5916afab28f22f4548906b89630b" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="71542" identifier="0d16ad6c516af4fb2a458356d8d75ca1" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="68272" identifier="67a09a27cfa18589793863277cc03e4d" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="68273" identifier="ffdd51f26bcc3f366967ac26797a1b16" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="71543" identifier="f108672632cea22e41171b7eb63a6d35" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="68275" identifier="f9a80f329356f8f4b857937ba7ab7d00" translate="no" approved="yes">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="71544" identifier="d63066163b1148927a14578a8432fc56" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="68277" identifier="b849573b196855244d5b1fdc7748d26f" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="68278" identifier="8c401da3c2dedce1ace1d2076beacafb" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="71545" identifier="6269b579e37628eaabb0ddada6ee8598" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="68280" identifier="006ca0cc4de34dd67f6cf8566bed210e" translate="no" approved="yes">
+        <source># # .</source>
+        <target># # .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="68281" identifier="2c2f742607cbb5457124daf8053d4de9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="71546" identifier="1c1fbccdaaa471bc2cd82e0d8b47c928" approved="yes">
+        <source>`)
+   basic.clearScreen()
+})
+input.onButtonPressed(Button.AB, () =&amp;gt; {
+   PlayersTie += 1
+   basic.showLeds(`
+       .</source>
+        <target>`)
+   basic.clearScreen()
+})
+input.onButtonPressed(Button.AB, () =&amp;gt; {
+   PlayersTie += 1
+   basic.showLeds(`
+       .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="68283" identifier="756bb82ec01f6e15845abf15c1727209" translate="no" approved="yes">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="71547" identifier="8ee181c47d51a58596939d33ba0dc7dc" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="68285" identifier="eb3f29d6f9d3d2e4bb582929a66f7d3f" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="68286" identifier="7d0c2f33c3358970a7241ad02c5f782c" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="68287" identifier="5b8071cbcc7c9763de9e44d1a376c99d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="71548" identifier="1ca1a6bdada0803e346dc66b31252f8d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="68289" identifier="9b849cb7ad4864055ea0cc3e84e5e575" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="68290" identifier="00609019f811455c86bca6863c9ebfea" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="68291" identifier="bc13c7771d39adfd39b29c122c6b7109" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="71549" identifier="a7cae64dd34fdb4b193ab35ee6ca0875" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="68293" identifier="c2c23b0fb6c04f46a56e5e5674bb2ca9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="68294" identifier="bf4d259bb8d77343a9cd0e2fba5b1d45" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="68295" identifier="d1eddc64b04ff0eba6407b1f58fe02ae" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="71550" identifier="410a69d75b28ea0968e2d9739774295a" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="68297" identifier="a6ea3ff4e8fbb3586031ac27062bd96d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="68298" identifier="762d5b02918c5b96138f29f7bb03444e" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="68299" identifier="fdac4b2c9389c3e0e47a5082717a43f9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="71551" identifier="771458e99cdd686d804863d8292ab3eb" approved="yes">
+        <source>`)
+   basic.clearScreen()
+})</source>
+        <target>`)
+   basic.clearScreen()
+})</target>
+        <note>Context: XPath: /pre[3]/code</note>
+      </trans-unit>
+      <trans-unit id="68301" identifier="710209c4d1305ab4b6aad696df42a7a1">
+        <source>Notice that we added a ‘clear screen’ block after showing ‘A’, ‘B’, or ‘T’. 
+What do you think would happen if we did not clear the screen? Try it.</source>
+        <target state="translated">‘A’、‘B’、または 'T’を表示した後は、‘表示を消す’ブロックを加えています。もし表示を消さなかった場合は、どうなると思いますか？試してみましょう。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[22]</note>
+      </trans-unit>
+      <trans-unit id="68302" identifier="66022476d8d3e0937350e3b6821ca779">
+        <source>Showing the final values of the variables</source>
+        <target state="translated">変数の最終値の表示</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[4]</note>
+      </trans-unit>
+      <trans-unit id="68303" identifier="152f9bdf2481aa4f4ff70f8bca6dbdca">
+        <source>To finish our program, we can add code that tells the micro:bit to display the final values of our variables.</source>
+        <target state="translated">プログラムを終了するために、変数の最終値をmicro:bitに表示するようコードを追加します。</target>
+        <note>Context: XPath: /p[23]</note>
+      </trans-unit>
+      <trans-unit id="68304" identifier="3a3e31807390d9938a93e6f2a56949bb">
+        <source>Since we have already used buttons A and B, we can use the ‘on shake’ event handler block to trigger this event.</source>
+        <target state="translated">ボタンA、ボタンBを既に使用したので、‘ゆさぶられたとき’イベントハンドラーブロックをこのイベントのトリガーに使用します。</target>
+        <note>Context: XPath: /p[23]</note>
+      </trans-unit>
+      <trans-unit id="68305" identifier="699ac850fec0b6744932650459429bbc">
+        <source>We can use the ‘show string’, ‘show leds’, ‘pause’, and ‘show number’ blocks to display these final values in a clear way.</source>
+        <target state="translated">これらの最終値を解りやすく表示するために、‘文字列を表示’、‘LEDに表示’、‘一時停止’、ならびに‘数を表示’ブロックを使用します。</target>
+        <note>Context: XPath: /p[23]</note>
+      </trans-unit>
+      <trans-unit id="68306" identifier="5b5b57bc99a60f0dd91429978e6830f5">
+        <source>Here is the complete program.</source>
+        <target state="translated">こちらが完全なプログラムです。</target>
+        <note>Context: XPath: /p[23]</note>
+      </trans-unit>
+      <trans-unit id="71552" identifier="e391c81d2646f4bc2964d44328672fea" approved="yes">
+        <source>let PlayersTie = 0
+let PlayerBWins = 0
+let PlayerAWins = 0
+input.onButtonPressed(Button.A, () =&amp;gt; {
+   PlayerAWins += 1
+   basic.showLeds(`
+       .</source>
+        <target>let PlayersTie = 0
+let PlayerBWins = 0
+let PlayerAWins = 0
+input.onButtonPressed(Button.A, () =&amp;gt; {
+   PlayerAWins += 1
+   basic.showLeds(`
+       .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68308" identifier="bf5866bbf965f543132857380597886a" translate="no" approved="yes">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="71553" identifier="6024e379e3cee11e621228fb88d8796c" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68310" identifier="e72bbcaf4fa6c552ddda7183184b388b" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68311" identifier="d5fbea3c22df2e44c8c76cb9b5e27ecf" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="71554" identifier="f13d974886408e3816a612ed5b35400c" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68313" identifier="ffd51698758e9fb11558e236a4db5b67" translate="no" approved="yes">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="71555" identifier="7cece0f3fb08bb79e7e4ecce89c9d830" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68315" identifier="1b8e18f92e6c606e7f1601985ac96523" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68316" identifier="21a1677312d5e44c286210c6e604e677" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="71556" identifier="9c0fc9b9e522bb691f08e2a60dc7c3a2" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68318" identifier="dae5d43ea716585489bdee6a97df30a7" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68319" identifier="95f7ea8fa5b89b34191d9f8dca56f525" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="71557" identifier="f08657e97fff843a558738fb685de818" translate="no" approved="yes">
+        <source>`)
+   basic.clearScreen()
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+   PlayerBWins += 1
+   basic.showLeds(`
+       .</source>
+        <target>`)
+   basic.clearScreen()
+})
+input.onButtonPressed(Button.B, () =&amp;gt; {
+   PlayerBWins += 1
+   basic.showLeds(`
+       .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68321" identifier="4537a926c83b09b03c80b352c9c14cc1" translate="no" approved="yes">
+        <source># # .</source>
+        <target># # .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68322" identifier="3eb3eed1f074a5ecca5f31ad2ed72764" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="71558" identifier="8b4038cd12bff65c25a210f5142fc316" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68324" identifier="6f8b7e5a9ffc6f4db28c1c32566c68a7" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68325" identifier="ba9bbe47a78f6fa950993d6344a7322b" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="71559" identifier="942db5759d13e2a2d0fce95acc9b2e84" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68327" identifier="11372f9e8c1e0fc1522237e8a461922e" translate="no" approved="yes">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="71560" identifier="15584ecaccc48ee3e47d47fe56b6400d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68329" identifier="fe73b269ddcf7fd07b3db37960862fcf" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68330" identifier="d66f5315075d3b115b4b37a3241dbb58" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="71561" identifier="799da96d97e6ec88710d10726536c2e4" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68332" identifier="5747fd955e3b8df00f4b362f821e78f3" translate="no" approved="yes">
+        <source># # .</source>
+        <target># # .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68333" identifier="f8cca0bf3e581c2d091bdbe9cd059769" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="71562" identifier="8e26f10cdc300d824179d1fcc40af055" translate="no" approved="yes">
+        <source>`)
+   basic.clearScreen()
+})
+input.onButtonPressed(Button.AB, () =&amp;gt; {
+   PlayersTie += 1
+   basic.showLeds(`
+       .</source>
+        <target>`)
+   basic.clearScreen()
+})
+input.onButtonPressed(Button.AB, () =&amp;gt; {
+   PlayersTie += 1
+   basic.showLeds(`
+       .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68335" identifier="202750efa30baaa54dd81753588a3f27" translate="no" approved="yes">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="71563" identifier="df6a215a315653800602816877b84ad9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68337" identifier="00f300fbf6f988114a2aed38d21fb7f2" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68338" identifier="83a5f25458224602e19a13efd1972e14" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68339" identifier="1d1785b6c0e70cd73830ebbac784b211" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="71564" identifier="9503dba918f3120f4b9261f9649c7e2b" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68341" identifier="cb95e65d02d2046c2dd79474a8be9759" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68342" identifier="5954be5a88e544aa5baeb668a55544f7" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68343" identifier="39b7128b4552fe3760c0150269a6b45f" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="71565" identifier="8a7219d625ff413701a54a27420b530e" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68345" identifier="a152121b7d78421a6c61d9419db6be29" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68346" identifier="ea42ebe94d99c2cff8c43411795ac4db" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68347" identifier="7ae4605356b76614eadf7ff58d109492" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="71566" identifier="4d39b5a97d6280fc3f2f34622581ea8b" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68349" identifier="891eb36834f4551e4a357470fd60380c" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68350" identifier="ed4f644e8206a664da5d2343e49d4566" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68351" identifier="a4ce7186259f1a8008cdd34dcd18fe09" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="71567" identifier="5c83e067a97f8ca4d84d879f67a0cf60" approved="yes">
+        <source>`)
+   basic.clearScreen()
+})
+input.onGesture(Gesture.Shake, () =&amp;gt; {
+   basic.showString(&quot;Wins:&quot;)
+   basic.showLeds(`
+       .</source>
+        <target>`)
+   basic.clearScreen()
+})
+input.onGesture(Gesture.Shake, () =&amp;gt; {
+   basic.showString(&quot;Wins:&quot;)
+   basic.showLeds(`
+       .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68353" identifier="120e219117b4ebdf51a9b43bb3ffd72e" translate="no" approved="yes">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="71568" identifier="6f1aaf1fd5784054777a2a8466f06bba" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68355" identifier="750e6ed1310bd0d9098dd72ca02bdd42" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68356" identifier="c1b526cb092e444788684afb52ea4619" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="71569" identifier="6e1a66a08245edfa221ce56cb247c112" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68358" identifier="02c4cff39e21b2f83c6ecff9f7d558ff" translate="no" approved="yes">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="71570" identifier="ed2ba1772145d0f6bee9575c7e3f4294" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68360" identifier="29735d48b23fc47938ef657cd17e35a8" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68361" identifier="0345c45d1730bfc050617b8824c86aa3" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="71571" identifier="dbbcde756b3f9532fe78ea9e709215c4" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68363" identifier="58ea8b6144267e29607fed00b33bcdfa" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68364" identifier="12e78ae87c3c6c72aeda8965a911966f" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="71572" identifier="9db6e01c7ddabfe62356d2a05b177ad7" approved="yes">
+        <source>`)
+   basic.showNumber(PlayerAWins)
+   basic.pause(1000)
+   basic.showLeds(`
+       .</source>
+        <target>`)
+   basic.showNumber(PlayerAWins)
+   basic.pause(1000)
+   basic.showLeds(`
+       .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68366" identifier="c98fdb0e08089a4603114fda1adf5ebb" translate="no" approved="yes">
+        <source># # .</source>
+        <target># # .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68367" identifier="02eb62f7d3a9fc7f1203cc6759e41fa7" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="71573" identifier="1457ebfeb037d42e228502614412be3f" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68369" identifier="0c28080ed5b8fe73c1e4c67cc1e573cc" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68370" identifier="bb6895082398e2a615bf1cb077ad3088" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="71574" identifier="ce1077002171b28bb7d54ad4e051a0d9" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68372" identifier="d7fb36564dc97ad2fce0192d43a184e8" translate="no" approved="yes">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="71575" identifier="94fb6f193a8e7083cafa3cd72552ea21" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68374" identifier="1bc29d101bf9312594c3195e5d07126b" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68375" identifier="de2d04d71055d940d5dd7f12db963e1b" translate="no" approved="yes">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="71576" identifier="b698adcf738dca946f655c507095a263" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68377" identifier="1ca72ce75ed7d710df15ac10c98663e9" translate="no" approved="yes">
+        <source># # .</source>
+        <target># # .</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68378" identifier="57de1a8ff73006d09a8218918ecd3450" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="71577" identifier="549da2f35239d752fa9165dcc980d7af" approved="yes">
+        <source>`)
+   basic.showNumber(PlayerBWins)
+   basic.pause(1000)
+   basic.showString(&quot;Ties:&quot;)
+   basic.showNumber(PlayersTie)
+   basic.pause(1000)   
+   basic.clearScreen()
+})
+PlayerAWins = 0
+PlayerBWins = 0
+PlayersTie = 0</source>
+        <target>`)
+   basic.showNumber(PlayerBWins)
+   basic.pause(1000)
+   basic.showString(&quot;Ties:&quot;)
+   basic.showNumber(PlayersTie)
+   basic.pause(1000)   
+   basic.clearScreen()
+})
+PlayerAWins = 0
+PlayerBWins = 0
+PlayersTie = 0</target>
+        <note>Context: XPath: /pre[4]/code</note>
+      </trans-unit>
+      <trans-unit id="68380" identifier="a9d3d36ff1436a1b916e8e3e16f1c6f1" translate="no" approved="yes">
+        <source>Try it out!</source>
+        <target>試してみましょう！</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[5]</note>
+      </trans-unit>
+      <trans-unit id="68381" identifier="d0f563d987aac8c867ed1dda03f572ef">
+        <source>Download the Scorekeeper program to the micro:bit, and have the students play one last round of Rock Paper Scissors using their micro:bits to act as the Scorekeeper!</source>
+        <target state="translated">スコアキーパープログラムをmicro:bitにダウンロードします。生徒たちに最後にもう一度、micro:bitをスコアキーパーとして使いながらじゃんけんをしてもらいましょう！</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[24]</note>
+      </trans-unit>
+      <trans-unit id="68382" identifier="aca3ad389407c20c970b8b1d3ede221b">
+        <source>‘Adding’ on with mathematical operations</source>
+        <target state="translated">追加：数値演算</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[6]</note>
+      </trans-unit>
+      <trans-unit id="68383" identifier="cc30f2431a05b4c73a4bbc6ba5d61a37">
+        <source>There is more we can do with the input we received using this program. We can use mathematical operations on our variables.</source>
+        <target state="translated">このプログラムを使用して得た入力を使用して、他にもできることがあります。変数に数値演算が使用できます。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[25]</note>
+      </trans-unit>
+      <trans-unit id="68384" identifier="68a09c0bfa4989ed4a34280169f396e1">
+        <source>Example: Perhaps you’d like to keep track of, and show the player the total number of ‘rounds’ that were played.</source>
+        <target state="translated">例: じゃんけんをした回数を記録し、プレーヤーが遊んだ合計の回数を表示する。</target>
+        <note>Context: XPath: /p[26]</note>
+      </trans-unit>
+      <trans-unit id="68385" identifier="852d88151f66b71c0dae50adb77095af">
+        <source>To do this, we can add the values stored in the variables we created to keep track of how many times each player won and how many times they tied.</source>
+        <target state="translated">各プレーヤーの勝ちと引き分けの数を記録するため作成した、各変数に保存された値を足すことで、これを行うことができます。</target>
+        <note>Context: XPath: /p[26]</note>
+      </trans-unit>
+      <trans-unit id="68386" identifier="53b3f064deb8c838089180257bff9c1b">
+        <source>In order to do this, we can add the code to our program under the 'on shake' event handler.</source>
+        <target state="translated">これを行うために、‘ゆさぶられたとき’イベントハンドラーを使い、プログラムにコードを追加します。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[27]</note>
+      </trans-unit>
+      <trans-unit id="68387" identifier="fb5001061768daaf46b23444dac9d2e1">
+        <source>First, display a string to show the player that the following sum represents the total number of rounds played.</source>
+        <target state="translated">まずはじめに、合計は遊んだ回数の合計を表すことをプレーヤーに見せるため、文字列を表示します。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li</note>
+      </trans-unit>
+      <trans-unit id="68388" identifier="5d7c78c4dc5f0f9fa43904d7f9708e73">
+        <source>Our program will add the values stored in the variables &lt;code&gt;PlayerAWins&lt;/code&gt;, &lt;code&gt;PlayerBWins&lt;/code&gt;, and &lt;code&gt;PlayersTie&lt;/code&gt; and then display the sum of this mathematical operation.</source>
+        <target state="translated">変数&lt;code&gt;PlayerAWins&lt;/code&gt;、&lt;code&gt;PlayerBWins&lt;/code&gt;、 &lt;code&gt;PlayersTie&lt;/code&gt;に格納された値を足し合わせ、合計を表示します。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[6]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="68389" identifier="3e7714e573e57f04a448b62df7c1e3cb">
+        <source>The blocks for the mathematical operations adding, subtracting, multiplying, and dividing are listed in the Math section of the Toolbox.</source>
+        <target state="translated">足し算、引き算、掛け算、割り数など数値演算に使用するブロックは、ツールボックスの計算セクションにあります。</target>
+        <note>Context: XPath: /ul[6]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="68390" identifier="141a5ff058b72607f9bb167accc95dfc">
+        <source>&gt;&lt;strong&gt;Note:&lt;/strong&gt; Even though there are 4 blocks shown for these 4 operations, you can access any of the four operations from any of the four blocks, and you can also access the exponent operation from these blocks.</source>
+        <target state="translated">&gt;&lt;strong&gt;注:&lt;/strong&gt; 4つのブロックが各演算用に用意されていますが、どのブロックからでも四則演算を行うことが可能です。また、これらのブロックを使用して、指数の演算も可能です。</target>
+        <note>Context: XPath: /ul[6]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="68391" identifier="7b0bb3e0e5f59de03f9b3ad5684a3306" translate="no">
+        <source>/static/courses/csintro/variables/adding-block.png</source>
+        <target>/static/courses/csintro/variables/adding-block.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[28]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="68392" identifier="f7066cff8aa4bbc711b0c8a72e85c01e">
+        <source>Adding block</source>
+        <target state="translated">ブロックの追加</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[28]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="68393" identifier="dd2e4399ddc63a3b530e874a4f2c9696" translate="no">
+        <source>/static/courses/csintro/variables/operator-selector.png</source>
+        <target>/static/courses/csintro/variables/operator-selector.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[29]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="68394" identifier="46631ae2ae2b0cc430db95e7e1104ed7">
+        <source>Operator selector</source>
+        <target state="translated">演算の選択</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[29]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="68395" identifier="34ff138fcf5a6c5f15222f148feafac9">
+        <source>Replace the default values of zero with the names of the variables we want to add together.</source>
+        <target state="translated">足し合わせたい各変数の初期値を０に設定します。</target>
+        <note>Context: XPath: /ul[7]/li</note>
+      </trans-unit>
+      <trans-unit id="68396" identifier="593cdf64ced37bbc4c06ccb5fafa9133">
+        <source>Notice that because we are adding three variables together we need a second math block.</source>
+        <target state="translated">3つの変数の足し算を行うので、2つ目の計算式が必要になることに注意してください。</target>
+        <note>Context: XPath: /ul[7]/li</note>
+      </trans-unit>
+      <trans-unit id="68397" identifier="ae7a3fcf5a5de2ac8232286b09772c61">
+        <source>First we add the values for &lt;code&gt;PlayerAWins&lt;/code&gt; and &lt;code&gt;PlayerBWins&lt;/code&gt;, then add &lt;code&gt;PlayersTie&lt;/code&gt;.</source>
+        <target state="translated">まず初めに、&lt;code&gt;PlayerAWins&lt;/code&gt;と&lt;code&gt;PlayerBWins&lt;/code&gt;の値を足し合わせます。そして&lt;code&gt;PlayersTie&lt;/code&gt;の値を足し合わせます。</target>
+        <note>Context: XPath: /ul[7]/li</note>
+      </trans-unit>
+      <trans-unit id="71578" identifier="244694b566d65271e7fab9c06923850b" approved="yes">
+        <source>let PlayersTie = 0
+let PlayerBWins = 0
+let PlayerAWins = 0
+
+input.onGesture(Gesture.Shake, () =&amp;gt; {
+   basic.showString(&quot;Total rounds played:&quot;)
+   basic.showNumber(PlayerAWins + PlayerBWins + PlayersTie)
+})</source>
+        <target>let PlayersTie = 0
+let PlayerBWins = 0
+let PlayerAWins = 0
+
+input.onGesture(Gesture.Shake, () =&amp;gt; {
+   basic.showString(&quot;Total rounds played:&quot;)
+   basic.showNumber(PlayerAWins + PlayerBWins + PlayersTie)
+})</target>
+        <note>Context: Text&#13;
+XPath: /pre[5]/code</note>
+      </trans-unit>
+      <trans-unit id="68399" identifier="2be46d892c4c034cd41db96f491c1cda">
+        <source>Save, download, and try the program again to make sure that it runs correctly and displays the correct numbers for each variable.</source>
+        <target state="translated">保存、ダウンロードし、もう一度プログラムが正しく動いているか、各変数の値がきちんと表示されているかを確認します</target>
+        <note>Context: List Item&#13;
+XPath: /ul[8]/li</note>
+      </trans-unit>
+      <trans-unit id="68400" identifier="7301b4ab42deefbf1dbf3f979d0ad3da">
+        <source>Remember that the micro:bit is a device that processes input and displays it as output in some way.</source>
+        <target state="translated">micro:bitは入力を処理し、いくつかの方法で出力を表示するデバイスであることを覚えておいてください。</target>
+        <note>Context: XPath: /p[30]</note>
+      </trans-unit>
+      <trans-unit id="68401" identifier="e8c784831e10f57b8aac20ca8dbff3bd">
+        <source>By storing values in variables, you can perform mathematical operations on that data that provides you with useful information.</source>
+        <target state="translated">変数に値を格納することで、役立つ情報を提供する数値演算を可能にします。</target>
+        <note>Context: XPath: /p[30]</note>
+      </trans-unit>
+      <trans-unit id="68402" identifier="5ebceb957ba6ee15c0c3ceb8fa179740">
+        <source>What other math operations could provide valuable information from the values stored in these variables?</source>
+        <target state="translated">他にどのような演算を使用して、変数に格納された値から、役立つ情報が得られると思いますか？</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[31]</note>
+      </trans-unit>
+      <trans-unit id="68403" identifier="c9a92ab4b9c55418e0384e25efabc7b8" translate="no">
+        <source>Examples:</source>
+        <target state="translated">例:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[32]</note>
+      </trans-unit>
+      <trans-unit id="68404" identifier="553b588b80c49d3bd880e0fea37892dc">
+        <source>Calculate and display a player’s wins and/or losses as a percentage of all rounds played.</source>
+        <target state="translated">遊んだ全ての回数でのプレーヤーの勝ちと負け、勝ちまたは負けの割合（パーセンテージ）を計算して表示する</target>
+        <note>Context: List Item&#13;
+XPath: /ul[9]/li</note>
+      </trans-unit>
+      <trans-unit id="68405" identifier="7aac33c61ebba4d18f95321551b2997b">
+        <source>Calculate a display the number of tied games as a percentage of all rounds played.</source>
+        <target state="translated">遊んだすべての回数での引き分けの割合（パーセンテージ）を計算して表示する</target>
+        <note>Context: List Item&#13;
+XPath: /ul[9]/li[2]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

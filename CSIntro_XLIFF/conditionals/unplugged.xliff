@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1834" original="/microbit/docs/courses/csintro/conditionals/unplugged.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="66202" identifier="9890fe6fd9355e78b12493b858a97ab9" approved="yes">
+        <source>Unplugged: Red light, green light</source>
+        <target>アンプラグド: 赤信号、青信号</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="66203" identifier="1b263ae5e9a5388f4972063cd033e2ed" translate="no" approved="yes">
+        <source>/static/courses/csintro/conditionals/traffic-light.png</source>
+        <target>/static/courses/csintro/conditionals/traffic-light.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="66204" identifier="607c38f2e3cc659f3ee46f0a35b99632">
+        <source>Red and green stoplight</source>
+        <target state="translated">Red and green stoplight</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="66205" identifier="12c33ebee03c600850b1571654582b45" approved="yes">
+        <source>Objective</source>
+        <target>目的</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="66206" identifier="79683fd5458f6e6c27d640089f636e94">
+        <source>To reinforce the programming of basic conditionals by having students experience conditionals through acting them out in real life.</source>
+        <target state="translated">生徒は実生活からの動作を通じて、実際に「条件」を経験することで基礎的な「条件」プログラミングの理解を強化します。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="66207" identifier="d7fad303b0ff83428c6436dd2cc33adb" approved="yes">
+        <source>Activity overview</source>
+        <target>アクティビティの概要</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="66208" identifier="eb0d2bee3cfdafc365e35de870333498" approved="yes">
+        <source>Students will line up at one end of the classroom with the goal of reaching the other side of the classroom.</source>
+        <target>生徒は部屋の片側に整列し、もう一方の部屋の隅をゴールとします。</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="66209" identifier="9767a9718fcc33c0dd6ec0e1bc2bd15d">
+        <source>The teacher, and then the students themselves will call out conditionals and all the students will advance or not depending on the specific conditional statement.</source>
+        <target state="translated">まずは先生から、そして生徒たちが順番に「条件」をひとつづつ大きな声で宣言し、その条件が自分に当てはまる人は、前に一歩進むことができます。</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="66210" identifier="c83439acd118c7723ebded2d5b1e4bc0" approved="yes">
+        <source>&lt;strong&gt;Note:&lt;/strong&gt; As the teacher you will need to keep an eye out for any ‘errors’ that occur during the running of the program.</source>
+        <target>&lt;strong&gt;注:&lt;/strong&gt;先生は、プログラムの実行中に発生する「エラー」に目を光らせる必要があります。 </target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="66211" identifier="d690a420590d9dba6dd5efeeec923fd4" translate="no">
+        <source>Materials</source>
+        <target state="translated">教材</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="66212" identifier="b68f1cc702bf2161d5e12a0ebddd1b66">
+        <source>Pencils and lined paper (if doing this activity seated). Students can advance across the paper instead of the room with one inch line equal to one step.</source>
+        <target state="translated">鉛筆と線を引いた紙（もしアクティビティを座って行いたい場合）。この場合、生徒は部屋の中で一歩進む代わりに3センチ程度の線を進みます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="66213" identifier="5a939f93338d4a8814bc150e6cd64182" translate="no">
+        <source>Process</source>
+        <target state="translated">処理</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[4]</note>
+      </trans-unit>
+      <trans-unit id="66214" identifier="e32c001332c9651fdc80d3aeb8d82a22" approved="yes">
+        <source>Have the students line up at one side of the room.</source>
+        <target>部屋の片側に生徒を整列させます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[2]/li</note>
+      </trans-unit>
+      <trans-unit id="66215" identifier="3abab99709a090f29ef742e6e655d9a2" approved="yes">
+        <source>Explain the rules:
+&gt;* The object of the game is to get across the room first.</source>
+        <target>ルールを説明します:
+&gt;* ゲームの勝者は、最初に部屋を端から端まで渡った人です。</target>
+        <note>Context: XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66216" identifier="5f5641aceda02cc5e2f79018305591f6">
+        <source>&gt;* For &lt;code&gt;if...then&lt;/code&gt; conditionals:  If the condition called out is &lt;code&gt;true&lt;/code&gt; for you, then perform the action described in the &lt;code&gt;then&lt;/code&gt;.</source>
+        <target state="translated">&gt;*  &lt;code&gt;[if]...[then]&lt;/code&gt; 場合:  [If] もし宣言された条件があなたにとって &lt;code&gt;true（真）&lt;/code&gt; ならば, &lt;code&gt;[then]&lt;/code&gt;で指定された動作を実行します。</target>
+        <note>Context: XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66217" identifier="cf86ddaa54f924d401ede97804c9f2ad">
+        <source>If the condition called out is &lt;code&gt;false&lt;/code&gt; for you, then do nothing.</source>
+        <target state="translated">[If] もし宣言された条件があなたにとって&lt;code&gt;false（偽）&lt;/code&gt; ならば、何もしません。</target>
+        <note>Context: XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66218" identifier="f387db473b22ee908f71dde2cfd7403d">
+        <source>&gt;* For &lt;code&gt;if...then...else&lt;/code&gt; conditionals, listen carefully to the whole condition, as the &lt;code&gt;else&lt;/code&gt; may apply to you.</source>
+        <target state="translated">&gt;* &lt;code&gt;[if]...[then]...[else]&lt;/code&gt; の場合、すべての条件を注意深く聞く必要があります。 &lt;code&gt;else&lt;/code&gt; が当てはまるかもしれません。</target>
+        <note>Context: XPath: /ul[2]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66219" identifier="6d15a4cad973af59e0f436fbba50d8ac" approved="yes">
+        <source>Example conditional statements</source>
+        <target>条件文の例</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[5]</note>
+      </trans-unit>
+      <trans-unit id="66220" identifier="502a25ec86faa3f4db4c529bd447db06">
+        <source>If you are wearing something green, then take a step forward.</source>
+        <target state="translated">[If]もし緑の何かを身に着けていたら [Then] １歩進んでください</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li</note>
+      </trans-unit>
+      <trans-unit id="66221" identifier="d351fa022bd3201e851031a3cda18fb7">
+        <source>If you have the letter ‘e’ in your first name, then take two giant steps forward.</source>
+        <target state="translated">[If] もし名前に「え」が入っていたら [Then] 大きく2歩進んでください</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66222" identifier="682cab6e412dedb69c118dae8ba596f6">
+        <source>If you are wearing sneakers, then take a step forward, else take 2 steps forward.</source>
+        <target state="translated">[If] もしスニーカーを履いていたら [Then] 1歩進んでください 、[else] でなければ２歩 進んでください</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66223" identifier="837e54e69e5aba1cba233c6d3da565be" approved="yes">
+        <source>If your birthday is this month, then take a giant hop forward.
+The conditionals you use will depend on your individual class.</source>
+        <target>[If] もしお誕生日が今月ならば [Then] 大きく前に飛んでください。
+条件はクラスによっていろいろ変えてみてください。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[3]/li[4]</note>
+      </trans-unit>
+      <trans-unit id="66224" identifier="72a3c1a7cc5bf6588663992abd0152ba">
+        <source>After the students get the idea of the game, allow them to make up and call out conditionals (that meet teacher approval).</source>
+        <target state="translated">生徒自身がこのゲームを理解したら、自分たちで条件を考えて、大声で宣言します（先生の承認を得た条件で行います）。</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="66225" identifier="514b66258fa4e5af0e4ac7a19fd617fe" approved="yes">
+        <source>They will need to be observant, as a conditional that moves them forward, will also move their competition forward!</source>
+        <target>前進するための条件を観察する必要があります。みんなで前に進む競争をしましょう！</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="66226" identifier="2fc097ad3544d878e07bdc896af35dc3" translate="no">
+        <source>Tips</source>
+        <target state="translated">ヒント</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[6]</note>
+      </trans-unit>
+      <trans-unit id="66227" identifier="9e9d69a64b94949440b62959213fddc1" approved="yes">
+        <source>SAFETY FIRST! Students, especially younger ones, can get quite silly with this and while it is meant to be fun and even funny, safety first!</source>
+        <target>安全第一で！生徒、特に低学年の場合は、面白がって楽しむあまりに悪ふざけをしてしまいます、安全第一！</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li</note>
+      </trans-unit>
+      <trans-unit id="66228" identifier="ebb4e76a6164d29f7abdab332c92f258">
+        <source>Student conditionals need to apply to at least two people in the class.</source>
+        <target state="translated">生徒の条件は、クラスに少なくとも 2 人に適用する必要があります。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[4]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66229" identifier="70f501f67dd7e098ed64f977e8afe4b1">
+        <source>Reflections</source>
+        <target state="translated">省察</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[7]</note>
+      </trans-unit>
+      <trans-unit id="66230" identifier="8df9e3651bfe7df730709063f8ac2b5f" approved="yes">
+        <source>How did they do?</source>
+        <target>どうでしたか？</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="66231" identifier="33f14b10b9391772149fe9990c4472f5">
+        <source>Were there any ‘run-time errors’?</source>
+        <target state="translated">なにか「実行時エラー」はありましたか？</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="66232" identifier="947cfdeb7e9469d7546b0e0f6fac0eaa">
+        <source>Did a student miss a conditional being met or fail to correctly carry out the THEN or ELSE action?</source>
+        <target state="translated">生徒は、条件に合わなかったり、[THEN]や[ELSE]の実行を失敗したりしましたか？</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="66233" identifier="1d0e6716ee221eba9cde11e46c5c558a">
+        <source> Were there some conditions that could be evaluated as something other than True or False (maybe, sometimes)?</source>
+        <target state="translated">使用した条件のうち、 「多分」や「時々」というような、[True（真）] または [False（偽）]  以外の結果になるような条件がありましたか。</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="66234" identifier="b0a8b52efef264e3efb58a9dc8b0d2a5" approved="yes">
+        <source>Extensions/Variations</source>
+        <target>詳細/バリエーション</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[8]</note>
+      </trans-unit>
+      <trans-unit id="66235" identifier="c824a1245b5ab0d52aa200ec094ee5bd">
+        <source>Add AND, OR, AND/OR statements to the conditionals.
+&gt;Example: If you have brown hair AND brown eyes, then...</source>
+        <target state="translated">AND、OR、AND/ORステートメントの条件を追加する。
+&gt; 例: [If]もし、茶色の髪 [AND]と茶色の目ならば、.....</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li</note>
+      </trans-unit>
+      <trans-unit id="66236" identifier="925c265d7b70e2d75632e1dc9a8b7a3e">
+        <source>Create nested IF’s
+&gt;Example: If you are wearing sneakers, then... if you are also wearing white socks, take three steps forward.</source>
+        <target state="translated">入れ子のIF を作る。
+&gt;例: [IF]もしあなたがスニーカーを履いていたら、[Then] ... [IF] もし白い靴下も履いていたら、３歩前に進みます。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[2]</note>
+      </trans-unit>
+      <trans-unit id="66237" identifier="73d744a11a96ed0edb106f1c954f4097">
+        <source>Let students create their own conditionals for future program runs with the class. (A very popular activity, though all conditionals should be run by the teacher first for approval.)</source>
+        <target state="translated">プログラムを再度実行する前に、生徒自身に条件を作成させてもよいでしょう。(これは生徒にとても人気ありますが、生徒が作成した条件はすべてまず教師のチェックと承認が必要です)。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[3]</note>
+      </trans-unit>
+      <trans-unit id="66238" identifier="db9bd62b7d61fbc251617cf19023ff39">
+        <source>Relate this activity to a system and have the students create the conditionals that would end in a product of some kind or the completion of some task, like writing a sentence or setting a table or constructing a simple structure.</source>
+        <target state="translated">このアクティビティを既存の仕組みと照らし合わせて考えて、例えば文を完成させる、食卓の準備を完了する、または簡単な形を構成する、といった製品を完成したり特定のタスクを完了したりするようなまとまった条件を生徒に作成させても良いでしょう。</target>
+        <note>Context: List Item&#13;
+XPath: /ul[5]/li[4]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

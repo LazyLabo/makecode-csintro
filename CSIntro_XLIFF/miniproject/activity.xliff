@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1865" original="/microbit/docs/courses/csintro/miniproject/activity.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="67344" identifier="39409cd99d12d80c6595c4bf765fea74">
+        <source>Activity: Collaboratively independent</source>
+        <target state="needs-translation">Activity: Collaboratively independent</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="67345" identifier="52895830d67372d8e2f5e484af592995">
+        <source>Teachers want their students to collaborate on projects but they also want to be able to hold them accountable for getting their work done.</source>
+        <target state="needs-translation">Teachers want their students to collaborate on projects but they also want to be able to hold them accountable for getting their work done.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="67346" identifier="4e10d7f040c0b549b15a079edfdec0b8">
+        <source>Many teachers struggle with assessing exactly how much each individual contributed to a group project, as well as making sure that everyone does his or her “fair share”.</source>
+        <target state="needs-translation">Many teachers struggle with assessing exactly how much each individual contributed to a group project, as well as making sure that everyone does his or her “fair share”.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="67347" identifier="18d93305ab49af3a624ee3c13717fe47">
+        <source>The Mini-Project (and the Final Project) are not group projects.</source>
+        <target state="needs-translation">The Mini-Project (and the Final Project) are not group projects.</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="67348" identifier="09843d65a50b467aaa7d76385655ec94">
+        <source>Students are asked to propose their own independent project and are expected to get it done.</source>
+        <target state="needs-translation">Students are asked to propose their own independent project and are expected to get it done.</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="67349" identifier="6cd9517fca3bafa073ef5cfa3a1187b3">
+        <source>But they are not on their own in this process!</source>
+        <target state="needs-translation">But they are not on their own in this process!</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="67350" identifier="5f26471fed686ab0961f9d479c31fa8d">
+        <source>We build in frequent opportunities for students to collaborate and share the collective knowledge of the class as they go.</source>
+        <target state="needs-translation">We build in frequent opportunities for students to collaborate and share the collective knowledge of the class as they go.</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="67351" identifier="854bf2fbcc3e671084bc042be72efa03">
+        <source>We ask them to be “collaboratively independent.”</source>
+        <target state="needs-translation">We ask them to be “collaboratively independent.”</target>
+        <note>Context: XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="67352" identifier="a154bc4dd435100cfab2e9f98de1def9">
+        <source>Here is how we structure our classes:</source>
+        <target state="needs-translation">Here is how we structure our classes:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="67353" identifier="760e1bd7c157b7a3ff4be74d9c9e2643">
+        <source>Beginning of class</source>
+        <target state="needs-translation">Beginning of class</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="67354" identifier="a82087ca5cec1836b31cb9a612cc8b1f">
+        <source>For groups of 15 or so, have students each &lt;strong&gt;&lt;em&gt;briefly&lt;/em&gt;&lt;/strong&gt; (no more than 30 seconds or so) report on their progress in front of the group:</source>
+        <target state="needs-translation">For groups of 15 or so, have students each &lt;strong&gt;&lt;em&gt;briefly&lt;/em&gt;&lt;/strong&gt; (no more than 30 seconds or so) report on their progress in front of the group:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="67355" identifier="62540da5e527636ee2d00a0c6eae8b25">
+        <source>One-line description of project</source>
+        <target state="needs-translation">One-line description of project</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="67356" identifier="5d3f7f10c6cb753a89fc8dc3d45197f1">
+        <source>Their progress so far</source>
+        <target state="needs-translation">Their progress so far</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67357" identifier="d2663fe99d626cad131d2a3115ff5357">
+        <source>Something they are going to work on figuring out today</source>
+        <target state="needs-translation">Something they are going to work on figuring out today</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67358" identifier="82d520bbbbfb73cf8e3d629c1dff13fa">
+        <source>It is important that everyone else is listening to each project and volunteering their help or solutions if they are figuring out the same thing or if they have solved that problem in a previous class.</source>
+        <target state="needs-translation">It is important that everyone else is listening to each project and volunteering their help or solutions if they are figuring out the same thing or if they have solved that problem in a previous class.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="67359" identifier="c84c35dd53662e0757050cc833967675">
+        <source>Example:
+  &lt;em&gt;I’m working on a pinball machine.</source>
+        <target state="needs-translation">Example:
+  &lt;em&gt;I’m working on a pinball machine.</target>
+        <note>Context: XPath: /blockquote/p</note>
+      </trans-unit>
+      <trans-unit id="67360" identifier="de4faaab00d07d0e7405e005fd37f059">
+        <source>So far I have done the board and the ramp.</source>
+        <target state="needs-translation">So far I have done the board and the ramp.</target>
+        <note>Context: XPath: /blockquote/p</note>
+      </trans-unit>
+      <trans-unit id="67361" identifier="9713f35c45c28596433ead583b86d8cc">
+        <source>Today I am going to be working on wiring the bumpers so that when the ball hits the bumper, the micro:bit detects it and displays the score.&lt;/em&gt;</source>
+        <target state="needs-translation">Today I am going to be working on wiring the bumpers so that when the ball hits the bumper, the micro:bit detects it and displays the score.&lt;/em&gt;</target>
+        <note>Context: XPath: /blockquote/p</note>
+      </trans-unit>
+      <trans-unit id="67362" identifier="793a88e3af6e4b87d53cc947badfb358">
+        <source>Sample response from a classmate:
+  &lt;em&gt;Yesterday I wired up my targets so that when you throw a ball it keeps score. I can show you how I did it.&lt;/em&gt;</source>
+        <target state="needs-translation">Sample response from a classmate:
+  &lt;em&gt;Yesterday I wired up my targets so that when you throw a ball it keeps score. I can show you how I did it.&lt;/em&gt;</target>
+        <note>Context: Paragraph text&#13;
+XPath: /blockquote/p[2]</note>
+      </trans-unit>
+      <trans-unit id="67363" identifier="138e6df14a24536361408ee29075e2ac">
+        <source>Ideally students who are working on projects should be aware of what other students are working on and what they are figuring out.</source>
+        <target state="needs-translation">Ideally students who are working on projects should be aware of what other students are working on and what they are figuring out.</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="67364" identifier="fe3c9eabbbdb0078008139dc7c8c2f8d">
+        <source>It creates more opportunities for collaboration in the classroom and can encourage students to seek help from each other rather than all waiting in line to talk to you.</source>
+        <target state="needs-translation">It creates more opportunities for collaboration in the classroom and can encourage students to seek help from each other rather than all waiting in line to talk to you.</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="67365" identifier="81ae04d3a3c5be27c9ad59c40c423301">
+        <source>It’s important to hear from everybody but it shouldn’t take more than five or ten minutes.</source>
+        <target state="needs-translation">It’s important to hear from everybody but it shouldn’t take more than five or ten minutes.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="67366" identifier="9bfa167bd4497dfd7488823f10bd344a">
+        <source>For groups larger than 15 or 20 students, you may want to split them into two or three larger groups and have them report out to each other.</source>
+        <target state="needs-translation">For groups larger than 15 or 20 students, you may want to split them into two or three larger groups and have them report out to each other.</target>
+        <note>Context: XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="67367" identifier="cbb221169a9b8f5b4b58b90d50a08383" translate="no">
+        <source>/static/courses/csintro/miniproject/quick-progress-report.png</source>
+        <target>/static/courses/csintro/miniproject/quick-progress-report.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[8]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67368" identifier="87a684198571771616ec49c32ed53248">
+        <source>Quick progress report</source>
+        <target state="needs-translation">Quick progress report</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[8]/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67369" identifier="dcbc029248d660a8e7eed4d54d66e9a3">
+        <source>During class</source>
+        <target state="needs-translation">During class</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="67370" identifier="e7cf0fb75445329c831adfeb2d648129">
+        <source>This is a time to circulate and check in with students individually, starting with those students who seem to still be stuck from last time.</source>
+        <target state="needs-translation">This is a time to circulate and check in with students individually, starting with those students who seem to still be stuck from last time.</target>
+        <note>Context: XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="67371" identifier="92e8a46ceb1e6523461b96f6e93a89f6">
+        <source>For the most part, students should be working on their projects in small groups, helping each other wherever and whenever possible.</source>
+        <target state="needs-translation">For the most part, students should be working on their projects in small groups, helping each other wherever and whenever possible.</target>
+        <note>Context: XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="67372" identifier="609297ae94f964913c0df36052d392df">
+        <source>End of class</source>
+        <target state="needs-translation">End of class</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="67373" identifier="505ff4ae1539e537dfc5a52b57b9083e">
+        <source>About ten minutes before the end of class, you can have students do a “work-in-progress” report.</source>
+        <target state="needs-translation">About ten minutes before the end of class, you can have students do a “work-in-progress” report.</target>
+        <note>Context: XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="67374" identifier="6d6c335c773f761c14e0351e2924ff56">
+        <source>Gather the students together and have them move from table to table while each student presents one thing that he or she figured out during the class.</source>
+        <target state="needs-translation">Gather the students together and have them move from table to table while each student presents one thing that he or she figured out during the class.</target>
+        <note>Context: XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="67375" identifier="8a133d63bb8614cf031245a942498407">
+        <source>This is really an informal presentation, and it is understood that it is not finished at all; it is still a “work in progress.” But everyone needs to show something, and the entire group needs to move as one throughout the classroom, almost like physicians making rounds in a hospital.</source>
+        <target state="needs-translation">This is really an informal presentation, and it is understood that it is not finished at all; it is still a “work in progress.” But everyone needs to show something, and the entire group needs to move as one throughout the classroom, almost like physicians making rounds in a hospital.</target>
+        <note>Context: XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="67376" identifier="630f90f952efee530ace90068bb6d567">
+        <source>This is an important way to spread ideas throughout the classroom, and to “cross-pollinate” with helpful tips and techniques.</source>
+        <target state="needs-translation">This is an important way to spread ideas throughout the classroom, and to “cross-pollinate” with helpful tips and techniques.</target>
+        <note>Context: XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="67377" identifier="f360d74d160a39ed520a1cb7d9a3ad3f">
+        <source>Work-in-progress reports should be short, no more than twenty or thirty seconds. If you have a large class, you might divide the class into several large groups and have them present to each other.</source>
+        <target state="needs-translation">Work-in-progress reports should be short, no more than twenty or thirty seconds. If you have a large class, you might divide the class into several large groups and have them present to each other.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="67378" identifier="09fae1b93e04d52b27d3e14d94f2b957" translate="no">
+        <source>/static/courses/csintro/miniproject/work-in-progress-report.png</source>
+        <target>/static/courses/csintro/miniproject/work-in-progress-report.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[12]/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67379" identifier="e556109d156adfed12449e1d2d6d84a4">
+        <source>Work in progress report</source>
+        <target state="needs-translation">Work in progress report</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[12]/img[@alt]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

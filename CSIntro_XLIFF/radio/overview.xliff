@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1872" original="/microbit/docs/courses/csintro/radio/overview.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="67762" identifier="913f6422d41f0413a2feb499068e4895" translate="no">
+        <source>Introduction</source>
+        <target>Introduction</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="67763" identifier="65d0437f9980dc0ad13133221919def6">
+        <source>Up to this point, we have been primarily challenging students to collaborate while they create their own projects.</source>
+        <target state="needs-translation">Up to this point, we have been primarily challenging students to collaborate while they create their own projects.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="67764" identifier="56c5454b84a0473a9b4cdd4e73e93969">
+        <source>This lesson, on communication using the micro:bit radio, is a great opportunity to have students work in pairs on a project.</source>
+        <target state="needs-translation">This lesson, on communication using the micro:bit radio, is a great opportunity to have students work in pairs on a project.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="67765" identifier="16f164154259ff4fbe35916b56aba751">
+        <source>Have kids find a partner to work with for this lesson, and make sure they are seated next to each other.</source>
+        <target state="needs-translation">Have kids find a partner to work with for this lesson, and make sure they are seated next to each other.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="67766" identifier="bfdc88f3090d6eaf5d03f15671604875">
+        <source> 
+Note: Many teachers find the concept of “pair programming” to be a valuable way to have students collaborate when programming.</source>
+        <target state="needs-translation"> 
+Note: Many teachers find the concept of “pair programming” to be a valuable way to have students collaborate when programming.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="67767" identifier="0da37f958e2c9273e48a2abc8adea11a">
+        <source>Two students share one computer, with one student at the keyboard acting as the driver, and the other student providing directions as the navigator.</source>
+        <target state="needs-translation">Two students share one computer, with one student at the keyboard acting as the driver, and the other student providing directions as the navigator.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="67768" identifier="0095e671ef339f21e147cd43173fdd15">
+        <source>Students must practice good communication with each other throughout the entire programming process.</source>
+        <target state="needs-translation">Students must practice good communication with each other throughout the entire programming process.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="67769" identifier="435b53fb77f98c937619b3bfb27f94a2">
+        <source> 
+The micro:bit allows you to communicate with other micro:bits in the area using the blocks in the Radio category.</source>
+        <target state="needs-translation"> 
+The micro:bit allows you to communicate with other micro:bits in the area using the blocks in the Radio category.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="67770" identifier="d9c5fa5eca9cc469209b81fad42d6362">
+        <source>You can send a number, a string (a word or series of characters) or a string/number combination in a radio packet.</source>
+        <target state="needs-translation">You can send a number, a string (a word or series of characters) or a string/number combination in a radio packet.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="67771" identifier="6ed75e716e46435f470e58c471af9a99">
+        <source>You can also give a micro:bit instructions on what to do when it receives a radio packet.</source>
+        <target state="needs-translation">You can also give a micro:bit instructions on what to do when it receives a radio packet.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="67772" identifier="2e59519ada4d2e711836cbd93ffc1a1c">
+        <source> 
+This lesson starts with a “plugged” unplugged activity, in which students use their micro:bits to explore an advanced simulation.</source>
+        <target state="needs-translation"> 
+This lesson starts with a “plugged” unplugged activity, in which students use their micro:bits to explore an advanced simulation.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="67773" identifier="dbae88585acb8192215565acad50618a">
+        <source>The code is quite complex, so students will focus more on how to use the micro:bits to explore aspects of viruses and epidemics, than the intricacies of the code itself.</source>
+        <target state="needs-translation">The code is quite complex, so students will focus more on how to use the micro:bits to explore aspects of viruses and epidemics, than the intricacies of the code itself.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="67774" identifier="cce153dde81a93b2a09daecae020ba98">
+        <source> 
+The project for this lesson will challenge students to work together to send and receive some sort of data to and from each other.</source>
+        <target state="needs-translation"> 
+The project for this lesson will challenge students to work together to send and receive some sort of data to and from each other.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="67775" identifier="32beeec8e14d7e44b2fa1508f61cc145">
+        <source>There is a wide range of simple and complex projects kids can try, but whatever they choose it is a whole lot of fun to communicate with each other using the micro:bits!</source>
+        <target state="needs-translation">There is a wide range of simple and complex projects kids can try, but whatever they choose it is a whole lot of fun to communicate with each other using the micro:bits!</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

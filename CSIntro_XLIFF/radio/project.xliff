@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1873" original="/microbit/docs/courses/csintro/radio/project.md" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="67776" identifier="b12c591aa2fda5a820b2da9a9ba2f518">
+        <source>Project: Radio project</source>
+        <target state="needs-translation">Project: Radio project</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="67777" identifier="aaeb41341173b96e25391de07ff69168">
+        <source>For this project, students should work in pairs to design a project that incorporates radio communication to send and receive data in some way.</source>
+        <target state="needs-translation">For this project, students should work in pairs to design a project that incorporates radio communication to send and receive data in some way.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="67778" identifier="bdb5d5661f7a8c61c5fa1885a14c89d7">
+        <source>Some projects may have two separate programs: One that receives data, and one that sends data.</source>
+        <target state="needs-translation">Some projects may have two separate programs: One that receives data, and one that sends data.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="67779" identifier="bd2573ed04f193ff61a7d5d30910b621">
+        <source>Students might each choose to submit one program in that case.</source>
+        <target state="needs-translation">Students might each choose to submit one program in that case.</target>
+        <note>Context: XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="67780" identifier="1ad01749e69d2c47ddb0c23a15657618">
+        <source>In other cases, a pair of students might submit one program that has both sending and receiving code in it, and the same code is uploaded to two or more micro:bits.</source>
+        <target state="needs-translation">In other cases, a pair of students might submit one program that has both sending and receiving code in it, and the same code is uploaded to two or more micro:bits.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[2]</note>
+      </trans-unit>
+      <trans-unit id="67781" identifier="97e3bc6976594114196e9723bef84312" translate="no">
+        <source>Project Ideas</source>
+        <target>Project Ideas</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+      <trans-unit id="67782" identifier="bf5558de13fabbcb9670a5bb8c4ed4f3">
+        <source>Stop, thief!</source>
+        <target state="needs-translation">Stop, thief!</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3</note>
+      </trans-unit>
+      <trans-unit id="67783" identifier="65d4d8e29e271be983f27cc44cab7eaa">
+        <source>Design an alarm system for your bedroom that alerts you with a screen animation when someone opens your door.</source>
+        <target state="needs-translation">Design an alarm system for your bedroom that alerts you with a screen animation when someone opens your door.</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="67784" identifier="938a6abaf817236b19b9c1df99978293">
+        <source>You can mount one micro:bit on your door and use the accelerometer to send a signal over the radio when it is being moved.</source>
+        <target state="needs-translation">You can mount one micro:bit on your door and use the accelerometer to send a signal over the radio when it is being moved.</target>
+        <note>Context: XPath: /p[3]</note>
+      </trans-unit>
+      <trans-unit id="67785" identifier="7dea247fa07e4b960085f13559385b38">
+        <source>Interactive art</source>
+        <target state="needs-translation">Interactive art</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[2]</note>
+      </trans-unit>
+      <trans-unit id="67786" identifier="7b1d97c549c463b845a1ec2ad3e45949">
+        <source>Create a piece of interactive artwork that receives something as input over the radio from another micro:bit, and displays something based on that as output.</source>
+        <target state="needs-translation">Create a piece of interactive artwork that receives something as input over the radio from another micro:bit, and displays something based on that as output.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[4]</note>
+      </trans-unit>
+      <trans-unit id="67787" identifier="ef8c89c2b2201f262f1f6a5b87937ef4">
+        <source>3-Note keyboard</source>
+        <target state="needs-translation">3-Note keyboard</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[3]</note>
+      </trans-unit>
+      <trans-unit id="67788" identifier="d5f6f4b0741d9122a3235413480f4d4b">
+        <source>This is a simple three-note keyboard that uses wooden paint stirrers and copper tape to make a connection to each of the three pins on the micro:bit.</source>
+        <target state="needs-translation">This is a simple three-note keyboard that uses wooden paint stirrers and copper tape to make a connection to each of the three pins on the micro:bit.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[5]</note>
+      </trans-unit>
+      <trans-unit id="67789" identifier="fa691d4030404c4382e61604097a3c8c" translate="no">
+        <source>/static/courses/csintro/radio/keyboard-copper-tape.png</source>
+        <target>/static/courses/csintro/radio/keyboard-copper-tape.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[6]/l/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67790" identifier="7390ecc59d9712d8407d91889b280413">
+        <source>Keyboard with copper tape</source>
+        <target state="needs-translation">Keyboard with copper tape</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[6]/l/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67791" identifier="1a4c5d049e90d3bdcdb7003d92136d05">
+        <source>Keyboard with copper tape connections
+ 
+When a key is pressed, it sends a number over the radio to a second micro:bit that plays the appropriate tone over a set of earbuds.</source>
+        <target state="needs-translation">Keyboard with copper tape connections
+ 
+When a key is pressed, it sends a number over the radio to a second micro:bit that plays the appropriate tone over a set of earbuds.</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="67792" identifier="48579d9e35221fb98595642ad6a1281d">
+        <source>This allows you to use each of the three pins on the first micro:bit to play a different tone.</source>
+        <target state="needs-translation">This allows you to use each of the three pins on the first micro:bit to play a different tone.</target>
+        <note>Context: XPath: /p[6]</note>
+      </trans-unit>
+      <trans-unit id="67793" identifier="f3174cd1008ace26f42633be4b84e21b" translate="no">
+        <source>/static/courses/csintro/radio/microbit-number-two.png</source>
+        <target>/static/courses/csintro/radio/microbit-number-two.png</target>
+        <note>Context: Image Source&#13;
+XPath: /p[7]/l/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67794" identifier="10bc78f4752819c174e143d7ed8efbfe">
+        <source>Second micro:bit that plays notes</source>
+        <target state="needs-translation">Second micro:bit that plays notes</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[7]/l/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67795" identifier="4764167a044c1cae955d73f5cbf349a7">
+        <source>Second micro:bit that plays the notes</source>
+        <target state="needs-translation">Second micro:bit that plays the notes</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[7]</note>
+      </trans-unit>
+      <trans-unit id="67796" identifier="e6802fd8d4cc1ecc6aa8c0a2fa83af5e">
+        <source>3-Note keyboard program</source>
+        <target state="needs-translation">3-Note keyboard program</target>
+        <note>Context: Headline 4&#13;
+XPath: /h4</note>
+      </trans-unit>
+      <trans-unit id="67797" identifier="afd36f8e230a243a9b3cf4ab6e7d0b1a">
+        <source>let sound = 0
+radio.onDataPacketReceived( ({ receivedNumber }) =&amp;gt;  {
+    if (receivedNumber == 0) {
+        sound = 349
+        music.playTone(sound, music.beat(BeatFraction.Half))
+    } else if (receivedNumber == 1) {
+        sound = 392
+        music.playTone(sound, music.beat(BeatFraction.Half))
+    } else if (receivedNumber == 2) {
+        sound = 440
+        music.playTone(sound, music.beat(BeatFraction.Half))
+    }
+})
+input.onPinPressed(TouchPin.P0, () =&amp;gt; {
+    sound = 0
+    radio.sendNumber(sound)
+    basic.showLeds(`
+        .</source>
+        <target state="needs-translation">let sound = 0
+radio.onDataPacketReceived( ({ receivedNumber }) =&amp;gt;  {
+    if (receivedNumber == 0) {
+        sound = 349
+        music.playTone(sound, music.beat(BeatFraction.Half))
+    } else if (receivedNumber == 1) {
+        sound = 392
+        music.playTone(sound, music.beat(BeatFraction.Half))
+    } else if (receivedNumber == 2) {
+        sound = 440
+        music.playTone(sound, music.beat(BeatFraction.Half))
+    }
+})
+input.onPinPressed(TouchPin.P0, () =&amp;gt; {
+    sound = 0
+    radio.sendNumber(sound)
+    basic.showLeds(`
+        .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67798" identifier="b80ea443b72e752feb90e2b89d927d04" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67799" identifier="ff1d4f6805f2b7271e34c2b46799b82d" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67800" identifier="9e3e0fa6bb4555b32559df3aaa6aa4ff" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67801" identifier="614c66d312b6cc72dbfba6c705ef035b" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67802" identifier="273d2f756f58fd3404bff3e037f0a70b" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67803" identifier="b8c88a0041470da70a9393bca4ab8670" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67804" identifier="0a490fa443a0f11708ae57178a7a5ccf" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67805" identifier="906f44a127e8ed8891969f25e45ecfc9" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67806" identifier="8acddae65bf998157ef10c529a7be813" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67807" identifier="c4cb462a8cd30da7679c9a04b446aade" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67808" identifier="3d4676fd8e1e9dadd3a505ce73765426" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67809" identifier="1d7a1e24877e4d993075e7d7002e1093" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67810" identifier="7971cb148e23de4a822bdd050a2131d3" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67811" identifier="97bec8cb16e622a4c0c8ae9b7bfb8e2b" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67812" identifier="465848432ea313cc4abe757399bc51f4" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67813" identifier="98ef293adec255846829f196ef5e7a07" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67814" identifier="37c84a5139c4c7558da2d0542a5ffdce">
+        <source>`)
+    basic.pause(500)
+    basic.clearScreen()
+})
+input.onPinPressed(TouchPin.P1, () =&amp;gt; {
+    sound = 1
+    radio.sendNumber(sound)
+    basic.showLeds(`
+        .</source>
+        <target state="needs-translation">`)
+    basic.pause(500)
+    basic.clearScreen()
+})
+input.onPinPressed(TouchPin.P1, () =&amp;gt; {
+    sound = 1
+    radio.sendNumber(sound)
+    basic.showLeds(`
+        .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67815" identifier="90d5e4353612a21572f40f6243a4a374" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67816" identifier="de88256ab5903bc815fb49cd538cb295" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67817" identifier="f9af6df10ea7ee98e84a0d9133666889" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67818" identifier="3bf81ee1af286c6552ab10dcf1e6184d" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67819" identifier="f3d1aa2d3d9da8e6d51929272e2a9170" translate="no">
+        <source># # .</source>
+        <target># # .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67820" identifier="4e35022d78b79f05042afaecc34eded0" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67821" identifier="d7aa3585663cd0c8c93b95e8526e4105" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67822" identifier="fbecf7b105726ba29ec5c820ddb185fd" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67823" identifier="dcd49cb1ae3adb9edea1705fc593f591" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67824" identifier="f11c669cac4a5d35abb741e41331d9b8" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67825" identifier="bb77b4ec4f3dce6977cf1ce30773aea8" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67826" identifier="2a2fc177ae2ed512adc3c367d5fee9df" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67827" identifier="32005f30ced8528a65b28409492bdaec" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67828" identifier="7728ae777802abc647c60983ed194f95" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67829" identifier="825515ec65f5cf513b8a6ac22c273c07" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67830" identifier="3c767b70d2ec1bd2411f897eda387032" translate="no">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67831" identifier="3760af90d541a1add787209d1ff965b4">
+        <source>`)
+    basic.pause(500)
+    basic.clearScreen()
+})
+input.onPinPressed(TouchPin.P2, () =&amp;gt; {
+    sound = 2
+    radio.sendNumber(sound)
+    basic.showLeds(`
+        .</source>
+        <target state="needs-translation">`)
+    basic.pause(500)
+    basic.clearScreen()
+})
+input.onPinPressed(TouchPin.P2, () =&amp;gt; {
+    sound = 2
+    radio.sendNumber(sound)
+    basic.showLeds(`
+        .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67832" identifier="b9fe63a0864ae7da5e959039224a99ec" translate="no">
+        <source># # # .</source>
+        <target># # # .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67833" identifier="631f40a60dba01ac4a2ad4a4d9667307" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67834" identifier="7de7d6993fd3dca0b858299c23f74814" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67835" identifier="a9b3041852f635322914d20134734061" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67836" identifier="70a5431075667b736566b6dfb1b71e55" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67837" identifier="54e55e87cff3a2e8e70c164c14a19863" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67838" identifier="8059ffa3b80d8956425a7e2580edb1b3" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67839" identifier="42d65acab77a40b08d8514033c6f4048" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67840" identifier="e0b29ff5a244bd84841848542b10c319" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67841" identifier="3b9acfcf2434f8fb6c397fe56a942e52" translate="no">
+        <source># .</source>
+        <target># .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67842" identifier="ba2c1d8630fe4f6aadf53ee242ae405b" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67843" identifier="150538f8063bb5780573f81b8d43bff8" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67844" identifier="e65c5c2f8fc93021e86800f2c64b3cb7" translate="no">
+        <source># # # # .</source>
+        <target># # # # .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67845" identifier="714aafad7140ff7ed74f1c91fe7a9cbf">
+        <source>`)
+    basic.pause(500)
+    basic.clearScreen()
+})
+basic.showLeds(`
+    # # # # #
+    # # # # #
+    .</source>
+        <target state="needs-translation">`)
+    basic.pause(500)
+    basic.clearScreen()
+})
+basic.showLeds(`
+    # # # # #
+    # # # # #
+    .</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67846" identifier="5f7c2d75d6bf06f9b2c551d436ea95b7" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67847" identifier="6dd1755fbde49619cfc5fdd775b2a118" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67848" identifier="56c13ddaf329b3bcd7b2cf3974b73ebe" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67849" identifier="a16967b8c55175bb8ac6928294c99ec0" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67850" identifier="dbff0f3cd025eaf4857eaff80398c652" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67851" identifier="eb8a348eea73fc7c8a79b932aaadbfa7" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67852" identifier="2763562f803b8ee00f875d92d92b0dc5" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67853" identifier="0176a2b6f911a9882abe3978c0201834" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67854" identifier="98a8725c588aeb00d85bd6ca58f300cd" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67855" identifier="c64e5c0fe1a97ffdaec77ec104def988" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67856" identifier="e635c73bd7c45caa96e6bac4b1f03b7c" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67857" identifier="c1dfd664a5961340b577fd7936412ea3" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67858" identifier="d003f622da0bfc8ed3db4acb8411fb9a" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67859" identifier="bebdd7299c405785977cf9b80932c264" translate="no" approved="yes">
+        <source>.</source>
+        <target>.</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67860" identifier="b5de49c0f9fd78a4c233d002a909d34d">
+        <source>`)
+basic.clearScreen()</source>
+        <target state="needs-translation">`)
+basic.clearScreen()</target>
+        <note>Context: XPath: /pre/code</note>
+      </trans-unit>
+      <trans-unit id="67861" identifier="8188628c52d3de723d8c6db06b72fb5d">
+        <source>Radio tennis</source>
+        <target state="needs-translation">Radio tennis</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[4]</note>
+      </trans-unit>
+      <trans-unit id="67862" identifier="3b8edf040f225a83eb9b959cf73a784b">
+        <source>In this project, the tennis racquets alternate displaying a ball on the micro:bit LED screen.</source>
+        <target state="needs-translation">In this project, the tennis racquets alternate displaying a ball on the micro:bit LED screen.</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="67863" identifier="1332ff4d83e1f767aa3043c130908ad0">
+        <source>When you swing the racquet, the ball disappears from one micro:bit display and shows up on the other micro:bit's display.</source>
+        <target state="needs-translation">When you swing the racquet, the ball disappears from one micro:bit display and shows up on the other micro:bit's display.</target>
+        <note>Context: XPath: /p[8]</note>
+      </trans-unit>
+      <trans-unit id="67864" identifier="e6924dbdf539b03c949c1ca1f4ad4724" translate="no">
+        <source>/static/courses/csintro/radio/radio-tennis-racquets.jpg</source>
+        <target>/static/courses/csintro/radio/radio-tennis-racquets.jpg</target>
+        <note>Context: Image Source&#13;
+XPath: /p[9]/l/img[@src]</note>
+      </trans-unit>
+      <trans-unit id="67865" identifier="3c8df8c57c5b83db0cece191a1789ef1">
+        <source>Radio tennis racquets</source>
+        <target state="needs-translation">Radio tennis racquets</target>
+        <note>Context: Image Alternative Text&#13;
+XPath: /p[9]/l/img[@alt]</note>
+      </trans-unit>
+      <trans-unit id="67866" identifier="f3234f571e4f7da0e5160ce69c79167e">
+        <source>Radio Tennis racquets (made from cardboard)</source>
+        <target state="needs-translation">Radio Tennis racquets (made from cardboard)</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[9]</note>
+      </trans-unit>
+      <trans-unit id="67867" identifier="65ec2f2c4cd492b762d4817a0b564bdc" translate="no">
+        <source>Reflection</source>
+        <target>Reflection</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[2]</note>
+      </trans-unit>
+      <trans-unit id="67868" identifier="04aa252bc42b4a113d8db248b59b742e" translate="no">
+        <source>Have students write a reflection of about 150–300 words, addressing the following points:</source>
+        <target>Have students write a reflection of about 150–300 words, addressing the following points:</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[10]</note>
+      </trans-unit>
+      <trans-unit id="67869" identifier="6c06d00eb80c8dbdedaededf13ba0cf3">
+        <source>What kind of Project did you do?  How did you decide what to pick?</source>
+        <target state="needs-translation">What kind of Project did you do?  How did you decide what to pick?</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li</note>
+      </trans-unit>
+      <trans-unit id="67870" identifier="460c36168dbcd9b92a3685f971be60ce">
+        <source>How does your project use radio communication?</source>
+        <target state="needs-translation">How does your project use radio communication?</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[2]</note>
+      </trans-unit>
+      <trans-unit id="67871" identifier="4660662e5b2d9aaed1afec5394cd9d80">
+        <source>Are there separate programs for the Sender and the Receiver micro:bits?  Or 1 program for both?</source>
+        <target state="needs-translation">Are there separate programs for the Sender and the Receiver micro:bits?  Or 1 program for both?</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[3]</note>
+      </trans-unit>
+      <trans-unit id="67872" identifier="e7e880e7f076d1357817cc00930f4091" translate="no">
+        <source>Describe something in your project that you are proud of.</source>
+        <target>Describe something in your project that you are proud of.</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[4]</note>
+      </trans-unit>
+      <trans-unit id="67873" identifier="61091c7f322b53ea82558a9b6651d6f4" translate="no">
+        <source>Describe a difficult point in the process of designing this program, and explain how you resolved it.</source>
+        <target>Describe a difficult point in the process of designing this program, and explain how you resolved it.</target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[5]</note>
+      </trans-unit>
+      <trans-unit id="67874" identifier="dc03e5a0db9e770940b3af78da319017">
+        <source>What feedback did your beta testers give you? How did that help you improve your design?
+ </source>
+        <target state="needs-translation">What feedback did your beta testers give you? How did that help you improve your design?
+ </target>
+        <note>Context: List Item&#13;
+XPath: /ul/li[6]</note>
+      </trans-unit>
+      <trans-unit id="67875" identifier="6dcd468f80e5d9b74c6d1e91c6bd9e40" translate="no" approved="yes">
+        <source>Assessment</source>
+        <target>評価</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2[3]</note>
+      </trans-unit>
+      <trans-unit id="67876" identifier="53503942700bb7fd7631a5ae6e9639c7" translate="no">
+        <source>&lt;strong&gt;Competency scores&lt;/strong&gt;: 4, 3, 2, 1
+ </source>
+        <target>&lt;strong&gt;Competency scores&lt;/strong&gt;: 4, 3, 2, 1
+ </target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[11]</note>
+      </trans-unit>
+      <trans-unit id="67877" identifier="52a1dd035cbcae3259047153df039ae2" translate="no" approved="yes">
+        <source>Radio</source>
+        <target>無線</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[5]</note>
+      </trans-unit>
+      <trans-unit id="67878" identifier="29eafd00feb5384e1a28520633682fac">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; Effectively uses the Radio to send and receive data, with meaningful actions and responses for each.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Effectively uses the Radio to send or receive data, with meaningful actions and responses for each.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Use of Radio is incomplete or non-functional and/or tangential to operation of program.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; No working and/or meaningful use of Radio.</source>
+        <target state="needs-translation">&lt;strong&gt;4 =&lt;/strong&gt; Effectively uses the Radio to send and receive data, with meaningful actions and responses for each.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Effectively uses the Radio to send or receive data, with meaningful actions and responses for each.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Use of Radio is incomplete or non-functional and/or tangential to operation of program.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; No working and/or meaningful use of Radio.</target>
+        <note>Context: XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="67879" identifier="4944364d52b5f4036904f4491e1bd6f8">
+        <source>     </source>
+        <target state="needs-translation">     </target>
+        <note>Context: XPath: /p[12]</note>
+      </trans-unit>
+      <trans-unit id="67880" identifier="85e58d5392dfa84a05e35101cfebcb2e" translate="no" approved="yes">
+        <source>micro:bit program</source>
+        <target>micro:bit プログラム</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[6]</note>
+      </trans-unit>
+      <trans-unit id="67881" identifier="03ea9ca03ca19661819e2f0b78c4b54e">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; micro:bit program:&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Uses Radio blocks in a way that is integral to the program&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Compiles and runs as intended&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Meaningful comments in code&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; micro:bit program lacks 1 of the required elements.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; micro:bit program lacks 2 of the required elements.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; micro:bit program lacks all of the required elements.</source>
+        <target state="needs-translation">&lt;strong&gt;4 =&lt;/strong&gt; micro:bit program:&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Uses Radio blocks in a way that is integral to the program&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Compiles and runs as intended&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; Meaningful comments in code&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; micro:bit program lacks 1 of the required elements.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; micro:bit program lacks 2 of the required elements.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; micro:bit program lacks all of the required elements.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p[13]</note>
+      </trans-unit>
+      <trans-unit id="67882" identifier="2107a8436fb3ad2ee91e7518d9bae737" translate="no" approved="yes">
+        <source>Collaboration reflection</source>
+        <target>共同作業と内省</target>
+        <note>Context: Headline 3&#13;
+XPath: /h3[7]</note>
+      </trans-unit>
+      <trans-unit id="67883" identifier="f2f4c149d6e1cbb27a76fc50f7a29361" translate="no">
+        <source>&lt;strong&gt;4 =&lt;/strong&gt; Reflection piece addresses all prompts.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Reflection piece lacks 1 of the required elements.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Reflection piece lacks 2 of the required elements.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; Reflection piece lacks 3 of the required elements.</source>
+        <target>&lt;strong&gt;4 =&lt;/strong&gt; Reflection piece addresses all prompts.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Reflection piece lacks 1 of the required elements.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; Reflection piece lacks 2 of the required elements.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; Reflection piece lacks 3 of the required elements.</target>
+        <note>Context: XPath: /p[14]</note>
+      </trans-unit>
+      <trans-unit id="67884" identifier="9d4c33a01355c2495ad8141cac3975d6" translate="no">
+        <source> </source>
+        <target state="translated"> </target>
+        <note>Context: XPath: /p[14]</note>
+      </trans-unit>
+      <trans-unit id="71533" identifier="c6966c038966ef3c4abb5aa8842568d6" translate="no" approved="yes">
+        <source>radio</source>
+        <target>無線</target>
+        <note>Context: Text&#13;
+XPath: /pre[2]/code</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
