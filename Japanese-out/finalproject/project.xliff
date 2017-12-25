@@ -272,7 +272,7 @@ XPath: /blockquote/p/em</note>
       </trans-unit>
       <trans-unit id="66581" identifier="7c2143c1b95fa7be62545a2a7f3de807">
         <source>If a student simply didn't have time to do any work on the project, he should still file a work log, and report that no work got done.</source>
-        <target state="needs-translation">If a student simply didn't have time to do any work on the project, he should still file a work log, and report that no work got done.</target>
+        <target state="translated">If 生徒 simply didn't have time to do any work on the project, he should still file a work log, and report that no work got done.</target>
         <note>Context: XPath: /p[15]</note>
       </trans-unit>
       <trans-unit id="66582" identifier="3674a39a951d7609232663d7fcf2589d">

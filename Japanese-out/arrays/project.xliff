@@ -56,7 +56,7 @@ XPath: /h2</note>
       </trans-unit>
       <trans-unit id="64603" identifier="a17bf100daaf57b1bacce1a403f330d5">
         <source>This is an example of a project that uses the micro:bit accelerometer to play different tones when the guitar is held and tilted while playing.</source>
-        <target state="needs-translation">This is an example of a project that uses the micro:bit accelerometer to play different tones when the guitar is held and tilted while playing.</target>
+        <target state="translated">This is ひとつの例 of a project that uses the micro:bit accelerometer to play different tones when the guitar is held and tilted while playing.</target>
         <note>Context: XPath: /p[4]</note>
       </trans-unit>
       <trans-unit id="64604" identifier="9c488bb4757734ba9875dc28f72d9ef2">
@@ -243,7 +243,7 @@ XPath: /h2[2]</note>
         <source> 
 Here is an example of how to create an array with musical notes.</source>
         <target state="translated"> 
-Here is an example of how to create 配列 with musical notes.</target>
+Here is ひとつの例 of how to create 配列 with musical notes.</target>
         <note>Context: XPath: /p[5]</note>
       </trans-unit>
       <trans-unit id="64631" identifier="f5690f01914a5a7aaa4c535ab224b0ef">
@@ -297,7 +297,7 @@ XPath: /pre[2]/code</note>
       </trans-unit>
       <trans-unit id="64635" identifier="d55a5e75d502933529c05f16dcf42201">
         <source>If students want to permanently change the values in their array (transpose music to increasingly higher keys, for example) they can use a for loop like this:</source>
-        <target state="needs-translation">If students want to permanently change the values in their array (transpose music to increasingly higher keys, for example) they can use a for loop like this:</target>
+        <target state="translated">If students want to permanently change the values in their array (transpose music to increasingly higher keys, 例えば) they can use a for loop like this:</target>
         <note>Context: XPath: /p[6]</note>
       </trans-unit>
       <trans-unit id="64636" identifier="8fc1436cd0a5dfd3b932bc79b43c653f">

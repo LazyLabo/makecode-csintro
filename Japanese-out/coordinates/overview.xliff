@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file id="1838" original="/microbit/docs/courses/csintro/coordinates/overview.md" source-language="en" target-language="ja" datatype="plaintext">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="/microbit/docs/courses/csintro/coordinates/overview.md" source-language="en" datatype="plaintext" target-language="ja" id="1838">
     <body>
       <trans-unit id="66343" identifier="913f6422d41f0413a2feb499068e4895" translate="no">
         <source>Introduction</source>
@@ -22,19 +22,19 @@ XPath: /h2</note>
       </trans-unit>
       <trans-unit id="66346" identifier="8cb259a9ddaf7c4b695b1698b19299a5">
         <source>The basic coordinate grid a student learns has two axes,</source>
-        <target state="needs-translation">The basic coordinate grid a student learns has two axes,</target>
+        <target state="translated">The basic coordinate grid 生徒 learns has two axes,</target>
         <note>Context: List Item&#13;
 XPath: /ul/li</note>
       </trans-unit>
       <trans-unit id="66347" identifier="b8d1a6a9de61d854a614692d40f77e43">
         <source>an x-axis which runs horizontally and</source>
-        <target state="needs-translation">an x-axis which runs horizontally and</target>
+        <target state="translated">an ｘ軸 which runs horizontally and</target>
         <note>Context: List Item&#13;
 XPath: /blockquote/ul/li</note>
       </trans-unit>
       <trans-unit id="66348" identifier="2b4ea322e2ce7af7067270ddfe1b4dcf">
         <source>a y-axis which runs vertically.</source>
-        <target state="needs-translation">a y-axis which runs vertically.</target>
+        <target state="translated">a ｙ軸 which runs vertically.</target>
         <note>Context: List Item&#13;
 XPath: /ul[2]/li</note>
       </trans-unit>
@@ -122,7 +122,7 @@ XPath: /h2[5]</note>
       </trans-unit>
       <trans-unit id="66363" identifier="7f603e4442a45d939db29d831f86ed9b">
         <source>The 5 x 5 grid of LEDs on the micro:bit represent a coordinate grid with a horizontal x-axis and a vertical y-axis.</source>
-        <target state="needs-translation">The 5 x 5 grid of LEDs on the micro:bit represent a coordinate grid with a horizontal x-axis and a vertical y-axis.</target>
+        <target state="translated">The 5 x 5 grid of LEDs on the micro:bit represent a coordinate grid with a 水平なｘ軸 and a 垂直なｙ軸.</target>
         <note>Context: XPath: /p[3]</note>
       </trans-unit>
       <trans-unit id="66364" identifier="08f26c5edce2dcf6967eb7c58968edda">
@@ -133,8 +133,8 @@ XPath: /h2[5]</note>
       <trans-unit id="66365" identifier="55815075f0a3ce4505a5bcbf912071ea">
         <source> 
 It is important however that the students understand the two major differences between the micro:bit LED grid and the coordinate grid that they are used to using in math class:</source>
-        <target state="needs-translation"> 
-It is important however that the students understand the two major differences between the micro:bit LED grid and the coordinate grid that they are used to using in math class:</target>
+        <target state="translated"> 
+It is important however that 生徒たち understand the two major differences between the micro:bit LED grid and the coordinate grid that they are used to using in math class:</target>
         <note>Context: XPath: /p[3]</note>
       </trans-unit>
       <trans-unit id="66366" identifier="cebcf59ea9bdcef5738790650f29dd02">

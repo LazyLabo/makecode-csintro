@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file id="1825" original="/microbit/docs/courses/csintro/booleans/project.md" source-language="en" target-language="ja" datatype="plaintext">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="/microbit/docs/courses/csintro/booleans/project.md" source-language="en" datatype="plaintext" target-language="ja" id="1825">
     <body>
       <trans-unit id="65371" identifier="d82ada5a1870e00c11746927bb7af976">
         <source>Project: Boolean</source>
@@ -36,7 +36,7 @@ XPath: /h2</note>
       </trans-unit>
       <trans-unit id="65376" identifier="390663347489df23462cdd2a82b8d201">
         <source>Remind the students of all the different inputs available to them through the micro:bit.</source>
-        <target state="translated">Remind the students of all the ちがう入力 available to them through the micro:bit.</target>
+        <target state="translated">Remind 生徒たち of all the ちがう入力 available to them through the micro:bit.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[3]</note>
       </trans-unit>
@@ -2805,7 +2805,7 @@ player1Turn = true</target>
       </trans-unit>
       <trans-unit id="65870" identifier="364b684cfd640d77ebe8a329bffb8ad2">
         <source>This is an example of a board game in which the micro:bit displays an arrow pointing in a random direction. The paper legend indicates different actions the player must take. </source>
-        <target state="needs-translation">This is an example of a board game in which the micro:bit displays an arrow pointing in a random direction. The paper legend indicates different actions the player must take. </target>
+        <target state="translated">This is ひとつの例 of a board game in which the micro:bit displays an arrow pointing in a random direction. The paper legend indicates different actions the player must take. </target>
         <note>Context: Paragraph text&#13;
 XPath: /p[14]</note>
       </trans-unit>

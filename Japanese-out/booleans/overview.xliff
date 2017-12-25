@@ -270,8 +270,8 @@ XPath: /h2[3]</note>
       <trans-unit id="65359" identifier="51bb7b9da2c4feb2c4d8498e75b5f98a">
         <source>NOT can be used when checking that a condition is false (or not true).
 For example:</source>
-        <target state="needs-translation">NOT can be used when checking that a condition is false (or not true).
-For example:</target>
+        <target state="translated">NOT can be used when checking that a condition is false (or not true).
+例えば:</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[8]</note>
       </trans-unit>

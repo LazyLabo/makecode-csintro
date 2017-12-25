@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file id="1841" original="/microbit/docs/courses/csintro/coordinates/unplugged.md" source-language="en" target-language="ja" datatype="plaintext">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="/microbit/docs/courses/csintro/coordinates/unplugged.md" source-language="en" datatype="plaintext" target-language="ja" id="1841">
     <body>
       <trans-unit id="66444" identifier="17b156ce72ba05b460c65b01224fb6c5">
         <source>Unplugged: Battleship</source>
@@ -10,7 +10,7 @@ XPath: /h1</note>
       </trans-unit>
       <trans-unit id="66445" identifier="02bb71854b3bebdf99b2937a755091a1">
         <source>The game Battleship is perhaps the most fun a student can have practicing using a coordinate grid.</source>
-        <target state="needs-translation">The game Battleship is perhaps the most fun a student can have practicing using a coordinate grid.</target>
+        <target state="translated">The game Battleship is perhaps the most fun 生徒 can have practicing using a coordinate grid.</target>
         <note>Context: XPath: /p</note>
       </trans-unit>
       <trans-unit id="66446" identifier="7b1d6309b81ee0e030fa255905f68fa8">
@@ -21,8 +21,8 @@ XPath: /h1</note>
       <trans-unit id="66447" identifier="1cc34e69901e14fe68871910f58efc3a">
         <source> 
 To help us practice using the correct coordinates for the grid of micro:bit LEDs, let the students play a smaller 5x5 version of Battleship using x and y coordinates instead of letters and numbers.</source>
-        <target state="needs-translation"> 
-To help us practice using the correct coordinates for the grid of micro:bit LEDs, let the students play a smaller 5x5 version of Battleship using x and y coordinates instead of letters and numbers.</target>
+        <target state="translated"> 
+To help us practice using the correct coordinates for the grid of micro:bit LEDs, let 生徒たち play a smaller 5x5 version of Battleship using x and y coordinates instead of letters and numbers.</target>
         <note>Context: XPath: /p</note>
       </trans-unit>
       <trans-unit id="66448" identifier="7402e4e3a7ba8ef61d596f40eff8881d">
@@ -110,7 +110,7 @@ XPath: /pre[2]/code</note>
       </trans-unit>
       <trans-unit id="66459" identifier="e55d24d97f45b7d22fb4d4e9fa48d3d9">
         <source>Then pair the students to play against a partner.</source>
-        <target state="needs-translation">Then pair the students to play against a partner.</target>
+        <target state="translated">Then pair 生徒たち to play against a partner.</target>
         <note>Context: XPath: /p[5]</note>
       </trans-unit>
       <trans-unit id="66460" identifier="cfc39eb8dc7b0e2719ed58a9e375f16b">
@@ -150,7 +150,7 @@ XPath: /pre[2]/code</note>
       </trans-unit>
       <trans-unit id="66467" identifier="f589168f83bf315950e4e948d71e40dc">
         <source>Since their grid is only one quarter the size of the original Battleship grid, students can use fewer and smaller ships. For example, they could play with 3 ships, one each of size 3, 2, and 1.</source>
-        <target state="needs-translation">Since their grid is only one quarter the size of the original Battleship grid, students can use fewer and smaller ships. For example, they could play with 3 ships, one each of size 3, 2, and 1.</target>
+        <target state="translated">Since their grid is only one quarter the size of the original Battleship grid, students can use fewer and smaller ships. 例えば、 they could play with 3 ships, one each of size 3, 2, and 1.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[7]</note>
       </trans-unit>

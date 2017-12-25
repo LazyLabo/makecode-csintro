@@ -68,7 +68,7 @@ XPath: /ul/li[4]</note>
       </trans-unit>
       <trans-unit id="64410" identifier="9c69a1456956769cd34dc0fd6c4e6939">
         <source>Attach this array block to the end of the 'set' variable block.</source>
-        <target state="translated">Attach this array block to the end of the 「変数を・・・にする（set item）」ブロック.</target>
+        <target state="translated">Attach this 配列ブロック to the end of the 「変数を・・・にする（set item）」ブロック.</target>
         <note>Context: List Item&#13;
 XPath: /ul/li[5]</note>
       </trans-unit>
@@ -92,7 +92,7 @@ XPath: /ul[2]/li</note>
       </trans-unit>
       <trans-unit id="64414" identifier="d4e444982662109e536cd31394a685dd">
         <source>From the pop up window, add as many values (elements) as you'd like to the array block by dragging the value block from the left side of the window to the array block on the right side of the window.</source>
-        <target state="translated">From the pop up window, add as many values (elements) as you'd like to 配列 block by dragging the value block from the left side of the window to 配列 block on the right side of the window.</target>
+        <target state="translated">From the pop up window, add as many values (elements) as you'd like to the 配列ブロック by dragging the value block from the left side of the window to the 配列ブロック on the right side of the window.</target>
         <note>Context: List Item&#13;
 XPath: /ul[2]/li[2]</note>
       </trans-unit>
@@ -433,7 +433,7 @@ XPath: /h2[3]</note>
       </trans-unit>
       <trans-unit id="64466" identifier="9492c092702b73225f7d889af023e6ab">
         <source>We can put this all together with an 'if...then...else' block and a 'less than' comparison block from the Logic Toolbox drawer, a subtraction block from the Math Toolbox drawer, and a 'game over' block from the Game Toolbox drawer (located under the Advanced menu).</source>
-        <target state="translated">We can put this all together with an 「もし・・・なら・・・でなければ（if...then...else）」 block and a 「（less than）」comparison block from the 論理(Logic)メニュー, a subtraction block from the 計算(Math)メニュー, and a 'game over' block from the ゲーム(Game)メニュー (located under the 高度なブロック(Advanced)メニュー).</target>
+        <target state="translated">We can put this all together with an 「もし・・・なら・・・でなければ（if...then...else）」 block and a 「（less than）」comparison block from the 論理(Logic)メニュー, 足し算ブロック from the 計算(Math)メニュー, and a 'game over' block from the ゲーム(Game)メニュー (located under the 高度なブロック(Advanced)メニュー).</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[13]</note>
       </trans-unit>
@@ -813,7 +813,7 @@ XPath: /p[23]/img[@src]</note>
       </trans-unit>
       <trans-unit id="64518" identifier="c5444a49c565af693807a97af612f717">
         <source>Gear icon on array block</source>
-        <target state="needs-translation">Gear icon on array block</target>
+        <target state="translated">Gear icon on 配列ブロック</target>
         <note>Context: Image Alternative Text&#13;
 XPath: /p[23]/img[@alt]</note>
       </trans-unit>

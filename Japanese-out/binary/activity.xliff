@@ -10,7 +10,7 @@ XPath: /h1</note>
       </trans-unit>
       <trans-unit id="64832" identifier="d2fe11abd503366d604fac811c57eaa2">
         <source>Guide the students through building a binary transmogrifier (converter) that converts between binary (base-2) and decimal (base-10) numbers.</source>
-        <target state="translated">Guide the students through building a binary transmogrifier (converter) that converts between バイナリー（2進数） and デシマル（10進数）.</target>
+        <target state="translated">Guide 生徒たち through building a binary transmogrifier (converter) that converts between バイナリー（2進数） and デシマル（10進数）.</target>
         <note>Context: XPath: /p</note>
       </trans-unit>
       <trans-unit id="64833" identifier="c92c58b493be47c5c722e07e3e681915">
@@ -38,7 +38,7 @@ XPath: /p[2]</note>
       </trans-unit>
       <trans-unit id="64837" identifier="b1f4727195d814bf1d36cd054aa2e7d2">
         <source>Tell the students that they will be building a binary transmogrifier with the micro:bit.</source>
-        <target state="needs-translation">Tell the students that they will be building a binary transmogrifier with the micro:bit.</target>
+        <target state="translated">Tell 生徒たち that they will be building a binary transmogrifier with the micro:bit.</target>
         <note>Context: XPath: /p[3]</note>
       </trans-unit>
       <trans-unit id="64838" identifier="545ed90e17242e149d4b28f9dd4fbe00">
@@ -55,8 +55,8 @@ XPath: /h2</note>
       <trans-unit id="64840" identifier="f0047c13838af8213fbff870ef90d0ae">
         <source>Students will need to create a number variable to hold the running decimal total.
 They should also create a string variable to hold the current binary number.</source>
-        <target state="translated">Students will need to create a number variable to hold the running decimal total.
-They should also create a string variable to hold the current 2進数.</target>
+        <target state="translated">Students will need to create 数値変数 to hold the running decimal total.
+They should also create 文字列変数 to hold the current 2進数.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[4]</note>
       </trans-unit>
@@ -143,7 +143,7 @@ XPath: /pre/code</note>
       </trans-unit>
       <trans-unit id="64854" identifier="75e14eed8900c64eba9ab01edb9ff144">
         <source>By setting the binary variable to an initial value of “ “ you tell the micro:bit that it is a string variable: a literal string of characters.</source>
-        <target state="needs-translation">By setting the binary variable to an initial value of “ “ you tell the micro:bit that it is a string variable: a literal string of characters.</target>
+        <target state="translated">By setting the binary variable to 初期値 of “ “ you tell the micro:bit that it is 文字列変数: a literal string of characters.</target>
         <note>Context: XPath: /p[7]</note>
       </trans-unit>
       <trans-unit id="64855" identifier="e94102ebfde27eae34792c1862c2da55">
@@ -243,7 +243,7 @@ XPath: /pre[2]/code</note>
       </trans-unit>
       <trans-unit id="64870" identifier="7d5c5ab10f60a5916685f591a7ce2ff8">
         <source>Let’s take 10 as an example.</source>
-        <target state="needs-translation">Let’s take 10 as an example.</target>
+        <target state="translated">Let’s take 10 as ひとつの例.</target>
         <note>Context: XPath: /p[12]</note>
       </trans-unit>
       <trans-unit id="64871" identifier="f5cd9ca8ac08777bbd986dc019592969">
@@ -428,13 +428,13 @@ XPath: /pre[3]/code</note>
       </trans-unit>
       <trans-unit id="64900" identifier="632727211c941c4aa6afbaef18e3f281">
         <source>Let’s work on what to do when button A is pressed.</source>
-        <target state="translated">Let’s work on what to do when Aボタン is pressed.</target>
+        <target state="translated">Let’s work on what to do Aボタンを押したら.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[21]</note>
       </trans-unit>
       <trans-unit id="64901" identifier="2468f1ed0262be1fa2dfd930c805fa9e">
         <source>Button A represents a binary “1”. Our first task is to join a “1” to the existing string variable called binary.</source>
-        <target state="needs-translation">Button A represents a binary “1”. Our first task is to join a “1” to the existing string variable called binary.</target>
+        <target state="translated">Button A represents a binary “1”. Our first task is to join a “1” to the existing 文字列変数 called binary.</target>
         <note>Context: List Item&#13;
 XPath: /ul[4]/li</note>
       </trans-unit>
@@ -458,14 +458,14 @@ XPath: /ul[4]/li[4]</note>
       </trans-unit>
       <trans-unit id="64905" identifier="26ec5cb9a1621eb48e328209746882f2">
         <source>And show the binary value on the screen so that when users press a button they can see the entire binary string</source>
-        <target state="translated">And show the binary value on 画面 so that when ユーザー press a button they can see the entire binary string</target>
+        <target state="translated">And show 2進数の値 on 画面 so that when ユーザー press a button they can see the entire binary string</target>
         <note>Context: List Item&#13;
 XPath: /ul[4]/li[5]</note>
       </trans-unit>
       <trans-unit id="64906" identifier="860ccbdb35820454e607aa19f6fa1acb">
         <source>let binary = &quot;&quot;
 input.onButtonPressed(Button.A, () =&amp;gt; {
-        binary = binary + &quot;1&quot;
+    binary = binary + &quot;1&quot;
     basic.showString(binary)
 })</source>
         <target state="needs-translation">let binary = &quot;&quot;
@@ -505,26 +505,26 @@ XPath: /blockquote[2]/ul/li[2]</note>
       </trans-unit>
       <trans-unit id="64912" identifier="4c0274c206cb8e4ac35bc4227c429e4f">
         <source>For Button A, you will need to use the multiplication Math block and your binary variable block to create the proper formula.</source>
-        <target state="translated">For Aボタン, you will need to use the multiplication Math block and your binary variable block to create the proper formula.</target>
+        <target state="translated">For Aボタン, you will need to use the multiplication 計算ブロック and your binary 変数ブロック to create the proper formula.</target>
         <note>Context: XPath: /ul[6]/li</note>
       </trans-unit>
       <trans-unit id="64913" identifier="bdc631ba6fd2d6f15652e1e2ff805688">
         <source>You will need to put that formula inside another Math addition block in order to add one to the result.</source>
-        <target state="needs-translation">You will need to put that formula inside another Math addition block in order to add one to the result.</target>
+        <target state="translated">You will need to put that formula inside another 足し算ブロック in order to add one to the result.</target>
         <note>Context: XPath: /ul[6]/li</note>
       </trans-unit>
       <trans-unit id="64914" identifier="1f5c4b116b1c58e4c4bc8be448d102ec">
         <source>let binary = &quot;&quot;
 let decimal = 0
 input.onButtonPressed(Button.A, () =&amp;gt; {
-        binary = binary + &quot;1&quot;
+    binary = binary + &quot;1&quot;
     basic.showString(binary)
     decimal = decimal * 2 + 1
 })</source>
         <target state="needs-translation">let binary = &quot;&quot;
 let decimal = 0
 input.onButtonPressed(Button.A, () =&amp;gt; {
-        binary = binary + &quot;1&quot;
+            binary = binary + &quot;1&quot;
     basic.showString(binary)
     decimal = decimal * 2 + 1
 })</target>

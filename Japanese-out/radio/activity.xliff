@@ -22,7 +22,7 @@ XPath: /p/img[@alt]</note>
       </trans-unit>
       <trans-unit id="67534" identifier="85e2db433d2b99f8605eed720aa80d06">
         <source>Guide the students in creating programs that use the radio communication blocks to send and receive data between two micro:bits.</source>
-        <target state="needs-translation">Guide the students in creating programs that use the radio communication blocks to send and receive data between two micro:bits.</target>
+        <target state="translated">Guide 生徒たち in creating programs that use the radio communication blocks to send and receive data between two micro:bits.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[2]</note>
       </trans-unit>
@@ -59,8 +59,8 @@ XPath: /h2</note>
       <trans-unit id="67540" identifier="b7c820258c9950232f7c19624cc75769">
         <source>Send and receive strings between micro:bits.
 On button A pressed, we will send the string Marco and on button B pressed we will send the string Polo.</source>
-        <target state="needs-translation">Send and receive strings between micro:bits.
-On button A pressed, we will send the string Marco and on button B pressed we will send the string Polo.</target>
+        <target state="translated">Send and receive strings between micro:bits.
+On Aボタン pressed, we will send the string Marco and on Bボタン pressed we will send the string Polo.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[4]</note>
       </trans-unit>
@@ -154,7 +154,7 @@ XPath: /ul[4]/li[2]</note>
       </trans-unit>
       <trans-unit id="67554" identifier="a2a369b801410abbf68c26edf891f083">
         <source>From the Variables Toolbox drawer, drag a 'receivedString' variable block into the default string value of &quot;Hello&quot; in the 'show string' block</source>
-        <target state="translated">From the 変数(Variables)メニュー, drag a 'receivedString' variable block into the default string value of &quot;Hello&quot; in the 「文字列を表示（show string）」 block</target>
+        <target state="translated">From the 変数(Variables)メニュー, drag a 'receivedString' 変数ブロック into the default string value of &quot;Hello&quot; in the 「文字列を表示（show string）」 block</target>
         <note>Context: List Item&#13;
 XPath: /ul[4]/li[3]</note>
       </trans-unit>
@@ -463,7 +463,7 @@ XPath: /ul[9]/li[2]</note>
       </trans-unit>
       <trans-unit id="67596" identifier="0774c06a41f04907322220fb42c2a69b">
         <source>From the Variables Toolbox drawer, drag a 'receivedNumber' variable block into the coding workspace, and drop it into the first slot of the comparison block</source>
-        <target state="translated">From the 変数(Variables)メニュー, drag a 'receivedNumber' variable block into コーディング ワークスペース, and drop it into the first slot of the comparison block</target>
+        <target state="translated">From the 変数(Variables)メニュー, drag a 'receivedNumber' 変数ブロック into コーディング ワークスペース, and drop it into the first slot of the comparison block</target>
         <note>Context: List Item&#13;
 XPath: /ul[9]/li[3]</note>
       </trans-unit>

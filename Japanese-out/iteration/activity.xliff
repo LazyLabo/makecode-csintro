@@ -432,7 +432,7 @@ XPath: /p[25]</note>
       </trans-unit>
       <trans-unit id="66902" identifier="8499b28ec7df4144a919f5432bfe95e0">
         <source>If there is time, let the students experiment with changing the parameters to see how these changes affect their program.</source>
-        <target state="needs-translation">If there is time, let the students experiment with changing the parameters to see how these changes affect their program.</target>
+        <target state="translated">If there is time, let 生徒たち experiment with changing the parameters to see how these changes affect their program.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[26]</note>
       </trans-unit>
@@ -460,7 +460,7 @@ XPath: /h2[3]</note>
       </trans-unit>
       <trans-unit id="66907" identifier="040fa6e2d0a727744361b22407d1b73e">
         <source>Let’s look at an example.</source>
-        <target state="needs-translation">Let’s look at an example.</target>
+        <target state="translated">Let’s look at ひとつの例.</target>
         <note>Context: XPath: /p[28]</note>
       </trans-unit>
       <trans-unit id="66908" identifier="e70e83a7d1a717a489e91f1cfc85440a">
@@ -783,7 +783,7 @@ XPath: /pre[9]/code</note>
       </trans-unit>
       <trans-unit id="70397" identifier="964ddb6d5db57658952e3ab8f1c59eeb">
         <source>&lt;strong&gt;Check:&lt;/strong&gt; Make sure the students can read this code.</source>
-        <target state="needs-translation">&lt;strong&gt;Check:&lt;/strong&gt; Make sure the students can read this code.</target>
+        <target state="translated">&lt;strong&gt;Check:&lt;/strong&gt; Make sure 生徒たち can read this code.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[39]</note>
       </trans-unit>
@@ -837,7 +837,7 @@ XPath: /ol/li[7]</note>
       </trans-unit>
       <trans-unit id="70399" identifier="1e483b25ff1e4fb7fabbf766a66925c2">
         <source>Have the students use the Slo-Mo mode to watch the program step through the loops.</source>
-        <target state="needs-translation">Have the students use the Slo-Mo mode to watch the program step through the loops.</target>
+        <target state="translated">Have 生徒たち use the Slo-Mo mode to watch the program step through the loops.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[41]</note>
       </trans-unit>
@@ -870,7 +870,7 @@ XPath: /h2[4]</note>
       </trans-unit>
       <trans-unit id="66957" identifier="7f262786103d87b46b25a3865a044dd6" translate="no">
         <source>If there is time, let the students experiment with changing the parameters to see how these changes affect their program.</source>
-        <target>If there is time, let the students experiment with changing the parameters to see how these changes affect their program.</target>
+        <target state="translated">If there is time, let 生徒たち experiment with changing the parameters to see how these changes affect their program.</target>
         <note>Context: List Item&#13;
 XPath: /ul[14]/li</note>
       </trans-unit>

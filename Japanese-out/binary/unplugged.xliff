@@ -112,7 +112,7 @@ XPath: /p[5]/strong</note>
       </trans-unit>
       <trans-unit id="65046" identifier="4840f221bdb3126be7e01f695b23ee70">
         <source>Draw in different items for purchase that would appeal to the students.</source>
-        <target state="needs-translation">Draw in different items for purchase that would appeal to the students.</target>
+        <target state="translated">Draw in different items for purchase that would appeal to 生徒たち.</target>
         <note>Context: XPath: /p[6]</note>
       </trans-unit>
       <trans-unit id="65047" identifier="a6c3f0453952c56bd5f8d8d84740f55c">
@@ -151,7 +151,7 @@ XPath: /h2[3]</note>
       </trans-unit>
       <trans-unit id="65053" identifier="8828fc563a426df9a4f9ee43a360218a">
         <source>Ask the students the following questions to spark discussion:</source>
-        <target state="needs-translation">Ask the students the following questions to spark discussion:</target>
+        <target state="translated">Ask 生徒たち the following questions to spark discussion:</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[9]</note>
       </trans-unit>
@@ -181,7 +181,7 @@ XPath: /ul[2]/li[4]</note>
       </trans-unit>
       <trans-unit id="65058" identifier="4fe0368bb3d1c738eafbee3acd19afa9">
         <source>Lead the students to realize that our core monetary denominations, like our number system are based on ten.</source>
-        <target state="needs-translation">Lead the students to realize that our core monetary denominations, like our number system are based on ten.</target>
+        <target state="translated">Lead 生徒たち to realize that our core monetary denominations, like our number system are based on ten.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[10]</note>
       </trans-unit>
@@ -332,18 +332,18 @@ XPath: /ul[6]/li[4]</note>
       </trans-unit>
       <trans-unit id="65084" identifier="2dde331bf08ae35649e030458d1f9ce0">
         <source>You can also prompt them by saying, for example, “It’s impossible to buy something that costs 11 units, isn’t it?” Someone will immediately point out that you CAN buy an 11-unit item with 8 + 2 + 1.</source>
-        <target state="needs-translation">You can also prompt them by saying, for example, “It’s impossible to buy something that costs 11 units, isn’t it?” Someone will immediately point out that you CAN buy an 11-unit item with 8 + 2 + 1.</target>
+        <target state="translated">You can also prompt them by saying, 例えば、 “It’s impossible to buy something that costs 11 units, isn’t it?” Someone will immediately point out that you CAN buy an 11-unit item with 8 + 2 + 1.</target>
         <note>Context: XPath: /p[15]</note>
       </trans-unit>
       <trans-unit id="65085" identifier="ed758f868270a7826e504a6a037889b7">
         <source>You can now have the students write down how they could pay, what coin(s) could they use to purchase each of the items priced 1 unit through 15 units with the coins they have OR have a whole class discussion with you keeping track of their methods of payment on the whiteboard.</source>
-        <target state="needs-translation">You can now have the students write down how they could pay, what coin(s) could they use to purchase each of the items priced 1 unit through 15 units with the coins they have OR have a whole class discussion with you keeping track of their methods of payment on the whiteboard.</target>
+        <target state="translated">You can now have 生徒たち write down how they could pay, what coin(s) could they use to purchase each of the items priced 1 unit through 15 units with the coins they have OR have a whole class discussion with you keeping track of their methods of payment on the whiteboard.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[16]</note>
       </trans-unit>
       <trans-unit id="65086" identifier="c6c43fb034eac06d800bd0a5b6da4cfb">
         <source>There will soon be a general agreement among the students that:</source>
-        <target state="needs-translation">There will soon be a general agreement among the students that:</target>
+        <target state="translated">There will soon be a general agreement among 生徒たち that:</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[17]</note>
       </trans-unit>
@@ -409,13 +409,13 @@ XPath: /ul[9]/li[2]</note>
       </trans-unit>
       <trans-unit id="65097" identifier="cbf54cd12c4cb920f28dd5f38e72f6b9">
         <source>Once again, you can now have the students write down how they could pay, what coin(s) could they use to purchase each of the items priced 16 units through the new maximum price with the coins they have, OR have a whole class discussion with you keeping track of their methods of payment on the whiteboard.</source>
-        <target state="needs-translation">Once again, you can now have the students write down how they could pay, what coin(s) could they use to purchase each of the items priced 16 units through the new maximum price with the coins they have, OR have a whole class discussion with you keeping track of their methods of payment on the whiteboard.</target>
+        <target state="translated">Once again, you can now have 生徒たち write down how they could pay, what coin(s) could they use to purchase each of the items priced 16 units through the new maximum price with the coins they have, OR have a whole class discussion with you keeping track of their methods of payment on the whiteboard.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[22]</note>
       </trans-unit>
       <trans-unit id="65098" identifier="cb863be25f95467ab015b709f8f2e726">
         <source>Again, there will soon be a general agreement among the students that:</source>
-        <target state="needs-translation">Again, there will soon be a general agreement among the students that:</target>
+        <target state="translated">Again, there will soon be a general agreement among 生徒たち that:</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[23]</note>
       </trans-unit>
@@ -519,7 +519,7 @@ XPath: /p[30]</note>
       </trans-unit>
       <trans-unit id="65116" identifier="d80fccd56234f72d2a099f85d4e5c07c">
         <source>Ask the students to place a numeral 1 above the coins that are face up and a numeral zero over the coins that are face down.</source>
-        <target state="needs-translation">Ask the students to place a numeral 1 above the coins that are face up and a numeral zero over the coins that are face down.</target>
+        <target state="translated">Ask 生徒たち to place a numeral 1 above the coins that are face up and a numeral zero over the coins that are face down.</target>
         <note>Context: XPath: /p[31]</note>
       </trans-unit>
       <trans-unit id="65117" identifier="062650d4bb1e27696c27f5ded18fed2b">
@@ -532,7 +532,7 @@ XPath: /p[32]</note>
         <source>Practice translating numbers from Base-10 to Base-2
 The students can now use this same method to translate other numbers from Base-10 to Base-2.</source>
         <target state="translated">Practice translating numbers from 10進数 to 2進数
-The students can now use this same method to translate other numbers from 10進数 to 2進数.</target>
+生徒たち can now use this same method to translate other numbers from 10進数 to 2進数.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[33]</note>
       </trans-unit>
@@ -554,7 +554,7 @@ XPath: /blockquote[2]/p</note>
         <source>Practice translating numbers from Base-2 to Base-10 
 Next, have the students use the above method in reverse to translate numbers from Base-2 to Base-10.</source>
         <target state="translated">Practice translating numbers from 2進数 to 10進数 
-Next, have the students use the above method in reverse to translate numbers from 2進数 to 10進数.</target>
+Next, have 生徒たち use the above method in reverse to translate numbers from 2進数 to 10進数.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[35]</note>
       </trans-unit>

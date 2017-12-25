@@ -66,7 +66,7 @@ XPath: /h2[2]</note>
       </trans-unit>
       <trans-unit id="67391" identifier="9522ca2347e541a4fa33be92b7ca93ee">
         <source>Think about also organizing a day or an evening when parents, administrators, or others from the community are invited to come and view the students' projects.</source>
-        <target state="needs-translation">Think about also organizing a day or an evening when parents, administrators, or others from the community are invited to come and view the students' projects.</target>
+        <target state="translated">Think about also organizing a day or an evening when parents, administrators, or others from the community are invited to come and view 生徒たち' projects.</target>
         <note>Context: XPath: /p[5]</note>
       </trans-unit>
       <trans-unit id="67392" identifier="72e88a1fe818a6c43a3790ea5daffa62">
@@ -628,7 +628,7 @@ XPath: /h2[9]</note>
       </trans-unit>
       <trans-unit id="67481" identifier="61505b94e1f86aeaa74f42e79a7b8825">
         <source>We actually split the grading of code between &quot;show what you know&quot; and &quot;show something new.&quot; If a student uses variables incorrectly or uses bad variable names, we generally would take off points in both places.</source>
-        <target state="needs-translation">We actually split the grading of code between &quot;show what you know&quot; and &quot;show something new.&quot; If a student uses variables incorrectly or uses bad variable names, we generally would take off points in both places.</target>
+        <target state="translated">We actually split the grading of code between &quot;show what you know&quot; and &quot;show something new.&quot; If 生徒 uses variables incorrectly or uses bad variable names, we generally would take off points in both places.</target>
         <note>Context: XPath: /p[24]</note>
       </trans-unit>
       <trans-unit id="67482" identifier="e313d52528ab3f73d079a6a7ba5a7195">

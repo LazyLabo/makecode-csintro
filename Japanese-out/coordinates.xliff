@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file id="1842" original="/microbit/docs/courses/csintro/coordinates.md" source-language="en" target-language="ja" datatype="plaintext">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="/microbit/docs/courses/csintro/coordinates.md" source-language="en" datatype="plaintext" target-language="ja" id="1842">
     <body>
       <trans-unit id="66475" identifier="1caef3aa99dc9da48510dc205a42cb9a">
         <source>Coordinate grid and LEDs</source>

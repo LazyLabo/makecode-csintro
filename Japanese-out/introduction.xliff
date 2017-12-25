@@ -42,7 +42,7 @@ We decided to focus on what knowing how to program allowed you to do and create.
       </trans-unit>
       <trans-unit id="66745" identifier="6765cc768006e3a5888cfffadc8e00b6">
         <source>By starting with interesting problems the students wanted to solve, they were much more engaged in learning to code.</source>
-        <target state="needs-translation">By starting with interesting problems the students wanted to solve, they were much more engaged in learning to code.</target>
+        <target state="translated">By starting with interesting problems 生徒たち wanted to solve, they were much more engaged in learning to code.</target>
         <note>Context: XPath: /p</note>
       </trans-unit>
       <trans-unit id="66746" identifier="d6e555a04024768baba1d05567fbfe8e">
@@ -57,12 +57,12 @@ We decided to focus on what knowing how to program allowed you to do and create.
       </trans-unit>
       <trans-unit id="66748" identifier="a16baed0b0e62c83a6a914659051a93a">
         <source>Opportunities for collaboration increased, and all the students got to see where their talents and skills meshed with others' interests and experiences, to make a whole that was greater than the sum of its parts.</source>
-        <target state="needs-translation">Opportunities for collaboration increased, and all the students got to see where their talents and skills meshed with others' interests and experiences, to make a whole that was greater than the sum of its parts.</target>
+        <target state="translated">Opportunities for collaboration increased, and all 生徒たち got to see where their talents and skills meshed with others' interests and experiences, to make a whole that was greater than the sum of its parts.</target>
         <note>Context: XPath: /p[2]</note>
       </trans-unit>
       <trans-unit id="66749" identifier="46237d452979a40e90fa3769e3e9965a">
         <source>We are now at the point where a third of the students taking computer science are girls, and more importantly, students are coming out of the course not only with an understanding of code, but also knowing how to read through professionally written code, and take an idea from brainstorming through prototyping to build something that matters.</source>
-        <target state="needs-translation">We are now at the point where a third of the students taking computer science are girls, and more importantly, students are coming out of the course not only with an understanding of code, but also knowing how to read through professionally written code, and take an idea from brainstorming through prototyping to build something that matters.</target>
+        <target state="translated">We are now at the point where a third of 生徒たち taking computer science are girls, and more importantly, students are coming out of the course not only with an understanding of code, but also knowing how to read through professionally written code, and take an idea from brainstorming through prototyping to build something that matters.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[3]</note>
       </trans-unit>
@@ -458,7 +458,7 @@ XPath: /h3[3]</note>
       </trans-unit>
       <trans-unit id="66818" identifier="fce51cb9b92868552b96e9c900bd6b4a">
         <source>Each lesson's micro:bit activity is an example that walks students step-by-step through building a project that demonstrates that lesson's topic.</source>
-        <target state="translated">Each lesson's micro:bit アクティビティ is an example that walks students step-by-step through building a project that demonstrates that lesson's topic.</target>
+        <target state="translated">Each lesson's micro:bit アクティビティ is ひとつの例 that walks students step-by-step through building a project that demonstrates that lesson's topic.</target>
         <note>Context: XPath: /p[13]</note>
       </trans-unit>
       <trans-unit id="66819" identifier="25bda60b3f5b82ae4e10d17c81476448">

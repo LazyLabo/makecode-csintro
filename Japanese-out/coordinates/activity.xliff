@@ -10,7 +10,7 @@ XPath: /h1</note>
       </trans-unit>
       <trans-unit id="66262" identifier="1104fbf3c9037e79581641b171b884b5">
         <source>Guide the students to create programs using coordinates and LEDs.</source>
-        <target state="needs-translation">Guide the students to create programs using coordinates and LEDs.</target>
+        <target state="translated">Guide 生徒たち to create programs using coordinates and LEDs.</target>
         <note>Context: XPath: /p</note>
       </trans-unit>
       <trans-unit id="66263" identifier="f6930fd1067b48ffa50dc77aa00a1922">
@@ -20,7 +20,7 @@ XPath: /h1</note>
       </trans-unit>
       <trans-unit id="66264" identifier="b3f2cc04febb2ad20887b56ac6056b8a">
         <source>These programs can then be modified and used in the students’ more complex projects.</source>
-        <target state="needs-translation">These programs can then be modified and used in the students’ more complex projects.</target>
+        <target state="translated">These programs can then be modified and used in 生徒たち’ more complex projects.</target>
         <note>Context: XPath: /p</note>
       </trans-unit>
       <trans-unit id="66265" identifier="ed2b1f74d311178851ed2f518013b140" translate="no">
@@ -128,7 +128,7 @@ XPath: /blockquote/ul/li</note>
       </trans-unit>
       <trans-unit id="66278" identifier="f1b26d5832a40eb3f0051996737c79e1">
         <source>Have the students compare the two face images and determine which LEDs are on in both images.</source>
-        <target state="needs-translation">Have the students compare the two face images and determine which LEDs are on in both images.</target>
+        <target state="translated">Have 生徒たち compare the two face images and determine which LEDs are on in both images.</target>
         <note>Context: List Item&#13;
 XPath: /ul[4]/li</note>
       </trans-unit>
@@ -285,13 +285,13 @@ XPath: /h2[3]</note>
 * From the LED Toolbox drawer, drop a 'plot x y' block
 * Use the variable 'index' for the x value
 * From the Math Toolbox drawer, drop a 'pick random' block into the y value</source>
-        <target state="needs-translation">Steps:
-* From the Input Toolbox drawer, select the 'on button pressed' block
-* From the Basic - More Toolbox drawer, drop in a 'clear screen' block
-* From the Loops Toolbox drawer, drop in a 'for' block
-* From the LED Toolbox drawer, drop a 'plot x y' block
+        <target state="translated">Steps:
+* From the 入力(Input)メニュー, select the 'on button pressed' block
+* From the Basic - More Toolbox drawer, drop in a 「表示を消す（clear screen）」 block
+* From the ループ(Loops)メニュー, drop in a 'for' block
+* From the LEDメニュー, drop a 'plot x y' block
 * Use the variable 'index' for the x value
-* From the Math Toolbox drawer, drop a 'pick random' block into the y value</target>
+* From the 計算(Math)メニュー, drop a 「０～４の範囲の乱数（pick random）」 block into the y value</target>
         <note>Context: XPath: /p[5]</note>
       </trans-unit>
       <trans-unit id="66298" identifier="fee33ad8ffc1d12289425b8aef813b5e">
@@ -522,19 +522,19 @@ XPath: /ul[11]/li[3]</note>
       </trans-unit>
       <trans-unit id="66330" identifier="e88d05e610152ac9091a5d647f905ae1">
         <source>From the Math Toolbox drawer, drag out an addition block and a subtraction block</source>
-        <target state="translated">From the 計算(Math)メニュー, drag out an addition block and a subtraction block</target>
+        <target state="translated">From the 計算(Math)メニュー, drag out an 足し算ブロック and 足し算ブロック</target>
         <note>Context: List Item&#13;
 XPath: /ul[11]/li[4]</note>
       </trans-unit>
       <trans-unit id="66331" identifier="6375a701f44da11092cd54b7b4835c83">
         <source>Place the addition block within the 'set brightness' block in the 'on button B pressed' block</source>
-        <target state="translated">Place the addition block within the 「明るさを設定する（set brightness）」 block in the 'on Bボタン pressed' block</target>
+        <target state="translated">Place the 足し算ブロック within the 「明るさを設定する（set brightness）」 block in the 'on Bボタン pressed' block</target>
         <note>Context: List Item&#13;
 XPath: /ul[11]/li[5]</note>
       </trans-unit>
       <trans-unit id="66332" identifier="a34de30700ef3afee95fecb7dc3558a0">
         <source>Place the subtraction block within the 'set brightness' block in the 'on button A pressed' block</source>
-        <target state="translated">Place the subtraction block within the 「明るさを設定する（set brightness）」 block in the 「ボタンAが押されたとき（on button A pressed）」 block</target>
+        <target state="translated">Place the 足し算ブロック within the 「明るさを設定する（set brightness）」 block in the 「ボタンAが押されたとき（on button A pressed）」 block</target>
         <note>Context: List Item&#13;
 XPath: /ul[11]/li[6]</note>
       </trans-unit>

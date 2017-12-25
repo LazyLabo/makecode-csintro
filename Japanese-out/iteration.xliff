@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file id="1856" original="/microbit/docs/courses/csintro/iteration.md" source-language="en" target-language="ja" datatype="plaintext">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="/microbit/docs/courses/csintro/iteration.md" source-language="en" datatype="plaintext" target-language="ja" id="1856">
     <body>
       <trans-unit id="67115" identifier="db3709e56c94efcbee30314f4c0b7e93" approved="yes">
         <source>Iteration &amp;amp; Looping</source>

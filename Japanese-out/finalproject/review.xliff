@@ -112,7 +112,7 @@ XPath: /h2[4]</note>
       </trans-unit>
       <trans-unit id="66708" identifier="a21aaf19c32a33988a700589f6d9ff37">
         <source>The &lt;a href=&quot;/projects/infection&quot;&gt;Infection&lt;/a&gt; activity is an example of a thought-provoking group simulation that uses the Radio to send and receive data between micro:bits.</source>
-        <target state="translated">The &lt;a href=&quot;/projects/infection&quot;&gt;Infection&lt;/a&gt; アクティビティ is an example of a thought-provoking group simulation that uses the Radio to send and receive data between micro:bits.</target>
+        <target state="translated">The &lt;a href=&quot;/projects/infection&quot;&gt;Infection&lt;/a&gt; アクティビティ is ひとつの例 of a thought-provoking group simulation that uses the Radio to send and receive data between micro:bits.</target>
         <note>Context: XPath: /p[6]</note>
       </trans-unit>
       <trans-unit id="66709" identifier="0f50fdbe3d40031c7ba4b36121460254" translate="no">

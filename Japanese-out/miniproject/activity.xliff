@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file id="1865" original="/microbit/docs/courses/csintro/miniproject/activity.md" source-language="en" target-language="ja" datatype="plaintext">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="/microbit/docs/courses/csintro/miniproject/activity.md" source-language="en" datatype="plaintext" target-language="ja" id="1865">
     <body>
       <trans-unit id="67344" identifier="39409cd99d12d80c6595c4bf765fea74">
         <source>Activity: Collaboratively independent</source>
@@ -171,7 +171,7 @@ XPath: /h2[3]</note>
       </trans-unit>
       <trans-unit id="67374" identifier="6d6c335c773f761c14e0351e2924ff56">
         <source>Gather the students together and have them move from table to table while each student presents one thing that he or she figured out during the class.</source>
-        <target state="needs-translation">Gather the students together and have them move from table to table while each student presents one thing that he or she figured out during the class.</target>
+        <target state="translated">Gather 生徒たち together and have them move from table to table while each student presents one thing that he or she figured out during the class.</target>
         <note>Context: XPath: /p[10]</note>
       </trans-unit>
       <trans-unit id="67375" identifier="8a133d63bb8614cf031245a942498407">

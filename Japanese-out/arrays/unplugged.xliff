@@ -93,13 +93,13 @@ XPath: /h2[4]</note>
       </trans-unit>
       <trans-unit id="64682" identifier="0a713275c810a15f6dd83c06f5e0067a">
         <source>Ask the Sorter to place the students in order by directing them to move, one at a time, to the proper place.</source>
-        <target state="needs-translation">Ask the Sorter to place the students in order by directing them to move, one at a time, to the proper place.</target>
+        <target state="translated">Ask the Sorter to place 生徒たち in order by directing them to move, one at a time, to the proper place.</target>
         <note>Context: List Item&#13;
 XPath: /ul[3]/li</note>
       </trans-unit>
       <trans-unit id="64683" identifier="9f14e2d411d935c0b3acbac73c0d3910">
         <source>Once the students are sorted, ask students the following:</source>
-        <target state="needs-translation">Once the students are sorted, ask students the following:</target>
+        <target state="translated">Once 生徒たち are sorted, ask students the following:</target>
         <note>Context: List Item&#13;
 XPath: /ul[3]/li[2]</note>
       </trans-unit>
@@ -137,7 +137,7 @@ XPath: /ul[4]/li[3]/em</note>
 Ask for clarification when necessary: &lt;em&gt;What does it mean when you say “put them in the right place”?&lt;/em&gt;
  
 &lt;em&gt;To Put Someone in the Right Place:&lt;/em&gt;</source>
-        <target state="needs-translation">&lt;em&gt;Then she went to each of the next students and put them in the right place.&lt;/em&gt;
+        <target state="translated">&lt;em&gt;Then she went to each of 次の生徒たち and put them in the right place.&lt;/em&gt;
  
 Ask for clarification when necessary: &lt;em&gt;What does it mean when you say “put them in the right place”?&lt;/em&gt;
  
@@ -758,7 +758,7 @@ XPath: /h3[3]</note>
       </trans-unit>
       <trans-unit id="64765" identifier="fb931a97cdb21564fcd0e6a45306b98f">
         <source>Next, take the next student and compare him to the first student in the sorted section.</source>
-        <target state="needs-translation">Next, take the next student and compare him to the first student in the sorted section.</target>
+        <target state="translated">Next, take 次の生徒 and compare him to the first student in the sorted section.</target>
         <note>Context: XPath: /p[10]</note>
       </trans-unit>
       <trans-unit id="64766" identifier="a344a28b81389bc4b04490bfa88b32e8">
@@ -773,7 +773,7 @@ XPath: /h3[3]</note>
       </trans-unit>
       <trans-unit id="64768" identifier="6edaa113b0950180bd7752886d95b8a8">
         <source>Continue down the line, considering each student in turn and then moving from left to right along the students in the sorted section until you find the proper place for each student to go, shifting the other students to the right to make room.</source>
-        <target state="needs-translation">Continue down the line, considering each student in turn and then moving from left to right along the students in the sorted section until you find the proper place for each student to go, shifting the other students to the right to make room.</target>
+        <target state="translated">Continue down the line, considering each student in turn and then moving from left to right along 生徒たち in the sorted section until you find the proper place for each student to go, shifting the other students to the right to make room.</target>
         <note>Context: XPath: /p[10]</note>
       </trans-unit>
       <trans-unit id="64769" identifier="a5ff5bc9946cffbf4ca1453e6853e931" translate="no">

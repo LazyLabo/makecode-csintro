@@ -22,12 +22,12 @@ XPath: /p/img[@alt]</note>
       </trans-unit>
       <trans-unit id="65159" identifier="3a8e0ee8952f9323e726c995dfd15e82">
         <source>Guide the students to create a program using Boolean variables and operators.</source>
-        <target state="translated">Guide the students to create a program using ブール型変数 and operators.</target>
+        <target state="translated">Guide 生徒たち to create a program using ブール型変数 and operators.</target>
         <note>Context: XPath: /p[2]</note>
       </trans-unit>
       <trans-unit id="65160" identifier="b8823f4b7354e03427ed78531a71fa29">
         <source>We’ll use our pseudocode from the previous activity to code a double coin flipper program.</source>
-        <target state="translated">We’ll use our pseudocode from the previous アクティビティ to code a double coin flipper program.</target>
+        <target state="translated">We’ll use 疑似コード from the previous アクティビティ to code a double coin flipper program.</target>
         <note>Context: XPath: /p[2]</note>
       </trans-unit>
       <trans-unit id="65161" identifier="61d4310f55cfb1ef356769807b3fd8d6">
@@ -294,7 +294,7 @@ XPath: /pre[3]/code</note>
       </trans-unit>
       <trans-unit id="65193" identifier="b18c488d342e53136a48fa8f2191df23">
         <source>Now our logic block is ready for the next steps of our pseudocode.</source>
-        <target state="needs-translation">Now our logic block is ready for the next steps of our pseudocode.</target>
+        <target state="translated">Now our 論理ブロック is ready for the next steps of 疑似コード.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[7]</note>
       </trans-unit>
@@ -318,8 +318,8 @@ XPath: /ol/li[2]</note>
       <trans-unit id="65197" identifier="15ce0a89303e7f4a26ede34f015d0771">
         <source> 
 Because we were able to visualize our blocks as we wrote our pseudocode, we already know what blocks we will use and also know that we have simplified our code as much as possible!</source>
-        <target state="needs-translation"> 
-Because we were able to visualize our blocks as we wrote our pseudocode, we already know what blocks we will use and also know that we have simplified our code as much as possible!</target>
+        <target state="translated"> 
+Because we were able to visualize our blocks as we wrote 疑似コード, we already know what blocks we will use and also know that we have simplified our code as much as possible!</target>
         <note>Context: XPath: /ol/li[3]</note>
       </trans-unit>
       <trans-unit id="65198" identifier="45bf534a88da75650e24548cec6c8188" translate="no">
@@ -992,7 +992,7 @@ Try it out!</target>
       </trans-unit>
       <trans-unit id="65309" identifier="79a346fa3a55bc3e5a48dad6eb47c0c8">
         <source>Have the students play a few more rounds of the Double Coin Flip using their new micro:bit Double Coin Flipper!</source>
-        <target state="needs-translation">Have the students play a few more rounds of the Double Coin Flip using their new micro:bit Double Coin Flipper!</target>
+        <target state="translated">Have 生徒たち play a few more rounds of the Double Coin Flip using their new micro:bit Double Coin Flipper!</target>
         <note>Context: XPath: /pre[5]/code</note>
       </trans-unit>
       <trans-unit id="65310" identifier="368451a182e09adb96827e1676c8ab71">

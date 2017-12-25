@@ -103,8 +103,8 @@ XPath: /p[2]/img[@alt]</note>
       <trans-unit id="65915" identifier="d46777a110396e4e2d057996d0f4fdc3">
         <source> 
 Working in pairs, have the students make a table or list of the possible outcomes if each student flipped a coin at the same time.</source>
-        <target state="needs-translation"> 
-Working in pairs, have the students make a table or list of the possible outcomes if each student flipped a coin at the same time.</target>
+        <target state="translated"> 
+Working in pairs, have 生徒たち make a table or list of the possible outcomes if each student flipped a coin at the same time.</target>
         <note>Context: XPath: /p[3]</note>
       </trans-unit>
       <trans-unit id="65916" identifier="2bd32db20b85563969c9566fdd6fa8fe">
@@ -184,8 +184,8 @@ Therefore, if Person A wins each time the outcomes are the same and Person B win
       <trans-unit id="65927" identifier="fbc9d5ce58cd4c5508124c39492a674b">
         <source> 
 Let the students experiment with this.</source>
-        <target state="needs-translation"> 
-Let the students experiment with this.</target>
+        <target state="translated"> 
+Let 生徒たち experiment with this.</target>
         <note>Context: XPath: /ul/li[2]</note>
       </trans-unit>
       <trans-unit id="65928" identifier="d613302d0be6a53e0f64d851f80fbe33">
@@ -274,9 +274,9 @@ Note: Tails = False can also be thought of as Tails = not true.</target>
       </trans-unit>
       <trans-unit id="65940" identifier="0c998cdd2d232dd1bfbf33f55c50d17d">
         <source> 
-Have the students copy their Heads/Tails table of possible outcomes, but label the columns &quot;Coin A Heads&quot; and &quot;Coin B Heads&quot; and replace each entry of ‘Heads’ with ‘True’ and ‘Tails’ with ‘False’.</source>
-        <target state="needs-translation"> 
-Have the students copy their Heads/Tails table of possible outcomes, but label the columns &quot;Coin A Heads&quot; and &quot;Coin B Heads&quot; and replace each entry of ‘Heads’ with ‘True’ and ‘Tails’ with ‘False’.</target>
+Have the students copy their Heads/Tails table of possible outcomes, but label the columns "Coin A Heads" and "Coin B Heads" and replace each entry of ‘Heads’ with ‘True’ and ‘Tails’ with ‘False’.</source>
+        <target state="translated"> 
+Have 生徒たち copy their Heads/Tails table of possible outcomes, but label the columns "Coin A Heads" and "Coin B Heads" and replace each entry of ‘Heads’ with 「真（true）」 and ‘Tails’ with 「偽（false）」.</target>
         <note>Context: XPath: /ul[2]/li[2]</note>
       </trans-unit>
       <trans-unit id="65941" identifier="720c0cb05f68e495bc9e2a3cd56d8b3c">
@@ -333,8 +333,8 @@ XPath: /p[7]</note>
       <trans-unit id="65948" identifier="375802f5499f0ae8c618028a43082256">
         <source> 
 Give the students a chance to work this out on their own.</source>
-        <target state="needs-translation"> 
-Give the students a chance to work this out on their own.</target>
+        <target state="translated"> 
+Give 生徒たち a chance to work this out on their own.</target>
         <note>Context: XPath: /pre[3]/code</note>
       </trans-unit>
       <trans-unit id="65949" identifier="1a46d196e692db300d3f296be76955b9">
@@ -363,8 +363,8 @@ Note:  Just as you do for math expressions with multiple operators, use parenthe
       <trans-unit id="65952" identifier="1d1475f0c7275d9717fe5ecb8c25f8b8">
         <source> 
 The students are by now familiar with the MakeCode blocks.</source>
-        <target state="needs-translation"> 
-The students are by now familiar with the MakeCode blocks.</target>
+        <target state="translated"> 
+生徒たち are by now familiar with the MakeCode blocks.</target>
         <note>Context: XPath: /pre[3]/code</note>
       </trans-unit>
       <trans-unit id="65953" identifier="cf53dbf99152838c469d5263a5309b9e">
