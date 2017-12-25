@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file id="1845" original="/microbit/docs/courses/csintro/finalproject/project.md" source-language="en" target-language="ja" datatype="plaintext">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="/microbit/docs/courses/csintro/finalproject/project.md" source-language="en" datatype="plaintext" target-language="ja" id="1845">
     <body>
       <trans-unit id="66535" identifier="8f2ce28e827cced91f8d6e38405d0425">
         <source>Final project</source>
@@ -612,14 +612,14 @@ Sample Final Narrative:</target>
         <source>This allowed me to get past something that was really bothering me, specifically adding and removing things from an array, and I was able to complete that in less than a day after having been stuck for more than a week (Work Log #4).&lt;/em&gt;
        
   &lt;em&gt;Once I started to get a little more clear on what to do, I was able to get more effective help from my classmates.</source>
-        <target state="needs-translation">This allowed me to get past something that was really bothering me, specifically adding and removing things from an array, and I was able to complete that in less than a day after having been stuck for more than a week (Work Log #4).&lt;/em&gt;
+        <target state="translated">This allowed me to get past something that was really bothering me, specifically adding and removing things from 配列, and I was able to complete that in less than a day after having been stuck for more than a week (Work Log #4).&lt;/em&gt;
        
   &lt;em&gt;Once I started to get a little more clear on what to do, I was able to get more effective help from my classmates.</target>
         <note>Context: XPath: /blockquote[3]/p</note>
       </trans-unit>
       <trans-unit id="66641" identifier="e24b053dea81e66b047b17233cb91e2b">
         <source>Specifically, Jordan helped me a lot with figuring out how to get an image to display properly on the screen.</source>
-        <target state="needs-translation">Specifically, Jordan helped me a lot with figuring out how to get an image to display properly on the screen.</target>
+        <target state="translated">Specifically, Jordan helped me a lot with figuring out how to get 画像 to display properly on 画面.</target>
         <note>Context: XPath: /blockquote[3]/p</note>
       </trans-unit>
       <trans-unit id="66642" identifier="dc330f57816d9b824818bccd662b3b96">
@@ -681,7 +681,7 @@ XPath: /h2[11]</note>
       </trans-unit>
       <trans-unit id="66653" identifier="5c8e124c2cd4447bb5b0ce9f613678e5">
         <source>Have a celebration of your students' hard work and hold an event at your school for parents, administrators, and other community members to appreciate all of the hard work that went into making each of the final projects.</source>
-        <target state="needs-translation">Have a celebration of your students' hard work and hold an event at your school for parents, administrators, and other community members to appreciate all of the hard work that went into making each of the final projects.</target>
+        <target state="translated">Have a celebration of your students' hard work and hold イベント at your school for parents, administrators, and other community members to appreciate all of the hard work that went into making each of the final projects.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[29]</note>
       </trans-unit>
@@ -692,7 +692,7 @@ XPath: /p[29]</note>
       </trans-unit>
       <trans-unit id="66655" identifier="f705efb7c6834130c393503ec15305bb">
         <source>Some schools do a &quot;shark tank&quot; type of event where students take turns &quot;pitching&quot; their project ideas to a panel composed of local software developers, entrepreneurs, and investors.</source>
-        <target state="needs-translation">Some schools do a &quot;shark tank&quot; type of event where students take turns &quot;pitching&quot; their project ideas to a panel composed of local software developers, entrepreneurs, and investors.</target>
+        <target state="translated">Some schools do a &quot;shark tank&quot; type of イベント where students take turns &quot;pitching&quot; their project ideas to a panel composed of local software developers, entrepreneurs, and investors.</target>
         <note>Context: XPath: /p[30]</note>
       </trans-unit>
       <trans-unit id="66656" identifier="c0a3e7452f7a6224ea1419618ad84371">

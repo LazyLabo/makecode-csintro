@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file id="1813" original="/microbit/docs/courses/csintro/arrays/unplugged.md" source-language="en" target-language="ja" datatype="plaintext">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="/microbit/docs/courses/csintro/arrays/unplugged.md" source-language="en" datatype="plaintext" target-language="ja" id="1813">
     <body>
       <trans-unit id="64666" identifier="20b407448880c5f95b75b9a12659b33d">
         <source>Unplugged: Different sorts of people</source>
@@ -10,12 +10,12 @@ XPath: /h2</note>
       </trans-unit>
       <trans-unit id="64667" identifier="5e53c62ae0a9221c38e4a89896a6c46f">
         <source>In this activity, you will demonstrate different kinds of sorting methods on your own students.</source>
-        <target state="needs-translation">In this activity, you will demonstrate different kinds of sorting methods on your own students.</target>
+        <target state="translated">In this アクティビティ, you will demonstrate different kinds of 並び替え方法 on your own students.</target>
         <note>Context: XPath: /p</note>
       </trans-unit>
       <trans-unit id="64668" identifier="a2fa7bc7f0cc637686454f6c8ff9854e">
         <source>This is an unplugged activity, so your students will be standing at the front of the room.</source>
-        <target state="needs-translation">This is an unplugged activity, so your students will be standing at the front of the room.</target>
+        <target state="translated">This is an アンプラグド アクティビティ, so your students will be standing at the front of the room.</target>
         <note>Context: XPath: /p</note>
       </trans-unit>
       <trans-unit id="64669" identifier="dd5d38bf58aa56fcd4308c12ae9b1c9c">
@@ -64,7 +64,7 @@ XPath: /ul[2]/li</note>
       </trans-unit>
       <trans-unit id="64677" identifier="903913c15ccc9bdd99bbfc4cbe0b8fcd">
         <source>Each of these students is like an element in an array.</source>
-        <target state="needs-translation">Each of these students is like an element in an array.</target>
+        <target state="translated">Each of these students is like 要素 in 配列.</target>
         <note>Context: XPath: /ul[2]/li[2]</note>
       </trans-unit>
       <trans-unit id="64678" identifier="207170203fb08ca7f762768e7bbcb164" translate="no">
@@ -75,7 +75,7 @@ XPath: /p[2]/l/img[@src]</note>
       </trans-unit>
       <trans-unit id="64679" identifier="d72573fb8a5d59d493874f00855da6ec">
         <source>Illustration of line of students representing an array</source>
-        <target state="needs-translation">Illustration of line of students representing an array</target>
+        <target state="translated">Illustration of line of students representing 配列</target>
         <note>Context: Image Alternative Text&#13;
 XPath: /p[2]/l/img[@alt]</note>
       </trans-unit>
@@ -225,7 +225,7 @@ XPath: /h4</note>
       </trans-unit>
       <trans-unit id="64703" identifier="f86c71fa53e138e605e1900fe6fa051c">
         <source>Create a variable called counter.</source>
-        <target state="needs-translation">Create a variable called counter.</target>
+        <target state="translated">Create 変数 called counter.</target>
         <note>Context: List Item&#13;
 XPath: /ol/li</note>
       </trans-unit>
@@ -281,22 +281,22 @@ XPath: /h4[2]</note>
       </trans-unit>
       <trans-unit id="64711" identifier="9310a0a7d5848d71f85fb4e4ea167a73">
         <source>&lt;strong&gt;Note:&lt;/strong&gt; Press B to display the array visually.</source>
-        <target state="needs-translation">&lt;strong&gt;Note:&lt;/strong&gt; Press B to display the array visually.</target>
+        <target state="translated">&lt;strong&gt;Note:&lt;/strong&gt; Press B to display 配列 visually.</target>
         <note>Context: XPath: /p[6]</note>
       </trans-unit>
       <trans-unit id="64712" identifier="14478d2828a95254e704d5b0d896c49a">
         <source>The length of each vertical bar represents each number in the array, from left to right.</source>
-        <target state="needs-translation">The length of each vertical bar represents each number in the array, from left to right.</target>
+        <target state="translated">The length of each vertical bar represents each number in 配列, from left to right.</target>
         <note>Context: XPath: /p[6]</note>
       </trans-unit>
       <trans-unit id="64713" identifier="a1c307094dbb483803055b5a48feb974">
         <source>Press A to sort the array using Bubble Sort.</source>
-        <target state="needs-translation">Press A to sort the array using Bubble Sort.</target>
+        <target state="translated">Press A to sort 配列 using Bubble Sort.</target>
         <note>Context: XPath: /p[6]</note>
       </trans-unit>
       <trans-unit id="64714" identifier="6c01250ca065034815273cc320815c8a">
         <source>Press A + B to generate new random numbers for the array.</source>
-        <target state="needs-translation">Press A + B to generate new random numbers for the array.</target>
+        <target state="translated">Press A + B to generate new random numbers for 配列.</target>
         <note>Context: XPath: /p[6]</note>
       </trans-unit>
       <trans-unit id="64715" identifier="5c101cb98062613701392d86065763a4">
@@ -500,13 +500,13 @@ XPath: /h4[3]</note>
       </trans-unit>
       <trans-unit id="64736" identifier="97eb60c6c65cf2e4034eb76447e3a1f2">
         <source>Find the smallest unsorted value in the array.</source>
-        <target state="needs-translation">Find the smallest unsorted value in the array.</target>
+        <target state="translated">Find the smallest unsorted value in 配列.</target>
         <note>Context: List Item&#13;
 XPath: /ol[2]/li</note>
       </trans-unit>
       <trans-unit id="64737" identifier="3793c756372f62dad27b57fb49bfb233">
         <source>Swap that value with the first unsorted value in the array.</source>
-        <target state="needs-translation">Swap that value with the first unsorted value in the array.</target>
+        <target state="translated">Swap that value with the first unsorted value in 配列.</target>
         <note>Context: List Item&#13;
 XPath: /ol[2]/li[2]</note>
       </trans-unit>
@@ -536,12 +536,12 @@ XPath: /h4[4]</note>
       </trans-unit>
       <trans-unit id="64742" identifier="96d2aaf73144966d37167452ab6f324a">
         <source>&lt;strong&gt;Note:&lt;/strong&gt; The inner loop gets smaller as the sorting algorithm runs because the number of unsorted items decreases as you go.</source>
-        <target state="needs-translation">&lt;strong&gt;Note:&lt;/strong&gt; The inner loop gets smaller as the sorting algorithm runs because the number of unsorted items decreases as you go.</target>
+        <target state="translated">&lt;strong&gt;Note:&lt;/strong&gt; 内側ループ gets smaller as the ソートアルゴリズム runs because the number of unsorted items decreases as you go.</target>
         <note>Context: XPath: /p[9]</note>
       </trans-unit>
       <trans-unit id="64743" identifier="7e20ecae766f9a3b7d9f98ee1ab5fecc">
         <source>The index that the inner loop starts at needs to change as the number of sorted items increases, which is why we have to use a separate counter (item) and compute j every time through the inner loop.</source>
-        <target state="needs-translation">The index that the inner loop starts at needs to change as the number of sorted items increases, which is why we have to use a separate counter (item) and compute j every time through the inner loop.</target>
+        <target state="translated">The index that 内側ループ starts at needs to change as the number of sorted items increases, which is why we have to use a separate counter (item) and compute j every time through 内側ループ.</target>
         <note>Context: XPath: /p[9]</note>
       </trans-unit>
       <trans-unit id="64744" identifier="96828c3cb19e698c911ddbd10e278e8a">

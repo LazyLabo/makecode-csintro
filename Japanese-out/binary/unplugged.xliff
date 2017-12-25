@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file id="1820" original="/microbit/docs/courses/csintro/binary/unplugged.md" source-language="en" target-language="ja" datatype="plaintext">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="/microbit/docs/courses/csintro/binary/unplugged.md" source-language="en" datatype="plaintext" target-language="ja" id="1820">
     <body>
       <trans-unit id="65027" identifier="256d8a520312e49f2ac19dfbf6f1dddd">
         <source>Unplugged: Binary vending machine</source>
@@ -10,12 +10,12 @@ XPath: /h1</note>
       </trans-unit>
       <trans-unit id="65028" identifier="b8cb3ec603ebbddadf50b31ed74372a1">
         <source>In this activity, students will explore the concept of binary numbers by experimenting with a very odd vending machine that only accepts Base-2 coins and doesn’t give change!</source>
-        <target state="needs-translation">In this activity, students will explore the concept of binary numbers by experimenting with a very odd vending machine that only accepts Base-2 coins and doesn’t give change!</target>
+        <target state="translated">In this アクティビティ, students will explore the concept of 2進数 by experimenting with a very odd vending machine that only accepts 2進数 coins and doesn’t give change!</target>
         <note>Context: XPath: /p</note>
       </trans-unit>
       <trans-unit id="65029" identifier="b6272fece4b2657b9e9a663ad1f1e2b5">
         <source>In the process, students will become familiar with an alternate numbering system, in this case binary (Base-2).</source>
-        <target state="needs-translation">In the process, students will become familiar with an alternate numbering system, in this case binary (Base-2).</target>
+        <target state="translated">In the process, students will become familiar with an alternate numbering system, in this case バイナリー（2進数）.</target>
         <note>Context: XPath: /p</note>
       </trans-unit>
       <trans-unit id="65030" identifier="2e9fc20a369735a2836f7833088f40fc">
@@ -475,7 +475,7 @@ XPath: /p[27]/l/img[@src]</note>
       </trans-unit>
       <trans-unit id="65108" identifier="4f1065740bd32ed04873db4d6bf228e4">
         <source>Coins representing binary digits</source>
-        <target state="needs-translation">Coins representing binary digits</target>
+        <target state="translated">Coins representing バイナリーディジット</target>
         <note>Context: Image Alternative Text&#13;
 XPath: /p[27]/l/img[@alt]</note>
       </trans-unit>
@@ -492,12 +492,12 @@ XPath: /p[27]</note>
       </trans-unit>
       <trans-unit id="65111" identifier="f287d8062d93463554ad7b60b54422ec">
         <source>This number system uses the number 2 as its base (each place is two times the one before it.) It is called the Base-2 system, or binary system.</source>
-        <target state="needs-translation">This number system uses the number 2 as its base (each place is two times the one before it.) It is called the Base-2 system, or binary system.</target>
+        <target state="translated">This number system uses the number 2 as its base (each place is two times the one before it.) It is called the 2進数 system, or binary system.</target>
         <note>Context: XPath: /p[28]</note>
       </trans-unit>
       <trans-unit id="65112" identifier="e98947114d3d246aa4216a722162bbe0">
         <source>The number system we are normally familiar with is the Base-10 system, or decimal system (each place is ten times the one before it.)</source>
-        <target state="needs-translation">The number system we are normally familiar with is the Base-10 system, or decimal system (each place is ten times the one before it.)</target>
+        <target state="translated">The number system we are normally familiar with is the 10進数 system, or decimal system (each place is ten times the one before it.)</target>
         <note>Context: XPath: /p[28]</note>
       </trans-unit>
       <trans-unit id="65113" identifier="f35f224e27ed664dfafa7b37b5f38559">
@@ -524,15 +524,15 @@ XPath: /p[30]</note>
       </trans-unit>
       <trans-unit id="65117" identifier="062650d4bb1e27696c27f5ded18fed2b">
         <source>The ones and zeros they just drew are the binary number version of the amount represented by the flipped-up coins. For the example: 45 in Base-10 = 101101 in Base-2</source>
-        <target state="needs-translation">The ones and zeros they just drew are the binary number version of the amount represented by the flipped-up coins. For the example: 45 in Base-10 = 101101 in Base-2</target>
+        <target state="translated">The ones and zeros they just drew are the 2進数 version of the amount represented by the flipped-up coins. For the example: 45 in 10進数 = 101101 in 2進数</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[32]</note>
       </trans-unit>
       <trans-unit id="65118" identifier="731c33b7609e2b9f8358b4eb62672fa3">
         <source>Practice translating numbers from Base-10 to Base-2
 The students can now use this same method to translate other numbers from Base-10 to Base-2.</source>
-        <target state="needs-translation">Practice translating numbers from Base-10 to Base-2
-The students can now use this same method to translate other numbers from Base-10 to Base-2.</target>
+        <target state="translated">Practice translating numbers from 10進数 to 2進数
+The students can now use this same method to translate other numbers from 10進数 to 2進数.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[33]</note>
       </trans-unit>
@@ -553,8 +553,8 @@ XPath: /blockquote[2]/p</note>
       <trans-unit id="65121" identifier="17c6a12dbd06676d0f116b5df3e2e7ba">
         <source>Practice translating numbers from Base-2 to Base-10 
 Next, have the students use the above method in reverse to translate numbers from Base-2 to Base-10.</source>
-        <target state="needs-translation">Practice translating numbers from Base-2 to Base-10 
-Next, have the students use the above method in reverse to translate numbers from Base-2 to Base-10.</target>
+        <target state="translated">Practice translating numbers from 2進数 to 10進数 
+Next, have the students use the above method in reverse to translate numbers from 2進数 to 10進数.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[35]</note>
       </trans-unit>
@@ -566,7 +566,7 @@ XPath: /ul[13]/li</note>
       </trans-unit>
       <trans-unit id="65123" identifier="e735153c08956fd46914134189e64100">
         <source>Write the ones and zeros representing the binary number being translated above the coins.</source>
-        <target state="needs-translation">Write the ones and zeros representing the binary number being translated above the coins.</target>
+        <target state="translated">Write the ones and zeros representing the 2進数 being translated above the coins.</target>
         <note>Context: List Item&#13;
 XPath: /ul[13]/li[2]</note>
       </trans-unit>

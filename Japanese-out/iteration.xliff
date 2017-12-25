@@ -82,7 +82,7 @@ XPath: /ul[2]/li[2]</note>
       </trans-unit>
       <trans-unit id="67128" identifier="a29112ed44aaa7f2814154359ec0929a" approved="yes">
         <source>micro:bit Activities: Code a sprite to walk a Square, travelling light, micro:bit alarm!</source>
-        <target>micro:bitアクティビティ: Code a sprite to walk a Square, travelling light, micro:bit alarm!</target>
+        <target state="translated">micro:bitアクティビティ: Code スプライト to walk a Square, travelling light, micro:bit alarm!</target>
         <note>Context: List Item&#13;
 XPath: /ul[2]/li[3]</note>
       </trans-unit>

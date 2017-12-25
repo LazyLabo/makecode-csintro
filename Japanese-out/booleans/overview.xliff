@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file id="1824" original="/microbit/docs/courses/csintro/booleans/overview.md" source-language="en" target-language="ja" datatype="plaintext">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="/microbit/docs/courses/csintro/booleans/overview.md" source-language="en" datatype="plaintext" target-language="ja" id="1824">
     <body>
       <trans-unit id="65314" identifier="913f6422d41f0413a2feb499068e4895" translate="no">
         <source>Introduction</source>
@@ -166,15 +166,15 @@ XPath: /ul[3]/li</note>
  
 Boolean Operators: AND, OR, and NOT
 To make working with Booleans useful for solving more complex decisions and searches, we can connect two or more Booleans into one decision statement.</source>
-        <target state="needs-translation">While a certain condition is true, do this
+        <target state="translated">While a certain condition is true, do this
  
-Boolean Operators: AND, OR, and NOT
+ブール演算子: AND, OR, and NOT
 To make working with Booleans useful for solving more complex decisions and searches, we can connect two or more Booleans into one decision statement.</target>
         <note>Context: XPath: /ul[3]/li[2]</note>
       </trans-unit>
       <trans-unit id="65343" identifier="fd2711d1d4582b25f3983ac3a192fa5f">
         <source>To do this, we use what are known as Boolean operators.</source>
-        <target state="needs-translation">To do this, we use what are known as Boolean operators.</target>
+        <target state="translated">To do this, we use what are known as ブール演算子.</target>
         <note>Context: XPath: /ul[3]/li[2]</note>
       </trans-unit>
       <trans-unit id="65344" identifier="9d15bc5fa9eef229ad63d614658c55a7">
@@ -204,7 +204,7 @@ XPath: /ul[4]/li[2]</note>
         <source>While event A has NOT happened
  
 Let’s look at how each of these work.</source>
-        <target state="needs-translation">While event A has NOT happened
+        <target state="translated">While イベント A has NOT happened
  
 Let’s look at how each of these work.</target>
         <note>Context: List Item&#13;
@@ -302,10 +302,10 @@ XPath: /ul[5]/li[2]</note>
 While button A is NOT pressed, continue to run this code…
  
 Note: ‘False’ can be thought of as equivalent to ‘NOT true’.</source>
-        <target state="needs-translation">For example, you can use a NOT to check  
-While button A is NOT pressed, continue to run this code…
+        <target state="translated">For example, you can use a NOT to check  
+While Aボタン is NOT pressed, continue to run this code…
  
-Note: ‘False’ can be thought of as equivalent to ‘NOT true’.</target>
+Note: 「偽（false）」 can be thought of as equivalent to ‘NOT true’.</target>
         <note>Context: XPath: /ul[5]/li[3]</note>
       </trans-unit>
       <trans-unit id="65365" identifier="771ec80e4c38f165469c70eb14852132">

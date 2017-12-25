@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file id="1875" original="/microbit/docs/courses/csintro/radio/unplugged.md" source-language="en" target-language="ja" datatype="plaintext">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="/microbit/docs/courses/csintro/radio/unplugged.md" source-language="en" datatype="plaintext" target-language="ja" id="1875">
     <body>
       <trans-unit id="67890" identifier="9a8db3c62775c97488319b89a51f072c">
         <source>Unplugged: Infection Simulation</source>
@@ -12,9 +12,9 @@ XPath: /h2</note>
         <source>For this activity, each student will need a micro:bit and battery pack, as well as the teacher who will be the Master controller.
  
 There are four parts to this unplugged activity:</source>
-        <target state="needs-translation">For this activity, each student will need a micro:bit and battery pack, as well as the teacher who will be the Master controller.
+        <target state="translated">For this アクティビティ, each student will need a micro:bit and battery pack, as well as the teacher who will be the Master controller.
  
-There are four parts to this unplugged activity:</target>
+There are four parts to this アンプラグド アクティビティ</target>
         <note>Context: Paragraph text&#13;
 XPath: /p</note>
       </trans-unit>
@@ -40,9 +40,9 @@ XPath: /ul/li[3]</note>
         <source>Test: Play again, testing different strategies and approaches for containing outbreak
  
 The goals of this activity are:</source>
-        <target state="needs-translation">Test: Play again, testing different strategies and approaches for containing outbreak
+        <target state="translated">Test: Play again, testing different strategies and approaches for containing outbreak
  
-The goals of this activity are:</target>
+The goals of this アクティビティ are:</target>
         <note>Context: List Item&#13;
 XPath: /ul/li[4]</note>
       </trans-unit>
@@ -105,8 +105,8 @@ On that page you should be able to copy the JavaScript code, then go to your Mak
       <trans-unit id="67905" identifier="6c0b683fa746e9a42f8c3026c53434ae">
         <source> 
 Then click the Download button to download this program onto your micro:bit.</source>
-        <target state="needs-translation"> 
-Then click the Download button to download this program onto your micro:bit.</target>
+        <target state="translated"> 
+Then click ダウンロード ボタン to download this program onto your micro:bit.</target>
         <note>Context: XPath: /p[3]</note>
       </trans-unit>
       <trans-unit id="67906" identifier="8ed1d34ba3bf74b977918d7dc4c2a3f6">
@@ -117,8 +117,8 @@ Then click the Download button to download this program onto your micro:bit.</ta
       <trans-unit id="67907" identifier="4e787a1da634d07b16e258acd9ca4872">
         <source> 
 This activity works best in an open area.</source>
-        <target state="needs-translation"> 
-This activity works best in an open area.</target>
+        <target state="translated"> 
+This アクティビティ works best in an open area.</target>
         <note>Context: XPath: /p[3]</note>
       </trans-unit>
       <trans-unit id="67908" identifier="6bb3da82530c9a727f0a408aedfc067d">

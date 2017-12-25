@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file id="1811" original="/microbit/docs/courses/csintro/arrays/project.md" source-language="en" target-language="ja" datatype="plaintext">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="/microbit/docs/courses/csintro/arrays/project.md" source-language="en" datatype="plaintext" target-language="ja" id="1811">
     <body>
       <trans-unit id="64594" identifier="22ebf67c28ea8670bead9ee9453b9635">
         <source>Project: Musical instrument</source>
@@ -61,7 +61,7 @@ XPath: /h2</note>
       </trans-unit>
       <trans-unit id="64604" identifier="9c488bb4757734ba9875dc28f72d9ef2">
         <source>Pressing the A button will save the current tone to an array.</source>
-        <target state="needs-translation">Pressing the A button will save the current tone to an array.</target>
+        <target state="translated">Pressing Aボタン will save the current tone to 配列.</target>
         <note>Context: XPath: /p[4]</note>
       </trans-unit>
       <trans-unit id="64605" identifier="9241553e524064540a3ae69042303a1b">
@@ -71,7 +71,7 @@ XPath: /h2</note>
       </trans-unit>
       <trans-unit id="64606" identifier="3eff643cbe98c5208525986f993dfdb7">
         <source>Press the B button to clear the array and start over.</source>
-        <target state="needs-translation">Press the B button to clear the array and start over.</target>
+        <target state="translated">Press Bボタン to clear 配列 and start over.</target>
         <note>Context: XPath: /p[4]</note>
       </trans-unit>
       <trans-unit id="64607" identifier="297a845315bc673146248be7f3b7a3d0">
@@ -226,7 +226,7 @@ XPath: /h2[2]</note>
       </trans-unit>
       <trans-unit id="64627" identifier="8af66e2d84788e31b093e63611d7a837">
         <source>You can create an array of notes by attaching Music blocks to an array.</source>
-        <target state="needs-translation">You can create an array of notes by attaching Music blocks to an array.</target>
+        <target state="translated">You can create 配列 of notes by attaching 音楽ブロック to 配列.</target>
         <note>Context: XPath: /p[5]</note>
       </trans-unit>
       <trans-unit id="64628" identifier="cc17aa7dad07d68006a1dba95505d1f6">
@@ -242,13 +242,13 @@ XPath: /h2[2]</note>
       <trans-unit id="64630" identifier="17079a357ffa576b09138dc4c767b9b8">
         <source> 
 Here is an example of how to create an array with musical notes.</source>
-        <target state="needs-translation"> 
-Here is an example of how to create an array with musical notes.</target>
+        <target state="translated"> 
+Here is an example of how to create 配列 with musical notes.</target>
         <note>Context: XPath: /p[5]</note>
       </trans-unit>
       <trans-unit id="64631" identifier="f5690f01914a5a7aaa4c535ab224b0ef">
         <source>Button A plays every note in the array.</source>
-        <target state="needs-translation">Button A plays every note in the array.</target>
+        <target state="translated">Button A plays every note in 配列.</target>
         <note>Context: XPath: /p[5]</note>
       </trans-unit>
       <trans-unit id="64632" identifier="9bf00c47b3dec6557bb3fd1a499dc4ea">
@@ -292,7 +292,7 @@ XPath: /pre[2]/code</note>
       </trans-unit>
       <trans-unit id="64634" identifier="1d787eecbe2af2ab0344b9d91aa8c8fb">
         <source>Remember that a 'for element value of list' loop makes a temporary copy of the value, so even if you change a value, it will not change the original element in the array.</source>
-        <target state="needs-translation">Remember that a 'for element value of list' loop makes a temporary copy of the value, so even if you change a value, it will not change the original element in the array.</target>
+        <target state="translated">Remember that a 「配列の値を変数に入れてくりかえす（for element value of list）」 loop makes a temporary copy of the value, so even if you change a value, it will not change the original element in 配列.</target>
         <note>Context: XPath: /p[6]</note>
       </trans-unit>
       <trans-unit id="64635" identifier="d55a5e75d502933529c05f16dcf42201">
@@ -387,8 +387,8 @@ XPath: /h3[2]</note>
 &lt;strong&gt;3 =&lt;/strong&gt; Stores each element of the array successfully.&lt;br/&gt;
 &lt;strong&gt;2 =&lt;/strong&gt; Array skips values or has other problems with storing and/or retrieving elements.&lt;br/&gt;
 &lt;strong&gt;1 =&lt;/strong&gt; Array doesn't work at all or no array present.</source>
-        <target state="needs-translation">&lt;strong&gt;4 =&lt;/strong&gt; Stores and iterates through each element of the array successfully.&lt;br/&gt;
-&lt;strong&gt;3 =&lt;/strong&gt; Stores each element of the array successfully.&lt;br/&gt;
+        <target state="translated">&lt;strong&gt;4 =&lt;/strong&gt; Stores and iterates through each element of 配列 successfully.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Stores each element of 配列 successfully.&lt;br/&gt;
 &lt;strong&gt;2 =&lt;/strong&gt; Array skips values or has other problems with storing and/or retrieving elements.&lt;br/&gt;
 &lt;strong&gt;1 =&lt;/strong&gt; Array doesn't work at all or no array present.</target>
         <note>Context: Paragraph text&#13;

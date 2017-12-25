@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file id="1810" original="/microbit/docs/courses/csintro/arrays/overview.md" source-language="en" target-language="ja" datatype="plaintext">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="/microbit/docs/courses/csintro/arrays/overview.md" source-language="en" datatype="plaintext" target-language="ja" id="1810">
     <body>
       <trans-unit id="64549" identifier="913f6422d41f0413a2feb499068e4895" translate="no">
         <source>Introduction</source>
@@ -26,7 +26,7 @@ XPath: /p[2]/img[@src]</note>
       </trans-unit>
       <trans-unit id="64553" identifier="f92d0867b330ae6d623e45ec32e7513c">
         <source>Rock collection is an array</source>
-        <target state="needs-translation">Rock collection is an array</target>
+        <target state="translated">Rock collection is 配列</target>
         <note>Context: Image Alternative Text&#13;
 XPath: /p[2]/img[@alt]</note>
       </trans-unit>
@@ -44,7 +44,7 @@ As your MakeCode programs get more and more complicated, and require more variab
       </trans-unit>
       <trans-unit id="64556" identifier="418ce0583793329c7f05b652a0bd7b5b">
         <source>MakeCode provides a special category for just this purpose, called an Array.</source>
-        <target state="needs-translation">MakeCode provides a special category for just this purpose, called an Array.</target>
+        <target state="translated">MakeCode provides a special category for just this purpose, called 配列.</target>
         <note>Context: XPath: /p[3]</note>
       </trans-unit>
       <trans-unit id="64557" identifier="4fbd53c7b0765d14d39fe5aaa68f234f" translate="no">
@@ -60,7 +60,7 @@ XPath: /ul/li</note>
       </trans-unit>
       <trans-unit id="64559" identifier="8854d8f2574e18bb22c54f2196da55c1">
         <source>Every spot in an array can be identified by its index, which is a number that corresponds to its location in the array. The first slot in an array is index 0, just like our rock collection above.</source>
-        <target state="needs-translation">Every spot in an array can be identified by its index, which is a number that corresponds to its location in the array. The first slot in an array is index 0, just like our rock collection above.</target>
+        <target state="translated">Every spot in 配列 can be identified by its index, which is a number that corresponds to its location in 配列. The first slot in 配列 is index 0, just like our rock collection above.</target>
         <note>Context: List Item&#13;
 XPath: /ul/li[2]</note>
       </trans-unit>
@@ -68,14 +68,14 @@ XPath: /ul/li[2]</note>
         <source>The length of an array refers to the total number of items in the array, and the index of the last element in an array is always one less than its length (because the array numbering starts at zero.)
  
 In MakeCode, you can create an array by assigning it to a variable.</source>
-        <target state="needs-translation">The length of an array refers to the total number of items in the array, and the index of the last element in an array is always one less than its length (because the array numbering starts at zero.)
+        <target state="translated">The length of 配列 refers to the total number of items in 配列, and the index of the last element in 配列 is always one less than its length (because 配列 numbering starts at zero.)
  
-In MakeCode, you can create an array by assigning it to a variable.</target>
+In MakeCode, you can create 配列 by assigning it to 変数.</target>
         <note>Context: XPath: /ul/li[3]</note>
       </trans-unit>
       <trans-unit id="64561" identifier="a2d7d333b129a67525c13fbfdf96d023">
         <source>The Array blocks can be found under the Advanced Toolbox menu.</source>
-        <target state="needs-translation">The Array blocks can be found under the Advanced Toolbox menu.</target>
+        <target state="translated">The 配列ブロック can be found under the Advanced Toolbox menu.</target>
         <note>Context: XPath: /ul/li[3]</note>
       </trans-unit>
       <trans-unit id="64562" identifier="e3aed247aa337351a1f3db9c0f3c1d0e" translate="no">
@@ -119,8 +119,8 @@ XPath: /pre/code</note>
       <trans-unit id="64569" identifier="b931625204b641102517bb581eb2482f">
         <source> 
 You can get items out of the array by specifying its index like this:</source>
-        <target state="needs-translation"> 
-You can get items out of the array by specifying its index like this:</target>
+        <target state="translated"> 
+You can get items out of 配列 by specifying its index like this:</target>
         <note>Context: XPath: /p[5]</note>
       </trans-unit>
       <trans-unit id="64570" identifier="33042d27ddc973b4702faae93777837e">
@@ -137,18 +137,18 @@ XPath: /p[6]</note>
 })
 ``` 
 The code above takes the first element in the array (the value at index 0) and shows it on the screen.</source>
-        <target state="needs-translation">input.onButtonPressed(Button.A, () =&gt; {
+        <target state="translated">input.onButtonPressed(Button.A, () =&gt; {
     basic.showNumber(list[0])
 })
 ``` 
-The code above takes the first element in the array (the value at index 0) and shows it on the screen.</target>
+The code above takes the first element in 配列 (the value at index 0) and shows it on 画面.</target>
         <note>Context: XPath: /p[7]</note>
       </trans-unit>
       <trans-unit id="64572" identifier="806aa0a8f0b58b9539c6dea83b4c28d8">
         <source> 
 There are lots of other blocks in the Arrays Toolbox drawer.</source>
-        <target state="needs-translation"> 
-There are lots of other blocks in the Arrays Toolbox drawer.</target>
+        <target state="translated"> 
+There are lots of other blocks in the 配列(Arrays)メニュー.</target>
         <note>Context: XPath: /p[7]</note>
       </trans-unit>
       <trans-unit id="64573" identifier="503fb60f30ae8e2581777243cb0095bd">
@@ -235,12 +235,12 @@ XPath: /h2[2]</note>
       </trans-unit>
       <trans-unit id="64586" identifier="5d28ef203887c740260f834da2452860">
         <source>Once you start saving lots of different values in an array, you will probably want to have some way to sort those values.</source>
-        <target state="needs-translation">Once you start saving lots of different values in an array, you will probably want to have some way to sort those values.</target>
+        <target state="translated">Once you start saving lots of different values in 配列, you will probably want to have some way to sort those values.</target>
         <note>Context: XPath: /p[8]</note>
       </trans-unit>
       <trans-unit id="64587" identifier="4f1f4e72271023eea46e7267bab11a27">
         <source>Many languages already implement a sorting algorithm that students can call upon as needed.</source>
-        <target state="needs-translation">Many languages already implement a sorting algorithm that students can call upon as needed.</target>
+        <target state="translated">Many languages already implement a ソートアルゴリズム that students can call upon as needed.</target>
         <note>Context: XPath: /p[8]</note>
       </trans-unit>
       <trans-unit id="64588" identifier="7021688745297d40518746ee5f4d109a">

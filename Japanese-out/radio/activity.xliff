@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file id="1871" original="/microbit/docs/courses/csintro/radio/activity.md" source-language="en" target-language="ja" datatype="plaintext">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="/microbit/docs/courses/csintro/radio/activity.md" source-language="en" datatype="plaintext" target-language="ja" id="1871">
     <body>
       <trans-unit id="67531" identifier="7edaf928fd809ed1383a58a9d64b7cc8">
         <source>Activity: Marco Polo and Morse code</source>
@@ -34,19 +34,19 @@ XPath: /p[3]</note>
       </trans-unit>
       <trans-unit id="67536" identifier="09eebd55befee577b2436393c0abaf1d">
         <source>When using the radio blocks, the micro:bit simulator will show two micro:bits</source>
-        <target state="needs-translation">When using the radio blocks, the micro:bit simulator will show two micro:bits</target>
+        <target state="translated">When using the 無線ブロック, micro:bit シミュレーター will show two micro:bits</target>
         <note>Context: List Item&#13;
 XPath: /ul/li</note>
       </trans-unit>
       <trans-unit id="67537" identifier="4a68bd70f266afea694b1eecf38860fc">
         <source>In the simulator, a radio transmission icon will appear in the top right corner of the micro:bit. The icon will light up as the micro:bit is transmitting data.</source>
-        <target state="needs-translation">In the simulator, a radio transmission icon will appear in the top right corner of the micro:bit. The icon will light up as the micro:bit is transmitting data.</target>
+        <target state="translated">In シミュレーター, a radio transmission icon will appear in the top right corner of the micro:bit. The icon will light up as the micro:bit is transmitting data.</target>
         <note>Context: List Item&#13;
 XPath: /ul/li[2]</note>
       </trans-unit>
       <trans-unit id="67538" identifier="400582ca96d8eec0f72e55bfadde76bb">
         <source>In the simulator, all the code in the coding workspace runs on both virtual micro:bits. You should include for how to send data as well as what to do when it receives data.</source>
-        <target state="needs-translation">In the simulator, all the code in the coding workspace runs on both virtual micro:bits. You should include for how to send data as well as what to do when it receives data.</target>
+        <target state="translated">In シミュレーター, all the code in コーディング ワークスペース runs on both virtual micro:bits. You should include for how to send data as well as what to do when it receives data.</target>
         <note>Context: List Item&#13;
 XPath: /ul/li[3]</note>
       </trans-unit>
@@ -72,7 +72,7 @@ XPath: /ul[2]/li</note>
       </trans-unit>
       <trans-unit id="67542" identifier="c14256ca649779e4dc2c00e42568272b">
         <source>From the Radio menu, drag a 'radio set group' block to the coding workspace and place the block into the on start block.</source>
-        <target state="needs-translation">From the Radio menu, drag a 'radio set group' block to the coding workspace and place the block into the on start block.</target>
+        <target state="translated">From the 無線(Radio)メニュー, drag a 「無線のグループを設定（radio set group）」 block to コーディング ワークスペース and place the block into the on start block.</target>
         <note>Context: List Item&#13;
 XPath: /ul[2]/li[2]</note>
       </trans-unit>
@@ -90,7 +90,7 @@ XPath: /pre/code</note>
       </trans-unit>
       <trans-unit id="67545" identifier="907081ceeb88f3ac52ca7835d791c164">
         <source>Drag 2 'on button pressed' blocks to the coding workspace</source>
-        <target state="needs-translation">Drag 2 'on button pressed' blocks to the coding workspace</target>
+        <target state="translated">Drag 2 'on button pressed' blocks to コーディング ワークスペース</target>
         <note>Context: List Item&#13;
 XPath: /ul[3]/li</note>
       </trans-unit>
@@ -102,25 +102,25 @@ XPath: /ul[3]/li[2]</note>
       </trans-unit>
       <trans-unit id="67547" identifier="97c8e2147722ae38e603f92c812eb6c8">
         <source>From the Radio Toolbox drawer, drag 2 'radio send string' blocks to the coding workspace</source>
-        <target state="needs-translation">From the Radio Toolbox drawer, drag 2 'radio send string' blocks to the coding workspace</target>
+        <target state="translated">From the 無線(Radio)メニュー, drag 2 「無線で文字列を送信（radio send string）」 blocks to コーディング ワークスペース</target>
         <note>Context: List Item&#13;
 XPath: /ul[3]/li[3]</note>
       </trans-unit>
       <trans-unit id="67548" identifier="c7cadd61dcd8a3f486ed05d44c2e42ca">
         <source>Place one 'radio send string' block into the 'on button A pressed' block, and the other'radio send string' block into the 'on button B pressed' block</source>
-        <target state="needs-translation">Place one 'radio send string' block into the 'on button A pressed' block, and the other'radio send string' block into the 'on button B pressed' block</target>
+        <target state="translated">Place one 「無線で文字列を送信（radio send string）」 block into the 「ボタンAが押されたとき（on button A pressed）」 block, and the other'radio send string' block into the 'on Bボタン pressed' block</target>
         <note>Context: List Item&#13;
 XPath: /ul[3]/li[4]</note>
       </trans-unit>
       <trans-unit id="67549" identifier="b00424611189df1a4ce442f6a2e647d7">
         <source>In the 'on button A pressed' block, change the default empty string value of the 'radio send string' block to the string &quot;Marco&quot;</source>
-        <target state="needs-translation">In the 'on button A pressed' block, change the default empty string value of the 'radio send string' block to the string &quot;Marco&quot;</target>
+        <target state="translated">In the 「ボタンAが押されたとき（on button A pressed）」 block, change the default empty string value of the 「無線で文字列を送信（radio send string）」 block to the string &quot;Marco&quot;</target>
         <note>Context: List Item&#13;
 XPath: /ul[3]/li[5]</note>
       </trans-unit>
       <trans-unit id="67550" identifier="1a4a446a0cee80dbafa329d90cda2195">
         <source>In the 'on button B pressed' block, change the default empty string value of the 'radio send string' block to the string &quot;Polo&quot;</source>
-        <target state="needs-translation">In the 'on button B pressed' block, change the default empty string value of the 'radio send string' block to the string &quot;Polo&quot;</target>
+        <target state="translated">In the 'on Bボタン pressed' block, change the default empty string value of the 「無線で文字列を送信（radio send string）」 block to the string &quot;Polo&quot;</target>
         <note>Context: List Item&#13;
 XPath: /ul[3]/li[6]</note>
       </trans-unit>
@@ -142,19 +142,19 @@ XPath: /pre[2]/code</note>
       </trans-unit>
       <trans-unit id="67552" identifier="34fb32f384c030d8616666242ddb0d22">
         <source>To display the data sent between the micro:bits, drag an 'on radio received receivedString' block to the coding workspace</source>
-        <target state="needs-translation">To display the data sent between the micro:bits, drag an 'on radio received receivedString' block to the coding workspace</target>
+        <target state="translated">To display the data sent between the micro:bits, drag an 「無線で受信したとき receivedString（on radio received receivedString）」 block to コーディング ワークスペース</target>
         <note>Context: List Item&#13;
 XPath: /ul[4]/li</note>
       </trans-unit>
       <trans-unit id="67553" identifier="d1991a7d1c069f3296c90b952fffa42e">
         <source>From the Basic Toolbox drawer, drag a 'show string' block into the 'on radio received receivedString' block</source>
-        <target state="needs-translation">From the Basic Toolbox drawer, drag a 'show string' block into the 'on radio received receivedString' block</target>
+        <target state="translated">From the 基本（Basic）メニュー, drag a 'show string' block into the 「無線で受信したとき receivedString（on radio received receivedString）」 block</target>
         <note>Context: List Item&#13;
 XPath: /ul[4]/li[2]</note>
       </trans-unit>
       <trans-unit id="67554" identifier="a2a369b801410abbf68c26edf891f083">
         <source>From the Variables Toolbox drawer, drag a 'receivedString' variable block into the default string value of &quot;Hello&quot; in the 'show string' block</source>
-        <target state="needs-translation">From the Variables Toolbox drawer, drag a 'receivedString' variable block into the default string value of &quot;Hello&quot; in the 'show string' block</target>
+        <target state="translated">From the 変数(Variables)メニュー, drag a 'receivedString' variable block into the default string value of &quot;Hello&quot; in the 「文字列を表示（show string）」 block</target>
         <note>Context: List Item&#13;
 XPath: /ul[4]/li[3]</note>
       </trans-unit>
@@ -198,13 +198,13 @@ XPath: /h2[2]</note>
       </trans-unit>
       <trans-unit id="67558" identifier="db52ec9b0faa4f2bc8e780d3e2f2951c">
         <source>Add a 'show leds' block to the 'on start' block. We created an image of the initials MP.</source>
-        <target state="needs-translation">Add a 'show leds' block to the 'on start' block. We created an image of the initials MP.</target>
+        <target state="translated">Add a 「LEDに表示（show leds）」 block to the 「最初だけ（on start）」 block. We created 画像 of the initials MP.</target>
         <note>Context: List Item&#13;
 XPath: /ul[5]/li</note>
       </trans-unit>
       <trans-unit id="67559" identifier="96e6477b8077aca621984a7c1828f56b">
         <source>From the Music Toolbox drawer, drag 2 'play tone' blocks to the coding workspace.</source>
-        <target state="needs-translation">From the Music Toolbox drawer, drag 2 'play tone' blocks to the coding workspace.</target>
+        <target state="translated">From the 音楽(Music)メニュー, drag 2 「音を鳴らす（play tone）」 blocks to コーディング ワークスペース.</target>
         <note>Context: XPath: /ul[5]/li[2]</note>
       </trans-unit>
       <trans-unit id="67560" identifier="e85dc1da15049b82e03e76794ba51c20">
@@ -214,13 +214,13 @@ XPath: /ul[5]/li</note>
       </trans-unit>
       <trans-unit id="67561" identifier="6d2f4cd3ea2aaacbd151d05f7d098412">
         <source>Drag one of the 'play tone' blocks to the 'on button A pressed' block, and the other one to the 'on button B pressed' block.</source>
-        <target state="needs-translation">Drag one of the 'play tone' blocks to the 'on button A pressed' block, and the other one to the 'on button B pressed' block.</target>
+        <target state="translated">Drag one of the 「音を鳴らす（play tone）」 blocks to the 「ボタンAが押されたとき（on button A pressed）」 block, and the other one to the 'on Bボタン pressed' block.</target>
         <note>Context: List Item&#13;
 XPath: /ul[5]/li[3]</note>
       </trans-unit>
       <trans-unit id="67562" identifier="ce5420f45a19f61395e396c4a5978fad">
         <source>Change the default value in the 'play tone' block that is inside the 'on button A pressed' block to the value Low C.</source>
-        <target state="needs-translation">Change the default value in the 'play tone' block that is inside the 'on button A pressed' block to the value Low C.</target>
+        <target state="translated">Change the default value in the 「音を鳴らす（play tone）」 block that is inside the 「ボタンAが押されたとき（on button A pressed）」 block to the value Low C.</target>
         <note>Context: List Item&#13;
 XPath: /ul[5]/li[4]</note>
       </trans-unit>
@@ -343,7 +343,7 @@ XPath: /ul[6]/li</note>
       </trans-unit>
       <trans-unit id="67579" identifier="9d70bc3ffdd0882d3e076928c5449614">
         <source>Add a 'show string' block to the 'on start' block, to identify the program.</source>
-        <target state="needs-translation">Add a 'show string' block to the 'on start' block, to identify the program.</target>
+        <target state="translated">Add a 「文字列を表示（show string）」 block to the 「最初だけ（on start）」 block, to identify the program.</target>
         <note>Context: List Item&#13;
 XPath: /ul[6]/li[2]</note>
       </trans-unit>
@@ -363,7 +363,7 @@ XPath: /pre[5]/code</note>
       </trans-unit>
       <trans-unit id="67582" identifier="f60c446af7d06b3ea1f89e64b7a55c6c">
         <source>Drag 3 'on button pressed' blocks to the coding workspace.</source>
-        <target state="needs-translation">Drag 3 'on button pressed' blocks to the coding workspace.</target>
+        <target state="translated">Drag 3 'on button pressed' blocks to コーディング ワークスペース.</target>
         <note>Context: List Item&#13;
 XPath: /ul[7]/li</note>
       </trans-unit>
@@ -375,7 +375,7 @@ XPath: /ul[7]/li[2]</note>
       </trans-unit>
       <trans-unit id="67584" identifier="572a38b36f955d28ac1cc6c11ce75ac6">
         <source>From the Radio Toolbox drawer, drag 3 'radio send number' blocks to the coding workspace.</source>
-        <target state="needs-translation">From the Radio Toolbox drawer, drag 3 'radio send number' blocks to the coding workspace.</target>
+        <target state="translated">From the 無線(Radio)メニュー, drag 3 「無線で数値を送信（radio send number）」 blocks to コーディング ワークスペース.</target>
         <note>Context: List Item&#13;
 XPath: /ul[7]/li[3]</note>
       </trans-unit>
@@ -387,19 +387,19 @@ XPath: /ul[7]/li[4]</note>
       </trans-unit>
       <trans-unit id="67586" identifier="fc6da9ecf7bc8a1e590df6d4809eeb21">
         <source>In the 'on button A pressed' block, leave the default number value of the 'radio send number' block as 0.</source>
-        <target state="needs-translation">In the 'on button A pressed' block, leave the default number value of the 'radio send number' block as 0.</target>
+        <target state="translated">In the 「ボタンAが押されたとき（on button A pressed）」 block, leave the default number value of the 「無線で数値を送信（radio send number）」 block as 0.</target>
         <note>Context: List Item&#13;
 XPath: /ul[7]/li[5]</note>
       </trans-unit>
       <trans-unit id="67587" identifier="f1beb69865a1b5d45e9f22d474fee6d0">
         <source>In the 'on button B pressed' block, change the default number value of the 'radio send number' block to the value 1.</source>
-        <target state="needs-translation">In the 'on button B pressed' block, change the default number value of the 'radio send number' block to the value 1.</target>
+        <target state="translated">In the 'on Bボタン pressed' block, change the default number value of the 「無線で数値を送信（radio send number）」 block to the value 1.</target>
         <note>Context: List Item&#13;
 XPath: /ul[7]/li[6]</note>
       </trans-unit>
       <trans-unit id="67588" identifier="a003ca531bd1425c881f36ea338f1a62">
         <source>In the 'on button A+B pressed' block, change the default number value of the 'radio send number' block to the value 2.</source>
-        <target state="needs-translation">In the 'on button A+B pressed' block, change the default number value of the 'radio send number' block to the value 2.</target>
+        <target state="translated">In the 'on AボタンとBボタン pressed' block, change the default number value of the 「無線で数値を送信（radio send number）」 block to the value 2.</target>
         <note>Context: List Item&#13;
 XPath: /ul[7]/li[7]</note>
       </trans-unit>
@@ -427,19 +427,19 @@ XPath: /pre[6]/code</note>
       </trans-unit>
       <trans-unit id="67590" identifier="195e6551845e6d8b095a81e19469426c">
         <source>From the Radio Toolbox drawer, drag an 'on radio received receivedNumber' event handler to the coding workspace.</source>
-        <target state="needs-translation">From the Radio Toolbox drawer, drag an 'on radio received receivedNumber' event handler to the coding workspace.</target>
+        <target state="translated">From the 無線(Radio)メニュー, drag an 「無線で受信したとき receivedNumber（on radio received receivedNumber）」 イベントハンドラー to コーディング ワークスペース.</target>
         <note>Context: List Item&#13;
 XPath: /ul[8]/li</note>
       </trans-unit>
       <trans-unit id="67591" identifier="785013a8ed75a3c1af827df6d1e9b3e5">
         <source>Since we will display a different image depending on the number value received, we need a logic block.</source>
-        <target state="needs-translation">Since we will display a different image depending on the number value received, we need a logic block.</target>
+        <target state="translated">Since we will display a different image depending on the number value received, we need 論理ブロック.</target>
         <note>Context: List Item&#13;
 XPath: /ul[8]/li[2]</note>
       </trans-unit>
       <trans-unit id="67592" identifier="a88bdba25ca95dc2d101cae2267de025">
         <source>From the Logic Toolbox drawer, drag an 'if...then' block to the coding workspace and place it in the 'on radio received receivedNumber' event handler.</source>
-        <target state="needs-translation">From the Logic Toolbox drawer, drag an 'if...then' block to the coding workspace and place it in the 'on radio received receivedNumber' event handler.</target>
+        <target state="translated">From the 論理(Logic)メニュー, drag an 「もし・・なら（if...then）」 block to コーディング ワークスペース and place it in the 「無線で受信したとき receivedNumber（on radio received receivedNumber）」 イベントハンドラー.</target>
         <note>Context: List Item&#13;
 XPath: /ul[8]/li[3]</note>
       </trans-unit>
@@ -451,19 +451,19 @@ XPath: /p[9]</note>
       </trans-unit>
       <trans-unit id="67594" identifier="dc1720cc70089489030e532e54903a04">
         <source>From the Logic Toolbox drawer, drag a 0=0 comparison block into the coding workspace.</source>
-        <target state="needs-translation">From the Logic Toolbox drawer, drag a 0=0 comparison block into the coding workspace.</target>
+        <target state="translated">From the 論理(Logic)メニュー, drag a 0=0 comparison block into コーディング ワークスペース.</target>
         <note>Context: List Item&#13;
 XPath: /ul[9]/li</note>
       </trans-unit>
       <trans-unit id="67595" identifier="06a247376f9db03dee4f30a5f546f74a">
         <source>Replace the default value 'true' of the 'if...then' block with the comparison block.</source>
-        <target state="needs-translation">Replace the default value 'true' of the 'if...then' block with the comparison block.</target>
+        <target state="translated">Replace the default value 「真（true）」 of the 「もし・・なら（if...then）」 block with the comparison block.</target>
         <note>Context: List Item&#13;
 XPath: /ul[9]/li[2]</note>
       </trans-unit>
       <trans-unit id="67596" identifier="0774c06a41f04907322220fb42c2a69b">
         <source>From the Variables Toolbox drawer, drag a 'receivedNumber' variable block into the coding workspace, and drop it into the first slot of the comparison block</source>
-        <target state="needs-translation">From the Variables Toolbox drawer, drag a 'receivedNumber' variable block into the coding workspace, and drop it into the first slot of the comparison block</target>
+        <target state="translated">From the 変数(Variables)メニュー, drag a 'receivedNumber' variable block into コーディング ワークスペース, and drop it into the first slot of the comparison block</target>
         <note>Context: List Item&#13;
 XPath: /ul[9]/li[3]</note>
       </trans-unit>
@@ -489,13 +489,13 @@ XPath: /pre[7]/code</note>
       </trans-unit>
       <trans-unit id="67599" identifier="a1020bc5aa019896b962512cd491fe24">
         <source>Place a 'show leds' block in the space after the then of the 'if...then' block.</source>
-        <target state="needs-translation">Place a 'show leds' block in the space after the then of the 'if...then' block.</target>
+        <target state="translated">Place a 「LEDに表示（show leds）」 block in the space after the then of the 「もし・・なら（if...then）」 block.</target>
         <note>Context: List Item&#13;
 XPath: /ul[10]/li</note>
       </trans-unit>
       <trans-unit id="67600" identifier="ed3116a375377872061770bea698e348">
         <source>Create an image to represent a dot.</source>
-        <target state="needs-translation">Create an image to represent a dot.</target>
+        <target state="translated">Create 画像 to represent a dot.</target>
         <note>Context: List Item&#13;
 XPath: /ul[10]/li[2]</note>
       </trans-unit>
@@ -628,7 +628,7 @@ XPath: /ul[11]/li</note>
       </trans-unit>
       <trans-unit id="67624" identifier="72b5627fb9330d06bdbcf882586af5b4">
         <source>Press button A on the sending micro:bit</source>
-        <target state="needs-translation">Press button A on the sending micro:bit</target>
+        <target state="translated">Press Aボタン on the sending micro:bit</target>
         <note>Context: List Item&#13;
 XPath: /ul[11]/li[2]</note>
       </trans-unit>
@@ -640,7 +640,7 @@ XPath: /ul[11]/li[3]</note>
       </trans-unit>
       <trans-unit id="67626" identifier="e9eb3d371566da6893175b35c2d60d90">
         <source>However, pressing button A again does not appear to send another dot as the image on the receiving micro:bit does not appear to change.</source>
-        <target state="needs-translation">However, pressing button A again does not appear to send another dot as the image on the receiving micro:bit does not appear to change.</target>
+        <target state="translated">However, pressing Aボタン again does not appear to send another dot as 画像 on the receiving micro:bit does not appear to change.</target>
         <note>Context: List Item&#13;
 XPath: /ul[11]/li[4]</note>
       </trans-unit>
@@ -652,7 +652,7 @@ XPath: /p[10]</note>
       </trans-unit>
       <trans-unit id="67628" identifier="e801ccce6bba332a84977e586650d982">
         <source>Add a 'pause' block and a 'clear screen' block after the 'show leds' block</source>
-        <target state="needs-translation">Add a 'pause' block and a 'clear screen' block after the 'show leds' block</target>
+        <target state="translated">Add a 「一時停止（pause）」 block and a 「表示を消す（clear screen）」 block after the 「LEDに表示（show leds）」 block</target>
         <note>Context: List Item&#13;
 XPath: /ul[12]/li</note>
       </trans-unit>
@@ -778,8 +778,8 @@ XPath: /ul[12]/li</note>
       <trans-unit id="67650" identifier="28f315d6b5d42d8bfa9968eab9d564ab">
         <source>Try running the program again. 
 Now each time the sender presses button A, you see a dot appear.</source>
-        <target state="needs-translation">Try running the program again. 
-Now each time the sender presses button A, you see a dot appear.</target>
+        <target state="translated">Try running the program again. 
+Now each time the sender presses Aボタン, you see a dot appear.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[11]</note>
       </trans-unit>
@@ -1154,7 +1154,7 @@ XPath: /ul[16]/li[2]</note>
       </trans-unit>
       <trans-unit id="67708" identifier="d52d13494c6cb3b820974f99d975e0ba">
         <source>Can we edit the code to use only one 'if...then' block, one 'pause' block, and one 'clear screen' block? Yes!</source>
-        <target state="needs-translation">Can we edit the code to use only one 'if...then' block, one 'pause' block, and one 'clear screen' block? Yes!</target>
+        <target state="translated">Can we edit the code to use only one 「もし・・なら（if...then）」 block, one 'pause' block, and one 「表示を消す（clear screen）」 block? Yes!</target>
         <note>Context: List Item&#13;
 XPath: /ul[16]/li[3]</note>
       </trans-unit>
@@ -1166,12 +1166,12 @@ XPath: /h2[4]</note>
       </trans-unit>
       <trans-unit id="67710" identifier="30850b8a66edf5448264026d01c493ca">
         <source>Remind students that they can edit the 'if...then' block, adding as many 'else if' conditions as needed.</source>
-        <target state="needs-translation">Remind students that they can edit the 'if...then' block, adding as many 'else if' conditions as needed.</target>
+        <target state="translated">Remind students that they can edit the 「もし・・なら（if...then）」 block, adding as many 'else if' conditions as needed.</target>
         <note>Context: XPath: /p[15]</note>
       </trans-unit>
       <trans-unit id="67711" identifier="018a8d642010d53d244109ff698ce4a4">
         <source>They can do this by clicking on the blue gear-wheel icon in the top left corner of the 'if...then' block.</source>
-        <target state="needs-translation">They can do this by clicking on the blue gear-wheel icon in the top left corner of the 'if...then' block.</target>
+        <target state="translated">They can do this by clicking on the blue gear-wheel icon in the top left corner of the 「もし・・なら（if...then）」 block.</target>
         <note>Context: XPath: /p[15]</note>
       </trans-unit>
       <trans-unit id="67712" identifier="b51c4dc8a7f086f4faa52ada1d7cbd45" translate="no">
@@ -1195,14 +1195,14 @@ In a conditional that might receive a number of different values, it is good cod
       </trans-unit>
       <trans-unit id="67715" identifier="da0d70c018a00d180b9a44b64d75b2f6">
         <source>In our example, if any number value other than the ones we coded for (0,1, and 2) is received, we can signal the user that an error has occurred by using a 'show icon' block to display an X.</source>
-        <target state="needs-translation">In our example, if any number value other than the ones we coded for (0,1, and 2) is received, we can signal the user that an error has occurred by using a 'show icon' block to display an X.</target>
+        <target state="translated">In our example, if any number value other than the ones we coded for (0,1, and 2) is received, we can signal ユーザー that an error has occurred by using a 「アイコンを表示（show icon）」 block to display an X.</target>
         <note>Context: XPath: /p[17]</note>
       </trans-unit>
       <trans-unit id="67716" identifier="4cf9b572c1c4b56851588952b849c256">
         <source>The pause and clear screen
 Rather than repeat these lines of code 3 times, we can move the 'pause' block and the 'clear screen' block outside of the edited 'if...then…else' block.</source>
-        <target state="needs-translation">The pause and clear screen
-Rather than repeat these lines of code 3 times, we can move the 'pause' block and the 'clear screen' block outside of the edited 'if...then…else' block.</target>
+        <target state="translated">The pause and clear screen
+Rather than repeat these lines of code 3 times, we can move the 「一時停止（pause）」 block and the 「表示を消す（clear screen）」 block outside of the edited 'if...then…else' block.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[18]</note>
       </trans-unit>

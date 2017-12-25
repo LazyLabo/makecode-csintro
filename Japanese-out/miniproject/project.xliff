@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file id="1866" original="/microbit/docs/courses/csintro/miniproject/project.md" source-language="en" target-language="ja" datatype="plaintext">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="/microbit/docs/courses/csintro/miniproject/project.md" source-language="en" datatype="plaintext" target-language="ja" id="1866">
     <body>
       <trans-unit id="67380" identifier="e5384da151d162b0965bf80ede3f633c">
         <source>Project: Mini-Project</source>
@@ -71,7 +71,7 @@ XPath: /h2[2]</note>
       </trans-unit>
       <trans-unit id="67392" identifier="72e88a1fe818a6c43a3790ea5daffa62">
         <source>We find that a &quot;science fair&quot; type of setup works well here, with students stationed at their own tables, showing off and demonstrating their project. An event like this works well for these reasons:</source>
-        <target state="needs-translation">We find that a &quot;science fair&quot; type of setup works well here, with students stationed at their own tables, showing off and demonstrating their project. An event like this works well for these reasons:</target>
+        <target state="translated">We find that a &quot;science fair&quot; type of setup works well here, with students stationed at their own tables, showing off and demonstrating their project. イベント like this works well for these reasons:</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[6]</note>
       </trans-unit>
@@ -203,7 +203,7 @@ XPath: /ul[5]/li[6]</note>
       </trans-unit>
       <trans-unit id="67414" identifier="51d982411e8fe0ecf3be3fd36e330b39">
         <source>Screensaver that uses other inputs to draw</source>
-        <target state="needs-translation">Screensaver that uses other inputs to draw</target>
+        <target state="translated">Screensaver that uses ほかの入力 to draw</target>
         <note>Context: List Item&#13;
 XPath: /ul[5]/li[7]</note>
       </trans-unit>
@@ -445,7 +445,7 @@ XPath: /p[17]</note>
       </trans-unit>
       <trans-unit id="67454" identifier="fb963665a7b3868ced6347d00c124130">
         <source>“I spent this week finishing up little details with my program, making it work better and more user friendly.</source>
-        <target state="needs-translation">“I spent this week finishing up little details with my program, making it work better and more user friendly.</target>
+        <target state="translated">“I spent this week finishing up little details with my program, making it work better and more ユーザー friendly.</target>
         <note>Context: XPath: /blockquote[3]/p/em</note>
       </trans-unit>
       <trans-unit id="67455" identifier="ee8bd741ccf861aed6422449339fa049">

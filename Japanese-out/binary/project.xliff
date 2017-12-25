@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file id="1818" original="/microbit/docs/courses/csintro/binary/project.md" source-language="en" target-language="ja" datatype="plaintext">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="/microbit/docs/courses/csintro/binary/project.md" source-language="en" datatype="plaintext" target-language="ja" id="1818">
     <body>
       <trans-unit id="64957" identifier="9d47f2cefe98eca4c8d7daf9962d8817">
         <source>Project: Make a binary cash register</source>
@@ -10,7 +10,7 @@ XPath: /h1</note>
       </trans-unit>
       <trans-unit id="64958" identifier="d092e16a254a445ad7186255c511be58">
         <source>The unplugged activity uses a vending machine as a model for creating different combinations of binary place values.</source>
-        <target state="needs-translation">The unplugged activity uses a vending machine as a model for creating different combinations of binary place values.</target>
+        <target state="translated">The アンプラグド アクティビティ uses a vending machine as a model for creating different combinations of binary place values.</target>
         <note>Context: XPath: /p</note>
       </trans-unit>
       <trans-unit id="64959" identifier="159b7f3c5f5d2705e9c4b901431682f4">
@@ -20,7 +20,7 @@ XPath: /h1</note>
       </trans-unit>
       <trans-unit id="64960" identifier="03c38b07afb03d23dc6e24b619fe4581">
         <source>For this project, students should invent a paper and cardboard version of the binary counter, then program it to display the decimal value of those numbers.</source>
-        <target state="needs-translation">For this project, students should invent a paper and cardboard version of the binary counter, then program it to display the decimal value of those numbers.</target>
+        <target state="translated">For this project, students should invent a paper and cardboard version of the binary counter, then program it to display the 10進数の値 of those numbers.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[2]</note>
       </trans-unit>
@@ -98,7 +98,7 @@ XPath: /h2</note>
       </trans-unit>
       <trans-unit id="64973" identifier="219e650d2722d25a33629f60e66c2e09">
         <source>Normally, the coins are flipped up (“off” or 0) and to indicate “on” or 1, the coin is flipped so it lays flat across both pieces of copper tape, completing the circuit so the micro:bit can detect that that pin has been activated, and calculates and displays the decimal value of the binary number that is indicated by the coins.</source>
-        <target state="needs-translation">Normally, the coins are flipped up (“off” or 0) and to indicate “on” or 1, the coin is flipped so it lays flat across both pieces of copper tape, completing the circuit so the micro:bit can detect that that pin has been activated, and calculates and displays the decimal value of the binary number that is indicated by the coins.</target>
+        <target state="translated">Normally, the coins are flipped up (“off” or 0) and to indicate “on” or 1, the coin is flipped so it lays flat across both pieces of copper tape, completing the circuit so the micro:bit can detect that that pin has been activated, and calculates and displays the 10進数の値 of the 2進数 that is indicated by the coins.</target>
         <note>Context: XPath: /p[5]</note>
       </trans-unit>
       <trans-unit id="64974" identifier="28ed147fa3fb57ecbadb173cac5366c8">
@@ -108,7 +108,7 @@ XPath: /h2</note>
       </trans-unit>
       <trans-unit id="64975" identifier="6132296de904987acf272086c0d57184">
         <source>You can sometimes find copper tape at the hardware, sold as slug tape, to keep slugs out of your garden.</source>
-        <target state="needs-translation">You can sometimes find copper tape at the hardware, sold as slug tape, to keep slugs out of your garden.</target>
+        <target state="translated">You can sometimes find copper tape at ハードウェア, sold as slug tape, to keep slugs out of your garden.</target>
         <note>Context: XPath: /p[6]</note>
       </trans-unit>
       <trans-unit id="64976" identifier="2e3922d6bbd283070ad2bd944aef3266">
@@ -162,7 +162,7 @@ XPath: /h2[2]</note>
       </trans-unit>
       <trans-unit id="64985" identifier="de173e87c87c1e6d5614cb1e504f6dce">
         <source>Write some code that will display the number in binary when you press the A button.</source>
-        <target state="needs-translation">Write some code that will display the number in binary when you press the A button.</target>
+        <target state="translated">Write some code that will display the number in binary when you press Aボタン.</target>
         <note>Context: List Item&#13;
 XPath: /ul[2]/li</note>
       </trans-unit>
@@ -174,7 +174,7 @@ XPath: /ul[2]/li[2]</note>
       </trans-unit>
       <trans-unit id="64987" identifier="88927bca971f73695c00ffd7a2bb4792">
         <source>Optional project: Build a binary wristwatch</source>
-        <target state="needs-translation">Optional project: Build a binary wristwatch</target>
+        <target state="translated">Optional プロジェクト Build a binary wristwatch</target>
         <note>Context: Headline 2&#13;
 XPath: /h2[3]</note>
       </trans-unit>
@@ -392,7 +392,7 @@ XPath: /p[19]/a[@href]</note>
       </trans-unit>
       <trans-unit id="65019" identifier="b040cd8d961efc45f0330cd882c6c5b9">
         <source>Math is fun: Binary number system</source>
-        <target state="needs-translation">Math is fun: Binary number system</target>
+        <target state="translated">Math is fun: 2進数 system</target>
         <note>Context: Anchor Link&#13;
 XPath: /p[19]/a</note>
       </trans-unit>

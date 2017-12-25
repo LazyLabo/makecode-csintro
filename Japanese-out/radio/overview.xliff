@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file id="1872" original="/microbit/docs/courses/csintro/radio/overview.md" source-language="en" target-language="ja" datatype="plaintext">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="/microbit/docs/courses/csintro/radio/overview.md" source-language="en" datatype="plaintext" target-language="ja" id="1872">
     <body>
       <trans-unit id="67762" identifier="913f6422d41f0413a2feb499068e4895" translate="no">
         <source>Introduction</source>
@@ -26,8 +26,8 @@ XPath: /h1</note>
       <trans-unit id="67766" identifier="bfdc88f3090d6eaf5d03f15671604875">
         <source> 
 Note: Many teachers find the concept of “pair programming” to be a valuable way to have students collaborate when programming.</source>
-        <target state="needs-translation"> 
-Note: Many teachers find the concept of “pair programming” to be a valuable way to have students collaborate when programming.</target>
+        <target state="translated"> 
+Note: Many teachers find the concept of ペアプログラミング to be a valuable way to have students collaborate when プログラミング.</target>
         <note>Context: XPath: /p</note>
       </trans-unit>
       <trans-unit id="67767" identifier="0da37f958e2c9273e48a2abc8adea11a">
@@ -37,14 +37,14 @@ Note: Many teachers find the concept of “pair programming” to be a valuable 
       </trans-unit>
       <trans-unit id="67768" identifier="0095e671ef339f21e147cd43173fdd15">
         <source>Students must practice good communication with each other throughout the entire programming process.</source>
-        <target state="needs-translation">Students must practice good communication with each other throughout the entire programming process.</target>
+        <target state="translated">Students must practice good communication with each other throughout the entire プログラミング process.</target>
         <note>Context: XPath: /p</note>
       </trans-unit>
       <trans-unit id="67769" identifier="435b53fb77f98c937619b3bfb27f94a2">
         <source> 
 The micro:bit allows you to communicate with other micro:bits in the area using the blocks in the Radio category.</source>
-        <target state="needs-translation"> 
-The micro:bit allows you to communicate with other micro:bits in the area using the blocks in the Radio category.</target>
+        <target state="translated"> 
+The micro:bit allows you to communicate with other micro:bits in the area using ブロック in the Radio category.</target>
         <note>Context: XPath: /p</note>
       </trans-unit>
       <trans-unit id="67770" identifier="d9c5fa5eca9cc469209b81fad42d6362">
@@ -60,8 +60,8 @@ The micro:bit allows you to communicate with other micro:bits in the area using 
       <trans-unit id="67772" identifier="2e59519ada4d2e711836cbd93ffc1a1c">
         <source> 
 This lesson starts with a “plugged” unplugged activity, in which students use their micro:bits to explore an advanced simulation.</source>
-        <target state="needs-translation"> 
-This lesson starts with a “plugged” unplugged activity, in which students use their micro:bits to explore an advanced simulation.</target>
+        <target state="translated"> 
+This lesson starts with a “plugged” アンプラグド アクティビティ, in which students use their micro:bits to explore an advanced simulation.</target>
         <note>Context: XPath: /p</note>
       </trans-unit>
       <trans-unit id="67773" identifier="dbae88585acb8192215565acad50618a">

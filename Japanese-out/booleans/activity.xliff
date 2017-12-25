@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file id="1823" original="/microbit/docs/courses/csintro/booleans/activity.md" source-language="en" target-language="ja" datatype="plaintext">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="/microbit/docs/courses/csintro/booleans/activity.md" source-language="en" datatype="plaintext" target-language="ja" id="1823">
     <body>
       <trans-unit id="65156" identifier="7fc33bc246022db14e1c97f3d6df4715">
         <source>Activity: Double coin flipper</source>
@@ -22,12 +22,12 @@ XPath: /p/img[@alt]</note>
       </trans-unit>
       <trans-unit id="65159" identifier="3a8e0ee8952f9323e726c995dfd15e82">
         <source>Guide the students to create a program using Boolean variables and operators.</source>
-        <target state="needs-translation">Guide the students to create a program using Boolean variables and operators.</target>
+        <target state="translated">Guide the students to create a program using ブール型変数 and operators.</target>
         <note>Context: XPath: /p[2]</note>
       </trans-unit>
       <trans-unit id="65160" identifier="b8823f4b7354e03427ed78531a71fa29">
         <source>We’ll use our pseudocode from the previous activity to code a double coin flipper program.</source>
-        <target state="needs-translation">We’ll use our pseudocode from the previous activity to code a double coin flipper program.</target>
+        <target state="translated">We’ll use our pseudocode from the previous アクティビティ to code a double coin flipper program.</target>
         <note>Context: XPath: /p[2]</note>
       </trans-unit>
       <trans-unit id="65161" identifier="61d4310f55cfb1ef356769807b3fd8d6">
@@ -39,7 +39,7 @@ For the first step, let’s create our variables.</target>
       </trans-unit>
       <trans-unit id="65162" identifier="148cb88b5d8f0b080edab33f7fb9dcf6">
         <source>Make a variable for each of the following:</source>
-        <target state="needs-translation">Make a variable for each of the following:</target>
+        <target state="translated">Make 変数 for each of the following:</target>
         <note>Context: XPath: /p[2]</note>
       </trans-unit>
       <trans-unit id="65163" identifier="1caad589d2f9798b5fba762def2172d1">
@@ -71,14 +71,14 @@ Now we need to initialize the variable values.</target>
       </trans-unit>
       <trans-unit id="65167" identifier="ad9fb4fb1d36d217d2dd9d27dfab1b7f">
         <source>Put a 'set' variable block for each of these 4 variables inside the 'on start' block.</source>
-        <target state="needs-translation">Put a 'set' variable block for each of these 4 variables inside the 'on start' block.</target>
+        <target state="translated">Put a 「変数を・・・にする（set item）」ブロック for each of these 4 variables inside the 「最初だけ（on start）」 block.</target>
         <note>Context: XPath: /ul/li[4]</note>
       </trans-unit>
       <trans-unit id="65168" identifier="de3072d68578fd4655f57348a9c6613a">
         <source> 
 The initial value of a variable is the value the variable will hold each time the program starts.</source>
-        <target state="needs-translation"> 
-The initial value of a variable is the value the variable will hold each time the program starts.</target>
+        <target state="translated"> 
+The initial value of 変数 is the value the variable will hold each time the program starts.</target>
         <note>Context: XPath: /ul/li[4]</note>
       </trans-unit>
       <trans-unit id="65169" identifier="43769a4d6a0568a733dc5f0603f13b66">
@@ -153,7 +153,7 @@ XPath: /pre/code</note>
       <trans-unit id="65176" identifier="fbe7e1fc984546edd3332b607c3efc94">
         <source>Notice that we also added an image for the start screen, so the user knows the program has started and is ready. Does the image look like two coins?
  </source>
-        <target state="needs-translation">Notice that we also added an image for the start screen, so the user knows the program has started and is ready. Does the image look like two coins?
+        <target state="translated">Notice that we also added 画像 for the start screen, so ユーザー knows the program has started and is ready. Does 画像 look like two coins?
  </target>
         <note>Context: Paragraph text&#13;
 XPath: /p[4]</note>
@@ -167,20 +167,20 @@ XPath: /h2</note>
       <trans-unit id="65178" identifier="6d85a406b974b6cff62f946992fe6998">
         <source>When the player shakes the micro:bit, we will code the micro:bit to give each of our Boolean variables a random true/false value.
  </source>
-        <target state="needs-translation">When the player shakes the micro:bit, we will code the micro:bit to give each of our Boolean variables a random true/false value.
+        <target state="translated">When the player shakes the micro:bit, we will code the micro:bit to give each of our ブール型変数 a random true/false value.
  </target>
         <note>Context: Paragraph text&#13;
 XPath: /p[5]</note>
       </trans-unit>
       <trans-unit id="65179" identifier="64b874e65eacb4df4198aa9adee75ef6">
         <source>From the Input Toolbox drawer, drag an 'on shake' block to the coding workspace</source>
-        <target state="needs-translation">From the Input Toolbox drawer, drag an 'on shake' block to the coding workspace</target>
+        <target state="translated">From the 入力(Input)メニュー, drag an 'on shake' block to コーディング ワークスペース</target>
         <note>Context: List Item&#13;
 XPath: /ul[2]/li</note>
       </trans-unit>
       <trans-unit id="65180" identifier="9acf17b5c4dc0d6fa2d04a6dddd4841a">
         <source>From the Variables Toolbox drawer, drag 2 'set' variable blocks to the coding workspace</source>
-        <target state="needs-translation">From the Variables Toolbox drawer, drag 2 'set' variable blocks to the coding workspace</target>
+        <target state="translated">From the 変数(Variables)メニュー, drag 2 「変数を・・・にする（set item）」ブロック to コーディング ワークスペース</target>
         <note>Context: List Item&#13;
 XPath: /ul[2]/li[2]</note>
       </trans-unit>
@@ -198,7 +198,7 @@ XPath: /ul[2]/li[4]</note>
       </trans-unit>
       <trans-unit id="65183" identifier="d208f1a29a6bf396bd8c769fc1fd20a5">
         <source>From the Math Toolbox drawer, drag 2 'pick random true or false' blocks to the coding workspace</source>
-        <target state="needs-translation">From the Math Toolbox drawer, drag 2 'pick random true or false' blocks to the coding workspace</target>
+        <target state="translated">From the 計算(Math)メニュー, drag 2 「真または偽をランダムに選ぶ（pick random true or false）」 blocks to コーディング ワークスペース</target>
         <note>Context: List Item&#13;
 XPath: /ul[2]/li[5]</note>
       </trans-unit>
@@ -218,7 +218,7 @@ XPath: /ul[2]/li[6]/p/r/img[@alt]</note>
         <source>Hover over this 'pick random' block and note that its pop-up description mentions coin flipping!
  
 </source>
-        <target state="needs-translation">Hover over this 'pick random' block and note that its pop-up description mentions coin flipping!
+        <target state="translated">Hover over this 「０～４の範囲の乱数（pick random）」 block and note that its pop-up description mentions coin flipping!
  
 </target>
         <note>Context: Paragraph text&#13;
@@ -226,7 +226,7 @@ XPath: /ul[2]/li[6]/p</note>
       </trans-unit>
       <trans-unit id="65187" identifier="dbce41108f316b5711816acd5a791eb2">
         <source>Attach these 'pick random' blocks to the 'set' variable blocks in the 'on shake' block</source>
-        <target state="needs-translation">Attach these 'pick random' blocks to the 'set' variable blocks in the 'on shake' block</target>
+        <target state="translated">Attach these 「０～４の範囲の乱数（pick random）」 blocks to the 「変数を・・・にする（set item）」ブロック in the 'on shake' block</target>
         <note>Context: Paragraph text&#13;
 XPath: /ul[2]/li[7]/p</note>
       </trans-unit>
@@ -256,13 +256,13 @@ XPath: /p[6]</note>
       </trans-unit>
       <trans-unit id="65190" identifier="9f665b9b9765db27ad78e01fce8ddae6">
         <source>From the Logic Toolbox drawer, drag an 'if...then...else' block to the coding workspace</source>
-        <target state="needs-translation">From the Logic Toolbox drawer, drag an 'if...then...else' block to the coding workspace</target>
+        <target state="translated">From the 論理(Logic)メニュー, drag an 「もし・・・なら・・・でなければ（if...then...else）」 block to コーディング ワークスペース</target>
         <note>Context: List Item&#13;
 XPath: /ul[3]/li</note>
       </trans-unit>
       <trans-unit id="65191" identifier="00ab88ea0a349ce9226f494e6a8b6fe4">
         <source>Drag the 'if...then...else' block into the 'on shake' block under the 'set' variable blocks</source>
-        <target state="needs-translation">Drag the 'if...then...else' block into the 'on shake' block under the 'set' variable blocks</target>
+        <target state="translated">Drag the 「もし・・・なら・・・でなければ（if...then...else）」 block into the 'on shake' block under the 「変数を・・・にする（set item）」ブロック</target>
         <note>Context: List Item&#13;
 XPath: /ul[3]/li[2]</note>
       </trans-unit>
@@ -330,8 +330,8 @@ Because we were able to visualize our blocks as we wrote our pseudocode, we alre
       <trans-unit id="65199" identifier="395a6313ebbd9d5c3e198362390752ba">
         <source>* We can now simply add this to our current code
 * And provide user feedback by adding some visuals</source>
-        <target state="needs-translation">* We can now simply add this to our current code
-* And provide user feedback by adding some visuals</target>
+        <target state="translated">* We can now simply add this to our current code
+* And provide ユーザー feedback by adding some visuals</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[8]</note>
       </trans-unit>
@@ -609,7 +609,7 @@ input.onGesture(Gesture.Shake, () =&amp;gt; {
       </trans-unit>
       <trans-unit id="65246" identifier="7d558dcc4b2e847162349712d55ff51b">
         <source>To finish our program, we’ll display the players’ current scores on button A pressed.</source>
-        <target state="needs-translation">To finish our program, we’ll display the players’ current scores on button A pressed.</target>
+        <target state="translated">To finish our program, we’ll display the players’ current scores on Aボタン pressed.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[9]</note>
       </trans-unit>
@@ -1032,12 +1032,12 @@ XPath: /p[11]</note>
       </trans-unit>
       <trans-unit id="65312" identifier="94d4cd53b89cde64a5cceafa4ee725ac">
         <source>If the micro:bit is shaken, the micro:bit will play two tones twice and keep repeating this action until button A is pressed.</source>
-        <target state="needs-translation">If the micro:bit is shaken, the micro:bit will play two tones twice and keep repeating this action until button A is pressed.</target>
+        <target state="translated">If the micro:bit is shaken, the micro:bit will play two tones twice and keep repeating this action until Aボタン is pressed.</target>
         <note>Context: XPath: /p[12]/em</note>
       </trans-unit>
       <trans-unit id="65313" identifier="d94119db04998059a676a09d52428971">
         <source>So, after shaking, as long as ‘is button A pressed?’ is false, the two tone alarm will continue to repeat.</source>
-        <target state="needs-translation">So, after shaking, as long as ‘is button A pressed?’ is false, the two tone alarm will continue to repeat.</target>
+        <target state="translated">So, after shaking, as long as ‘is Aボタン pressed?’ is false, the two tone alarm will continue to repeat.</target>
         <note>Context: XPath: /p[12]/em</note>
       </trans-unit>
     </body>

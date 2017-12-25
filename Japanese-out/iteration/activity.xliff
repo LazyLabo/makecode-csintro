@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file id="1851" original="/microbit/docs/courses/csintro/iteration/activity.md" source-language="en" target-language="ja" datatype="plaintext">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="/microbit/docs/courses/csintro/iteration/activity.md" source-language="en" datatype="plaintext" target-language="ja" id="1851">
     <body>
       <trans-unit id="66835" identifier="e6f4812c6d97d965c9d746a88b73318f">
         <source>Activity: Loops demos</source>
@@ -232,7 +232,7 @@ XPath: /p[15]</note>
       </trans-unit>
       <trans-unit id="66873" identifier="56c1c0bfa0b937e0b9c3cd04eaab58ea">
         <source>To add more control for when our sprite moves, drag a ‘on button A pressed’ block from the Input menu.</source>
-        <target state="needs-translation">To add more control for when our sprite moves, drag a ‘on button A pressed’ block from the Input menu.</target>
+        <target state="translated">To add more control for when our sprite moves, drag a 「ボタンAが押されたとき（on button A pressed）」 block from the 入力(Input)メニュー.</target>
         <note>Context: List Item&#13;
 XPath: /ul[6]/li</note>
       </trans-unit>
@@ -392,7 +392,7 @@ XPath: /ul[8]/li</note>
       </trans-unit>
       <trans-unit id="66898" identifier="577163a8fd5b340b564f2a9c940ccfa8">
         <source>From the Basic Toolbox category, drag a ‘pause’ block to the coding window and add it to our ‘repeat’ block right after the ‘turn right by’ block.</source>
-        <target state="needs-translation">From the Basic Toolbox category, drag a ‘pause’ block to the coding window and add it to our ‘repeat’ block right after the ‘turn right by’ block.</target>
+        <target state="translated">From the Basic Toolbox category, drag a 「一時停止（pause）」 block to the coding window and add it to our 「くりかえし（repeat）」 block right after the 「スプライトを方向転換右に（turn right by）」 block.</target>
         <note>Context: List Item&#13;
 XPath: /ul[8]/li[2]</note>
       </trans-unit>
@@ -438,7 +438,7 @@ XPath: /p[26]</note>
       </trans-unit>
       <trans-unit id="66903" identifier="c12869a7f71206e0ff7ed29b66e66ca5">
         <source>We just used the first of the 3 different types of Loop blocks available to us. What about the other 2 loop blocks, ‘while’ and ‘for’?</source>
-        <target state="needs-translation">We just used the first of the 3 different types of Loop blocks available to us. What about the other 2 loop blocks, ‘while’ and ‘for’?</target>
+        <target state="translated">We just used the first of the 3 different types of ループ ブロック available to us. What about the other 2 ループ ブロック, 「もし真ならくりかえし（while）」 and ‘for’?</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[27]</note>
       </trans-unit>
@@ -450,7 +450,7 @@ XPath: /h2[3]</note>
       </trans-unit>
       <trans-unit id="66905" identifier="9306afaad184e5a247bffbd4c9de9230">
         <source>The ‘for’ block is useful when you have a variable in your loop that you want to change by a fixed amount within a specific range each time through a loop.</source>
-        <target state="needs-translation">The ‘for’ block is useful when you have a variable in your loop that you want to change by a fixed amount within a specific range each time through a loop.</target>
+        <target state="translated">The ‘for’ block is useful when you have 変数 in your loop that you want to change by a fixed amount within a specific range each time through a loop.</target>
         <note>Context: XPath: /p[28]</note>
       </trans-unit>
       <trans-unit id="66906" identifier="bb1e2059ed47340b11d012eacca69dbf">
@@ -549,7 +549,7 @@ XPath: /p[32]</note>
       </trans-unit>
       <trans-unit id="66916" identifier="3ac02838c3635586757b34519e0eccd1">
         <source>From the Loops Toolbox drawer, drag a ‘for’ block to the coding workspace.</source>
-        <target state="needs-translation">From the Loops Toolbox drawer, drag a ‘for’ block to the coding workspace.</target>
+        <target state="translated">From the ループ(Loops)メニュー, drag a ‘for’ block to コーディング ワークスペース.</target>
         <note>Context: List Item&#13;
 XPath: /ul[10]/li</note>
       </trans-unit>
@@ -561,19 +561,19 @@ XPath: /ul[10]/li[2]</note>
       </trans-unit>
       <trans-unit id="66918" identifier="284a0ac6c13d3ac8bbd3f213e04087a4">
         <source>We’ll plot and unplot the leds to turn them on and off. From the Led Toolbox drawer, drag a 'plot' block and an 'unplot' block to the coding workspace.</source>
-        <target state="needs-translation">We’ll plot and unplot the leds to turn them on and off. From the Led Toolbox drawer, drag a 'plot' block and an 'unplot' block to the coding workspace.</target>
+        <target state="translated">We’ll plot and unplot the leds to turn them on and off. From the LEDメニュー, drag a 'plot' block and an 'unplot' block to コーディング ワークスペース.</target>
         <note>Context: List Item&#13;
 XPath: /ul[10]/li[3]</note>
       </trans-unit>
       <trans-unit id="66919" identifier="68605a293af5cb3a3ebc99d76bfedfd6">
         <source>From the Basic Toolbox drawer, drag two ‘pause’ blocks to the coding workspace.</source>
-        <target state="needs-translation">From the Basic Toolbox drawer, drag two ‘pause’ blocks to the coding workspace.</target>
+        <target state="translated">From the 基本（Basic）メニュー, drag two 「一時停止（pause）」 blocks to コーディング ワークスペース.</target>
         <note>Context: List Item&#13;
 XPath: /ul[10]/li[4]</note>
       </trans-unit>
       <trans-unit id="66920" identifier="bc255533c0aa926c657a70127c53d291">
         <source>Place the following blocks into the ‘for’ block: the ‘plot’ block, a ‘pause’ block, the ‘unplot’ block, the second 'pause' block.</source>
-        <target state="needs-translation">Place the following blocks into the ‘for’ block: the ‘plot’ block, a ‘pause’ block, the ‘unplot’ block, the second 'pause' block.</target>
+        <target state="translated">Place the following blocks into the ‘for’ block: the ‘plot’ block, a 「一時停止（pause）」 block, the ‘unplot’ block, the second 「一時停止（pause）」 block.</target>
         <note>Context: List Item&#13;
 XPath: /ul[10]/li[5]</note>
       </trans-unit>
@@ -651,7 +651,7 @@ XPath: /p[34]</note>
       </trans-unit>
       <trans-unit id="66928" identifier="36f2a0df348c2251a059a91519010502">
         <source>You should now see a light moving from left to right along the top row of the micro:bit simulator.</source>
-        <target state="needs-translation">You should now see a light moving from left to right along the top row of the micro:bit simulator.</target>
+        <target state="translated">You should now see a light moving from left to right along the top row of micro:bit シミュレーター.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[35]</note>
       </trans-unit>
@@ -697,7 +697,7 @@ XPath: /ul[12]/li</note>
       </trans-unit>
       <trans-unit id="66934" identifier="199351c1f505d494d2fc765580b09c1e">
         <source>Drag out another ‘for’ block from the Loops Toolbox drawer.</source>
-        <target state="needs-translation">Drag out another ‘for’ block from the Loops Toolbox drawer.</target>
+        <target state="translated">Drag out another ‘for’ block from the ループ(Loops)メニュー.</target>
         <note>Context: List Item&#13;
 XPath: /ul[12]/li[2]</note>
       </trans-unit>
@@ -801,7 +801,7 @@ XPath: /ol/li</note>
       </trans-unit>
       <trans-unit id="66945" identifier="c88407dac333ec6d187bb93ce2858bcf">
         <source>The nested inner loop then sets the value of the x-coordinate to zero.</source>
-        <target state="needs-translation">The nested inner loop then sets the value of the x-coordinate to zero.</target>
+        <target state="translated">The nested 内側ループ then sets the value of the x-coordinate to zero.</target>
         <note>Context: List Item&#13;
 XPath: /ol/li[2]</note>
       </trans-unit>
@@ -825,13 +825,13 @@ XPath: /ol/li[5]</note>
       </trans-unit>
       <trans-unit id="66949" identifier="ccdc77f0d6577bda7ee60ec3573ef771">
         <source>The inner loop keeps running like this until it has completed its loop with the value of the x coordinate now 4.</source>
-        <target state="needs-translation">The inner loop keeps running like this until it has completed its loop with the value of the x coordinate now 4.</target>
+        <target state="translated">The 内側ループ keeps running like this until it has completed its loop with the value of the x coordinate now 4.</target>
         <note>Context: List Item&#13;
 XPath: /ol/li[6]</note>
       </trans-unit>
       <trans-unit id="66950" identifier="e34d17e9560d30cee3416dbf5563ba19">
         <source>With the inner loop complete, the program now runs the second iteration of the outer loop, increasing the value of the y-coordinate by 1, then back to the inner loop which runs 4 more times stepping through values for x from 0 through 4.</source>
-        <target state="needs-translation">With the inner loop complete, the program now runs the second iteration of the outer loop, increasing the value of the y-coordinate by 1, then back to the inner loop which runs 4 more times stepping through values for x from 0 through 4.</target>
+        <target state="translated">With 内側ループ complete, the program now runs the second iteration of the outer loop, increasing the value of the y-coordinate by 1, then back to 内側ループ which runs 4 more times stepping through values for x from 0 through 4.</target>
         <note>Context: List Item&#13;
 XPath: /ol/li[7]</note>
       </trans-unit>
@@ -843,7 +843,7 @@ XPath: /p[41]</note>
       </trans-unit>
       <trans-unit id="66952" identifier="8a54ca9e8bdf2a1869c2249ed875c731">
         <source>By the end of the program run, how many times has the inner loop executed? 25</source>
-        <target state="needs-translation">By the end of the program run, how many times has the inner loop executed? 25</target>
+        <target state="translated">By the end of the program run, how many times has 内側ループ executed? 25</target>
         <note>Context: List Item&#13;
 XPath: /ul[13]/li</note>
       </trans-unit>
@@ -859,7 +859,7 @@ XPath: /ul[13]/li</note>
       </trans-unit>
       <trans-unit id="66955" identifier="24235f6e58ddd9c2c5e61ef14668cad0">
         <source>Each time the outer loop runs, the inner loop runs 5 times, once for every value of the x coordinate from 0 through 4. 5 runs of the outer loop x 5 runs of the inner loop = 25 times the inner loop executes.&lt;/em&gt;</source>
-        <target state="needs-translation">Each time the outer loop runs, the inner loop runs 5 times, once for every value of the x coordinate from 0 through 4. 5 runs of the outer loop x 5 runs of the inner loop = 25 times the inner loop executes.&lt;/em&gt;</target>
+        <target state="translated">Each time the outer loop runs, 内側ループ runs 5 times, once for every value of the x coordinate from 0 through 4. 5 runs of the outer loop x 5 runs of 内側ループ = 25 times 内側ループ executes.&lt;/em&gt;</target>
         <note>Context: XPath: /ul[13]/li[2]</note>
       </trans-unit>
       <trans-unit id="66956" identifier="7f3324f808c82380ec2bbea9fb293502">
@@ -876,13 +876,13 @@ XPath: /ul[14]/li</note>
       </trans-unit>
       <trans-unit id="66958" identifier="6c7e0aea62d6755d8f209ecaf2cf504d">
         <source>What happens if you switch the positions of the nested loops, so the outer loop loops through the xindex values and the inner loop loops through the yindex values?</source>
-        <target state="needs-translation">What happens if you switch the positions of the nested loops, so the outer loop loops through the xindex values and the inner loop loops through the yindex values?</target>
+        <target state="translated">What happens if you switch the positions of the nested loops, so the outer loop loops through the xindex values and 内側ループ loops through the yindex values?</target>
         <note>Context: List Item&#13;
 XPath: /ul[14]/li[2]</note>
       </trans-unit>
       <trans-unit id="66959" identifier="431ed113d3ff9795a9ec60fde7a4aa94">
         <source>What happens if you remove the ‘unplot’ block and the ‘pause’ block below it?</source>
-        <target state="needs-translation">What happens if you remove the ‘unplot’ block and the ‘pause’ block below it?</target>
+        <target state="translated">What happens if you remove the ‘unplot’ block and the 「一時停止（pause）」 block below it?</target>
         <note>Context: List Item&#13;
 XPath: /ul[14]/li[3]</note>
       </trans-unit>
@@ -894,21 +894,21 @@ XPath: /h2[5]</note>
       </trans-unit>
       <trans-unit id="70400" identifier="773eceada59aba3ee06b2c106a29ccf0">
         <source>The while block is useful when you want your program to loop until a certain event happens or a different condition is met.</source>
-        <target state="needs-translation">The while block is useful when you want your program to loop until a certain event happens or a different condition is met.</target>
+        <target state="translated">The while block is useful when you want your program to loop until a certain イベント happens or a different condition is met.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[42]</note>
       </trans-unit>
       <trans-unit id="70401" identifier="8d80ce1febba626dd172218f2a864a72">
         <source>For example, maybe you want an alarm to sound if someone shakes your micro:bit!
 In order to turn the alarm off, you press the button A. Until you press the button, the alarm should continue to sound!</source>
-        <target state="needs-translation">For example, maybe you want an alarm to sound if someone shakes your micro:bit!
-In order to turn the alarm off, you press the button A. Until you press the button, the alarm should continue to sound!</target>
+        <target state="translated">For example, maybe you want an alarm to sound if someone shakes your micro:bit!
+In order to turn the alarm off, you press the Aボタン. Until you press the button, the alarm should continue to sound!</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[43]</note>
       </trans-unit>
       <trans-unit id="70402" identifier="4222fe5d21fb9d120e02f7897a132e6e">
         <source>You can use a 'while' block with a nested ‘repeat’ block like this:</source>
-        <target state="needs-translation">You can use a 'while' block with a nested ‘repeat’ block like this:</target>
+        <target state="translated">You can use a 「もし真ならくりかえし（while）」 block with a nested 「くりかえし（repeat）」 block like this:</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[44]</note>
       </trans-unit>
@@ -952,7 +952,7 @@ XPath: /p[45]</note>
       </trans-unit>
       <trans-unit id="70405" identifier="342d1af222c8a32a8fb52edba020e5c0">
         <source>When someone shakes the micro:bit, while button A is not pressed, play the two tone alarm twice. Keep playing the alarm tones until the user presses the A button.</source>
-        <target state="needs-translation">When someone shakes the micro:bit, while button A is not pressed, play the two tone alarm twice. Keep playing the alarm tones until the user presses the A button.</target>
+        <target state="translated">When someone shakes the micro:bit, while Aボタン is not pressed, play the two tone alarm twice. Keep playing the alarm tones until ユーザー presses Aボタン.</target>
         <note>Context: Text&#13;
 XPath: /p[46]/em</note>
       </trans-unit>

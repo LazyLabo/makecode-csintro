@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file id="1846" original="/microbit/docs/courses/csintro/finalproject/review.md" source-language="en" target-language="ja" datatype="plaintext">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="/microbit/docs/courses/csintro/finalproject/review.md" source-language="en" datatype="plaintext" target-language="ja" id="1846">
     <body>
       <trans-unit id="66689" identifier="0e983c65bb3080496d3943eb0b707933" translate="no">
         <source>Review</source>
@@ -94,7 +94,7 @@ XPath: /h2[3]</note>
       <trans-unit id="66705" identifier="f45f3093a3d6a09cbd86ab15ff9aac04">
         <source>Computers work with &lt;em&gt;base-2&lt;/em&gt;, which uses binary numbers. Binary numbers only have two possible values: 0 or 1. 
  </source>
-        <target state="needs-translation">Computers work with &lt;em&gt;base-2&lt;/em&gt;, which uses binary numbers. Binary numbers only have two possible values: 0 or 1. 
+        <target state="translated">Computers work with &lt;em&gt;base-2&lt;/em&gt;, which uses 2進数. 2進数 only have two possible values: 0 or 1. 
  </target>
         <note>Context: Paragraph text&#13;
 XPath: /p[5]</note>
@@ -107,12 +107,12 @@ XPath: /h2[4]</note>
       </trans-unit>
       <trans-unit id="66707" identifier="32887bdc28b7e98e8138a59c9cebfc7a">
         <source>A micro:bits can send a combination of strings and numbers using the Radio blocks.</source>
-        <target state="needs-translation">A micro:bits can send a combination of strings and numbers using the Radio blocks.</target>
+        <target state="translated">A micro:bits can send a combination of strings and numbers using the 無線ブロック.</target>
         <note>Context: XPath: /p[6]</note>
       </trans-unit>
       <trans-unit id="66708" identifier="a21aaf19c32a33988a700589f6d9ff37">
         <source>The &lt;a href=&quot;/projects/infection&quot;&gt;Infection&lt;/a&gt; activity is an example of a thought-provoking group simulation that uses the Radio to send and receive data between micro:bits.</source>
-        <target state="needs-translation">The &lt;a href=&quot;/projects/infection&quot;&gt;Infection&lt;/a&gt; activity is an example of a thought-provoking group simulation that uses the Radio to send and receive data between micro:bits.</target>
+        <target state="translated">The &lt;a href=&quot;/projects/infection&quot;&gt;Infection&lt;/a&gt; アクティビティ is an example of a thought-provoking group simulation that uses the Radio to send and receive data between micro:bits.</target>
         <note>Context: XPath: /p[6]</note>
       </trans-unit>
       <trans-unit id="66709" identifier="0f50fdbe3d40031c7ba4b36121460254" translate="no">
@@ -133,17 +133,17 @@ XPath: /h2[5]</note>
       </trans-unit>
       <trans-unit id="66712" identifier="af00eb660db6b45146465ecdfc8b4c43">
         <source>Everything in a particular array needs to be the same data type and elements in an array are numbered starting from zero, also called the &lt;em&gt;index&lt;/em&gt;.</source>
-        <target state="needs-translation">Everything in a particular array needs to be the same data type and elements in an array are numbered starting from zero, also called the &lt;em&gt;index&lt;/em&gt;.</target>
+        <target state="translated">Everything in a particular array needs to be the same data type and elements in 配列 are numbered starting from zero, also called the &lt;em&gt;index&lt;/em&gt;.</target>
         <note>Context: XPath: /p[7]</note>
       </trans-unit>
       <trans-unit id="66713" identifier="992d57993fb3d4a3887e5e7c7fbf55fb">
         <source>Objects can be accessed, changed, added to, or removed from an array using their index.</source>
-        <target state="needs-translation">Objects can be accessed, changed, added to, or removed from an array using their index.</target>
+        <target state="translated">Objects can be accessed, changed, added to, or removed from 配列 using their index.</target>
         <note>Context: XPath: /p[7]</note>
       </trans-unit>
       <trans-unit id="70387" identifier="8f73acbc0e5984bb40a0d99b8b4fce80">
         <source>Three common methods of sorting elements in an array are bubble sort, selection sort, and insertion sort.</source>
-        <target state="needs-translation">Three common methods of sorting elements in an array are bubble sort, selection sort, and insertion sort.</target>
+        <target state="translated">Three common methods of sorting elements in 配列 are bubble sort, selection sort, and insertion sort.</target>
         <note>Context: XPath: /p[7]</note>
       </trans-unit>
     </body>

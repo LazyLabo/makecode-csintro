@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file id="1817" original="/microbit/docs/courses/csintro/binary/overview.md" source-language="en" target-language="ja" datatype="plaintext">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="/microbit/docs/courses/csintro/binary/overview.md" source-language="en" datatype="plaintext" target-language="ja" id="1817">
     <body>
       <trans-unit id="64924" identifier="913f6422d41f0413a2feb499068e4895" translate="no">
         <source>Introduction</source>
@@ -55,7 +55,7 @@ XPath: /h1</note>
       </trans-unit>
       <trans-unit id="64934" identifier="b25d54f8160faf37833f4ed047812275">
         <source>A bit is a binary digit and has only two possible values, zero or one.</source>
-        <target state="needs-translation">A bit is a binary digit and has only two possible values, zero or one.</target>
+        <target state="translated">A bit is バイナリーディジット and has only two possible values, zero or one.</target>
         <note>Context: XPath: /p[3]</note>
       </trans-unit>
       <trans-unit id="64935" identifier="14dc381471e7c2d84145898e247b6683">
@@ -81,7 +81,7 @@ XPath: /p[4]</note>
       </trans-unit>
       <trans-unit id="64939" identifier="85f032a6738ed0039682866085b8f9f9">
         <source>A byte is a sequence of binary digits made up of 8 bits.</source>
-        <target state="needs-translation">A byte is a sequence of binary digits made up of 8 bits.</target>
+        <target state="translated">A byte is a sequence of バイナリーディジット made up of 8 bits.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[5]</note>
       </trans-unit>
@@ -113,7 +113,7 @@ XPath: /h2</note>
       </trans-unit>
       <trans-unit id="64948" identifier="16934c420f682adc3ba24cfc35844d86">
         <source>A Bit is a binary digit with two possible values, zero or one</source>
-        <target state="needs-translation">A Bit is a binary digit with two possible values, zero or one</target>
+        <target state="translated">A Bit is バイナリーディジット with two possible values, zero or one</target>
         <note>Context: List Item&#13;
 XPath: /ul/li</note>
       </trans-unit>
@@ -161,7 +161,7 @@ XPath: /ul[2]/li</note>
       </trans-unit>
       <trans-unit id="64956" identifier="21742699dc27aaf3a4089bb700098b0e">
         <source>A bit can be used to hold a Boolean (true/false) value.  A value of zero represents ‘false’ and a value of one represents ‘true’.</source>
-        <target state="needs-translation">A bit can be used to hold a Boolean (true/false) value.  A value of zero represents ‘false’ and a value of one represents ‘true’.</target>
+        <target state="translated">A bit can be used to hold ブール値 (true/false) value.  A value of zero represents 「偽（false）」 and a value of one represents 「真（true）」.</target>
         <note>Context: List Item&#13;
 XPath: /ul[2]/li[2]</note>
       </trans-unit>

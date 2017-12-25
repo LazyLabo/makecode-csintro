@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file id="1819" original="/microbit/docs/courses/csintro/binary/standards.md" source-language="en" target-language="ja" datatype="plaintext">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="/microbit/docs/courses/csintro/binary/standards.md" source-language="en" datatype="plaintext" target-language="ja" id="1819">
     <body>
       <trans-unit id="65020" identifier="a6ab61cb2df7d09e35af9890bbb7cece" translate="no">
         <source>Standards</source>
@@ -28,7 +28,7 @@ XPath: /ul/li[2]</note>
       </trans-unit>
       <trans-unit id="65024" identifier="436827ca85ae8d6095157b0ec64732ab">
         <source>CT.L2-14 Examine connections between elements of mathematics and computer science, including binary numbers, logic, sets and functions.</source>
-        <target state="needs-translation">CT.L2-14 Examine connections between elements of mathematics and computer science, including binary numbers, logic, sets and functions.</target>
+        <target state="translated">CT.L2-14 Examine connections between elements of mathematics and computer science, including 2進数, logic, sets and functions.</target>
         <note>Context: List Item&#13;
 XPath: /ul/li[3]</note>
       </trans-unit>
@@ -40,7 +40,7 @@ XPath: /ul/li[4]</note>
       </trans-unit>
       <trans-unit id="65026" identifier="880a1fa47291336b1b3b0a2a5420fc06">
         <source>CPP.L1:6-06 Implement problem solutions using a block-based visual programming language.</source>
-        <target state="needs-translation">CPP.L1:6-06 Implement problem solutions using a block-based visual programming language.</target>
+        <target state="translated">CPP.L1:6-06 Implement problem solutions using ブロック-based visual プログラミング言語.</target>
         <note>Context: List Item&#13;
 XPath: /ul/li[5]</note>
       </trans-unit>

@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file id="1849" original="/microbit/docs/courses/csintro/introduction.md" source-language="en" target-language="ja" datatype="plaintext">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="/microbit/docs/courses/csintro/introduction.md" source-language="en" datatype="plaintext" target-language="ja" id="1849">
     <body>
       <trans-unit id="66738" identifier="913f6422d41f0413a2feb499068e4895" translate="no">
         <source>Introduction</source>
@@ -20,7 +20,7 @@ XPath: /h1</note>
       </trans-unit>
       <trans-unit id="66741" identifier="a5e83c26eb54732d79c390cf3448d05c">
         <source>We wondered whether a different approach to teaching the basics of computer programming would be more engaging and also attract a larger variety of different types of students, both boys and girls.</source>
-        <target state="needs-translation">We wondered whether a different approach to teaching the basics of computer programming would be more engaging and also attract a larger variety of different types of students, both boys and girls.</target>
+        <target state="translated">We wondered whether a different approach to teaching the basics of コンピュータ プログラミング would be more engaging and also attract a larger variety of different types of students, both boys and girls.</target>
         <note>Context: XPath: /p</note>
       </trans-unit>
       <trans-unit id="66742" identifier="713812f93b276ca78db667673b70290b">
@@ -416,7 +416,7 @@ XPath: /h3</note>
       </trans-unit>
       <trans-unit id="66810" identifier="14188e7f07e05df59eea82be6374ee16">
         <source>Some lessons have a specific activity that can help introduce the topic to students in a fun way.</source>
-        <target state="needs-translation">Some lessons have a specific activity that can help introduce the topic to students in a fun way.</target>
+        <target state="translated">Some lessons have a specific アクティビティ that can help introduce the topic to students in a fun way.</target>
         <note>Context: XPath: /p[11]</note>
       </trans-unit>
       <trans-unit id="66811" identifier="88617550e4dbc811df4ad4ab3a62840f">
@@ -427,7 +427,7 @@ XPath: /h3[2]</note>
       </trans-unit>
       <trans-unit id="66812" identifier="6c44b6ed5bbe54c880c97aa9668c5663">
         <source>Each lesson starts with an unplugged activity, which doesn't require a computer or a micro:bit.</source>
-        <target state="needs-translation">Each lesson starts with an unplugged activity, which doesn't require a computer or a micro:bit.</target>
+        <target state="translated">Each lesson starts with an アンプラグド アクティビティ, which doesn't require a computer or a micro:bit.</target>
         <note>Context: XPath: /p[12]</note>
       </trans-unit>
       <trans-unit id="66813" identifier="24253b9e719571677f3a5381e858a9cc">
@@ -453,27 +453,27 @@ XPath: /h3[3]</note>
       </trans-unit>
       <trans-unit id="66817" identifier="dfcf80635409ca9e4bf2013753bafb57">
         <source>Each lesson also contains a micro:bit activity, which we informally refer to as a &quot;birdhouse&quot; activity, after the innumerable wooden birdhouses so many of us made in wood shop as a way to master basic skills.</source>
-        <target state="needs-translation">Each lesson also contains a micro:bit activity, which we informally refer to as a &quot;birdhouse&quot; activity, after the innumerable wooden birdhouses so many of us made in wood shop as a way to master basic skills.</target>
+        <target state="translated">Each lesson also contains a micro:bit アクティビティ, which we informally refer to as a &quot;birdhouse&quot; アクティビティ, after the innumerable wooden birdhouses so many of us made in wood shop as a way to master basic skills.</target>
         <note>Context: XPath: /p[13]</note>
       </trans-unit>
       <trans-unit id="66818" identifier="fce51cb9b92868552b96e9c900bd6b4a">
         <source>Each lesson's micro:bit activity is an example that walks students step-by-step through building a project that demonstrates that lesson's topic.</source>
-        <target state="needs-translation">Each lesson's micro:bit activity is an example that walks students step-by-step through building a project that demonstrates that lesson's topic.</target>
+        <target state="translated">Each lesson's micro:bit アクティビティ is an example that walks students step-by-step through building a project that demonstrates that lesson's topic.</target>
         <note>Context: XPath: /p[13]</note>
       </trans-unit>
       <trans-unit id="66819" identifier="25bda60b3f5b82ae4e10d17c81476448">
         <source>By the time students finish the activity, they will have written code that they can use in a different project of their own design.</source>
-        <target state="needs-translation">By the time students finish the activity, they will have written code that they can use in a different project of their own design.</target>
+        <target state="translated">By the time students finish the アクティビティ, they will have written code that they can use in a different project of their own design.</target>
         <note>Context: XPath: /p[13]</note>
       </trans-unit>
       <trans-unit id="66820" identifier="c8761247b4330e49e08c296b5c458957">
         <source>Some students will finish the activity more quickly than others.</source>
-        <target state="needs-translation">Some students will finish the activity more quickly than others.</target>
+        <target state="translated">Some students will finish the アクティビティ more quickly than others.</target>
         <note>Context: XPath: /p[14]</note>
       </trans-unit>
       <trans-unit id="66821" identifier="5bf8f7c0605c6fbdaebea9bf4e7d853f">
         <source>Those students can then be a helpful resource for their classmates, or they can challenge themselves by modifying, or &quot;modding&quot; the activity to do something different.</source>
-        <target state="needs-translation">Those students can then be a helpful resource for their classmates, or they can challenge themselves by modifying, or &quot;modding&quot; the activity to do something different.</target>
+        <target state="translated">Those students can then be a helpful resource for their classmates, or they can challenge themselves by modifying, or &quot;modding&quot; the アクティビティ to do something different.</target>
         <note>Context: XPath: /p[14]</note>
       </trans-unit>
       <trans-unit id="66822" identifier="5b6fe450bc68b428ba53cc5119ab95c1">
@@ -489,7 +489,7 @@ XPath: /h3[4]</note>
       </trans-unit>
       <trans-unit id="66824" identifier="65a04197d147524683afb1ae27676232">
         <source>After presenting the concept in an unplugged fashion, then walking students through a demonstration activity, it is time to challenge students to use those skills to create something that is creative and original.</source>
-        <target state="needs-translation">After presenting the concept in an unplugged fashion, then walking students through a demonstration activity, it is time to challenge students to use those skills to create something that is creative and original.</target>
+        <target state="translated">After presenting the concept in an unplugged fashion, then walking students through a demonstration アクティビティ, it is time to challenge students to use those skills to create something that is creative and original.</target>
         <note>Context: XPath: /p[15]</note>
       </trans-unit>
       <trans-unit id="66825" identifier="a96d4ecf319b7c937069922d336180c6">
@@ -499,7 +499,7 @@ XPath: /h3[4]</note>
       </trans-unit>
       <trans-unit id="66826" identifier="5cee8e5f807a13aaedfd84e41569d42c">
         <source>Some form of reflection is an important part of documenting the learning that has taken place, and it's a great idea to share out the final projects and reflections, either at an event or on a blog.</source>
-        <target state="needs-translation">Some form of reflection is an important part of documenting the learning that has taken place, and it's a great idea to share out the final projects and reflections, either at an event or on a blog.</target>
+        <target state="translated">Some form of reflection is an important part of documenting the learning that has taken place, and it's a great idea to share out the final projects and reflections, either at イベント or on a blog.</target>
         <note>Context: XPath: /p[15]</note>
       </trans-unit>
       <trans-unit id="66827" identifier="3cc72a977c811c133b0f3dbb049fe21d">

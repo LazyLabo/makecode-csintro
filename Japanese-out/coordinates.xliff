@@ -27,7 +27,7 @@ XPath: /p/img[@alt]</note>
       </trans-unit>
       <trans-unit id="66479" identifier="568745125511bbe54bc330525f818ae5">
         <source>It gives students practice programming for the LEDs of the micro:bit screen using coordinates, and introduces the basic game blocks of MakeCode.</source>
-        <target state="needs-translation">It gives students practice programming for the LEDs of the micro:bit screen using coordinates, and introduces the basic game blocks of MakeCode.</target>
+        <target state="translated">It gives students practice プログラミング for the LEDs of the micro:bit screen using coordinates, and introduces the basic ゲーム ブロック of MakeCode.</target>
         <note>Context: XPath: /p[2]</note>
       </trans-unit>
       <trans-unit id="66480" identifier="26dd08dfa013898b7cb6a1c7e90797c5" translate="no">
@@ -98,7 +98,7 @@ XPath: /ul[2]/li</note>
       </trans-unit>
       <trans-unit id="66491" identifier="fe69cacb68b6fcb73d91451c8f2a6b88">
         <source>Unplugged Activity: Battleship</source>
-        <target state="needs-translation">Unplugged Activity: Battleship</target>
+        <target state="translated">Unplugged アクティビティ: Battleship</target>
         <note>Context: List Item&#13;
 XPath: /ul[2]/li[2]</note>
       </trans-unit>

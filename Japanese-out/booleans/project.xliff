@@ -23,7 +23,7 @@ XPath: /p/img[@alt]</note>
       <trans-unit id="65374" identifier="1bae6b92cd2bfb82d8a54af1892e8722">
         <source>This is an assignment for students to come up with a micro:bit program that uses Boolean variables, Boolean operators, and possibly the random function. 
  </source>
-        <target state="needs-translation">This is an assignment for students to come up with a micro:bit program that uses Boolean variables, Boolean operators, and possibly the random function. 
+        <target state="translated">This is an assignment for students to come up with a micro:bit program that uses ブール型変数, ブール演算子, and possibly the random function. 
  </target>
         <note>Context: Paragraph text&#13;
 XPath: /p[2]</note>
@@ -36,7 +36,7 @@ XPath: /h2</note>
       </trans-unit>
       <trans-unit id="65376" identifier="390663347489df23462cdd2a82b8d201">
         <source>Remind the students of all the different inputs available to them through the micro:bit.</source>
-        <target state="needs-translation">Remind the students of all the different inputs available to them through the micro:bit.</target>
+        <target state="translated">Remind the students of all the ちがう入力 available to them through the micro:bit.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[3]</note>
       </trans-unit>
@@ -2075,13 +2075,13 @@ XPath: /h3[2]</note>
       </trans-unit>
       <trans-unit id="65753" identifier="86483c263451561c65e1e1044493b0b0">
         <source>Create a game in which two players take turns on the same micro:bit. You can use a boolean variable called PlayerATurn to keep track of whose turn it is.</source>
-        <target state="needs-translation">Create a game in which two players take turns on the same micro:bit. You can use a boolean variable called PlayerATurn to keep track of whose turn it is.</target>
+        <target state="translated">Create a game in which two players take turns on the same micro:bit. You can use a ブール型変数 called PlayerATurn to keep track of whose turn it is.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[11]</note>
       </trans-unit>
       <trans-unit id="65754" identifier="3fc5a692ee31f125801defa678064630">
         <source>&lt;strong&gt;Board Game:&lt;/strong&gt; Use boolean variables and random values as part of a board game (or improve your Board Game from the Variables lesson).</source>
-        <target state="needs-translation">&lt;strong&gt;Board Game:&lt;/strong&gt; Use boolean variables and random values as part of a board game (or improve your Board Game from the Variables lesson).</target>
+        <target state="translated">&lt;strong&gt;Board Game:&lt;/strong&gt; Use ブール型変数 and random values as part of a board game (or improve your Board Game from the Variables lesson).</target>
         <note>Context: XPath: /p[12]</note>
       </trans-unit>
       <trans-unit id="65755" identifier="b3585ca0da1a60a028ddbcb62077e8ff">
@@ -2816,7 +2816,7 @@ XPath: /p[14]</note>
       </trans-unit>
       <trans-unit id="65872" identifier="e9a3a187f37dce373e580e9507a649d3">
         <source>A boolean variable is used to determine whose turn it is.</source>
-        <target state="needs-translation">A boolean variable is used to determine whose turn it is.</target>
+        <target state="translated">A ブール型変数 is used to determine whose turn it is.</target>
         <note>Context: XPath: /p[15]</note>
       </trans-unit>
       <trans-unit id="65873" identifier="45144494c81f5f3ad69279ac899732b3">
@@ -2859,13 +2859,13 @@ XPath: /p[16]</note>
       </trans-unit>
       <trans-unit id="65878" identifier="12d8e65017cfdd0fb7d94540885e3b8b">
         <source>How did you incorporate boolean variables into your micro:bit program?</source>
-        <target state="needs-translation">How did you incorporate boolean variables into your micro:bit program?</target>
+        <target state="translated">How did you incorporate ブール型変数 into your micro:bit program?</target>
         <note>Context: List Item&#13;
 XPath: /ul/li</note>
       </trans-unit>
       <trans-unit id="65879" identifier="9b962f719b6a0bfd565bb9a4c08c04b4">
         <source>How did you incorporate boolean operators into your micro:bit program?</source>
-        <target state="needs-translation">How did you incorporate boolean operators into your micro:bit program?</target>
+        <target state="translated">How did you incorporate ブール演算子 into your micro:bit program?</target>
         <note>Context: List Item&#13;
 XPath: /ul/li[2]</note>
       </trans-unit>
@@ -2908,10 +2908,10 @@ XPath: /h3[3]</note>
 &lt;strong&gt;3 =&lt;/strong&gt; At least 2 Boolean variables are implemented in a meaningful way.&lt;br/&gt;
 &lt;strong&gt;2 =&lt;/strong&gt; At least 1 Boolean variable is implemented in a meaningful way.&lt;br/&gt;
 &lt;strong&gt;1 =&lt;/strong&gt; No Boolean variables are implemented.</source>
-        <target state="needs-translation">&lt;strong&gt;4 =&lt;/strong&gt; More than 2 Boolean variables are implemented in a meaningful way.&lt;br/&gt;
-&lt;strong&gt;3 =&lt;/strong&gt; At least 2 Boolean variables are implemented in a meaningful way.&lt;br/&gt;
-&lt;strong&gt;2 =&lt;/strong&gt; At least 1 Boolean variable is implemented in a meaningful way.&lt;br/&gt;
-&lt;strong&gt;1 =&lt;/strong&gt; No Boolean variables are implemented.</target>
+        <target state="translated">&lt;strong&gt;4 =&lt;/strong&gt; More than 2 ブール型変数 are implemented in a meaningful way.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; At least 2 ブール型変数 are implemented in a meaningful way.&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; At least 1 ブール型変数 is implemented in a meaningful way.&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; No ブール型変数 are implemented.</target>
         <note>Context: XPath: /p[18]</note>
       </trans-unit>
       <trans-unit id="65886" identifier="e02a0859db0e09189f957c3f236cec26" translate="no">

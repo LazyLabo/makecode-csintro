@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file id="1839" original="/microbit/docs/courses/csintro/coordinates/project.md" source-language="en" target-language="ja" datatype="plaintext">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="/microbit/docs/courses/csintro/coordinates/project.md" source-language="en" datatype="plaintext" target-language="ja" id="1839">
     <body>
       <trans-unit id="66381" identifier="a3be42cede08e9643544332260d41268">
         <source>Project: Screensaver or game</source>
@@ -10,7 +10,7 @@ XPath: /h1</note>
       </trans-unit>
       <trans-unit id="66382" identifier="87b7ab542d52d8cceab799815aaa3423">
         <source>Use what you now know about LEDs, coordinates, and brightness to create your own project: a screensaver, or a game.</source>
-        <target state="needs-translation">Use what you now know about LEDs, coordinates, and brightness to create your own project: a screensaver, or a game.</target>
+        <target state="translated">Use what you now know about LEDs, coordinates, and brightness to create your own プロジェクト a screensaver, or a game.</target>
         <note>Context: XPath: /p</note>
       </trans-unit>
       <trans-unit id="66383" identifier="5c3464f581e31d0e5125418f1851418e">
@@ -46,7 +46,7 @@ XPath: /h2</note>
       </trans-unit>
       <trans-unit id="66389" identifier="47640eca458108a09b0e49941b22bf19">
         <source>When the same area of the screen was painted (excited) over and over again by the stream of electrons, that part of the screen would sometimes &quot;freeze&quot; with the same image, burned into the phosphor for good.</source>
-        <target state="needs-translation">When the same area of the screen was painted (excited) over and over again by the stream of electrons, that part of the screen would sometimes &quot;freeze&quot; with the same image, burned into the phosphor for good.</target>
+        <target state="translated">When the same area of 画面 was painted (excited) over and over again by the stream of electrons, that part of 画面 would sometimes &quot;freeze&quot; with the same image, burned into the phosphor for good.</target>
         <note>Context: XPath: /p[2]</note>
       </trans-unit>
       <trans-unit id="66390" identifier="499efa8d5af0be42c1aa238bcb596fad">
@@ -61,7 +61,7 @@ XPath: /h2</note>
       </trans-unit>
       <trans-unit id="66392" identifier="2e60275055378b66ff49933eab71f32a">
         <source>Programmers learned to create a demo screen with an animation that would run whenever the screen was idle.</source>
-        <target state="needs-translation">Programmers learned to create a demo screen with an animation that would run whenever the screen was idle.</target>
+        <target state="translated">Programmers learned to create a demo screen with an animation that would run whenever 画面 was idle.</target>
         <note>Context: XPath: /p[3]</note>
       </trans-unit>
       <trans-unit id="66393" identifier="791f9ed536af86063f68fd9c93f90bb3">
@@ -82,7 +82,7 @@ XPath: /p[4]</note>
       </trans-unit>
       <trans-unit id="70377" identifier="831c05af85b98a755cc430f8536566df">
         <source>A &quot;screen saver&quot; animation using the plot/unplot blocks. You can fill the screen line by line, pausing between each one, or fill it with a random constellation of stars.</source>
-        <target state="needs-translation">A &quot;screen saver&quot; animation using the plot/unplot blocks. You can fill the screen line by line, pausing between each one, or fill it with a random constellation of stars.</target>
+        <target state="translated">A &quot;screen saver&quot; animation using the plot/unplot blocks. You can fill 画面 line by line, pausing between each one, or fill it with a random constellation of stars.</target>
         <note>Context: List Item&#13;
 XPath: /ul/li</note>
       </trans-unit>
@@ -100,7 +100,7 @@ XPath: /ul[2]/li</note>
       </trans-unit>
       <trans-unit id="66399" identifier="c6d49e5603625aee4170b93e0499aa91">
         <source>Your project might use variables to store the values of sprites, which are special structures that contain an x and a y coordinate together that describe the sprite's location as one LED on the screen.</source>
-        <target state="needs-translation">Your project might use variables to store the values of sprites, which are special structures that contain an x and a y coordinate together that describe the sprite's location as one LED on the screen.</target>
+        <target state="translated">Your project might use variables to store the values of sprites, which are special structures that contain an x and a y coordinate together that describe the sprite's location as one LED on 画面.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[5]</note>
       </trans-unit>
@@ -118,12 +118,12 @@ XPath: /h3</note>
       </trans-unit>
       <trans-unit id="66402" identifier="c634555742caebf24913b3fb1c70e3f0">
         <source>This project uses a for loop with the plot/unplot blocks to create a symmetrical design on the screen.</source>
-        <target state="needs-translation">This project uses a for loop with the plot/unplot blocks to create a symmetrical design on the screen.</target>
+        <target state="translated">This project uses a for loop with the plot/unplot blocks to create a symmetrical design on 画面.</target>
         <note>Context: XPath: /p[6]</note>
       </trans-unit>
       <trans-unit id="66403" identifier="dac824ed0c5fec5b0f618d6e10cb99b9">
         <source>This student used a subtraction operation to get a variable that decreases as the index variable in the loop increases.</source>
-        <target state="needs-translation">This student used a subtraction operation to get a variable that decreases as the index variable in the loop increases.</target>
+        <target state="translated">This student used a subtraction operation to get 変数 that decreases as the index variable in the loop increases.</target>
         <note>Context: XPath: /p[6]</note>
       </trans-unit>
       <trans-unit id="66404" identifier="327e34f8b1e7d437c001df50b7482b8e">
@@ -160,12 +160,12 @@ XPath: /pre/code</note>
       </trans-unit>
       <trans-unit id="66405" identifier="5bea0270bef3e9c08bd71a1996decf1f" translate="no">
         <source>This project uses a for loop with the plot/unplot blocks to create a symmetrical design on the screen.</source>
-        <target>This project uses a for loop with the plot/unplot blocks to create a symmetrical design on the screen.</target>
+        <target state="translated">This project uses a for loop with the plot/unplot blocks to create a symmetrical design on 画面.</target>
         <note>Context: XPath: /p[7]</note>
       </trans-unit>
       <trans-unit id="66406" identifier="563d13126af2c2574ebb66ed65830b66" translate="no">
         <source>This student used a subtraction operation to get a variable that decreases as the index variable in the loop increases.</source>
-        <target>This student used a subtraction operation to get a variable that decreases as the index variable in the loop increases.</target>
+        <target state="translated">This student used a subtraction operation to get 変数 that decreases as the index variable in the loop increases.</target>
         <note>Context: XPath: /p[7]</note>
       </trans-unit>
       <trans-unit id="66407" identifier="bb7f476756a093078b1b7f1433888e37" translate="no">
@@ -208,7 +208,7 @@ XPath: /h3[2]</note>
       </trans-unit>
       <trans-unit id="66409" identifier="de4e04277a04cf4044d8041730b47093">
         <source>This example creates a diagonal cascading effect across the screen. Note the use of a variable (speed) to allow you to easily change the speed of the animation by changing just one number value.</source>
-        <target state="needs-translation">This example creates a diagonal cascading effect across the screen. Note the use of a variable (speed) to allow you to easily change the speed of the animation by changing just one number value.</target>
+        <target state="translated">This example creates a diagonal cascading effect across 画面. Note the use of 変数 (speed) to allow you to easily change the speed of the animation by changing just one number value.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[8]</note>
       </trans-unit>
@@ -363,7 +363,7 @@ XPath: /h3[3]</note>
       </trans-unit>
       <trans-unit id="66414" identifier="bdb44350063cbd35fe714f4d3be9cf39">
         <source>You use the A and B buttons to move the dodger to avoid the balls that are falling from the top of the screen.</source>
-        <target state="needs-translation">You use the A and B buttons to move the dodger to avoid the balls that are falling from the top of the screen.</target>
+        <target state="translated">You use the A and B buttons to move the dodger to avoid the balls that are falling from the top of 画面.</target>
         <note>Context: XPath: /p[9]</note>
       </trans-unit>
       <trans-unit id="66415" identifier="bff98735faf27506a4551832a578469c">

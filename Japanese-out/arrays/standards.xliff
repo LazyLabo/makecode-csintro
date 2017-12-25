@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file id="1812" original="/microbit/docs/courses/csintro/arrays/standards.md" source-language="en" target-language="ja" datatype="plaintext">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="/microbit/docs/courses/csintro/arrays/standards.md" source-language="en" datatype="plaintext" target-language="ja" id="1812">
     <body>
       <trans-unit id="64658" identifier="a6ab61cb2df7d09e35af9890bbb7cece" translate="no">
         <source>Standards</source>
@@ -46,7 +46,7 @@ XPath: /ul/li[5]</note>
       </trans-unit>
       <trans-unit id="64665" identifier="253d01b331ee7a21698f4e72dfef595c">
         <source>CL.L2-05 Implement problem solutions using a programming language, including: looping behavior, conditional statements, logic, expressions, variables, and functions.</source>
-        <target state="needs-translation">CL.L2-05 Implement problem solutions using a programming language, including: looping behavior, conditional statements, logic, expressions, variables, and functions.</target>
+        <target state="translated">CL.L2-05 Implement problem solutions using プログラミング言語, including: looping behavior, 条件文, logic, expressions, variables, and functions.</target>
         <note>Context: List Item&#13;
 XPath: /ul/li[6]</note>
       </trans-unit>

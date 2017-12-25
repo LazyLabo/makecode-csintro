@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file id="1816" original="/microbit/docs/courses/csintro/binary/activity.md" source-language="en" target-language="ja" datatype="plaintext">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="/microbit/docs/courses/csintro/binary/activity.md" source-language="en" datatype="plaintext" target-language="ja" id="1816">
     <body>
       <trans-unit id="64831" identifier="86af5d92504452df15919067ddd430be">
         <source>Activity: Binary transmogrifier</source>
@@ -10,7 +10,7 @@ XPath: /h1</note>
       </trans-unit>
       <trans-unit id="64832" identifier="d2fe11abd503366d604fac811c57eaa2">
         <source>Guide the students through building a binary transmogrifier (converter) that converts between binary (base-2) and decimal (base-10) numbers.</source>
-        <target state="needs-translation">Guide the students through building a binary transmogrifier (converter) that converts between binary (base-2) and decimal (base-10) numbers.</target>
+        <target state="translated">Guide the students through building a binary transmogrifier (converter) that converts between バイナリー（2進数） and デシマル（10進数）.</target>
         <note>Context: XPath: /p</note>
       </trans-unit>
       <trans-unit id="64833" identifier="c92c58b493be47c5c722e07e3e681915">
@@ -43,7 +43,7 @@ XPath: /p[2]</note>
       </trans-unit>
       <trans-unit id="64838" identifier="545ed90e17242e149d4b28f9dd4fbe00">
         <source>The user will be able to use the buttons to enter binary 0s and 1s and will be able to press A+B at any time to display the decimal equivalent of the number that has been entered.</source>
-        <target state="needs-translation">The user will be able to use the buttons to enter binary 0s and 1s and will be able to press A+B at any time to display the decimal equivalent of the number that has been entered.</target>
+        <target state="translated">The ユーザー will be able to use the buttons to enter binary 0s and 1s and will be able to press A+B at any time to display the decimal equivalent of the number that has been entered.</target>
         <note>Context: XPath: /p[3]</note>
       </trans-unit>
       <trans-unit id="64839" identifier="98ea01ce730bb91829c49adf3981debb">
@@ -55,14 +55,14 @@ XPath: /h2</note>
       <trans-unit id="64840" identifier="f0047c13838af8213fbff870ef90d0ae">
         <source>Students will need to create a number variable to hold the running decimal total.
 They should also create a string variable to hold the current binary number.</source>
-        <target state="needs-translation">Students will need to create a number variable to hold the running decimal total.
-They should also create a string variable to hold the current binary number.</target>
+        <target state="translated">Students will need to create a number variable to hold the running decimal total.
+They should also create a string variable to hold the current 2進数.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[4]</note>
       </trans-unit>
       <trans-unit id="64841" identifier="82b0888c058dd510f17295105618683a">
         <source>From the Variables menu, make and name these two variables: decimal, binary.</source>
-        <target state="needs-translation">From the Variables menu, make and name these two variables: decimal, binary.</target>
+        <target state="translated">From the 変数(Variables)メニュー, make and name these two variables: decimal, binary.</target>
         <note>Context: List Item&#13;
 XPath: /ul/li</note>
       </trans-unit>
@@ -74,7 +74,7 @@ XPath: /blockquote/p/img[@src]</note>
       </trans-unit>
       <trans-unit id="64843" identifier="2b4a141dde32ffe7089c85246b499ec8">
         <source>Make a variable</source>
-        <target state="needs-translation">Make a variable</target>
+        <target state="translated">Make 変数</target>
         <note>Context: Image Alternative Text&#13;
 XPath: /blockquote/p/img[@alt]
 Screenshot: https://crowdin.com/s/wrap/73e383g3m4d3v6b38307u4p4o45555p4q455m2i463530565c6?t=64843</note>
@@ -87,7 +87,7 @@ XPath: /blockquote/p[2]/img[@src]</note>
       </trans-unit>
       <trans-unit id="64845" identifier="44793cc2d418484ab4adbe8a3cf3a916">
         <source>Name a variable</source>
-        <target state="needs-translation">Name a variable</target>
+        <target state="translated">Name 変数</target>
         <note>Context: Image Alternative Text&#13;
 XPath: /blockquote/p[2]/img[@alt]</note>
       </trans-unit>
@@ -164,17 +164,17 @@ XPath: /h2[3]</note>
       </trans-unit>
       <trans-unit id="64858" identifier="caf08dca7370ebc8539df9939e0db279">
         <source>Remember that binary numbers are calculated based on the number of place values (“bits”) and as you enter 1s and 0s, the value changes.</source>
-        <target state="needs-translation">Remember that binary numbers are calculated based on the number of place values (“bits”) and as you enter 1s and 0s, the value changes.</target>
+        <target state="translated">Remember that 2進数 are calculated based on the number of place values (“bits”) and as you enter 1s and 0s, the value changes.</target>
         <note>Context: XPath: /p[8]</note>
       </trans-unit>
       <trans-unit id="64859" identifier="a1deed72d740b5c8c36aa914ca38e822">
         <source>One way to calculate the decimal value is to wait until the user presses A+B, and then calculate the entire number based on the value of the string.</source>
-        <target state="needs-translation">One way to calculate the decimal value is to wait until the user presses A+B, and then calculate the entire number based on the value of the string.</target>
+        <target state="translated">One way to calculate the 10進数の値 is to wait until ユーザー presses A+B, and then calculate the entire number based on the value of the string.</target>
         <note>Context: XPath: /p[8]</note>
       </trans-unit>
       <trans-unit id="64860" identifier="20d06a01ae829a726e05fbf316be35e8">
         <source>However, a much simpler method is to calculate the decimal number “on the fly”, which is to say, every time the user presses a 1 or a 0, calculate the current decimal value of that string so you only have to deal with one 0 or 1 at a time.</source>
-        <target state="needs-translation">However, a much simpler method is to calculate the decimal number “on the fly”, which is to say, every time the user presses a 1 or a 0, calculate the current decimal value of that string so you only have to deal with one 0 or 1 at a time.</target>
+        <target state="translated">However, a much simpler method is to calculate the decimal number “on the fly”, which is to say, every time ユーザー presses a 1 or a 0, calculate the current 10進数の値 of that string so you only have to deal with one 0 or 1 at a time.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[9]</note>
       </trans-unit>
@@ -186,12 +186,12 @@ XPath: /h2[4]</note>
       </trans-unit>
       <trans-unit id="64862" identifier="00dc24c899ba92904c30ba140cc2095f">
         <source>This is a table of the first fourteen binary numbers and their decimal equivalents.</source>
-        <target state="needs-translation">This is a table of the first fourteen binary numbers and their decimal equivalents.</target>
+        <target state="translated">This is a table of the first fourteen 2進数 and their decimal equivalents.</target>
         <note>Context: XPath: /p[10]</note>
       </trans-unit>
       <trans-unit id="64863" identifier="39f9c51a6e43ad9ae9543b260424867e">
         <source>Your goal is to use this table to figure out how to calculate a new correct decimal value based on whether a user enters a 0, or a 1 as the next number in the string.</source>
-        <target state="needs-translation">Your goal is to use this table to figure out how to calculate a new correct decimal value based on whether a user enters a 0, or a 1 as the next number in the string.</target>
+        <target state="translated">Your goal is to use this table to figure out how to calculate a new correct 10進数の値 based on whether a ユーザー enters a 0, or a 1 as the next number in the string.</target>
         <note>Context: XPath: /p[10]</note>
       </trans-unit>
       <trans-unit id="64864" identifier="e8570c70d2c3ddc152a390b7bddf3583">
@@ -223,17 +223,17 @@ XPath: /pre[2]/code</note>
       </trans-unit>
       <trans-unit id="64866" identifier="3bfedae752c19fa8af17b036bfc9f7a7">
         <source>If the first number the human enters is a 1, you automatically know the new decimal value is a 1.</source>
-        <target state="needs-translation">If the first number the human enters is a 1, you automatically know the new decimal value is a 1.</target>
+        <target state="translated">If the first number the human enters is a 1, you automatically know the new 10進数の値 is a 1.</target>
         <note>Context: XPath: /p[11]</note>
       </trans-unit>
       <trans-unit id="64867" identifier="0cd37ff12694d40bd777ef16bf5a903a">
         <source>If the second number that is entered is a 0, then your decimal value goes from 1 to 2.</source>
-        <target state="needs-translation">If the second number that is entered is a 0, then your decimal value goes from 1 to 2.</target>
+        <target state="translated">If the second number that is entered is a 0, then your 10進数の値 goes from 1 to 2.</target>
         <note>Context: XPath: /p[11]</note>
       </trans-unit>
       <trans-unit id="64868" identifier="4c9cbe3d665583a66fe75e5699c1f08b">
         <source>However, if the second number is also a 1, then your new decimal value goes from 1 to 3.</source>
-        <target state="needs-translation">However, if the second number is also a 1, then your new decimal value goes from 1 to 3.</target>
+        <target state="translated">However, if the second number is also a 1, then your new 10進数の値 goes from 1 to 3.</target>
         <note>Context: XPath: /p[11]</note>
       </trans-unit>
       <trans-unit id="64869" identifier="338d8e8d01fc97c8b0586f4a6f01270e">
@@ -248,37 +248,37 @@ XPath: /pre[2]/code</note>
       </trans-unit>
       <trans-unit id="64871" identifier="f5cd9ca8ac08777bbd986dc019592969">
         <source>The decimal value of binary 10 is 2.</source>
-        <target state="needs-translation">The decimal value of binary 10 is 2.</target>
+        <target state="translated">The 10進数の値 of binary 10 is 2.</target>
         <note>Context: XPath: /p[12]</note>
       </trans-unit>
       <trans-unit id="64872" identifier="40185bf14290018ebb37eecddb5e2e89">
         <source>If the third number entered is a 0, then your new decimal value goes from 2 to 4.</source>
-        <target state="needs-translation">If the third number entered is a 0, then your new decimal value goes from 2 to 4.</target>
+        <target state="translated">If the third number entered is a 0, then your new 10進数の値 goes from 2 to 4.</target>
         <note>Context: XPath: /p[12]</note>
       </trans-unit>
       <trans-unit id="64873" identifier="45a4de79ce20689052f1a520b7ee1d95">
         <source>If the third number entered is a 1, then your new decimal value goes from 2 to 5.</source>
-        <target state="needs-translation">If the third number entered is a 1, then your new decimal value goes from 2 to 5.</target>
+        <target state="translated">If the third number entered is a 1, then your new 10進数の値 goes from 2 to 5.</target>
         <note>Context: XPath: /p[12]</note>
       </trans-unit>
       <trans-unit id="64874" identifier="e568a3315a9253ca97c9cb3af5caaaa7">
         <source>If, on the other hand, you have 11 in your binary string, then your decimal value is 3.</source>
-        <target state="needs-translation">If, on the other hand, you have 11 in your binary string, then your decimal value is 3.</target>
+        <target state="translated">If, on the other hand, you have 11 in your binary string, then your 10進数の値 is 3.</target>
         <note>Context: XPath: /p[13]</note>
       </trans-unit>
       <trans-unit id="64875" identifier="299de7410df1285652a08b81f1c559a0">
         <source>If the third number entered is a 0, then your new decimal value goes from 3 to 6.</source>
-        <target state="needs-translation">If the third number entered is a 0, then your new decimal value goes from 3 to 6.</target>
+        <target state="translated">If the third number entered is a 0, then your new 10進数の値 goes from 3 to 6.</target>
         <note>Context: XPath: /p[13]</note>
       </trans-unit>
       <trans-unit id="64876" identifier="ce7c1d5fb7d7a24a1116920154c56ac6">
         <source>If the third number entered is a 1, then your new decimal value goes from 3 to 7.</source>
-        <target state="needs-translation">If the third number entered is a 1, then your new decimal value goes from 3 to 7.</target>
+        <target state="translated">If the third number entered is a 1, then your new 10進数の値 goes from 3 to 7.</target>
         <note>Context: XPath: /p[13]</note>
       </trans-unit>
       <trans-unit id="64877" identifier="43514118963b5563df6d44608d00bab0">
         <source>See if you can spot a pattern that will help you figure out, for any given decimal value, what the new decimal value should be if the user enters a 0, or if the user enters a 1.</source>
-        <target state="needs-translation">See if you can spot a pattern that will help you figure out, for any given decimal value, what the new decimal value should be if the user enters a 0, or if the user enters a 1.</target>
+        <target state="translated">See if you can spot a pattern that will help you figure out, for any given 10進数の値, what the new 10進数の値 should be if ユーザー enters a 0, or if ユーザー enters a 1.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[14]</note>
       </trans-unit>
@@ -328,7 +328,7 @@ XPath: /p[17]</note>
       </trans-unit>
       <trans-unit id="64886" identifier="6361956af5d3d3387a6093be6bc32302">
         <source>When Button A is pressed:</source>
-        <target state="needs-translation">When Button A is pressed:</target>
+        <target state="translated">When Aボタン is pressed:</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[18]</note>
       </trans-unit>
@@ -346,13 +346,13 @@ XPath: /ol/li[2]</note>
       </trans-unit>
       <trans-unit id="64889" identifier="1d9a7de467aef913793bc0a0d26cd758">
         <source>Update the decimal value with the total.</source>
-        <target state="needs-translation">Update the decimal value with the total.</target>
+        <target state="translated">Update the 10進数の値 with the total.</target>
         <note>Context: List Item&#13;
 XPath: /ol/li[3]</note>
       </trans-unit>
       <trans-unit id="64890" identifier="d0a63cba77dc8878d1a53b80468e8f5c">
         <source>When Button B is pressed:</source>
-        <target state="needs-translation">When Button B is pressed:</target>
+        <target state="translated">When Bボタン is pressed:</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[19]</note>
       </trans-unit>
@@ -370,7 +370,7 @@ XPath: /ol[2]/li[2]</note>
       </trans-unit>
       <trans-unit id="64893" identifier="8676237c0796d95b67cd8a120a3e4d1e" translate="no">
         <source>Update the decimal value with the total.</source>
-        <target>Update the decimal value with the total.</target>
+        <target state="translated">Update the 10進数の値 with the total.</target>
         <note>Context: List Item&#13;
 XPath: /ol[2]/li[3]</note>
       </trans-unit>
@@ -394,7 +394,7 @@ XPath: /h2[6]</note>
       </trans-unit>
       <trans-unit id="64897" identifier="a0bd3f6f61d27985be4e196faa490254">
         <source>From the Input Toolbox drawer, drag 3 of the ‘on button A pressed’ event handlers to your coding workspace</source>
-        <target state="needs-translation">From the Input Toolbox drawer, drag 3 of the ‘on button A pressed’ event handlers to your coding workspace</target>
+        <target state="translated">From the 入力(Input)メニュー, drag 3 of the 「ボタンAが押されたとき（on button A pressed）」 イベントハンドラー to コーディング ワークスペース</target>
         <note>Context: List Item&#13;
 XPath: /ul[3]/li</note>
       </trans-unit>
@@ -428,7 +428,7 @@ XPath: /pre[3]/code</note>
       </trans-unit>
       <trans-unit id="64900" identifier="632727211c941c4aa6afbaef18e3f281">
         <source>Let’s work on what to do when button A is pressed.</source>
-        <target state="needs-translation">Let’s work on what to do when button A is pressed.</target>
+        <target state="translated">Let’s work on what to do when Aボタン is pressed.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[21]</note>
       </trans-unit>
@@ -440,32 +440,32 @@ XPath: /ul[4]/li</note>
       </trans-unit>
       <trans-unit id="64902" identifier="1067cf038ca42cae82c1bd1176870801">
         <source>From the Text Toolbox drawer (under the Advanced menu), drag the 'join' block to your programming workspace</source>
-        <target state="needs-translation">From the Text Toolbox drawer (under the Advanced menu), drag the 'join' block to your programming workspace</target>
+        <target state="translated">From the 文字列(Text)メニュー (under the 高度なブロック(Advanced)メニュー), drag the 「文字列をつなげる」ブロック to プログラミング ワークスペース</target>
         <note>Context: List Item&#13;
 XPath: /ul[4]/li[2]</note>
       </trans-unit>
       <trans-unit id="64903" identifier="e6e41417371bcd8d620b54a97e67441c">
         <source>Next, use the 'set' variable block to assign the value of the 'binary' variable to the 'join' block</source>
-        <target state="needs-translation">Next, use the 'set' variable block to assign the value of the 'binary' variable to the 'join' block</target>
+        <target state="translated">Next, use the 「変数を・・・にする（set item）」ブロック to assign the value of the 'binary' variable to the 「文字列をつなげる」ブロック</target>
         <note>Context: List Item&#13;
 XPath: /ul[4]/li[3]</note>
       </trans-unit>
       <trans-unit id="64904" identifier="110c7dc8e249764ca72ddf07b89e179b">
         <source>Join the 'binary' variable and “1” by entering them into the appropriate slots in the 'join' block</source>
-        <target state="needs-translation">Join the 'binary' variable and “1” by entering them into the appropriate slots in the 'join' block</target>
+        <target state="translated">Join the 'binary' variable and “1” by entering them into the appropriate slots in the 「文字列をつなげる」ブロック</target>
         <note>Context: List Item&#13;
 XPath: /ul[4]/li[4]</note>
       </trans-unit>
       <trans-unit id="64905" identifier="26ec5cb9a1621eb48e328209746882f2">
         <source>And show the binary value on the screen so that when users press a button they can see the entire binary string</source>
-        <target state="needs-translation">And show the binary value on the screen so that when users press a button they can see the entire binary string</target>
+        <target state="translated">And show the binary value on 画面 so that when ユーザー press a button they can see the entire binary string</target>
         <note>Context: List Item&#13;
 XPath: /ul[4]/li[5]</note>
       </trans-unit>
       <trans-unit id="64906" identifier="860ccbdb35820454e607aa19f6fa1acb">
         <source>let binary = &quot;&quot;
 input.onButtonPressed(Button.A, () =&amp;gt; {
-    binary = binary + &quot;1&quot;
+        binary = binary + &quot;1&quot;
     basic.showString(binary)
 })</source>
         <target state="needs-translation">let binary = &quot;&quot;
@@ -478,12 +478,12 @@ XPath: /pre[4]/code</note>
       </trans-unit>
       <trans-unit id="64907" identifier="748e10ca31724163a201c086b51a01e1">
         <source>Finally, you will need to update the current decimal value with the value of the entire binary string.</source>
-        <target state="needs-translation">Finally, you will need to update the current decimal value with the value of the entire binary string.</target>
+        <target state="translated">Finally, you will need to update the current 10進数の値 with the value of the entire binary string.</target>
         <note>Context: XPath: /ul[5]/li</note>
       </trans-unit>
       <trans-unit id="64908" identifier="a92de29c756180a9ffca231fd390f50e">
         <source>This is pretty straightforward if you have been keeping track of the decimal value every time someone presses a button.</source>
-        <target state="needs-translation">This is pretty straightforward if you have been keeping track of the decimal value every time someone presses a button.</target>
+        <target state="translated">This is pretty straightforward if you have been keeping track of the 10進数の値 every time someone presses a button.</target>
         <note>Context: XPath: /ul[5]/li</note>
       </trans-unit>
       <trans-unit id="64909" identifier="17746d0e130aa69202eb1cecf98214fd">
@@ -493,19 +493,19 @@ XPath: /pre[4]/code</note>
       </trans-unit>
       <trans-unit id="64910" identifier="41296f46c5a0fec533d961ec5f6a069c">
         <source>Whenever someone enters a 0, the new decimal value is twice the previous value.</source>
-        <target state="needs-translation">Whenever someone enters a 0, the new decimal value is twice the previous value.</target>
+        <target state="translated">Whenever someone enters a 0, the new 10進数の値 is twice the previous value.</target>
         <note>Context: List Item&#13;
 XPath: /blockquote[2]/ul/li</note>
       </trans-unit>
       <trans-unit id="64911" identifier="701d26159f7e9ae90a00fae31e10975e">
         <source>If someone enters a 1, the new decimal value is twice the previous value, plus 1.</source>
-        <target state="needs-translation">If someone enters a 1, the new decimal value is twice the previous value, plus 1.</target>
+        <target state="translated">If someone enters a 1, the new 10進数の値 is twice the previous value, plus 1.</target>
         <note>Context: List Item&#13;
 XPath: /blockquote[2]/ul/li[2]</note>
       </trans-unit>
       <trans-unit id="64912" identifier="4c0274c206cb8e4ac35bc4227c429e4f">
         <source>For Button A, you will need to use the multiplication Math block and your binary variable block to create the proper formula.</source>
-        <target state="needs-translation">For Button A, you will need to use the multiplication Math block and your binary variable block to create the proper formula.</target>
+        <target state="translated">For Aボタン, you will need to use the multiplication Math block and your binary variable block to create the proper formula.</target>
         <note>Context: XPath: /ul[6]/li</note>
       </trans-unit>
       <trans-unit id="64913" identifier="bdc631ba6fd2d6f15652e1e2ff805688">
@@ -517,14 +517,14 @@ XPath: /blockquote[2]/ul/li[2]</note>
         <source>let binary = &quot;&quot;
 let decimal = 0
 input.onButtonPressed(Button.A, () =&amp;gt; {
-    binary = binary + &quot;1&quot;
+        binary = binary + &quot;1&quot;
     basic.showString(binary)
     decimal = decimal * 2 + 1
 })</source>
         <target state="needs-translation">let binary = &quot;&quot;
 let decimal = 0
 input.onButtonPressed(Button.A, () =&amp;gt; {
-    binary = binary + &quot;1&quot;
+        binary = binary + &quot;1&quot;
     basic.showString(binary)
     decimal = decimal * 2 + 1
 })</target>
@@ -533,13 +533,13 @@ XPath: /pre[5]/code</note>
       </trans-unit>
       <trans-unit id="64915" identifier="ee9a9083df2dad52e7ea4812f3bc3ef1">
         <source>Your Button B algorithm is similar, although you will be joining a “0” to the binary variable and you are just multiplying the decimal variable by 2.</source>
-        <target state="needs-translation">Your Button B algorithm is similar, although you will be joining a “0” to the binary variable and you are just multiplying the decimal variable by 2.</target>
+        <target state="translated">Your Bボタン algorithm is similar, although you will be joining a “0” to the binary variable and you are just multiplying the decimal variable by 2.</target>
         <note>Context: List Item&#13;
 XPath: /ul[7]/li</note>
       </trans-unit>
       <trans-unit id="64916" identifier="95b89febf0054d1789d3abb8b54b2300">
         <source>Your Button A+B algorithm just uses a Show block to show the value of the decimal variable.</source>
-        <target state="needs-translation">Your Button A+B algorithm just uses a Show block to show the value of the decimal variable.</target>
+        <target state="translated">Your AボタンとBボタン algorithm just uses a Show block to show the value of the decimal variable.</target>
         <note>Context: List Item&#13;
 XPath: /ul[7]/li[2]</note>
       </trans-unit>
@@ -615,7 +615,7 @@ XPath: /ul[8]/li[2]</note>
       </trans-unit>
       <trans-unit id="64923" identifier="39acd5e901f6ffed18fb32222595a939">
         <source>Create a decimal-binary converter that allows you enter a decimal value and see the binary equivalent when you press A+B.</source>
-        <target state="needs-translation">Create a decimal-binary converter that allows you enter a decimal value and see the binary equivalent when you press A+B.</target>
+        <target state="translated">Create a decimal-binary converter that allows you enter a 10進数の値 and see the binary equivalent when you press A+B.</target>
         <note>Context: List Item&#13;
 XPath: /ul[8]/li[3]</note>
       </trans-unit>

@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file id="1827" original="/microbit/docs/courses/csintro/booleans/unplugged.md" source-language="en" target-language="ja" datatype="plaintext">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="/microbit/docs/courses/csintro/booleans/unplugged.md" source-language="en" datatype="plaintext" target-language="ja" id="1827">
     <body>
       <trans-unit id="65898" identifier="08572025a50749519b3ba051c05ac3d6">
         <source>Unplugged: Two heads are better than one</source>
@@ -24,7 +24,7 @@ Most students have used a penny to decide something.</target>
       </trans-unit>
       <trans-unit id="65901" identifier="77e9330832632f980647883dc074259f">
         <source>Who goes first in a game, to break a tie, to decide which activity to do...</source>
-        <target state="needs-translation">Who goes first in a game, to break a tie, to decide which activity to do...</target>
+        <target state="translated">Who goes first in a game, to break a tie, to decide which アクティビティ to do...</target>
         <note>Context: XPath: /p</note>
       </trans-unit>
       <trans-unit id="65902" identifier="cba96e1821d31c938120254a2ffc1424">
@@ -224,8 +224,8 @@ XPath: /pre[2]/code</note>
       <trans-unit id="65932" identifier="ddb137754ff92f1970cae3e1c1628c76">
         <source> 
 So, what does this have to do Boolean variables and operators?</source>
-        <target state="needs-translation"> 
-So, what does this have to do Boolean variables and operators?</target>
+        <target state="translated"> 
+So, what does this have to do ブール型変数 and operators?</target>
         <note>Context: XPath: /p[5]</note>
       </trans-unit>
       <trans-unit id="65933" identifier="08f766f51b9d776b89385d399ce01f8b">
@@ -248,8 +248,8 @@ Let’s pseudocode it!</target>
       <trans-unit id="65936" identifier="0f87eddb9206e3c92d1a2fb8fec8e7fe">
         <source> 
 We can create a Boolean variable to represent whether an outcome is heads or tails.</source>
-        <target state="needs-translation"> 
-We can create a Boolean variable to represent whether an outcome is heads or tails.</target>
+        <target state="translated"> 
+We can create a ブール型変数 to represent whether an outcome is heads or tails.</target>
         <note>Context: XPath: /p[5]</note>
       </trans-unit>
       <trans-unit id="65937" identifier="30f24fc1e8e5869d75ca02f2e2c4cca3">
@@ -369,12 +369,12 @@ The students are by now familiar with the MakeCode blocks.</target>
       </trans-unit>
       <trans-unit id="65953" identifier="cf53dbf99152838c469d5263a5309b9e">
         <source>As they think through their algorithms, they may even have started to visualize the blocks they might use.</source>
-        <target state="needs-translation">As they think through their algorithms, they may even have started to visualize the blocks they might use.</target>
+        <target state="translated">As they think through their algorithms, they may even have started to visualize ブロック they might use.</target>
         <note>Context: XPath: /pre[3]/code</note>
       </trans-unit>
       <trans-unit id="65954" identifier="88330516a2917aa44aef315628e709da">
         <source>Visualizing the blocks as they pseudocode can help them with the logical steps of their program.</source>
-        <target state="needs-translation">Visualizing the blocks as they pseudocode can help them with the logical steps of their program.</target>
+        <target state="translated">Visualizing ブロック as they pseudocode can help them with the logical steps of their program.</target>
         <note>Context: XPath: /pre[3]/code</note>
       </trans-unit>
       <trans-unit id="65955" identifier="af6653f9bda23404ecbfd8aae4165bd3">
@@ -455,17 +455,17 @@ XPath: /h2[2]</note>
       </trans-unit>
       <trans-unit id="65966" identifier="5bb09c19ba6e9d48c03b2107e5391eb9">
         <source>Conditionals like 'if...then' check whether a condition is true.</source>
-        <target state="needs-translation">Conditionals like 'if...then' check whether a condition is true.</target>
+        <target state="translated">Conditionals like 「もし・・なら（if...then）」 check whether a condition is true.</target>
         <note>Context: XPath: /p[10]</note>
       </trans-unit>
       <trans-unit id="65967" identifier="6d909cee02761038a48e3a94a62dfca1">
         <source>Notice that the default condition for the 'if...then' blocks is true.</source>
-        <target state="needs-translation">Notice that the default condition for the 'if...then' blocks is true.</target>
+        <target state="translated">Notice that the default condition for the 「もし・・なら（if...then）」 blocks is true.</target>
         <note>Context: XPath: /p[10]</note>
       </trans-unit>
       <trans-unit id="65968" identifier="298afcab4f47626cd9f49437d718296c">
         <source>In other words, the 'if...then' blocks will check to see whether whatever condition you place there is true.</source>
-        <target state="needs-translation">In other words, the 'if...then' blocks will check to see whether whatever condition you place there is true.</target>
+        <target state="translated">In other words, the 「もし・・なら（if...then）」 blocks will check to see whether whatever condition you place there is true.</target>
         <note>Context: XPath: /p[10]</note>
       </trans-unit>
       <trans-unit id="65969" identifier="9310d6dc968582e7d6a1534a825481c0">
@@ -672,24 +672,24 @@ So, how do we get a random flip in code?</target>
       </trans-unit>
       <trans-unit id="65993" identifier="3bc066595ac5dddc456e4d2227a80ee6">
         <source>Most computer programming languages have a built in function that will select a random number given a range of values.</source>
-        <target state="needs-translation">Most computer programming languages have a built in function that will select a random number given a range of values.</target>
+        <target state="translated">Most コンピュータ プログラミング languages have a built in function that will select a random number given a range of values.</target>
         <note>Context: XPath: /p[20]</note>
       </trans-unit>
       <trans-unit id="65994" identifier="f9e1b98ed3e9ba8b1214784acce9e106">
         <source>Microsoft MakeCode has a block for this.</source>
-        <target state="needs-translation">Microsoft MakeCode has a block for this.</target>
+        <target state="translated">Microsoft MakeCode has ブロック for this.</target>
         <note>Context: XPath: /p[20]</note>
       </trans-unit>
       <trans-unit id="65995" identifier="85db8e579ab8021b07d3f8ea89c43a15">
         <source>And it also has a block for getting a random true or false value.</source>
-        <target state="needs-translation">And it also has a block for getting a random true or false value.</target>
+        <target state="translated">And it also has ブロック for getting a random true or false value.</target>
         <note>Context: XPath: /p[20]</note>
       </trans-unit>
       <trans-unit id="65996" identifier="5f491a2f1bc78493528fcf9d4c02b297">
         <source> 
-We will call on this built in function to get a random true or false value for each flip of a coin in the next &lt;a href=&quot;/courses/csintro/booleans/activity&quot;&gt;activity&lt;/a&gt;.</source>
+We will call on this built in function to get a random true or false value for each flip of a coin in the next &lt;a href="/courses/csintro/booleans/activity"&gt;activity&lt;/a&gt;.</source>
         <target state="needs-translation"> 
-We will call on this built in function to get a random true or false value for each flip of a coin in the next &lt;a href=&quot;/courses/csintro/booleans/activity&quot;&gt;activity&lt;/a&gt;.</target>
+We will call on this built in function to get a random true or false value for each flip of a coin in the next &lt;a href="/courses/csintro/booleans/activity"&gt;activity&lt;/a&gt;.</target>
         <note>Context: XPath: /p[20]</note>
       </trans-unit>
       <trans-unit id="65997" identifier="195dbdeb00cca82e29b9cf6a6970b1c7">

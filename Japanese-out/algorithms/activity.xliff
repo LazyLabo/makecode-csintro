@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file id="1802" original="/microbit/docs/courses/csintro/algorithms/activity.md" source-language="en" target-language="ja" datatype="plaintext">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="/microbit/docs/courses/csintro/algorithms/activity.md" source-language="en" datatype="plaintext" target-language="ja" id="1802">
     <body>
       <trans-unit id="63956" identifier="7a668f0b698a4e8ea4f866faddfbb6ed" approved="yes">
         <source>Activity: Happy Face, Sad Face</source>
@@ -477,7 +477,7 @@ XPath: /blockquote[7]/p/img[@src]</note>
       </trans-unit>
       <trans-unit id="64041" identifier="b1110c50ed33bad224b4933c21a064e5" approved="yes">
         <source>Make on button B</source>
-        <target>Make on button B</target>
+        <target state="translated">Make on Bボタン</target>
         <note>Context: Image Alternative Text&#13;
 XPath: /blockquote[7]/p/img[@alt]</note>
       </trans-unit>
