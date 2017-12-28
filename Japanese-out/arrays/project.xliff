@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="64594" identifier="22ebf67c28ea8670bead9ee9453b9635">
         <source>Project: Musical instrument</source>
-        <target state="needs-translation">Project: Musical instrument</target>
+        <target state="translated">プロジェクト: Musical instrument</target>
         <note>Context: Headline 1&#13;
 XPath: /h1</note>
       </trans-unit>
@@ -15,7 +15,7 @@ XPath: /h1</note>
       </trans-unit>
       <trans-unit id="64596" identifier="ebcde7ef75f66b4d60079a0a41aa3dc7">
         <source>The array of notes can be played when an input occurs, such as one of the buttons being pressed, or if one or more of the pins is activated.</source>
-        <target state="needs-translation">The array of notes can be played when an input occurs, such as one of the buttons being pressed, or if one or more of the pins is activated.</target>
+        <target state="translated">配列 of notes can be played when an input occurs, such as one of the buttons being pressed, or if one or more of the pins is activated.</target>
         <note>Context: XPath: /p</note>
       </trans-unit>
       <trans-unit id="64597" identifier="f8e698b18818e66ab88203f82e70396c">
@@ -248,12 +248,12 @@ Here is ひとつの例 of how to create 配列 with musical notes.</target>
       </trans-unit>
       <trans-unit id="64631" identifier="f5690f01914a5a7aaa4c535ab224b0ef">
         <source>Button A plays every note in the array.</source>
-        <target state="translated">Button A plays every note in 配列.</target>
+        <target state="translated">Aボタン plays every note in 配列.</target>
         <note>Context: XPath: /p[5]</note>
       </trans-unit>
       <trans-unit id="64632" identifier="9bf00c47b3dec6557bb3fd1a499dc4ea">
         <source>Button B plays the notes at twice the frequency (but doesn't alter the original notes.)</source>
-        <target state="needs-translation">Button B plays the notes at twice the frequency (but doesn't alter the original notes.)</target>
+        <target state="translated">Bボタン plays the notes at twice the frequency (but doesn't alter the original notes.)</target>
         <note>Context: XPath: /p[5]</note>
       </trans-unit>
       <trans-unit id="64633" identifier="9a899ea745569c2a76cec12e3d59f2cf">
@@ -324,7 +324,7 @@ XPath: /h2[3]</note>
       </trans-unit>
       <trans-unit id="64638" identifier="245fc4f30adaeb814b12fdb457f532ce">
         <source>Have students write a reflection of about 150–300 words, addressing the following points:</source>
-        <target state="needs-translation">Have students write a reflection of about 150–300 words, addressing the following points:</target>
+        <target state="translated">&gt;生徒たちに以下の内容を含む１５０～３００字程度のレビューを書いてもらいましょう。:</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[7]</note>
       </trans-unit>
@@ -426,19 +426,19 @@ XPath: /h3[4]</note>
 &lt;strong&gt;3 =&lt;/strong&gt; Uses an array in a tangential way that is peripheral to function of project and/or program lacks 1 of the required elements.&lt;br/&gt;
 &lt;strong&gt;2 =&lt;/strong&gt; Array is poorly implemented and/or peripheral to function of project, and/or lacks 2 of the required elements.&lt;br/&gt;
 &lt;strong&gt;1 =&lt;/strong&gt; micro:bit program lacks 3 or more of the required elements.</source>
-        <target state="needs-translation">&lt;strong&gt;4 =&lt;/strong&gt; The program:&lt;br/&gt;
+        <target state="translated">&lt;strong&gt;4 =&lt;/strong&gt; The program:&lt;br/&gt;
 &lt;code&gt;*&lt;/code&gt; Uses at least one array in a fully integrated and meaningful way&lt;br/&gt;
-&lt;code&gt;*&lt;/code&gt; Compiles and runs as intended&lt;br/&gt;
-&lt;code&gt;*&lt;/code&gt; Meaningful comments in code&lt;br/&gt;
-&lt;strong&gt;3 =&lt;/strong&gt; Uses an array in a tangential way that is peripheral to function of project and/or program lacks 1 of the required elements.&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; 目的通りにコンパイル、実行している&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; コードの中に意味のあるコメントがある&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; Uses 配列 in a tangential way that is peripheral to function of project and/or program lacks 1 of the required elements.&lt;br/&gt;
 &lt;strong&gt;2 =&lt;/strong&gt; Array is poorly implemented and/or peripheral to function of project, and/or lacks 2 of the required elements.&lt;br/&gt;
-&lt;strong&gt;1 =&lt;/strong&gt; micro:bit program lacks 3 or more of the required elements.</target>
+&lt;strong&gt;1 =&lt;/strong&gt; micro:bit プラグラムから３つまたはより多くの必要な要素が欠けている。</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[11]</note>
       </trans-unit>
       <trans-unit id="64656" identifier="19a0f8fdc6ce1ec57e3737e3cfbeff44" translate="no" approved="yes">
         <source>Collaboration reflection</source>
-        <target>共同作業と内省</target>
+        <target state="translated">共同作業と自己省察</target>
         <note>Context: Headline 3&#13;
 XPath: /h3[5]</note>
       </trans-unit>
@@ -447,10 +447,10 @@ XPath: /h3[5]</note>
 &lt;strong&gt;3 =&lt;/strong&gt; Reflection piece lacks 1 of the required elements.&lt;br/&gt;
 &lt;strong&gt;2 =&lt;/strong&gt; Reflection piece lacks 2 of the required elements.&lt;br/&gt;
 &lt;strong&gt;1 =&lt;/strong&gt; Reflection piece lacks 3 of the required elements.</source>
-        <target state="needs-translation">&lt;strong&gt;4 =&lt;/strong&gt; Reflection piece addresses all prompts.&lt;br/&gt;
-&lt;strong&gt;3 =&lt;/strong&gt; Reflection piece lacks 1 of the required elements.&lt;br/&gt;
-&lt;strong&gt;2 =&lt;/strong&gt; Reflection piece lacks 2 of the required elements.&lt;br/&gt;
-&lt;strong&gt;1 =&lt;/strong&gt; Reflection piece lacks 3 of the required elements.</target>
+        <target state="translated">&lt;strong&gt;4 =&lt;/strong&gt; Reflection piece addresses all prompts.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; １つの項目が満たされていない。&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; ２つの項目が満たされていない。&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; ３つの項目が満たされていない。</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[12]</note>
       </trans-unit>

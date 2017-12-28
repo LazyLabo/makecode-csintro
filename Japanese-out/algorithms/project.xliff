@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file id="1804" original="/microbit/docs/courses/csintro/algorithms/project.md" source-language="en" target-language="ja" datatype="plaintext">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="/microbit/docs/courses/csintro/algorithms/project.md" source-language="en" datatype="plaintext" target-language="ja" id="1804">
     <body>
       <trans-unit id="64253" identifier="94f499ae3aed743489b3085d042067e7" approved="yes">
         <source>Project: Fidget Cube</source>
@@ -235,7 +235,7 @@ XPath: /p[11]</note>
       </trans-unit>
       <trans-unit id="64289" identifier="4786a0d83e325472bf4e7b3035515289" approved="yes">
         <source>Collaboration reflection</source>
-        <target>共同作業と内省</target>
+        <target state="translated">共同作業と自己省察</target>
         <note>Context: Headline 3&#13;
 XPath: /h3[4]</note>
       </trans-unit>

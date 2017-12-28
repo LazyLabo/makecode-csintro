@@ -4,13 +4,13 @@
     <body>
       <trans-unit id="66381" identifier="a3be42cede08e9643544332260d41268">
         <source>Project: Screensaver or game</source>
-        <target state="needs-translation">Project: Screensaver or game</target>
+        <target state="translated">プロジェクト: Screensaver or game</target>
         <note>Context: Headline 1&#13;
 XPath: /h1</note>
       </trans-unit>
       <trans-unit id="66382" identifier="87b7ab542d52d8cceab799815aaa3423">
         <source>Use what you now know about LEDs, coordinates, and brightness to create your own project: a screensaver, or a game.</source>
-        <target state="translated">Use what you now know about LEDs, coordinates, and brightness to create your own プロジェクト a screensaver, or a game.</target>
+        <target state="translated">Use what you now know about LEDs, coordinates, and brightness to create your own プロジェクト: a screensaver, or a game.</target>
         <note>Context: XPath: /p</note>
       </trans-unit>
       <trans-unit id="66383" identifier="5c3464f581e31d0e5125418f1851418e">
@@ -496,7 +496,7 @@ XPath: /h2[3]</note>
       </trans-unit>
       <trans-unit id="66419" identifier="b59c1c7ab9fa27060c6645ac65930ded" translate="no">
         <source>Have students write a reflection of about 150–300 words, addressing the following points:</source>
-        <target>Have students write a reflection of about 150–300 words, addressing the following points:</target>
+        <target state="translated">&gt;生徒たちに以下の内容を含む１５０～３００字程度のレビューを書いてもらいましょう。:</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[11]</note>
       </trans-unit>
@@ -588,19 +588,19 @@ XPath: /h3[5]</note>
 &lt;strong&gt;3 =&lt;/strong&gt; micro:bit program lacks 1 of the required elements.&lt;br/&gt;
 &lt;strong&gt;2 =&lt;/strong&gt; micro:bit program lacks 2 of the required elements.&lt;br/&gt;
 &lt;strong&gt;1 =&lt;/strong&gt; micro:bit program lacks all of the required elements.</source>
-        <target state="needs-translation">&lt;strong&gt;4 =&lt;/strong&gt; micro:bit program:&lt;br/&gt;
+        <target state="translated">&lt;strong&gt;4 =&lt;/strong&gt; micro:bit program:&lt;br/&gt;
 &lt;code&gt;*&lt;/code&gt; Uses plotted LEDs in a way that is integral to the program&lt;br/&gt;
-&lt;code&gt;*&lt;/code&gt; Compiles and runs as intended&lt;br/&gt;
-&lt;code&gt;*&lt;/code&gt; Meaningful comments in code&lt;br/&gt;
-&lt;strong&gt;3 =&lt;/strong&gt; micro:bit program lacks 1 of the required elements.&lt;br/&gt;
-&lt;strong&gt;2 =&lt;/strong&gt; micro:bit program lacks 2 of the required elements.&lt;br/&gt;
-&lt;strong&gt;1 =&lt;/strong&gt; micro:bit program lacks all of the required elements.</target>
+&lt;code&gt;*&lt;/code&gt; 目的通りにコンパイル、実行している&lt;br/&gt;
+&lt;code&gt;*&lt;/code&gt; コードの中に意味のあるコメントがある&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; micro:bit プラグラムから１つの必要な要素が欠けている。&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; micro:bit プラグラムから２つの必要な要素が欠けている。&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; micro:bit プラグラムからすべての必要な要素が欠けている。</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[14]</note>
       </trans-unit>
       <trans-unit id="66433" identifier="f5edb04c75d1e76915fcc946d6fbaf87" translate="no" approved="yes">
         <source>Collaboration reflection</source>
-        <target>共同作業と内省</target>
+        <target state="translated">共同作業と自己省察</target>
         <note>Context: Headline 3&#13;
 XPath: /h3[6]</note>
       </trans-unit>
@@ -609,10 +609,10 @@ XPath: /h3[6]</note>
 &lt;strong&gt;3 =&lt;/strong&gt; Reflection piece lacks 1 of the required elements.&lt;br/&gt;
 &lt;strong&gt;2 =&lt;/strong&gt; Reflection piece lacks 2 of the required elements.&lt;br/&gt;
 &lt;strong&gt;1 =&lt;/strong&gt; Reflection piece lacks 3 of the required elements.</source>
-        <target>&lt;strong&gt;4 =&lt;/strong&gt; Reflection piece addresses all prompts.&lt;br/&gt;
-&lt;strong&gt;3 =&lt;/strong&gt; Reflection piece lacks 1 of the required elements.&lt;br/&gt;
-&lt;strong&gt;2 =&lt;/strong&gt; Reflection piece lacks 2 of the required elements.&lt;br/&gt;
-&lt;strong&gt;1 =&lt;/strong&gt; Reflection piece lacks 3 of the required elements.</target>
+        <target state="translated">&lt;strong&gt;4 =&lt;/strong&gt; Reflection piece addresses all prompts.&lt;br/&gt;
+&lt;strong&gt;3 =&lt;/strong&gt; １つの項目が満たされていない。&lt;br/&gt;
+&lt;strong&gt;2 =&lt;/strong&gt; ２つの項目が満たされていない。&lt;br/&gt;
+&lt;strong&gt;1 =&lt;/strong&gt; ３つの項目が満たされていない。</target>
         <note>Context: XPath: /p[15]</note>
       </trans-unit>
       <trans-unit id="66435" identifier="b4e9ee2cf60964e41b27b059f380b530">

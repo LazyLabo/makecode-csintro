@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file id="1832" original="/microbit/docs/courses/csintro/conditionals/project.md" source-language="en" target-language="ja" datatype="plaintext">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="/microbit/docs/courses/csintro/conditionals/project.md" source-language="en" datatype="plaintext" target-language="ja" id="1832">
     <body>
       <trans-unit id="66111" identifier="d2c9d08dd1998735a7e4abaa1b61cbbe" approved="yes">
         <source>Project: Board Game</source>
@@ -246,9 +246,9 @@ input.onButtonPressed(Button.B, () =&amp;gt; {
 })
 input.onGesture(Gesture.Shake, () =&amp;gt; {
     if (Math.random(p1 + p2 - 1 + 1) + 1 &amp;lt;= p1) {
-        basic.showString(&quot;A&quot;)
+        basic.showString("A")
     } else {
-        basic.showString(&quot;B&quot;)
+        basic.showString("B")
     }
 })</source>
         <target state="translated">let p2 = 0
@@ -263,9 +263,9 @@ input.onButtonPressed(Button.B, () =&amp;gt; {
 })
 input.onGesture(Gesture.Shake, () =&amp;gt; {
     if (Math.random(p1 + p2 - 1 + 1) + 1 &amp;lt;= p1) {
-        basic.showString(&quot;A&quot;)
+        basic.showString("A")
     } else {
-        basic.showString(&quot;B&quot;)
+        basic.showString("B")
     }
 })</target>
         <note>Context: Text&#13;
@@ -350,7 +350,7 @@ XPath: /h2[4]</note>
       </trans-unit>
       <trans-unit id="66164" identifier="13e8f3cbe30cde03fd22c83fffa2660e" translate="no">
         <source>Have students write a reflection of about 150–300 words, addressing the following points:</source>
-        <target>Have students write a reflection of about 150–300 words, addressing the following points:</target>
+        <target state="translated">&gt;生徒たちに以下の内容を含む１５０～３００字程度のレビューを書いてもらいましょう。:</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[18]</note>
       </trans-unit>
@@ -479,10 +479,10 @@ input.onButtonPressed(Button.AB, () =&amp;gt; {
         yes_or_no = Math.random(5)
     }
     if (2 &amp;lt; yes_or_no) {
-        basic.showString(&quot;YES&quot;)
+        basic.showString("YES")
         basic.clearScreen()
     } else {
-        basic.showString(&quot;NO&quot;)
+        basic.showString("NO")
         basic.clearScreen()
     }
 })
@@ -500,7 +500,7 @@ input.onButtonPressed(Button.A, () =&amp;gt; {
     previous_roll += -1
     basic.showNumber(previous_roll)
 })
-basic.showString(&quot;SPACE RACE&quot;)
+basic.showString("SPACE RACE")
 previous_roll = 0</source>
         <target state="translated">let yes_or_no = 0
 let current_roll = 0
@@ -514,10 +514,10 @@ input.onButtonPressed(Button.AB, () =&amp;gt; {
         yes_or_no = Math.random(5)
     }
     if (2 &amp;lt; yes_or_no) {
-        basic.showString(&quot;YES&quot;)
+        basic.showString("YES")
         basic.clearScreen()
     } else {
-        basic.showString(&quot;NO&quot;)
+        basic.showString("NO")
         basic.clearScreen()
     }
 })
@@ -535,7 +535,7 @@ input.onButtonPressed(Button.A, () =&amp;gt; {
     previous_roll += -1
     basic.showNumber(previous_roll)
 })
-basic.showString(&quot;SPACE RACE&quot;)
+basic.showString("SPACE RACE")
 previous_roll = 0</target>
         <note>Context: Text&#13;
 XPath: /pre[2]/code</note>
@@ -642,7 +642,7 @@ XPath: /blockquote[4]/p</note>
       </trans-unit>
       <trans-unit id="66194" identifier="f5edb04c75d1e76915fcc946d6fbaf87" translate="no" approved="yes">
         <source>Collaboration reflection</source>
-        <target>共同作業と内省</target>
+        <target state="translated">共同作業と自己省察</target>
         <note>Context: Headline 3&#13;
 XPath: /h3[6]</note>
       </trans-unit>
@@ -655,7 +655,7 @@ XPath: /h3[6]</note>
   &lt;strong&gt;3 =&lt;/strong&gt; Reflection piece lacks 1 of the required elements.&lt;br/&gt;
   &lt;strong&gt;2 =&lt;/strong&gt; Reflection piece lacks 2 of the required elements.&lt;br/&gt;
   &lt;strong&gt;1 =&lt;/strong&gt; Reflection piece lacks 3 of the required elements.</source>
-        <target state="translated">&lt;strong&gt;4 =&lt;/strong&gt; ふりかえりに必要なすべての要素が含まれている:&lt;br/&gt;
+        <target state="translated">&lt;strong&gt;4 =&lt;/strong&gt; 自己省察の項目:&lt;br/&gt;
   &lt;code&gt;*&lt;/code&gt; ブレーンストーミングのアイデア&lt;br/&gt;
   &lt;code&gt;*&lt;/code&gt; 構成&lt;br/&gt;
   &lt;code&gt;*&lt;/code&gt; プログラミング&lt;br/&gt;
