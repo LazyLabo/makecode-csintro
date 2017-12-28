@@ -36,7 +36,7 @@ XPath: /h2</note>
       </trans-unit>
       <trans-unit id="65376" identifier="390663347489df23462cdd2a82b8d201">
         <source>Remind the students of all the different inputs available to them through the micro:bit.</source>
-        <target state="translated">Remind 生徒たち of all the ちがう入力 available to them through the micro:bit.</target>
+        <target state="translated">生徒たちにmicro:bitで利用可能な入力を全て説明します。</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[3]</note>
       </trans-unit>
@@ -2871,7 +2871,7 @@ XPath: /ul/li[2]</note>
       </trans-unit>
       <trans-unit id="65880" identifier="3d058d5a5db5921295122a3c4e0ae9d6">
         <source>Describe something in your project that you are proud of.</source>
-        <target state="needs-translation">Describe something in your project that you are proud of.</target>
+        <target state="translated">このプロジェクトであなたが一番満足していることは何ですか？</target>
         <note>Context: List Item&#13;
 XPath: /ul/li[3]</note>
       </trans-unit>

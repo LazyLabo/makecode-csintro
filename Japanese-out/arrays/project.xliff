@@ -348,19 +348,19 @@ XPath: /ul/li[3]</note>
       </trans-unit>
       <trans-unit id="64642" identifier="de586b596ea151ffcc92dba69b150928">
         <source>What was something that was surprising to you about the process of creating this program?</source>
-        <target state="needs-translation">What was something that was surprising to you about the process of creating this program?</target>
+        <target state="translated">このプログラムを作成する過程でなにか驚いたことはありますか？</target>
         <note>Context: List Item&#13;
 XPath: /ul/li[4]</note>
       </trans-unit>
       <trans-unit id="64643" identifier="61091c7f322b53ea82558a9b6651d6f4">
         <source>Describe a difficult point in the process of designing this program, and explain how you resolved it.</source>
-        <target state="needs-translation">Describe a difficult point in the process of designing this program, and explain how you resolved it.</target>
+        <target state="translated">このプログラムを設計する過程で難しかったことは何ですか？ どのようにしてその問題を解決したか説明しましょう。</target>
         <note>Context: List Item&#13;
 XPath: /ul/li[5]</note>
       </trans-unit>
       <trans-unit id="64644" identifier="90dab1be245fc362dd05ec4902cfcb5b">
         <source>What feedback did your beta testers give you? How did that help you improve your musical instrument?</source>
-        <target state="needs-translation">What feedback did your beta testers give you? How did that help you improve your musical instrument?</target>
+        <target state="translated">ベータテスターからどのようなフィードバックを得ましたか？ How did that help you improve your musical instrument?</target>
         <note>Context: List Item&#13;
 XPath: /ul/li[6]</note>
       </trans-unit>
