@@ -274,7 +274,7 @@ XPath: /h2[3]</note>
       </trans-unit>
       <trans-unit id="66296" identifier="6817f3079c3d1e621660239761a438d2">
         <source>* Our display will have one LED lit for each column or x coordinate value from 0 through 4.</source>
-        <target state="needs-translation">* Our display will have one LED lit for each column or x coordinate value from 0 through 4.</target>
+        <target state="translated">* Our display will have one LED lit for each column or ｘ座標 value from 0 through 4.</target>
         <note>Context: XPath: /p[5]</note>
       </trans-unit>
       <trans-unit id="66297" identifier="560cff407c912653f8d4589b4fe4878a">

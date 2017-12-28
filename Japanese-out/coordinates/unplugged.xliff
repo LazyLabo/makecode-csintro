@@ -15,14 +15,14 @@ XPath: /h1</note>
       </trans-unit>
       <trans-unit id="66446" identifier="7b1d6309b81ee0e030fa255905f68fa8">
         <source>The original Battleship game is a 10x10 grid with numbers on one axis and letters on the other.</source>
-        <target state="needs-translation">The original Battleship game is a 10x10 grid with numbers on one axis and letters on the other.</target>
+        <target state="translated">原点al Battleship game is a 10x10 grid with numbers on one axis and letters on the other.</target>
         <note>Context: XPath: /p</note>
       </trans-unit>
       <trans-unit id="66447" identifier="1cc34e69901e14fe68871910f58efc3a">
         <source> 
 To help us practice using the correct coordinates for the grid of micro:bit LEDs, let the students play a smaller 5x5 version of Battleship using x and y coordinates instead of letters and numbers.</source>
         <target state="translated"> 
-To help us practice using the correct coordinates for the grid of micro:bit LEDs, let 生徒たち play a smaller 5x5 version of Battleship using x and y coordinates instead of letters and numbers.</target>
+To help us practice using the correct coordinates for the grid of micro:bit LEDs, let 生徒たち play a smaller 5x5 version of Battleship using x and ｙ座標 instead of letters and numbers.</target>
         <note>Context: XPath: /p</note>
       </trans-unit>
       <trans-unit id="66448" identifier="7402e4e3a7ba8ef61d596f40eff8881d">
@@ -120,7 +120,7 @@ XPath: /pre[2]/code</note>
       </trans-unit>
       <trans-unit id="66461" identifier="5e947dcf3ae77f787adeda554e1054ac">
         <source>Students should be taking turns calling their shots using x and y coordinates, in the proper order.</source>
-        <target state="needs-translation">Students should be taking turns calling their shots using x and y coordinates, in the proper order.</target>
+        <target state="translated">Students should be taking turns calling their shots using x and ｙ座標, in the proper order.</target>
         <note>Context: XPath: /p[5]</note>
       </trans-unit>
       <trans-unit id="66462" identifier="0662d0912339c1de31a1bc29ce0b4faf">
@@ -194,7 +194,7 @@ XPath: /p[9]/l/img[@alt]</note>
       </trans-unit>
       <trans-unit id="66474" identifier="bd61f898684de78613435f5a65c160f8">
         <source>The original Battleship Board Game</source>
-        <target state="needs-translation">The original Battleship Board Game</target>
+        <target state="translated">原点al Battleship Board Game</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[9]</note>
       </trans-unit>

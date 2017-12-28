@@ -525,19 +525,19 @@ XPath: /p[31]</note>
       </trans-unit>
       <trans-unit id="66912" identifier="60e2e97d3653828ba5c84721c8600588">
         <source>What is the only variable that is changing in this pseudocode? &lt;em&gt;The value of the x coordinate&lt;/em&gt;.</source>
-        <target state="needs-translation">What is the only variable that is changing in this pseudocode? &lt;em&gt;The value of the x coordinate&lt;/em&gt;.</target>
+        <target state="translated">What is the only variable that is changing in this pseudocode? &lt;em&gt;The value of the ｘ座標&lt;/em&gt;.</target>
         <note>Context: List Item&#13;
 XPath: /ul[9]/li</note>
       </trans-unit>
       <trans-unit id="66913" identifier="47e110300012152358bb31af412d9ab6">
         <source>How much is the value of the x coordinate changing each time? &lt;em&gt;The value of the x coordinate is changing by 1 each time&lt;/em&gt;.</source>
-        <target state="translated">How much is の値 the x coordinate changing each time? &lt;em&gt;The value of the x coordinate is changing by 1 each time&lt;/em&gt;.</target>
+        <target state="translated">How much is の値 the ｘ座標 changing each time? &lt;em&gt;The value of the ｘ座標 is changing by 1 each time&lt;/em&gt;.</target>
         <note>Context: List Item&#13;
 XPath: /ul[9]/li[2]</note>
       </trans-unit>
       <trans-unit id="66914" identifier="1c29a371ac09307617175ba7d68119a9">
         <source>What is the range of values for the x coordinate? &lt;em&gt;The range of values for the x coordinate is 0 through 4&lt;/em&gt;.</source>
-        <target state="needs-translation">What is the range of values for the x coordinate? &lt;em&gt;The range of values for the x coordinate is 0 through 4&lt;/em&gt;.</target>
+        <target state="translated">What is the range of values for the ｘ座標? &lt;em&gt;The range of values for the ｘ座標 is 0 through 4&lt;/em&gt;.</target>
         <note>Context: List Item&#13;
 XPath: /ul[9]/li[3]</note>
       </trans-unit>
@@ -555,7 +555,7 @@ XPath: /ul[10]/li</note>
       </trans-unit>
       <trans-unit id="66917" identifier="0288b76e9d73a1265faedc4f915fc1cf">
         <source>Since we’ll be changing the value of the x coordinate, make a new variable, named &lt;strong&gt;xindex&lt;/strong&gt;.</source>
-        <target state="translated">Since we’ll be changing の値 the x coordinate, make a new variable, named &lt;strong&gt;xindex&lt;/strong&gt;.</target>
+        <target state="translated">Since we’ll be changing の値 the ｘ座標, make a new variable, named &lt;strong&gt;xindex&lt;/strong&gt;.</target>
         <note>Context: List Item&#13;
 XPath: /ul[10]/li[2]</note>
       </trans-unit>
@@ -617,7 +617,7 @@ XPath: /ul[11]/li</note>
       </trans-unit>
       <trans-unit id="66925" identifier="08c2f7d3de47d8d37f14698cdae587dc">
         <source>Change the value of the x coordinates in the plot and unplot blocks to this same variable.</source>
-        <target state="translated">Change の値 the x coordinates in the plot and unplot blocks to this same variable.</target>
+        <target state="translated">Change の値 the ｘ座標 in the plot and unplot blocks to this same variable.</target>
         <note>Context: List Item&#13;
 XPath: /ul[11]/li[2]</note>
       </trans-unit>
@@ -679,7 +679,7 @@ XPath: /pre[7]/code</note>
       </trans-unit>
       <trans-unit id="70392" identifier="76861950c1d1bb5366e4cdd68854d6c6">
         <source>To make our pattern continue through all the leds, we can change the value of the y coordinate as well.</source>
-        <target state="translated">To make our pattern continue through all the leds, we can change の値 the y coordinate as well.</target>
+        <target state="translated">To make our pattern continue through all the leds, we can change の値 the ｙ座標 as well.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[36]</note>
       </trans-unit>
@@ -691,7 +691,7 @@ XPath: /p[37]</note>
       </trans-unit>
       <trans-unit id="66933" identifier="cb07880caecd042d5663037f89e6d500">
         <source>So that we can change the value of the y coordinate, make a new variable, named &lt;strong&gt;yindex&lt;/strong&gt;.</source>
-        <target state="translated">So that we can change の値 the y coordinate, make a new variable, named &lt;strong&gt;yindex&lt;/strong&gt;.</target>
+        <target state="translated">So that we can change の値 the ｙ座標, make a new variable, named &lt;strong&gt;yindex&lt;/strong&gt;.</target>
         <note>Context: List Item&#13;
 XPath: /ul[12]/li</note>
       </trans-unit>
@@ -715,7 +715,7 @@ XPath: /ul[12]/li[4]</note>
       </trans-unit>
       <trans-unit id="66937" identifier="e32c221236a546bbc1bfb74f6a15201b">
         <source>Change the value of the y coordinates in the plot and unplot blocks to this same variable.</source>
-        <target state="translated">Change の値 the y coordinates in the plot and unplot blocks to this same variable.</target>
+        <target state="translated">Change の値 the ｙ座標 in the plot and unplot blocks to this same variable.</target>
         <note>Context: List Item&#13;
 XPath: /ul[12]/li[5]</note>
       </trans-unit>
@@ -789,7 +789,7 @@ XPath: /p[39]</note>
       </trans-unit>
       <trans-unit id="70398" identifier="9eab3bc2c9bfa019ecb2241e1b1263ce">
         <source>Here is what is happening to the values of the x &amp;amp; y coordinates as the program steps through each line and loop inside the forever block:</source>
-        <target state="translated">Here is what is happening to の値 the x &amp;amp; y coordinates as the program steps through each line and loop inside the forever block:</target>
+        <target state="translated">Here is what is happening to の値 the x &amp;amp; ｙ座標 as the program steps through each line and loop inside the forever block:</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[40]</note>
       </trans-unit>
@@ -825,7 +825,7 @@ XPath: /ol/li[5]</note>
       </trans-unit>
       <trans-unit id="66949" identifier="ccdc77f0d6577bda7ee60ec3573ef771">
         <source>The inner loop keeps running like this until it has completed its loop with the value of the x coordinate now 4.</source>
-        <target state="translated">内側ループ keeps running like this until it has completed its loop with の値 the x coordinate now 4.</target>
+        <target state="translated">内側ループ keeps running like this until it has completed its loop with の値 the ｘ座標 now 4.</target>
         <note>Context: List Item&#13;
 XPath: /ol/li[6]</note>
       </trans-unit>
@@ -854,12 +854,12 @@ XPath: /ul[13]/li</note>
       </trans-unit>
       <trans-unit id="66954" identifier="6e7fc1ceb075bf2a506808a87805c90b">
         <source>&gt;&lt;em&gt;The outer loop loops 5 times altogether, once for every value of the y coordinate from 0 through 4.</source>
-        <target state="needs-translation">&gt;&lt;em&gt;The outer loop loops 5 times altogether, once for every value of the y coordinate from 0 through 4.</target>
+        <target state="translated">&gt;&lt;em&gt;The outer loop loops 5 times altogether, once for every value of the ｙ座標 from 0 through 4.</target>
         <note>Context: XPath: /ul[13]/li[2]</note>
       </trans-unit>
       <trans-unit id="66955" identifier="24235f6e58ddd9c2c5e61ef14668cad0">
         <source>Each time the outer loop runs, the inner loop runs 5 times, once for every value of the x coordinate from 0 through 4. 5 runs of the outer loop x 5 runs of the inner loop = 25 times the inner loop executes.&lt;/em&gt;</source>
-        <target state="translated">Each time the outer loop runs, 内側ループ runs 5 times, once for every value of the x coordinate from 0 through 4. 5 runs of the outer loop x 5 runs of 内側ループ = 25 times 内側ループ executes.&lt;/em&gt;</target>
+        <target state="translated">Each time the outer loop runs, 内側ループ runs 5 times, once for every value of the ｘ座標 from 0 through 4. 5 runs of the outer loop x 5 runs of 内側ループ = 25 times 内側ループ executes.&lt;/em&gt;</target>
         <note>Context: XPath: /ul[13]/li[2]</note>
       </trans-unit>
       <trans-unit id="66956" identifier="7f3324f808c82380ec2bbea9fb293502">

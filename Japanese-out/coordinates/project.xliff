@@ -94,13 +94,13 @@ XPath: /blockquote/p</note>
       </trans-unit>
       <trans-unit id="70378" identifier="747a29f2fd08da229263aae4e15cdeac">
         <source>A game that uses sprites to manage the x and y coordinate values of the different objects.</source>
-        <target state="needs-translation">A game that uses sprites to manage the x and y coordinate values of the different objects.</target>
+        <target state="translated">A game that uses sprites to manage the x and ｙ座標 values of the different objects.</target>
         <note>Context: List Item&#13;
 XPath: /ul[2]/li</note>
       </trans-unit>
       <trans-unit id="66399" identifier="c6d49e5603625aee4170b93e0499aa91">
         <source>Your project might use variables to store the values of sprites, which are special structures that contain an x and a y coordinate together that describe the sprite's location as one LED on the screen.</source>
-        <target state="translated">Your project might use variables to store の値 sprites, which are special structures that contain an x and a y coordinate together that describe the sprite's location as one LED on 画面.</target>
+        <target state="translated">Your project might use variables to store の値 sprites, which are special structures that contain an x and a ｙ座標 together that describe the sprite's location as one LED on 画面.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[5]</note>
       </trans-unit>

@@ -44,19 +44,19 @@ XPath: /p[3]</note>
       </trans-unit>
       <trans-unit id="66482" identifier="5bdab142777a5d5acb9ccf125f7299e5">
         <source>Understand that the 5 x 5 grid of LEDs on the micro:bit represents a coordinate grid with the origin (0,0) in the top left corner.</source>
-        <target state="translated">Understand that the 5 x 5 grid of LEDs on the micro:bit represents a coordinate grid with the origin (0,0) in 左上隅.</target>
+        <target state="translated">Understand that the 5 x 5 grid of LEDs on the micro:bit represents a coordinate grid with 原点 (0,0) in 左上隅.</target>
         <note>Context: List Item&#13;
 XPath: /ul/li</note>
       </trans-unit>
       <trans-unit id="66483" identifier="38fa5f62690254d27fc1ebd6d20fa262">
         <source>Understand that the values of the x coordinates range from 0 through four and increase from left to right.</source>
-        <target state="translated">Understand that の値 the x coordinates range from 0 through four and increase from left to right.</target>
+        <target state="translated">Understand that の値 the ｘ座標 range from 0 through four and increase from left to right.</target>
         <note>Context: List Item&#13;
 XPath: /ul/li[2]</note>
       </trans-unit>
       <trans-unit id="66484" identifier="358ac27339ee064ab34f5c7a33e2313a">
         <source>Understand that the values of the y coordinates range from 0 through four and increase from top to bottom.</source>
-        <target state="translated">Understand that の値 the y coordinates range from 0 through four and increase from top to bottom.</target>
+        <target state="translated">Understand that の値 the ｙ座標 range from 0 through four and increase from top to bottom.</target>
         <note>Context: List Item&#13;
 XPath: /ul/li[3]</note>
       </trans-unit>

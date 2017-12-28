@@ -36,7 +36,7 @@ XPath: /h2</note>
       </trans-unit>
       <trans-unit id="66694" identifier="8a0fc48eb28932253c042d2c8b1ef69e">
         <source>The micro:bit’s 25 LEDs are arranged in a 5x5 grid, with the origin at the top left.</source>
-        <target state="needs-translation">The micro:bit’s 25 LEDs are arranged in a 5x5 grid, with the origin at the top left.</target>
+        <target state="translated">The micro:bit’s 25 LEDs are arranged in a 5x5 grid, with 原点 at the 左上.</target>
         <note>Context: XPath: /p[3]</note>
       </trans-unit>
       <trans-unit id="66695" identifier="f16d1efa13f75924c1df72816cc0753f">
