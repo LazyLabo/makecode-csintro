@@ -50,13 +50,13 @@ XPath: /ul/li</note>
       </trans-unit>
       <trans-unit id="66483" identifier="38fa5f62690254d27fc1ebd6d20fa262">
         <source>Understand that the values of the x coordinates range from 0 through four and increase from left to right.</source>
-        <target state="needs-translation">Understand that the values of the x coordinates range from 0 through four and increase from left to right.</target>
+        <target state="translated">Understand that の値 the x coordinates range from 0 through four and increase from left to right.</target>
         <note>Context: List Item&#13;
 XPath: /ul/li[2]</note>
       </trans-unit>
       <trans-unit id="66484" identifier="358ac27339ee064ab34f5c7a33e2313a">
         <source>Understand that the values of the y coordinates range from 0 through four and increase from top to bottom.</source>
-        <target state="needs-translation">Understand that the values of the y coordinates range from 0 through four and increase from top to bottom.</target>
+        <target state="translated">Understand that の値 the y coordinates range from 0 through four and increase from top to bottom.</target>
         <note>Context: List Item&#13;
 XPath: /ul/li[3]</note>
       </trans-unit>

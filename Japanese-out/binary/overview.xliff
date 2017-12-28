@@ -60,17 +60,17 @@ XPath: /h1</note>
       </trans-unit>
       <trans-unit id="64935" identifier="14dc381471e7c2d84145898e247b6683">
         <source>The value of the bit represents the current state of a single switch.</source>
-        <target state="needs-translation">The value of the bit represents the current state of a single switch.</target>
+        <target state="translated">の値 the bit represents the current state of a single switch.</target>
         <note>Context: XPath: /p[3]</note>
       </trans-unit>
       <trans-unit id="64936" identifier="ccccf4feee5a92437fa9241ed274042a">
         <source>If the switch is off, then the bit has the value zero.</source>
-        <target state="needs-translation">If the switch is off, then the bit has the value zero.</target>
+        <target state="translated">If the switch is off, then the bit has 値 zero.</target>
         <note>Context: XPath: /p[3]</note>
       </trans-unit>
       <trans-unit id="64937" identifier="8926866523ad04d82a462c09a92fd520">
         <source>If the switch is on, then the bit has the value one.</source>
-        <target state="needs-translation">If the switch is on, then the bit has the value one.</target>
+        <target state="translated">If the switch is on, then the bit has 値 one.</target>
         <note>Context: XPath: /p[3]</note>
       </trans-unit>
       <trans-unit id="64938" identifier="81296d4d5e4d4e8f597e87ca52bbafce">
@@ -161,7 +161,7 @@ XPath: /ul[2]/li</note>
       </trans-unit>
       <trans-unit id="64956" identifier="21742699dc27aaf3a4089bb700098b0e">
         <source>A bit can be used to hold a Boolean (true/false) value.  A value of zero represents ‘false’ and a value of one represents ‘true’.</source>
-        <target state="translated">A bit can be used to hold ブール値 (true/false) value.  A value of zero represents 「偽（false）」 and a value of one represents 「真（true）」.</target>
+        <target state="translated">A bit can be used to hold ブール値 (true/false) value.  値 of zero represents 「偽（false）」 and 値 of one represents 「真（true）」.</target>
         <note>Context: List Item&#13;
 XPath: /ul[2]/li[2]</note>
       </trans-unit>

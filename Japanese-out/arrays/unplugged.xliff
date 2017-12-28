@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="64666" identifier="20b407448880c5f95b75b9a12659b33d">
         <source>Unplugged: Different sorts of people</source>
-        <target state="needs-translation">Unplugged: Different sorts of people</target>
+        <target state="translated">アンプラグド： Different sorts of people</target>
         <note>Context: Headline 2&#13;
 XPath: /h2</note>
       </trans-unit>
@@ -245,7 +245,7 @@ XPath: /ol/li[3]</note>
         <source>If the value you are considering is greater than the value to its right:
 &gt;1. Swap them
 &gt;2. Add one to counter</source>
-        <target state="needs-translation">If the value you are considering is greater than the value to its right:
+        <target state="translated">If 値 you are considering is greater than 値 to its right:
 &gt;1. Swap them
 &gt;2. Add one to counter</target>
         <note>Context: List Item&#13;

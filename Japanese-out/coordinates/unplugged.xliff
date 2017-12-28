@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="66444" identifier="17b156ce72ba05b460c65b01224fb6c5">
         <source>Unplugged: Battleship</source>
-        <target state="needs-translation">Unplugged: Battleship</target>
+        <target state="translated">アンプラグド： Battleship</target>
         <note>Context: Headline 1&#13;
 XPath: /h1</note>
       </trans-unit>

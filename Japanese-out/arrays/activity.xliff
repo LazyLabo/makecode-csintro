@@ -92,7 +92,7 @@ XPath: /ul[2]/li</note>
       </trans-unit>
       <trans-unit id="64414" identifier="d4e444982662109e536cd31394a685dd">
         <source>From the pop up window, add as many values (elements) as you'd like to the array block by dragging the value block from the left side of the window to the array block on the right side of the window.</source>
-        <target state="translated">From the pop up window, add as many values (elements) as you'd like to the 配列ブロック by dragging the value block from the left side of the window to the 配列ブロック on the right side of the window.</target>
+        <target state="translated">From the pop up window, add as many values (elements) as you'd like to the 配列ブロック by dragging 値 block from the left side of the window to the 配列ブロック on the right side of the window.</target>
         <note>Context: List Item&#13;
 XPath: /ul[2]/li[2]</note>
       </trans-unit>
@@ -367,7 +367,7 @@ XPath: /p[9]</note>
       </trans-unit>
       <trans-unit id="64456" identifier="5f6128e97d1f8f1a6435920c9cb29ca9">
         <source>Under the Arrays Toolbox drawer, drag out a 'length of' block. The 'length of' block returns the number of items (elements) in an array. For our array, the length of block will return the value 6.</source>
-        <target state="translated">Under the 配列(Arrays)メニュー, drag out a 「配列の長さ（length of）」 block. The 「配列の長さ（length of）」 block returns the number of items (elements) in 配列. For our array, the length of block will return the value 6.</target>
+        <target state="translated">Under the 配列(Arrays)メニュー, drag out a 「配列の長さ（length of）」 block. The 「配列の長さ（length of）」 block returns the number of items (elements) in 配列. For our array, the length of block will return 値 6.</target>
         <note>Context: List Item&#13;
 XPath: /ul[9]/li</note>
       </trans-unit>
@@ -393,7 +393,7 @@ XPath: /ul[9]/li[2]</note>
 &lt;strong&gt;Then:&lt;/strong&gt; change the value of the index by one,&lt;br/&gt;
 &lt;strong&gt;Else:&lt;/strong&gt; indicate that it is the end of the game.</source>
         <target state="translated">&gt;&gt; &lt;strong&gt;If:&lt;/strong&gt; the current value of the index is less than the length of 配列 minus one (see &lt;strong&gt;array bounds&lt;/strong&gt; note),&lt;br/&gt;
-&lt;strong&gt;Then:&lt;/strong&gt; change the value of the index by one,&lt;br/&gt;
+&lt;strong&gt;Then:&lt;/strong&gt; change の値 the index by one,&lt;br/&gt;
 &lt;strong&gt;Else:&lt;/strong&gt; indicate that it is the end of the game.</target>
         <note>Context: XPath: /ul[9]/li[3]</note>
       </trans-unit>
@@ -789,7 +789,7 @@ XPath: /p[20]</note>
       </trans-unit>
       <trans-unit id="64514" identifier="d93724120d8ecda268e189c412289624">
         <source>To create an array, you need to set the value of a variable to the array.</source>
-        <target state="translated">To create 配列, you need to set the value of 変数 to 配列.</target>
+        <target state="translated">To create 配列, you need to set の値 変数 to 配列.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[22]</note>
       </trans-unit>
@@ -844,7 +844,7 @@ XPath: /p[23]/img[@alt]</note>
       </trans-unit>
       <trans-unit id="64524" identifier="913a8ff483b8d4dcb415d9244544549b">
         <source>Looking at our loop, instead of repeating 0 to 4 times, we actually want to use the value from the array to figure out how many stars to create.</source>
-        <target state="translated">Looking at our loop, instead of repeating 0 to 4 times, we actually want to use the value from 配列 to figure out how many stars to create.</target>
+        <target state="translated">Looking at our loop, instead of repeating 0 to 4 times, we actually want to use 値 from 配列 to figure out how many stars to create.</target>
         <note>Context: XPath: /p[25]</note>
       </trans-unit>
       <trans-unit id="64525" identifier="9b528338d4f922e3a8a63cbb970bdf80">
@@ -861,7 +861,7 @@ XPath: /p[26]</note>
       </trans-unit>
       <trans-unit id="64527" identifier="d7a83c617efd1c1ec7895a900a01ed2f">
         <source>To fix this, we need to do a little math by subtracting 1 from whatever the value in the array is. You can use a Math operation block to do this.</source>
-        <target state="translated">To fix this, we need to do a little math by subtracting 1 from whatever the value in 配列 is. You can use a Math operation block to do this.</target>
+        <target state="translated">To fix this, we need to do a little math by subtracting 1 from whatever 値 in 配列 is. You can use a Math operation block to do this.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[27]</note>
       </trans-unit>
@@ -892,7 +892,7 @@ XPath: /pre[12]/code</note>
       </trans-unit>
       <trans-unit id="70360" identifier="da0e67eeafaaea0edec89237288046f2">
         <source>Now, all we need to do is iterate through the entire array and do the same thing for each of the values.</source>
-        <target state="needs-translation">Now, all we need to do is iterate through the entire array and do the same thing for each of the values.</target>
+        <target state="translated">Now, all we need to do is iterate through the entire array and do the same thing for each of 値.</target>
         <note>Context: XPath: /p[29]</note>
       </trans-unit>
       <trans-unit id="70361" identifier="5c2f56ee89f7a1b5a9de3e8fb87167fe">
@@ -976,7 +976,7 @@ XPath: /pre[14]/code</note>
       </trans-unit>
       <trans-unit id="70370" identifier="73cff148430e0c84e70b30b7cc64fa50">
         <source>The following code is useful for printing out the values of the elements in your array:</source>
-        <target state="needs-translation">The following code is useful for printing out the values of the elements in your array:</target>
+        <target state="translated">The following code is useful for printing out の値 the elements in your array:</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[33]</note>
       </trans-unit>

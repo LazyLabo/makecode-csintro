@@ -82,7 +82,7 @@ XPath: /h2[3]</note>
       </trans-unit>
       <trans-unit id="67499" identifier="f0f821aa8e533ce1fe8e91b353e6350c">
         <source>Using variables in your code allows you to create algorithms that use mathematical operations to perform the same calculations every time, even when the values of your variables are different.</source>
-        <target state="needs-translation">Using variables in your code allows you to create algorithms that use mathematical operations to perform the same calculations every time, even when the values of your variables are different.</target>
+        <target state="translated">Using variables in your code allows you to create algorithms that use mathematical operations to perform the same calculations every time, even when の値 your variables are different.</target>
         <note>Context: XPath: /p[5]</note>
       </trans-unit>
       <trans-unit id="67500" identifier="87224ea67ff6634e712755c2ba7b1c6a" translate="no">
@@ -98,7 +98,7 @@ XPath: /h2[4]</note>
       </trans-unit>
       <trans-unit id="67502" identifier="1b4f340cb6c26554df5195285ac2a3b1">
         <source>They are used to create branches, or decision points, where a program can choose one path or the other based on the values of certain variables, or based on data from the micro:bit’s inputs.</source>
-        <target state="needs-translation">They are used to create branches, or decision points, where a program can choose one path or the other based on the values of certain variables, or based on data from the micro:bit’s inputs.</target>
+        <target state="translated">They are used to create branches, or decision points, where a program can choose one path or the other based on の値 certain variables, or based on data from the micro:bit’s inputs.</target>
         <note>Context: XPath: /p[6]</note>
       </trans-unit>
       <trans-unit id="67503" identifier="7e05250744dfe75aa30df0d8fc721fa5">

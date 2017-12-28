@@ -292,12 +292,12 @@ XPath: /pre[2]/code</note>
       </trans-unit>
       <trans-unit id="64634" identifier="1d787eecbe2af2ab0344b9d91aa8c8fb">
         <source>Remember that a 'for element value of list' loop makes a temporary copy of the value, so even if you change a value, it will not change the original element in the array.</source>
-        <target state="translated">Remember that a 「配列の値を変数に入れてくりかえす（for element value of list）」 loop makes a temporary copy of the value, so even if you change a value, it will not change the original element in 配列.</target>
+        <target state="translated">Remember that a 「配列の値を変数に入れてくりかえす（for element value of list）」 loop makes a temporary copy of 値, so even if you change 値, it will not change the original element in 配列.</target>
         <note>Context: XPath: /p[6]</note>
       </trans-unit>
       <trans-unit id="64635" identifier="d55a5e75d502933529c05f16dcf42201">
         <source>If students want to permanently change the values in their array (transpose music to increasingly higher keys, for example) they can use a for loop like this:</source>
-        <target state="translated">If students want to permanently change the values in their array (transpose music to increasingly higher keys, 例えば) they can use a for loop like this:</target>
+        <target state="translated">If students want to permanently change 値 in their array (transpose music to increasingly higher keys, 例えば) they can use a for loop like this:</target>
         <note>Context: XPath: /p[6]</note>
       </trans-unit>
       <trans-unit id="64636" identifier="8fc1436cd0a5dfd3b932bc79b43c653f">

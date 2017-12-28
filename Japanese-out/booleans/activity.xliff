@@ -78,7 +78,7 @@ Now we need to initialize the variable values.</target>
         <source> 
 The initial value of a variable is the value the variable will hold each time the program starts.</source>
         <target state="translated"> 
-The initial value of 変数 is the value the variable will hold each time the program starts.</target>
+初期値 of 変数 is 値 the variable will hold each time the program starts.</target>
         <note>Context: XPath: /ul/li[4]</note>
       </trans-unit>
       <trans-unit id="65169" identifier="43769a4d6a0568a733dc5f0603f13b66">

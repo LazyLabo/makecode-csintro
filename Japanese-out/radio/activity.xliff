@@ -220,7 +220,7 @@ XPath: /ul[5]/li[3]</note>
       </trans-unit>
       <trans-unit id="67562" identifier="ce5420f45a19f61395e396c4a5978fad">
         <source>Change the default value in the 'play tone' block that is inside the 'on button A pressed' block to the value Low C.</source>
-        <target state="translated">Change the default value in the 「音を鳴らす（play tone）」 block that is inside the 「ボタンAが押されたとき（on button A pressed）」 block to the value Low C.</target>
+        <target state="translated">Change the default value in the 「音を鳴らす（play tone）」 block that is inside the 「ボタンAが押されたとき（on button A pressed）」 block to 値 Low C.</target>
         <note>Context: List Item&#13;
 XPath: /ul[5]/li[4]</note>
       </trans-unit>
@@ -349,7 +349,7 @@ XPath: /ul[6]/li[2]</note>
       </trans-unit>
       <trans-unit id="67580" identifier="f1526756e67afc3638ba3a012c040355">
         <source>We choose to change the default string value of &quot;Hello&quot; to the value &quot;Morse Code&quot;</source>
-        <target state="needs-translation">We choose to change the default string value of &quot;Hello&quot; to the value &quot;Morse Code&quot;</target>
+        <target state="translated">We choose to change the default string value of &quot;Hello&quot; to 値 &quot;Morse Code&quot;</target>
         <note>Context: List Item&#13;
 XPath: /ul[6]/li[3]</note>
       </trans-unit>
@@ -369,7 +369,7 @@ XPath: /ul[7]/li</note>
       </trans-unit>
       <trans-unit id="67583" identifier="5f8da212cf04a79bcf235f4c9134e9de">
         <source>Leave one with the default value A, change the value in the second block to B, and change the value in the third block to A+B.</source>
-        <target state="needs-translation">Leave one with the default value A, change the value in the second block to B, and change the value in the third block to A+B.</target>
+        <target state="translated">Leave one with the default value A, change 値 in the second block to B, and change 値 in the third block to A+B.</target>
         <note>Context: List Item&#13;
 XPath: /ul[7]/li[2]</note>
       </trans-unit>
@@ -393,13 +393,13 @@ XPath: /ul[7]/li[5]</note>
       </trans-unit>
       <trans-unit id="67587" identifier="f1beb69865a1b5d45e9f22d474fee6d0">
         <source>In the 'on button B pressed' block, change the default number value of the 'radio send number' block to the value 1.</source>
-        <target state="translated">In the 'on Bボタン pressed' block, change the default number value of the 「無線で数値を送信（radio send number）」 block to the value 1.</target>
+        <target state="translated">In the 'on Bボタン pressed' block, change the default number value of the 「無線で数値を送信（radio send number）」 block to 値 1.</target>
         <note>Context: List Item&#13;
 XPath: /ul[7]/li[6]</note>
       </trans-unit>
       <trans-unit id="67588" identifier="a003ca531bd1425c881f36ea338f1a62">
         <source>In the 'on button A+B pressed' block, change the default number value of the 'radio send number' block to the value 2.</source>
-        <target state="translated">In the 'on AボタンとBボタン pressed' block, change the default number value of the 「無線で数値を送信（radio send number）」 block to the value 2.</target>
+        <target state="translated">In the 'on AボタンとBボタン pressed' block, change the default number value of the 「無線で数値を送信（radio send number）」 block to 値 2.</target>
         <note>Context: List Item&#13;
 XPath: /ul[7]/li[7]</note>
       </trans-unit>
@@ -445,7 +445,7 @@ XPath: /ul[8]/li[3]</note>
       </trans-unit>
       <trans-unit id="67593" identifier="468c412605d9c278cf82b27eb9cd02b6">
         <source>In order to know whether to display a dot, a dash, or a space/stop image, we need to compare the number received to the values 0, 1, and 2.</source>
-        <target state="needs-translation">In order to know whether to display a dot, a dash, or a space/stop image, we need to compare the number received to the values 0, 1, and 2.</target>
+        <target state="translated">In order to know whether to display a dot, a dash, or a space/stop image, we need to compare the number received to 値 0, 1, and 2.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[9]</note>
       </trans-unit>
@@ -815,7 +815,7 @@ XPath: /p[13]/img[@alt]</note>
       </trans-unit>
       <trans-unit id="67656" identifier="b277876570c02ae4a1a9b4c54473821f">
         <source>Change the values on the righthand side of the comparison block to 1, and 2.</source>
-        <target state="needs-translation">Change the values on the righthand side of the comparison block to 1, and 2.</target>
+        <target state="translated">Change 値 on the righthand side of the comparison block to 1, and 2.</target>
         <note>Context: List Item&#13;
 XPath: /ul[14]/li</note>
       </trans-unit>

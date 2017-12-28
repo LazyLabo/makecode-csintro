@@ -92,13 +92,13 @@ XPath: /ul[5]/li</note>
       </trans-unit>
       <trans-unit id="66358" identifier="807fb534e76d6981d43ae38bf7564a9f">
         <source>the value of the x coordinate increases left to right and is a measure of how many units a point is horizontally from the origin</source>
-        <target state="needs-translation">the value of the x coordinate increases left to right and is a measure of how many units a point is horizontally from the origin</target>
+        <target state="translated">の値 the x coordinate increases left to right and is a measure of how many units a point is horizontally from the origin</target>
         <note>Context: List Item&#13;
 XPath: /blockquote[2]/ul/li</note>
       </trans-unit>
       <trans-unit id="66359" identifier="11697c4bb52dccdcb510ae0c6724dae8">
         <source>the value of the y coordinate increases bottom to top and is a measure of how many units a point is vertically from the origin</source>
-        <target state="needs-translation">the value of the y coordinate increases bottom to top and is a measure of how many units a point is vertically from the origin</target>
+        <target state="translated">の値 the y coordinate increases bottom to top and is a measure of how many units a point is vertically from the origin</target>
         <note>Context: List Item&#13;
 XPath: /ul[6]/li</note>
       </trans-unit>
@@ -145,7 +145,7 @@ XPath: /ul[7]/li</note>
       </trans-unit>
       <trans-unit id="66367" identifier="a3caa74f2b4733ac764e13f0837d03c0">
         <source>the values of the y coordinates range from 0 through four and increase from top to bottom.</source>
-        <target state="needs-translation">the values of the y coordinates range from 0 through four and increase from top to bottom.</target>
+        <target state="translated">の値 the y coordinates range from 0 through four and increase from top to bottom.</target>
         <note>Context: List Item&#13;
 XPath: /ul[7]/li[2]</note>
       </trans-unit>
@@ -157,7 +157,7 @@ XPath: /p[4]</note>
       </trans-unit>
       <trans-unit id="66369" identifier="d08206dcfc1d372dea6228cb218fd7c2">
         <source>The values of the x coordinates range from 0 through four and increase from left to right just as they do in the coordinate grids used in math class.</source>
-        <target state="needs-translation">The values of the x coordinates range from 0 through four and increase from left to right just as they do in the coordinate grids used in math class.</target>
+        <target state="translated">の値 the x coordinates range from 0 through four and increase from left to right just as they do in the coordinate grids used in math class.</target>
         <note>Context: List Item&#13;
 XPath: /ul[8]/li</note>
       </trans-unit>

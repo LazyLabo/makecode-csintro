@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="65898" identifier="08572025a50749519b3ba051c05ac3d6">
         <source>Unplugged: Two heads are better than one</source>
-        <target state="needs-translation">Unplugged: Two heads are better than one</target>
+        <target state="translated">アンプラグド： Two heads are better than one</target>
         <note>Context: Headline 2&#13;
 XPath: /h2</note>
       </trans-unit>
@@ -12,7 +12,7 @@ XPath: /h2</note>
         <source>Materials: A penny for each student, paper and pencils
  
 Most students have used a penny to decide something.</source>
-        <target state="needs-translation">Materials: A penny for each student, paper and pencils
+        <target state="translated">必要なもの： A penny for each student, paper and pencils
  
 Most students have used a penny to decide something.</target>
         <note>Context: XPath: /p</note>

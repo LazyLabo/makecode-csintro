@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="65027" identifier="256d8a520312e49f2ac19dfbf6f1dddd">
         <source>Unplugged: Binary vending machine</source>
-        <target state="needs-translation">Unplugged: Binary vending machine</target>
+        <target state="translated">アンプラグド： Binary vending machine</target>
         <note>Context: Headline 1&#13;
 XPath: /h1</note>
       </trans-unit>

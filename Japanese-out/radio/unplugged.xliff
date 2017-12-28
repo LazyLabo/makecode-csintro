@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="67890" identifier="9a8db3c62775c97488319b89a51f072c">
         <source>Unplugged: Infection Simulation</source>
-        <target state="needs-translation">Unplugged: Infection Simulation</target>
+        <target state="translated">アンプラグド： Infection Simulation</target>
         <note>Context: Headline 2&#13;
 XPath: /h2</note>
       </trans-unit>

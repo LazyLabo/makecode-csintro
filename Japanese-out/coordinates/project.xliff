@@ -100,7 +100,7 @@ XPath: /ul[2]/li</note>
       </trans-unit>
       <trans-unit id="66399" identifier="c6d49e5603625aee4170b93e0499aa91">
         <source>Your project might use variables to store the values of sprites, which are special structures that contain an x and a y coordinate together that describe the sprite's location as one LED on the screen.</source>
-        <target state="translated">Your project might use variables to store the values of sprites, which are special structures that contain an x and a y coordinate together that describe the sprite's location as one LED on 画面.</target>
+        <target state="translated">Your project might use variables to store の値 sprites, which are special structures that contain an x and a y coordinate together that describe the sprite's location as one LED on 画面.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[5]</note>
       </trans-unit>

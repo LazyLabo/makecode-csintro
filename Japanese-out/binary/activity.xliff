@@ -164,12 +164,12 @@ XPath: /h2[3]</note>
       </trans-unit>
       <trans-unit id="64858" identifier="caf08dca7370ebc8539df9939e0db279">
         <source>Remember that binary numbers are calculated based on the number of place values (“bits”) and as you enter 1s and 0s, the value changes.</source>
-        <target state="translated">Remember that 2進数 are calculated based on the number of place values (“bits”) and as you enter 1s and 0s, the value changes.</target>
+        <target state="translated">Remember that 2進数 are calculated based on the number of place values (“bits”) and as you enter 1s and 0s, 値 changes.</target>
         <note>Context: XPath: /p[8]</note>
       </trans-unit>
       <trans-unit id="64859" identifier="a1deed72d740b5c8c36aa914ca38e822">
         <source>One way to calculate the decimal value is to wait until the user presses A+B, and then calculate the entire number based on the value of the string.</source>
-        <target state="translated">One way to calculate the 10進数の値 is to wait until ユーザー presses A+B, and then calculate the entire number based on the value of the string.</target>
+        <target state="translated">One way to calculate the 10進数の値 is to wait until ユーザー presses A+B, and then calculate the entire number based on の値 the string.</target>
         <note>Context: XPath: /p[8]</note>
       </trans-unit>
       <trans-unit id="64860" identifier="20d06a01ae829a726e05fbf316be35e8">
@@ -446,7 +446,7 @@ XPath: /ul[4]/li[2]</note>
       </trans-unit>
       <trans-unit id="64903" identifier="e6e41417371bcd8d620b54a97e67441c">
         <source>Next, use the 'set' variable block to assign the value of the 'binary' variable to the 'join' block</source>
-        <target state="translated">Next, use the 「変数を・・・にする（set item）」ブロック to assign the value of the 'binary' variable to the 「文字列をつなげる」ブロック</target>
+        <target state="translated">Next, use the 「変数を・・・にする（set item）」ブロック to assign の値 the 'binary' variable to the 「文字列をつなげる」ブロック</target>
         <note>Context: List Item&#13;
 XPath: /ul[4]/li[3]</note>
       </trans-unit>
@@ -478,7 +478,7 @@ XPath: /pre[4]/code</note>
       </trans-unit>
       <trans-unit id="64907" identifier="748e10ca31724163a201c086b51a01e1">
         <source>Finally, you will need to update the current decimal value with the value of the entire binary string.</source>
-        <target state="translated">Finally, you will need to update the current 10進数の値 with the value of the entire binary string.</target>
+        <target state="translated">Finally, you will need to update the current 10進数の値 with の値 the entire binary string.</target>
         <note>Context: XPath: /ul[5]/li</note>
       </trans-unit>
       <trans-unit id="64908" identifier="a92de29c756180a9ffca231fd390f50e">
@@ -539,7 +539,7 @@ XPath: /ul[7]/li</note>
       </trans-unit>
       <trans-unit id="64916" identifier="95b89febf0054d1789d3abb8b54b2300">
         <source>Your Button A+B algorithm just uses a Show block to show the value of the decimal variable.</source>
-        <target state="translated">Your AボタンとBボタン algorithm just uses a Show block to show the value of the decimal variable.</target>
+        <target state="translated">Your AボタンとBボタン algorithm just uses a Show block to show の値 the decimal variable.</target>
         <note>Context: List Item&#13;
 XPath: /ul[7]/li[2]</note>
       </trans-unit>
