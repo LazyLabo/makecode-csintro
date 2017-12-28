@@ -543,7 +543,7 @@ XPath: /h2[5]</note>
       </trans-unit>
       <trans-unit id="64478" identifier="be7087af0bf668c68458a5b3dcc6ce38">
         <source>Add a headband to hold the micro:bit on the Players' foreheads (using cardboard, paper, rubber bands, etc.)</source>
-        <target state="needs-translation">Add a headband to hold the micro:bit on the Players' foreheads (using cardboard, paper, rubber bands, etc.)</target>
+        <target state="translated">Add a headband to hold the micro:bit on the Players' foreheads (using 厚紙, paper, rubber bands, etc.)</target>
         <note>Context: List Item&#13;
 XPath: /ul[12]/li</note>
       </trans-unit>

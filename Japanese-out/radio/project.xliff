@@ -557,7 +557,7 @@ XPath: /p[9]/l/img[@alt]</note>
       </trans-unit>
       <trans-unit id="67866" identifier="f3234f571e4f7da0e5160ce69c79167e">
         <source>Radio Tennis racquets (made from cardboard)</source>
-        <target state="needs-translation">Radio Tennis racquets (made from cardboard)</target>
+        <target state="translated">Radio Tennis racquets (made from 厚紙)</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[9]</note>
       </trans-unit>

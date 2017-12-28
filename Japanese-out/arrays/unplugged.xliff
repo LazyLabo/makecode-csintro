@@ -54,7 +54,7 @@ XPath: /ul[2]/li</note>
       </trans-unit>
       <trans-unit id="64675" identifier="a8f15226384582e2e33cdd1321df49aa">
         <source>Mix up the order of the papers and give each student a piece of paper with a number on it.</source>
-        <target state="needs-translation">Mix up the order of the papers and give each student a piece of paper with a number on it.</target>
+        <target state="translated">Mix up the order of the papers and give each student a 小さな紙 with a number on it.</target>
         <note>Context: XPath: /ul[2]/li[2]</note>
       </trans-unit>
       <trans-unit id="64676" identifier="67b97abff3a0aeee27d0f60a731e37d6">

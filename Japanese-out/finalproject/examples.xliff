@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file id="1844" original="/microbit/docs/courses/csintro/finalproject/examples.md" source-language="en" target-language="ja" datatype="plaintext">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="/microbit/docs/courses/csintro/finalproject/examples.md" source-language="en" datatype="plaintext" target-language="ja" id="1844">
     <body>
       <trans-unit id="66508" identifier="d196148f351c325a9d6dc9f2266313c9">
         <source>Final project examples</source>
@@ -118,7 +118,7 @@ XPath: /p[8]/img[@alt]</note>
       </trans-unit>
       <trans-unit id="66526" identifier="af1ce49f317bde522622520f6dd64774">
         <source>This project uses a piece of cardboard to mount the micro:bit to the side of a violin.</source>
-        <target state="needs-translation">This project uses a piece of cardboard to mount the micro:bit to the side of a violin.</target>
+        <target state="translated">This project uses a piece of 厚紙 to mount the micro:bit to the side of a violin.</target>
         <note>Context: XPath: /p[9]</note>
       </trans-unit>
       <trans-unit id="66527" identifier="9a90db27f6296f3edc9f0ac1e430a75f">

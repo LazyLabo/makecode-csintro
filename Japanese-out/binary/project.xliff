@@ -20,7 +20,7 @@ XPath: /h1</note>
       </trans-unit>
       <trans-unit id="64960" identifier="03c38b07afb03d23dc6e24b619fe4581">
         <source>For this project, students should invent a paper and cardboard version of the binary counter, then program it to display the decimal value of those numbers.</source>
-        <target state="translated">For this project, students should invent a paper and cardboard version of the binary counter, then program it to display the 10進数の値 of those numbers.</target>
+        <target state="translated">For this project, students should invent a paper and 厚紙 version of the binary counter, then program it to display the 10進数の値 of those numbers.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[2]</note>
       </trans-unit>
@@ -32,7 +32,7 @@ XPath: /p[3]</note>
       </trans-unit>
       <trans-unit id="64962" identifier="9cc4c67157e57c916541b05c563e60ba">
         <source>Cardboard or heavy paper</source>
-        <target state="needs-translation">Cardboard or heavy paper</target>
+        <target state="translated">厚紙 or heavy paper</target>
         <note>Context: List Item&#13;
 XPath: /ul/li</note>
       </trans-unit>
@@ -93,7 +93,7 @@ XPath: /h2</note>
       </trans-unit>
       <trans-unit id="64972" identifier="8ae9ff8c15d6f43018cde9d177b39aac">
         <source>We used coins and copper tape on a piece of cardboard.</source>
-        <target state="needs-translation">We used coins and copper tape on a piece of cardboard.</target>
+        <target state="translated">We used coins and copper tape on a piece of 厚紙.</target>
         <note>Context: XPath: /p[5]</note>
       </trans-unit>
       <trans-unit id="64973" identifier="219e650d2722d25a33629f60e66c2e09">
@@ -264,7 +264,7 @@ XPath: /p[14]</note>
       </trans-unit>
       <trans-unit id="65002" identifier="7701be540190df8394dd88264b3eac13">
         <source>Describe what the physical component of yur micro:bit project was (e.g., an armband, a cardboard mount, a holder, etc.)</source>
-        <target state="needs-translation">Describe what the physical component of yur micro:bit project was (e.g., an armband, a cardboard mount, a holder, etc.)</target>
+        <target state="translated">Describe what the physical component of yur micro:bit project was (e.g., an armband, a 厚紙 mount, a holder, etc.)</target>
         <note>Context: List Item&#13;
 XPath: /ul[4]/li</note>
       </trans-unit>

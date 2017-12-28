@@ -44,7 +44,7 @@ XPath: /p[2]/img[@alt]</note>
       </trans-unit>
       <trans-unit id="64601" identifier="2ab8a884c3be4b18fa8b052843926b8c">
         <source>Here are some examples of guitars that were made out of cardboard and colored, patterned duct tape that you can buy in craft stores.</source>
-        <target state="needs-translation">Here are some examples of guitars that were made out of cardboard and colored, patterned duct tape that you can buy in craft stores.</target>
+        <target state="translated">Here are some examples of guitars that were made out of 厚紙 and colored, patterned duct tape that you can buy in craft stores.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[3]</note>
       </trans-unit>

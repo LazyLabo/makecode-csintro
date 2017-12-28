@@ -39,7 +39,7 @@ XPath: /h2</note>
       </trans-unit>
       <trans-unit id="67491" identifier="12fb9c511eee5f057c005aa6281a87b1">
         <source>It can be supported in a cardboard holder, attached to a wand, or even sewn into fabric.</source>
-        <target state="needs-translation">It can be supported in a cardboard holder, attached to a wand, or even sewn into fabric.</target>
+        <target state="translated">It can be supported in a 厚紙 holder, attached to a wand, or even sewn into fabric.</target>
         <note>Context: XPath: /p[3]</note>
       </trans-unit>
       <trans-unit id="67492" identifier="a9cc28f2eff2b02f50c9f45102f140b5">

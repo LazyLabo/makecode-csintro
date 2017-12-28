@@ -43,7 +43,7 @@ XPath: /ul/li[2]</note>
       </trans-unit>
       <trans-unit id="65034" identifier="d9085a2162e2177da7ce83864da065bf">
         <source>Set of ‘coins’ - these could be checkers/chess pieces, cardboard rounds, or even post-it notes</source>
-        <target state="needs-translation">Set of ‘coins’ - these could be checkers/chess pieces, cardboard rounds, or even post-it notes</target>
+        <target state="translated">Set of ‘coins’ - these could be checkers/chess pieces, 厚紙 rounds, or even post-it notes</target>
         <note>Context: List Item&#13;
 XPath: /ul/li[3]</note>
       </trans-unit>
@@ -502,7 +502,7 @@ XPath: /p[27]</note>
       </trans-unit>
       <trans-unit id="65113" identifier="f35f224e27ed664dfafa7b37b5f38559">
         <source>With their coins in a line in descending order from right to left on a piece of paper, ask students to represent a given number by keeping face up the coins they would use to make this amount and flipping over or putting face down the coins not used.</source>
-        <target state="needs-translation">With their coins in a line in descending order from right to left on a piece of paper, ask students to represent a given number by keeping face up the coins they would use to make this amount and flipping over or putting face down the coins not used.</target>
+        <target state="translated">With their coins in a line in descending order from right to left on a 小さな紙, ask students to represent a given number by keeping face up the coins they would use to make this amount and flipping over or putting face down the coins not used.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[29]</note>
       </trans-unit>
