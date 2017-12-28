@@ -16,25 +16,25 @@ XPath: /h2</note>
       </trans-unit>
       <trans-unit id="64660" identifier="e97de22e34492f9586bae9d532a38911">
         <source>CT.L1:6-02 Develop a simple understanding of an algorithm using computer-free exercise</source>
-        <target state="needs-translation">CT.L1:6-02 Develop a simple understanding of an algorithm using computer-free exercise</target>
+        <target state="translated">CT.L1:6-02 コンピュータを使わない課題を用いてアルゴリズムの初歩的な理解を伸ばす</target>
         <note>Context: List Item&#13;
 XPath: /ul/li</note>
       </trans-unit>
       <trans-unit id="64661" identifier="9a15ae01d2ce613a55a08cdba280b1cd">
         <source>CPP.L1:6-05 Construct a program as a set of step-by-step instructions to be acted out</source>
-        <target state="needs-translation">CPP.L1:6-05 Construct a program as a set of step-by-step instructions to be acted out</target>
+        <target state="translated">CPP.L1:6-05 個別に実行される命令語の集合としてプログラムを構築できる</target>
         <note>Context: List Item&#13;
 XPath: /ul/li[2]</note>
       </trans-unit>
       <trans-unit id="64662" identifier="804a82f3415ec86bff58f14698e64178">
         <source>2-A-2-1 Solicit and integrate peer feedback as appropriate to develop or refine a program</source>
-        <target state="needs-translation">2-A-2-1 Solicit and integrate peer feedback as appropriate to develop or refine a program</target>
+        <target state="translated">2-A-2-1 フィードバックを活用してプログラムの開発と更新ができる</target>
         <note>Context: List Item&#13;
 XPath: /ul/li[3]</note>
       </trans-unit>
       <trans-unit id="64663" identifier="d5c10c1bf7a8b5b45d7b03340bdfbabf">
         <source>2-A-6-10 Use an iterative design process (e.g., define the problem, generate ideas, build, test, and improve solutions) to solve problems, both independently and collaboratively.</source>
-        <target state="needs-translation">2-A-6-10 Use an iterative design process (e.g., define the problem, generate ideas, build, test, and improve solutions) to solve problems, both independently and collaboratively.</target>
+        <target state="translated">2-A-6-10 問題解決を行うために個人、もしくはグループでデザインプロセス（問題の定義、アイデアの提案、テスト、ソリューションの改善）を活用できる</target>
         <note>Context: List Item&#13;
 XPath: /ul/li[4]</note>
       </trans-unit>

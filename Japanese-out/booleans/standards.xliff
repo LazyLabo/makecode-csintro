@@ -16,31 +16,31 @@ XPath: /h2</note>
       </trans-unit>
       <trans-unit id="65893" identifier="299611a84a707521604c1048ec00b30f">
         <source>CL.L2-03 Collaborate with peers, experts, and others using collaborative practices such as pair programming, working in project teams, and participating in group active learning activities</source>
-        <target state="translated">CL.L2-03 Collaborate with peers, experts, and others using collaborative practices such as ペアプログラミング, working in プロジェクト チーム, and participating in group active learning activities</target>
+        <target state="translated">CL.L2-03 協業プログラミング、プロジェクトチームでの作業、グループでの能動的学習アクティビティに参加するなど、協業演習を通じてクラスメート、専門家、および他の人と共同作業を行います。</target>
         <note>Context: List Item&#13;
 XPath: /ul/li</note>
       </trans-unit>
       <trans-unit id="65894" identifier="380bd77237e5d225d4ec4b5e1c54790e">
         <source>CT.L1:6-01 Understand and use the basic steps in algorithmic problem-solving</source>
-        <target state="needs-translation">CT.L1:6-01 Understand and use the basic steps in algorithmic problem-solving</target>
+        <target state="translated">CT.L1:6-01 基礎的なステップを使用してアルゴリズム形式の問題を解決できる</target>
         <note>Context: List Item&#13;
 XPath: /ul/li[2]</note>
       </trans-unit>
       <trans-unit id="65895" identifier="78e657f3002a637de0f3df9ae515e9bc">
         <source>CT.L1:6-02 Develop a simple understanding of an algorithm using computer-free exercises</source>
-        <target state="needs-translation">CT.L1:6-02 Develop a simple understanding of an algorithm using computer-free exercises</target>
+        <target state="translated">CT.L1:6-02 コンピュータを使わない課題を用いてアルゴリズムの初歩的な理解を伸ばすs</target>
         <note>Context: List Item&#13;
 XPath: /ul/li[3]</note>
       </trans-unit>
       <trans-unit id="65896" identifier="b748faadfc8c014cef6b54086bd059ac" translate="no">
         <source>CPP.L1:6-05 Construct a program as a set of step-by-step instructions to be acted out</source>
-        <target>CPP.L1:6-05 Construct a program as a set of step-by-step instructions to be acted out</target>
+        <target state="translated">CPP.L1:6-05 個別に実行される命令語の集合としてプログラムを構築できる</target>
         <note>Context: List Item&#13;
 XPath: /ul/li[4]</note>
       </trans-unit>
       <trans-unit id="65897" identifier="61177a15df2327473dfee2a92e60aa83">
         <source>2-A-5-7 Create variables that represent different types of data and manipulate their values.</source>
-        <target state="needs-translation">2-A-5-7 Create variables that represent different types of data and manipulate their values.</target>
+        <target state="translated">2-A-5-7 異なるデータ型の変数を設定し、その値を操作できる</target>
         <note>Context: List Item&#13;
 XPath: /ul/li[5]</note>
       </trans-unit>
