@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="64399" identifier="90dbd649a1922a159de239f83e83802d">
         <source>Activity: Headband charades and starry starry night</source>
-        <target state="needs-translation">Activity: Headband charades and starry starry night</target>
+        <target state="translated">アクティビティ: Headband charades and starry starry night</target>
         <note>Context: Headline 2&#13;
 XPath: /h2</note>
       </trans-unit>
@@ -86,7 +86,7 @@ XPath: /p[4]</note>
       </trans-unit>
       <trans-unit id="64413" identifier="4438e1b9e43a2fe845ba0e2c69bed138">
         <source>Click on the blue gear-wheel icon in the top left corner of the 'create array' block.</source>
-        <target state="translated">Click on the blue gear-wheel icon in the top left corner of the 「この値で配列を作成（create array with number）」 block.</target>
+        <target state="translated">Click on the blue gear-wheel icon in 左上隅 of the 「この値で配列を作成（create array with number）」 block.</target>
         <note>Context: List Item&#13;
 XPath: /ul[2]/li</note>
       </trans-unit>
@@ -190,7 +190,7 @@ XPath: /ul[6]/li[2]</note>
       </trans-unit>
       <trans-unit id="64429" identifier="71a5b7ab3a537cff9d11a284d1b2a51a">
         <source>an image as a placeholder for when the program has started. Since charades is a guessing game, we made one that looks like a question mark (?),</source>
-        <target state="needs-translation">an image as a placeholder for when the program has started. Since charades is a guessing game, we made one that looks like a question mark (?),</target>
+        <target state="translated">画像 as a placeholder for when the program has started. Since charades is a guessing game, we made one that looks like a question mark (?),</target>
         <note>Context: List Item&#13;
 XPath: /blockquote/ul/li</note>
       </trans-unit>
@@ -210,14 +210,14 @@ XPath: /ul[7]/li[2]</note>
         <source>let index = 0
 let arrayWords: string[] = []
          
-arrayWords = [&quot;cat&quot;, &quot;guitar&quot;, &quot;flashlight&quot;, &quot;cupcake&quot;, &quot;tree&quot;, &quot;frisbee&quot;]
+arrayWords = ["cat", "guitar", "flashlight", "cupcake", "tree", "frisbee"]
 index = 0
 basic.showLeds(`
     .</source>
         <target state="needs-translation">let index = 0
 let arrayWords: string[] = []
          
-arrayWords = [&quot;cat&quot;, &quot;guitar&quot;, &quot;flashlight&quot;, &quot;cupcake&quot;, &quot;tree&quot;, &quot;frisbee&quot;]
+arrayWords = ["cat", "guitar", "flashlight", "cupcake", "tree", "frisbee"]
 index = 0
 basic.showLeds(`
     .</target>
@@ -511,19 +511,19 @@ XPath: /p[15]</note>
       </trans-unit>
       <trans-unit id="64473" identifier="ed80c409522176fa6120a0560d84b632">
         <source>With the micro:bit on and held so Player A cannot see the screen, another player starts the program to see the first word.</source>
-        <target state="translated">With the micro:bit on and held so Player A cannot see 画面, another player starts the program to see the first word.</target>
+        <target state="translated">With the micro:bit on and held so プレイヤーA cannot see 画面, another player starts the program to see the first word.</target>
         <note>Context: List Item&#13;
 XPath: /ul[11]/li</note>
       </trans-unit>
       <trans-unit id="64474" identifier="28bd83b2483a17ef9d5d0a26fe40ff54">
         <source>The other players act out this word charades-style for Player A to guess.</source>
-        <target state="needs-translation">The other players act out this word charades-style for Player A to guess.</target>
+        <target state="translated">The other players act out this word charades-style for プレイヤーA to guess.</target>
         <note>Context: List Item&#13;
 XPath: /ul[11]/li[2]</note>
       </trans-unit>
       <trans-unit id="64475" identifier="e0606795b95406bb460e8ba17f1376f8">
         <source>When Player A guesses correctly or decides to pass on this word, a player places the micro:bit screen down.</source>
-        <target state="needs-translation">When Player A guesses correctly or decides to pass on this word, a player places the micro:bit screen down.</target>
+        <target state="translated">When プレイヤーA guesses correctly or decides to pass on this word, a player places the micro:bit screen down.</target>
         <note>Context: List Item&#13;
 XPath: /ul[11]/li[3]</note>
       </trans-unit>
@@ -586,7 +586,7 @@ input.onGesture(Gesture.ScreenDown, () =&amp;gt; {
         game.gameOver()
     }
 })
-arrayWords = [&quot;cat&quot;, &quot;guitar&quot;, &quot;flashlight&quot;, &quot;cupcake&quot;, &quot;tree&quot;, &quot;frisbee&quot;]
+arrayWords = ["cat", "guitar", "flashlight", "cupcake", "tree", "frisbee"]
 index = 0
 basic.showLeds(`
     .</source>
@@ -604,7 +604,7 @@ input.onGesture(Gesture.ScreenDown, () =&amp;gt; {
         game.gameOver()
     }
 })
-arrayWords = [&quot;cat&quot;, &quot;guitar&quot;, &quot;flashlight&quot;, &quot;cupcake&quot;, &quot;tree&quot;, &quot;frisbee&quot;]
+arrayWords = ["cat", "guitar", "flashlight", "cupcake", "tree", "frisbee"]
 index = 0
 basic.showLeds(`
     .</target>
@@ -723,7 +723,7 @@ XPath: /p[16]/img[@alt]</note>
       </trans-unit>
       <trans-unit id="64503" identifier="78688be8561585641462ba82b34c681f">
         <source>Activity: Starry starry night</source>
-        <target state="needs-translation">Activity: Starry starry night</target>
+        <target state="translated">アクティビティ: Starry starry night</target>
         <note>Context: Headline 2&#13;
 XPath: /h2[6]</note>
       </trans-unit>

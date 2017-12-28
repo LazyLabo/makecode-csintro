@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file id="1821" original="/microbit/docs/courses/csintro/binary.md" source-language="en" target-language="ja" datatype="plaintext">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="/microbit/docs/courses/csintro/binary.md" source-language="en" datatype="plaintext" target-language="ja" id="1821">
     <body>
       <trans-unit id="65128" identifier="c6db3bfc0243e31efb6128d5060ccd2b" approved="yes">
         <source>Binary</source>
@@ -16,7 +16,7 @@ XPath: /p/img[@src]</note>
       </trans-unit>
       <trans-unit id="65130" identifier="b321d60356b838d59b968e7e6aea9cf9" approved="yes">
         <source>Binary numbers shown on a monitor</source>
-        <target>Binary numbers shown on a monitor</target>
+        <target state="translated">2進数 shown on a monitor</target>
         <note>Context: Image Alternative Text&#13;
 XPath: /p/img[@alt]</note>
       </trans-unit>

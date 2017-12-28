@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="67531" identifier="7edaf928fd809ed1383a58a9d64b7cc8">
         <source>Activity: Marco Polo and Morse code</source>
-        <target state="needs-translation">Activity: Marco Polo and Morse code</target>
+        <target state="translated">アクティビティ: Marco Polo and Morse code</target>
         <note>Context: Headline 1&#13;
 XPath: /h1</note>
       </trans-unit>
@@ -126,16 +126,16 @@ XPath: /ul[3]/li[6]</note>
       </trans-unit>
       <trans-unit id="67551" identifier="680f1a8f773508e6b89cd5da055962e0">
         <source>input.onButtonPressed(Button.A, () =&amp;gt; {
-    radio.sendString(&quot;Marco&quot;)
+    radio.sendString("Marco")
 })
 input.onButtonPressed(Button.B, () =&amp;gt; {
-    radio.sendString(&quot;Polo&quot;)
+    radio.sendString("Polo")
 })</source>
         <target state="needs-translation">input.onButtonPressed(Button.A, () =&amp;gt; {
-    radio.sendString(&quot;Marco&quot;)
+    radio.sendString("Marco")
 })
 input.onButtonPressed(Button.B, () =&amp;gt; {
-    radio.sendString(&quot;Polo&quot;)
+    radio.sendString("Polo")
 })</target>
         <note>Context: Text&#13;
 XPath: /pre[2]/code</note>
@@ -166,25 +166,25 @@ XPath: /p[5]</note>
       </trans-unit>
       <trans-unit id="67556" identifier="3f3fac48334992e0ddb18f208f41e979">
         <source>input.onButtonPressed(Button.A, () =&amp;gt; {
-    radio.sendString(&quot;Marco&quot;)
+    radio.sendString("Marco")
 })
 
 radio.onDataPacketReceived(({ receivedString }) =&amp;gt; {
     basic.showString(receivedString)
 })
 input.onButtonPressed(Button.B, () =&amp;gt; {
-    radio.sendString(&quot;Polo&quot;)
+    radio.sendString("Polo")
 })
 radio.setGroup(1)</source>
         <target state="needs-translation">input.onButtonPressed(Button.A, () =&amp;gt; {
-    radio.sendString(&quot;Marco&quot;)
+    radio.sendString("Marco")
 })
 
 radio.onDataPacketReceived(({ receivedString }) =&amp;gt; {
     basic.showString(receivedString)
 })
 input.onButtonPressed(Button.B, () =&amp;gt; {
-    radio.sendString(&quot;Polo&quot;)
+    radio.sendString("Polo")
 })
 radio.setGroup(1)</target>
         <note>Context: Text&#13;
@@ -232,28 +232,28 @@ XPath: /p[6]</note>
       </trans-unit>
       <trans-unit id="67564" identifier="28e504b37118f2ebed4ab1b381898c1a">
         <source>input.onButtonPressed(Button.A, () =&amp;gt; {
-    radio.sendString(&quot;Marco&quot;)
+    radio.sendString("Marco")
     music.playTone(131, music.beat(BeatFraction.Whole))
 })
     radio.onDataPacketReceived( ({ receivedString }) =&amp;gt; {
     basic.showString(receivedString)
 })
 input.onButtonPressed(Button.B, () =&amp;gt; {
-    radio.sendString(&quot;Polo&quot;)
+    radio.sendString("Polo")
     music.playTone(262, music.beat(BeatFraction.Whole))
 })
 radio.setGroup(1)
 basic.showLeds(`
     # .</source>
         <target state="needs-translation">input.onButtonPressed(Button.A, () =&amp;gt; {
-    radio.sendString(&quot;Marco&quot;)
+    radio.sendString("Marco")
     music.playTone(131, music.beat(BeatFraction.Whole))
 })
     radio.onDataPacketReceived( ({ receivedString }) =&amp;gt; {
     basic.showString(receivedString)
 })
 input.onButtonPressed(Button.B, () =&amp;gt; {
-    radio.sendString(&quot;Polo&quot;)
+    radio.sendString("Polo")
     music.playTone(262, music.beat(BeatFraction.Whole))
 })
 radio.setGroup(1)
@@ -355,9 +355,9 @@ XPath: /ul[6]/li[3]</note>
       </trans-unit>
       <trans-unit id="67581" identifier="7f06c41b2e30dfc22b8e58b4ab744888">
         <source>radio.setGroup(1)
-basic.showString(&quot;Morse Code&quot;)</source>
+basic.showString("Morse Code")</source>
         <target state="needs-translation">radio.setGroup(1)
-basic.showString(&quot;Morse Code&quot;)</target>
+basic.showString("Morse Code")</target>
         <note>Context: Text&#13;
 XPath: /pre[5]/code</note>
       </trans-unit>
@@ -622,7 +622,7 @@ XPath: /h3</note>
       </trans-unit>
       <trans-unit id="67623" identifier="dd4d3b00c52335432ea088f7292f75cf">
         <source>Download your program to the micro:bit</source>
-        <target state="needs-translation">Download your program to the micro:bit</target>
+        <target state="translated">プログラムを micro:bit にダウンロードする</target>
         <note>Context: List Item&#13;
 XPath: /ul[11]/li</note>
       </trans-unit>
@@ -797,7 +797,7 @@ XPath: /p[12]/img[@alt]</note>
       </trans-unit>
       <trans-unit id="67653" identifier="63c70ff9c69ed7cac128478e6a9338f5">
         <source>You can now right-click on the 'if…then' block and select Duplicate to copy that piece of code twice for the other 2 values that a sender may send.</source>
-        <target state="needs-translation">You can now right-click on the 'if…then' block and select Duplicate to copy that piece of code twice for the other 2 values that a sender may send.</target>
+        <target state="translated">You can now right-click on the 「もし・・なら（if...then）」 block and select Duplicate to copy that piece of code twice for the other 2 values that a sender may send.</target>
         <note>Context: List Item&#13;
 XPath: /ul[13]/li</note>
       </trans-unit>
@@ -1086,7 +1086,7 @@ input.onButtonPressed(Button.AB, () =&amp;gt; {
     radio.sendNumber(2)
 })
 radio.setGroup(1)
-basic.showString(&quot;Morse Code&quot;)</source>
+basic.showString("Morse Code")</source>
         <target state="needs-translation">`)
         basic.pause(100)
         basic.clearScreen()
@@ -1113,7 +1113,7 @@ input.onButtonPressed(Button.AB, () =&amp;gt; {
     radio.sendNumber(2)
 })
 radio.setGroup(1)
-basic.showString(&quot;Morse Code&quot;)</target>
+basic.showString("Morse Code")</target>
         <note>Context: XPath: /pre[10]/code</note>
       </trans-unit>
       <trans-unit id="67702" identifier="d51fcf08e98f5acc2ebd7ebdb6ee8aed" translate="no">
@@ -1124,7 +1124,7 @@ XPath: /h3[3]</note>
       </trans-unit>
       <trans-unit id="67703" identifier="7c8f46c5545bf1b4f9856da695d2a291" translate="no">
         <source>Download your program to the micro:bit</source>
-        <target>Download your program to the micro:bit</target>
+        <target state="translated">プログラムを micro:bit にダウンロードする</target>
         <note>Context: List Item&#13;
 XPath: /ul[15]/li</note>
       </trans-unit>
@@ -1171,7 +1171,7 @@ XPath: /h2[4]</note>
       </trans-unit>
       <trans-unit id="67711" identifier="018a8d642010d53d244109ff698ce4a4">
         <source>They can do this by clicking on the blue gear-wheel icon in the top left corner of the 'if...then' block.</source>
-        <target state="translated">They can do this by clicking on the blue gear-wheel icon in the top left corner of the 「もし・・なら（if...then）」 block.</target>
+        <target state="translated">They can do this by clicking on the blue gear-wheel icon in 左上隅 of the 「もし・・なら（if...then）」 block.</target>
         <note>Context: XPath: /p[15]</note>
       </trans-unit>
       <trans-unit id="67712" identifier="b51c4dc8a7f086f4faa52ada1d7cbd45" translate="no">
@@ -1475,7 +1475,7 @@ radio.onDataPacketReceived(({ receivedNumber }) =&amp;gt; {
     basic.clearScreen()
 })
 radio.setGroup(1)
-basic.showString(&quot;Morse Code&quot;)</source>
+basic.showString("Morse Code")</source>
         <target state="needs-translation">`)
     } else if (receivedNumber == 2) {
         basic.showLeds(`
@@ -1492,7 +1492,7 @@ basic.showString(&quot;Morse Code&quot;)</source>
     basic.clearScreen()
 })
 radio.setGroup(1)
-basic.showString(&quot;Morse Code&quot;)</target>
+basic.showString("Morse Code")</target>
         <note>Context: XPath: /pre[11]/code</note>
       </trans-unit>
       <trans-unit id="71532" identifier="e9201278a7b430fbb34248160cf7bd6b" translate="no" approved="yes">

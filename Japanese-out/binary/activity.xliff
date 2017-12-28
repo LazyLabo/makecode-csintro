@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="64831" identifier="86af5d92504452df15919067ddd430be">
         <source>Activity: Binary transmogrifier</source>
-        <target state="translated">Activity: バイナリー transmogrifier</target>
+        <target state="translated">アクティビティ: バイナリー transmogrifier</target>
         <note>Context: Headline 1&#13;
 XPath: /h1</note>
       </trans-unit>
@@ -43,7 +43,7 @@ XPath: /p[2]</note>
       </trans-unit>
       <trans-unit id="64838" identifier="545ed90e17242e149d4b28f9dd4fbe00">
         <source>The user will be able to use the buttons to enter binary 0s and 1s and will be able to press A+B at any time to display the decimal equivalent of the number that has been entered.</source>
-        <target state="translated">The ユーザー will be able to use the buttons to enter binary 0s and 1s and will be able to press A+B at any time to display the decimal equivalent of the number that has been entered.</target>
+        <target state="translated">ユーザー will be able to use the buttons to enter binary 0s and 1s and will be able to press A+B at any time to display the decimal equivalent of the number that has been entered.</target>
         <note>Context: XPath: /p[3]</note>
       </trans-unit>
       <trans-unit id="64839" identifier="98ea01ce730bb91829c49adf3981debb">
@@ -218,7 +218,7 @@ XPath: /pre[2]/code</note>
       </trans-unit>
       <trans-unit id="64865" identifier="fb705c0290ce297581e50bb032e69247">
         <source>For example, imagine you are the micro:bit.</source>
-        <target state="needs-translation">For example, imagine you are the micro:bit.</target>
+        <target state="translated">例えば、 imagine you are the micro:bit.</target>
         <note>Context: XPath: /p[11]</note>
       </trans-unit>
       <trans-unit id="64866" identifier="3bfedae752c19fa8af17b036bfc9f7a7">
@@ -290,7 +290,7 @@ XPath: /p[15]/img[@src]</note>
       </trans-unit>
       <trans-unit id="64879" identifier="c7da8ee8f6b9b3fd8f96dbadc695c9ad">
         <source>Binary number patterns</source>
-        <target state="needs-translation">Binary number patterns</target>
+        <target state="translated">2進数 patterns</target>
         <note>Context: Image Alternative Text&#13;
 XPath: /p[15]/img[@alt]</note>
       </trans-unit>
@@ -312,7 +312,7 @@ XPath: /h2[5]</note>
       </trans-unit>
       <trans-unit id="64883" identifier="e15ae0152735daabf6f7471f4a7d9ab3">
         <source>The Input for this program will be the buttons.</source>
-        <target state="needs-translation">The Input for this program will be the buttons.</target>
+        <target state="translated">入力 for this program will be the buttons.</target>
         <note>Context: XPath: /p[16]</note>
       </trans-unit>
       <trans-unit id="64884" identifier="380ba16403cb09dd8f0823d4e0781c4c">
@@ -328,7 +328,7 @@ XPath: /p[17]</note>
       </trans-unit>
       <trans-unit id="64886" identifier="6361956af5d3d3387a6093be6bc32302">
         <source>When Button A is pressed:</source>
-        <target state="translated">When Aボタン is pressed:</target>
+        <target state="translated">Aボタンを押したら:</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[18]</note>
       </trans-unit>
@@ -434,7 +434,7 @@ XPath: /p[21]</note>
       </trans-unit>
       <trans-unit id="64901" identifier="2468f1ed0262be1fa2dfd930c805fa9e">
         <source>Button A represents a binary “1”. Our first task is to join a “1” to the existing string variable called binary.</source>
-        <target state="translated">Button A represents a binary “1”. Our first task is to join a “1” to the existing 文字列変数 called binary.</target>
+        <target state="translated">Aボタン represents a binary “1”. Our first task is to join a “1” to the existing 文字列変数 called binary.</target>
         <note>Context: List Item&#13;
 XPath: /ul[4]/li</note>
       </trans-unit>
@@ -465,12 +465,12 @@ XPath: /ul[4]/li[5]</note>
       <trans-unit id="64906" identifier="860ccbdb35820454e607aa19f6fa1acb">
         <source>let binary = &quot;&quot;
 input.onButtonPressed(Button.A, () =&amp;gt; {
-    binary = binary + &quot;1&quot;
+    binary = binary + "1"
     basic.showString(binary)
 })</source>
         <target state="needs-translation">let binary = &quot;&quot;
 input.onButtonPressed(Button.A, () =&amp;gt; {
-    binary = binary + &quot;1&quot;
+    binary = binary + "1"
     basic.showString(binary)
 })</target>
         <note>Context: Text&#13;
@@ -517,14 +517,14 @@ XPath: /blockquote[2]/ul/li[2]</note>
         <source>let binary = &quot;&quot;
 let decimal = 0
 input.onButtonPressed(Button.A, () =&amp;gt; {
-    binary = binary + &quot;1&quot;
+    binary = binary + "1"
     basic.showString(binary)
     decimal = decimal * 2 + 1
 })</source>
         <target state="needs-translation">let binary = &quot;&quot;
 let decimal = 0
 input.onButtonPressed(Button.A, () =&amp;gt; {
-            binary = binary + &quot;1&quot;
+    binary = binary + "1"
     basic.showString(binary)
     decimal = decimal * 2 + 1
 })</target>
@@ -553,12 +553,12 @@ XPath: /p[22]</note>
         <source>let binary = &quot;&quot;
 let decimal = 0
 input.onButtonPressed(Button.A, () =&amp;gt; {
-    binary = binary + &quot;1&quot;
+    binary = binary + "1"
     basic.showString(binary)
     decimal = decimal * 2 + 1
 })
 input.onButtonPressed(Button.B, () =&amp;gt; {
-    binary = binary + &quot;0&quot;
+    binary = binary + "0"
     basic.showString(binary)
     decimal = decimal * 2
 })
@@ -566,16 +566,16 @@ input.onButtonPressed(Button.AB, () =&amp;gt; {
     basic.showNumber(decimal)
 })
 decimal = 0
-binary = &quot;&quot;</source>
+binary = ""</source>
         <target state="needs-translation">let binary = &quot;&quot;
 let decimal = 0
 input.onButtonPressed(Button.A, () =&amp;gt; {
-    binary = binary + &quot;1&quot;
+    binary = binary + "1"
     basic.showString(binary)
     decimal = decimal * 2 + 1
 })
 input.onButtonPressed(Button.B, () =&amp;gt; {
-    binary = binary + &quot;0&quot;
+    binary = binary + "0"
     basic.showString(binary)
     decimal = decimal * 2
 })
@@ -583,7 +583,7 @@ input.onButtonPressed(Button.AB, () =&amp;gt; {
     basic.showNumber(decimal)
 })
 decimal = 0
-binary = &quot;&quot;</target>
+binary = ""</target>
         <note>Context: Text&#13;
 XPath: /pre[6]/code</note>
       </trans-unit>

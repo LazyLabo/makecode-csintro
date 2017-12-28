@@ -139,7 +139,7 @@ It is important however that 生徒たち understand the two major differences b
       </trans-unit>
       <trans-unit id="66366" identifier="cebcf59ea9bdcef5738790650f29dd02">
         <source>the origin (0,0) is in the top left corner.</source>
-        <target state="needs-translation">the origin (0,0) is in the top left corner.</target>
+        <target state="translated">the origin (0,0) is in 左上隅.</target>
         <note>Context: List Item&#13;
 XPath: /ul[7]/li</note>
       </trans-unit>

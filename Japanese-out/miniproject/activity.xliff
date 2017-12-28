@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="67344" identifier="39409cd99d12d80c6595c4bf765fea74">
         <source>Activity: Collaboratively independent</source>
-        <target state="needs-translation">Activity: Collaboratively independent</target>
+        <target state="translated">アクティビティ: Collaboratively independent</target>
         <note>Context: Headline 1&#13;
 XPath: /h1</note>
       </trans-unit>

@@ -219,7 +219,7 @@ XPath: /h3</note>
       </trans-unit>
       <trans-unit id="64702" identifier="23030bebac9164157baf535edac6e3af">
         <source>In pseudocode:</source>
-        <target state="needs-translation">In pseudocode:</target>
+        <target state="translated">疑似コードで：</target>
         <note>Context: Headline 4&#13;
 XPath: /h4</note>
       </trans-unit>
@@ -494,7 +494,7 @@ XPath: /h3[2]</note>
       </trans-unit>
       <trans-unit id="64735" identifier="5de4b94b9692191b07814c39c64e5715" translate="no">
         <source>In pseudocode:</source>
-        <target>In pseudocode:</target>
+        <target state="translated">疑似コードで：</target>
         <note>Context: Headline 4&#13;
 XPath: /h4[3]</note>
       </trans-unit>
@@ -783,7 +783,7 @@ XPath: /h3[3]</note>
       </trans-unit>
       <trans-unit id="64770" identifier="1e459227452dfd7ae1c7832e1d6ccc91" translate="no">
         <source>In pseudocode:</source>
-        <target>In pseudocode:</target>
+        <target state="translated">疑似コードで：</target>
         <note>Context: Headline 4&#13;
 XPath: /h4[5]</note>
       </trans-unit>
@@ -1010,9 +1010,9 @@ XPath: /p[12]</note>
       </trans-unit>
       <trans-unit id="64796" identifier="24e679f640c46bb243fc3cb923a519dd">
         <source>https://www.youtube.com/watch?v=k4RRi_ntQc8
-&lt;a href=&quot;https://www.youtube.com/watch?v=k4RRi_ntQc8&quot;&gt;Barack Obama interviewed by Eric Schmidt&lt;/a&gt;</source>
+&lt;a href="https://www.youtube.com/watch?v=k4RRi_ntQc8"&gt;Barack Obama interviewed by Eric Schmidt&lt;/a&gt;</source>
         <target state="needs-translation">https://www.youtube.com/watch?v=k4RRi_ntQc8
-&lt;a href=&quot;https://www.youtube.com/watch?v=k4RRi_ntQc8&quot;&gt;Barack Obama interviewed by Eric Schmidt&lt;/a&gt;</target>
+&lt;a href="https://www.youtube.com/watch?v=k4RRi_ntQc8"&gt;Barack Obama interviewed by Eric Schmidt&lt;/a&gt;</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[13]</note>
       </trans-unit>

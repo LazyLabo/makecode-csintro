@@ -75,7 +75,7 @@ In MakeCode, you can create 配列 by assigning it to 変数.</target>
       </trans-unit>
       <trans-unit id="64561" identifier="a2d7d333b129a67525c13fbfdf96d023">
         <source>The Array blocks can be found under the Advanced Toolbox menu.</source>
-        <target state="translated">The 配列ブロック can be found under the Advanced Toolbox menu.</target>
+        <target state="translated">The 配列ブロック can be found under the 高度なブロック(Advanced)メニュー.</target>
         <note>Context: XPath: /ul/li[3]</note>
       </trans-unit>
       <trans-unit id="64562" identifier="e3aed247aa337351a1f3db9c0f3c1d0e" translate="no">
@@ -86,7 +86,7 @@ XPath: /p[4]/img[@src]</note>
       </trans-unit>
       <trans-unit id="64563" identifier="4d69046804b8311c29364819f5f0f73b">
         <source>Arrays block menu</source>
-        <target state="needs-translation">Arrays block menu</target>
+        <target state="translated">配列(Arrays)メニュー</target>
         <note>Context: Image Alternative Text&#13;
 XPath: /p[4]/img[@alt]</note>
       </trans-unit>

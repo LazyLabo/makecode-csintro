@@ -44,7 +44,7 @@ XPath: /p[3]</note>
       </trans-unit>
       <trans-unit id="66482" identifier="5bdab142777a5d5acb9ccf125f7299e5">
         <source>Understand that the 5 x 5 grid of LEDs on the micro:bit represents a coordinate grid with the origin (0,0) in the top left corner.</source>
-        <target state="needs-translation">Understand that the 5 x 5 grid of LEDs on the micro:bit represents a coordinate grid with the origin (0,0) in the top left corner.</target>
+        <target state="translated">Understand that the 5 x 5 grid of LEDs on the micro:bit represents a coordinate grid with the origin (0,0) in 左上隅.</target>
         <note>Context: List Item&#13;
 XPath: /ul/li</note>
       </trans-unit>
@@ -92,13 +92,13 @@ XPath: /h2[2]</note>
       </trans-unit>
       <trans-unit id="66490" identifier="9c835f74a9a764b125af9d69af23b385">
         <source>Introduction: Coordinate Grid</source>
-        <target state="needs-translation">Introduction: Coordinate Grid</target>
+        <target state="translated">はじめに: Coordinate Grid</target>
         <note>Context: List Item&#13;
 XPath: /ul[2]/li</note>
       </trans-unit>
       <trans-unit id="66491" identifier="fe69cacb68b6fcb73d91451c8f2a6b88">
         <source>Unplugged Activity: Battleship</source>
-        <target state="translated">Unplugged アクティビティ: Battleship</target>
+        <target state="translated">アンプラグド アクティビティ Battleship</target>
         <note>Context: List Item&#13;
 XPath: /ul[2]/li[2]</note>
       </trans-unit>
@@ -110,7 +110,7 @@ XPath: /ul[2]/li[3]</note>
       </trans-unit>
       <trans-unit id="66493" identifier="31817b1d0fc439ad4b926f428173399f">
         <source>Project: Screensaver or Game</source>
-        <target state="needs-translation">Project: Screensaver or Game</target>
+        <target state="translated">プロジェクト: Screensaver or Game</target>
         <note>Context: List Item&#13;
 XPath: /ul[2]/li[4]</note>
       </trans-unit>

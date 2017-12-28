@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="66261" identifier="e3e5774bdad5b653d6396da282877ac0">
         <source>Activity: Animation and patterns</source>
-        <target state="needs-translation">Activity: Animation and patterns</target>
+        <target state="translated">アクティビティ: Animation and patterns</target>
         <note>Context: Headline 1&#13;
 XPath: /h1</note>
       </trans-unit>

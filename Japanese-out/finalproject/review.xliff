@@ -67,7 +67,7 @@ XPath: /h2[2]</note>
       </trans-unit>
       <trans-unit id="66700" identifier="a810bfb3bca61f2cc7c8567f7c6a1c45">
         <source>A Boolean is a data type that only has two possible values: True or False.</source>
-        <target state="needs-translation">A Boolean is a data type that only has two possible values: True or False.</target>
+        <target state="translated">ブール値 is a data type that only has two possible values: True or False.</target>
         <note>Context: XPath: /p[4]</note>
       </trans-unit>
       <trans-unit id="66701" identifier="3fa9a1f2c7fac716e2a41facdc1508fd">
@@ -77,7 +77,7 @@ XPath: /h2[2]</note>
       </trans-unit>
       <trans-unit id="66702" identifier="8f4befd500674682baed438bcc67e62b">
         <source>Boolean operators such as AND OR and NOT allow you to combine &lt;a href=&quot;/blocks/logic/boolean&quot;&gt;boolean expressions&lt;/a&gt; to make more complex conditions.</source>
-        <target state="needs-translation">Boolean operators such as AND OR and NOT allow you to combine &lt;a href=&quot;/blocks/logic/boolean&quot;&gt;boolean expressions&lt;/a&gt; to make more complex conditions.</target>
+        <target state="translated">ブール演算子 such as AND OR and NOT allow you to combine &lt;a href=&quot;/blocks/logic/boolean&quot;&gt;boolean expressions&lt;/a&gt; to make more complex conditions.</target>
         <note>Context: XPath: /p[4]</note>
       </trans-unit>
       <trans-unit id="66703" identifier="661a63aa5d85f8befe8931eedeec042c" translate="no">

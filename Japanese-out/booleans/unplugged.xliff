@@ -299,14 +299,14 @@ XPath: /p[6]</note>
     True    False    If Coin A is true AND Coin B is false, add one to Player B score
     False   True     If Coin A is false AND Coin B is true, add one to Player B score
     False   False    If Coin A is false AND Coin B is false, add one to Player A score</source>
-        <target state="needs-translation">``` 
+        <target state="translated">``` 
     Coin A  Coin B    Results
     Heads   Heads&lt;br /&gt;
     ==================================================================================
-    True    True     If Coin A is true AND Coin B is true, add one to Player A score
-    True    False    If Coin A is true AND Coin B is false, add one to Player B score
-    False   True     If Coin A is false AND Coin B is true, add one to Player B score
-    False   False    If Coin A is false AND Coin B is false, add one to Player A score</target>
+    True    True     If Coin A is true AND Coin B is true, add one to プレイヤーA score
+    True    False    If Coin A is true AND Coin B is false, add one to プライヤーB score
+    False   True     If Coin A is false AND Coin B is true, add one to プライヤーB score
+    False   False    If Coin A is false AND Coin B is false, add one to プレイヤーA score</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[7]</note>
       </trans-unit>
@@ -322,12 +322,12 @@ XPath: /p[7]</note>
       </trans-unit>
       <trans-unit id="65946" identifier="f8dd53b17dc82cf8f620923dde75853b">
         <source>Try using an OR to combine both conditions in which Player A scores a point.</source>
-        <target state="needs-translation">Try using an OR to combine both conditions in which Player A scores a point.</target>
+        <target state="translated">Try using an OR to combine both conditions in which プレイヤーA scores a point.</target>
         <note>Context: XPath: /pre[3]/code</note>
       </trans-unit>
       <trans-unit id="65947" identifier="1e5b85b0c94f3ff9b63edf5f464a4016">
         <source>Do the same for both conditions in which Player B scores a point.</source>
-        <target state="needs-translation">Do the same for both conditions in which Player B scores a point.</target>
+        <target state="translated">Do the same for both conditions in which プライヤーB scores a point.</target>
         <note>Context: XPath: /pre[3]/code</note>
       </trans-unit>
       <trans-unit id="65948" identifier="375802f5499f0ae8c618028a43082256">
@@ -342,15 +342,15 @@ Give 生徒たち a chance to work this out on their own.</target>
 Combining the conditions in which each player wins, gives us:
 
 * If (Coin A is true AND Coin B is true) OR (Coin A is false AND Coin B is false), add one to Player A score.</source>
-        <target state="needs-translation"> 
+        <target state="translated"> 
 Combining the conditions in which each player wins, gives us:
 
-* If (Coin A is true AND Coin B is true) OR (Coin A is false AND Coin B is false), add one to Player A score.</target>
+* If (Coin A is true AND Coin B is true) OR (Coin A is false AND Coin B is false), add one to プレイヤーA score.</target>
         <note>Context: XPath: /pre[3]/code</note>
       </trans-unit>
       <trans-unit id="65950" identifier="d827ad614efced8aa30d95d16e52fdeb">
         <source>* If (Coin A is true AND Coin B is false) OR (Coin A is false AND Coin B is true), add one to Player B score.</source>
-        <target state="needs-translation">* If (Coin A is true AND Coin B is false) OR (Coin A is false AND Coin B is true), add one to Player B score.</target>
+        <target state="translated">* If (Coin A is true AND Coin B is false) OR (Coin A is false AND Coin B is true), add one to プライヤーB score.</target>
         <note>Context: XPath: /pre[3]/code</note>
       </trans-unit>
       <trans-unit id="65951" identifier="35208e4fdcec45ae54b41c8eb2096ab3">
@@ -400,7 +400,7 @@ if ((CoinAHeads == true &amp;amp;&amp;amp; CoinBHeads == true) || (CoinAHeads ==
       <trans-unit id="65957" identifier="8476cb63fc3ca89bf7637f27f500e8ce">
         <source>Then add one to Player A score.
  </source>
-        <target state="needs-translation">Then add one to Player A score.
+        <target state="translated">Then add one to プレイヤーA score.
  </target>
         <note>Context: Paragraph text&#13;
 XPath: /p[8]</note>
@@ -417,7 +417,7 @@ XPath: /pre[4]/code</note>
       </trans-unit>
       <trans-unit id="65959" identifier="2b646a549de61ea8636b662c85b1bfcc">
         <source>Then add one to Player B score.</source>
-        <target state="needs-translation">Then add one to Player B score.</target>
+        <target state="translated">Then add one to プライヤーB score.</target>
         <note>Context: XPath: /p[9]</note>
       </trans-unit>
       <trans-unit id="65960" identifier="8751c461222486d5f8a88f6697f2a9d7">
@@ -450,7 +450,7 @@ XPath: /h2[2]</note>
       </trans-unit>
       <trans-unit id="65965" identifier="943ca272fcfbc7a31f4262b72886c81d">
         <source>A boolean can have only one of two values: True or False.</source>
-        <target state="needs-translation">A boolean can have only one of two values: True or False.</target>
+        <target state="translated">ブール値 can have only one of two values: True or False.</target>
         <note>Context: XPath: /p[10]</note>
       </trans-unit>
       <trans-unit id="65966" identifier="5bb09c19ba6e9d48c03b2107e5391eb9">
@@ -589,9 +589,9 @@ XPath: /pre[11]/code</note>
  
 What about our other big block of code for the conditions for a Player B win?
 We could simplify that to:</source>
-        <target state="needs-translation">Then add one to Player A score.
+        <target state="translated">Then add one to プレイヤーA score.
  
-What about our other big block of code for the conditions for a Player B win?
+What about our other big block of code for the conditions for a プライヤーB win?
 We could simplify that to:</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[18]</note>
@@ -610,7 +610,7 @@ XPath: /pre[12]/code</note>
         <source>Then add one to Player B score.
  
 We don’t need to do this! Since the only other option to being equal is to be not equal, we can simply do this:</source>
-        <target state="needs-translation">Then add one to Player B score.
+        <target state="translated">Then add one to プライヤーB score.
  
 We don’t need to do this! Since the only other option to being equal is to be not equal, we can simply do this:</target>
         <note>Context: Paragraph text&#13;
@@ -719,13 +719,13 @@ XPath: /ol/li[3]</note>
       </trans-unit>
       <trans-unit id="66001" identifier="aa5167ff4d5eae5c4f61b3f81463db9f" translate="no">
         <source>If the current true/false values of Coin A and Coin B are the same, add a point to Player A’s score.</source>
-        <target>If the current true/false values of Coin A and Coin B are the same, add a point to Player A’s score.</target>
+        <target state="translated">If the current true/false values of Coin A and Coin B are the same, add a point to プレイヤーAの得点.</target>
         <note>Context: List Item&#13;
 XPath: /ol/li[4]</note>
       </trans-unit>
       <trans-unit id="66002" identifier="3d9432123b8f8ae05c2e438ff6e8c757">
         <source>Otherwise, the current true/false values of Coin A and Coin B must be different, so add a point to Player B’s score.</source>
-        <target state="needs-translation">Otherwise, the current true/false values of Coin A and Coin B must be different, so add a point to Player B’s score.</target>
+        <target state="translated">Otherwise, the current true/false values of Coin A and Coin B must be different, so add a point to プレイヤーAの得点.</target>
         <note>Context: List Item&#13;
 XPath: /ol/li[5]</note>
       </trans-unit>

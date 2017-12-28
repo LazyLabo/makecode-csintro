@@ -302,7 +302,7 @@ XPath: /ul[5]/li[2]</note>
 While button A is NOT pressed, continue to run this code…
  
 Note: ‘False’ can be thought of as equivalent to ‘NOT true’.</source>
-        <target state="translated">For example, you can use a NOT to check  
+        <target state="translated">例えば、 you can use a NOT to check  
 While Aボタン is NOT pressed, continue to run this code…
  
 Note: 「偽（false）」 can be thought of as equivalent to ‘NOT true’.</target>

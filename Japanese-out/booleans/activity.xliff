@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="65156" identifier="7fc33bc246022db14e1c97f3d6df4715">
         <source>Activity: Double coin flipper</source>
-        <target state="needs-translation">Activity: Double coin flipper</target>
+        <target state="translated">アクティビティ: Double coin flipper</target>
         <note>Context: Headline 1&#13;
 XPath: /h1</note>
       </trans-unit>
@@ -88,13 +88,13 @@ The initial value of 変数 is the value the variable will hold each time the pr
       </trans-unit>
       <trans-unit id="65170" identifier="e183857ac34cbaa145116135957e836d">
         <source>a string variable is initialized to an empty string &lt;code&gt;&quot;&quot;&lt;/code&gt;</source>
-        <target state="needs-translation">a string variable is initialized to an empty string &lt;code&gt;&quot;&quot;&lt;/code&gt;</target>
+        <target state="translated">文字列変数 is initialized to an empty string &lt;code&gt;&quot;&quot;&lt;/code&gt;</target>
         <note>Context: List Item&#13;
 XPath: /ul/li[5]</note>
       </trans-unit>
       <trans-unit id="65171" identifier="9aa9da030d21515a783919ad2acf96b9">
         <source>a number variable is initialized to &lt;code&gt;0&lt;/code&gt;</source>
-        <target state="needs-translation">a number variable is initialized to &lt;code&gt;0&lt;/code&gt;</target>
+        <target state="translated">数値変数 is initialized to &lt;code&gt;0&lt;/code&gt;</target>
         <note>Context: List Item&#13;
 XPath: /ul/li[6]</note>
       </trans-unit>
@@ -104,11 +104,11 @@ XPath: /ul/li[6]</note>
 Initialize the number variables to zero and the Boolean variables to &lt;code&gt;false&lt;/code&gt;.
  
 You can find the false blocks under the Logic menu.</source>
-        <target state="needs-translation">a Boolean is initialized to &lt;code&gt;false&lt;/code&gt;
+        <target state="translated">ブール値 is initialized to &lt;code&gt;false&lt;/code&gt;
  
-Initialize the number variables to zero and the Boolean variables to &lt;code&gt;false&lt;/code&gt;.
+Initialize the number variables to zero and the ブール型変数 to &lt;code&gt;false&lt;/code&gt;.
  
-You can find the false blocks under the Logic menu.</target>
+You can find the false blocks under the 論理(Logic)メニュー.</target>
         <note>Context: List Item&#13;
 XPath: /ul/li[7]</note>
       </trans-unit>
@@ -120,7 +120,7 @@ XPath: /p[3]/img[@src]</note>
       </trans-unit>
       <trans-unit id="65174" identifier="d37d3fac904c43b9ba54b661786146a3">
         <source>Logic menu</source>
-        <target state="needs-translation">Logic menu</target>
+        <target state="translated">論理(Logic)メニュー</target>
         <note>Context: Image Alternative Text&#13;
 XPath: /p[3]/img[@alt]</note>
       </trans-unit>
@@ -306,13 +306,13 @@ XPath: /ol/li</note>
       </trans-unit>
       <trans-unit id="65195" identifier="e2e3a9b6efc58271e4efca9e84f022eb">
         <source>If the current true/false values of Coin A and Coin B are the same, add a point to Player A’s score.</source>
-        <target state="needs-translation">If the current true/false values of Coin A and Coin B are the same, add a point to Player A’s score.</target>
+        <target state="translated">If the current true/false values of Coin A and Coin B are the same, add a point to プレイヤーAの得点.</target>
         <note>Context: List Item&#13;
 XPath: /ol/li[2]</note>
       </trans-unit>
       <trans-unit id="65196" identifier="bbe9c857a813f446db39d2c9b521a451">
         <source>Otherwise, if the current true/false values of Coin A and Coin B are different, add a point to Player B’s score.</source>
-        <target state="needs-translation">Otherwise, if the current true/false values of Coin A and Coin B are different, add a point to Player B’s score.</target>
+        <target state="translated">Otherwise, if the current true/false values of Coin A and Coin B are different, add a point to プレイヤーAの得点.</target>
         <note>Context: XPath: /ol/li[3]</note>
       </trans-unit>
       <trans-unit id="65197" identifier="15ce0a89303e7f4a26ede34f015d0771">

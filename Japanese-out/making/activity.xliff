@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file id="1858" original="/microbit/docs/courses/csintro/making/activity.md" source-language="en" target-language="ja" datatype="plaintext">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="/microbit/docs/courses/csintro/making/activity.md" source-language="en" datatype="plaintext" target-language="ja" id="1858">
     <body>
       <trans-unit id="67145" identifier="f407c5bd978fe1df27115d377e2c4ac6" approved="yes">
         <source>Activity: Installing a program</source>
@@ -76,7 +76,7 @@ XPath: /p[9]/img[@src]</note>
       </trans-unit>
       <trans-unit id="67157" identifier="cf44e76d0c01fd5f2e24cb162cb5fc6d" approved="yes">
         <source>Projects folder</source>
-        <target>Projects folder</target>
+        <target state="translated">プロジェクト フォルダー</target>
         <note>Context: Image Alternative Text&#13;
 XPath: /p[9]/img[@alt]</note>
       </trans-unit>
@@ -210,7 +210,7 @@ XPath: /p[17]/img[@src]</note>
       </trans-unit>
       <trans-unit id="67178" identifier="9df76e68699a2f48e9bb584fe552d726" approved="yes">
         <source>Download button</source>
-        <target>Download button</target>
+        <target state="translated">ダウンロード ボタン</target>
         <note>Context: Image Alternative Text&#13;
 XPath: /p[17]/img[@alt]</note>
       </trans-unit>

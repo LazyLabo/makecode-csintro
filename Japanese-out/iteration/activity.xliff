@@ -471,7 +471,7 @@ XPath: /p[29]</note>
       </trans-unit>
       <trans-unit id="66909" identifier="bcf4e58021c6dc7dba73f9e4a0cc40e1">
         <source>Our pseudocode for the first row might look like this:</source>
-        <target state="needs-translation">Our pseudocode for the first row might look like this:</target>
+        <target state="translated">疑似コード for the first row might look like this:</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[30]</note>
       </trans-unit>
@@ -825,7 +825,7 @@ XPath: /ol/li[5]</note>
       </trans-unit>
       <trans-unit id="66949" identifier="ccdc77f0d6577bda7ee60ec3573ef771">
         <source>The inner loop keeps running like this until it has completed its loop with the value of the x coordinate now 4.</source>
-        <target state="translated">The 内側ループ keeps running like this until it has completed its loop with the value of the x coordinate now 4.</target>
+        <target state="translated">内側ループ keeps running like this until it has completed its loop with the value of the x coordinate now 4.</target>
         <note>Context: List Item&#13;
 XPath: /ol/li[6]</note>
       </trans-unit>
@@ -888,7 +888,7 @@ XPath: /ul[14]/li[3]</note>
       </trans-unit>
       <trans-unit id="66960" identifier="dc4f799da3c625eee7ec0d766678febe">
         <source>‘While’ block: micro:bit alarm!</source>
-        <target state="needs-translation">‘While’ block: micro:bit alarm!</target>
+        <target state="translated">「もし真ならくりかえし（while）」 block: micro:bit alarm!</target>
         <note>Context: Headline 2&#13;
 XPath: /h2[5]</note>
       </trans-unit>
@@ -901,7 +901,7 @@ XPath: /p[42]</note>
       <trans-unit id="70401" identifier="8d80ce1febba626dd172218f2a864a72">
         <source>For example, maybe you want an alarm to sound if someone shakes your micro:bit!
 In order to turn the alarm off, you press the button A. Until you press the button, the alarm should continue to sound!</source>
-        <target state="translated">For example, maybe you want an alarm to sound if someone shakes your micro:bit!
+        <target state="translated">例えば、 maybe you want an alarm to sound if someone shakes your micro:bit!
 In order to turn the alarm off, you press the Aボタン. Until you press the button, the alarm should continue to sound!</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[43]</note>

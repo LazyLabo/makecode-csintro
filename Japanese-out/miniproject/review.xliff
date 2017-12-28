@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file id="1867" original="/microbit/docs/courses/csintro/miniproject/review.md" source-language="en" target-language="ja" datatype="plaintext">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="/microbit/docs/courses/csintro/miniproject/review.md" source-language="en" datatype="plaintext" target-language="ja" id="1867">
     <body>
       <trans-unit id="67485" identifier="0e983c65bb3080496d3943eb0b707933" translate="no">
         <source>Review</source>
@@ -93,7 +93,7 @@ XPath: /h2[4]</note>
       </trans-unit>
       <trans-unit id="67501" identifier="a93c6505662deab81eb396f35f7ba17b">
         <source>Conditional statements tell the computer when to do something.</source>
-        <target state="needs-translation">Conditional statements tell the computer when to do something.</target>
+        <target state="translated">条件文 tell the computer when to do something.</target>
         <note>Context: XPath: /p[6]</note>
       </trans-unit>
       <trans-unit id="67502" identifier="1b4f340cb6c26554df5195285ac2a3b1">
@@ -103,7 +103,7 @@ XPath: /h2[4]</note>
       </trans-unit>
       <trans-unit id="67503" identifier="7e05250744dfe75aa30df0d8fc721fa5">
         <source>Conditional statements can be nested inside one another so that both conditions must be true in order for the enclosed statements to run.</source>
-        <target state="needs-translation">Conditional statements can be nested inside one another so that both conditions must be true in order for the enclosed statements to run.</target>
+        <target state="translated">条件文 can be nested inside one another so that both conditions must be true in order for the enclosed statements to run.</target>
         <note>Context: XPath: /p[6]</note>
       </trans-unit>
       <trans-unit id="67504" identifier="450907617a93c9ae3569bbfe7455303c">
