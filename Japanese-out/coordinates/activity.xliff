@@ -42,7 +42,7 @@ XPath: /ul/li[2]</note>
       </trans-unit>
       <trans-unit id="66268" identifier="ae61c8f7394de3b5a26b66a776ca96ef">
         <source>Brightness - A short exercise in using the brightness settings for the micro:bit LEDs.</source>
-        <target state="needs-translation">Brightness - A short exercise in using the brightness settings for the micro:bit LEDs.</target>
+        <target state="translated">明るさ - A short exercise in using the 明るさ settings for the micro:bit LEDs.</target>
         <note>Context: List Item&#13;
 XPath: /ul/li[3]</note>
       </trans-unit>
@@ -427,28 +427,28 @@ XPath: /ul[9]/li[3]</note>
       </trans-unit>
       <trans-unit id="66314" identifier="535426c32aa9db09605d5c959725186a" translate="no">
         <source>Brightness</source>
-        <target>Brightness</target>
+        <target state="translated">明るさ</target>
         <note>Context: Headline 2&#13;
 XPath: /h2[4]</note>
       </trans-unit>
       <trans-unit id="66315" identifier="f33f7638bc0afb456b06effb50b3927c">
         <source>A short exercise in using the brightness settings for the micro:bit LEDs.</source>
-        <target state="needs-translation">A short exercise in using the brightness settings for the micro:bit LEDs.</target>
+        <target state="translated">A short exercise in using the 明るさ settings for the micro:bit LEDs.</target>
         <note>Context: XPath: /p[8]</note>
       </trans-unit>
       <trans-unit id="66316" identifier="9f546968e429298dcec4d33003887f6e">
         <source>Important to note - the brightness level of the micro:bit simulator LEDs will NOT appear to change!</source>
-        <target state="translated">Important to note - the brightness level of micro:bit シミュレーター LEDs will NOT appear to change!</target>
+        <target state="translated">Important to note - the 明るさ level of micro:bit シミュレーター LEDs will NOT appear to change!</target>
         <note>Context: XPath: /p[8]</note>
       </trans-unit>
       <trans-unit id="66317" identifier="9ec553d13c228cca95cf635c0af968f3">
         <source>You must run your program on the actual micro:bit to see the different brightness levels.</source>
-        <target state="needs-translation">You must run your program on the actual micro:bit to see the different brightness levels.</target>
+        <target state="translated">You must run your program on the actual micro:bit to see the different 明るさ levels.</target>
         <note>Context: XPath: /p[8]</note>
       </trans-unit>
       <trans-unit id="66318" identifier="6fe9334c757581768d51acd1043019f5">
         <source>We will check on, and numerically display the brightness level with our program, so we can verify with the simulator that it is working.</source>
-        <target state="translated">We will check on, and numerically display the brightness level with our program, so we can verify with シミュレーター that it is working.</target>
+        <target state="translated">We will check on, and numerically display the 明るさ level with our program, so we can verify with シミュレーター that it is working.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[9]</note>
       </trans-unit>
@@ -456,12 +456,12 @@ XPath: /p[9]</note>
         <source>Pseudocode:
 We’ll set the brightness level for the LEDs to the highest level on start and then use on button A pressed to decrease the brightness level and on button B pressed to increase the brightness level.</source>
         <target state="translated">Pseudocode:
-We’ll set the brightness level for the LEDs to the highest level on start and then use on Aボタン pressed to decrease the brightness level and on Bボタン pressed to increase the brightness level.</target>
+We’ll set the 明るさ level for the LEDs to the highest level on start and then use on Aボタン pressed to decrease the 明るさ level and on Bボタン pressed to increase the 明るさ level.</target>
         <note>Context: XPath: /p[10]</note>
       </trans-unit>
       <trans-unit id="66320" identifier="b814a128525be0b48c52b7bf36f5a3d3">
         <source>We’ll use on button A+B pressed to check and display numerically the current brightness level.</source>
-        <target state="translated">We’ll use on AボタンとBボタン pressed to check and display numerically the current brightness level.</target>
+        <target state="translated">We’ll use on AボタンとBボタン pressed to check and display numerically the current 明るさ level.</target>
         <note>Context: XPath: /p[10]</note>
       </trans-unit>
       <trans-unit id="66321" identifier="1fd4b0d678bc190db3c092acde20a327">
@@ -576,7 +576,7 @@ XPath: /p[13]</note>
       </trans-unit>
       <trans-unit id="66337" identifier="4195cfda81d2795a853cd44afe9a304a">
         <source>On button A+B pressed, we’ll clear the screen and get and display the current brightness level as a number.</source>
-        <target state="translated">On AボタンとBボタン pressed, we’ll clear 画面 and get and display the current brightness level as a number.</target>
+        <target state="translated">On AボタンとBボタン pressed, we’ll clear 画面 and get and display the current 明るさ level as a number.</target>
         <note>Context: List Item&#13;
 XPath: /ul[12]/li</note>
       </trans-unit>
@@ -630,7 +630,7 @@ XPath: /h3[2]</note>
       </trans-unit>
       <trans-unit id="66342" identifier="41e7a8dbcca47c3c8ada3c4684db40c5">
         <source>What happens if adding 25 or subtracting 25 from the current brightness level would result in a sum or difference outside of the 0 to 255 brightness range?</source>
-        <target state="needs-translation">What happens if adding 25 or subtracting 25 from the current brightness level would result in a sum or difference outside of the 0 to 255 brightness range?</target>
+        <target state="translated">What happens if adding 25 or subtracting 25 from the current 明るさ level would result in a sum or difference outside of the 0 to 255 明るさ range?</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[15]</note>
       </trans-unit>

@@ -197,13 +197,13 @@ XPath: /ul[5]/li[5]</note>
       </trans-unit>
       <trans-unit id="67413" identifier="428aaef43eb40d4386e7c8d556731e0c">
         <source>Screensaver</source>
-        <target state="needs-translation">Screensaver</target>
+        <target state="translated">スクリーンセーバー</target>
         <note>Context: List Item&#13;
 XPath: /ul[5]/li[6]</note>
       </trans-unit>
       <trans-unit id="67414" identifier="51d982411e8fe0ecf3be3fd36e330b39">
         <source>Screensaver that uses other inputs to draw</source>
-        <target state="translated">Screensaver that uses ほかの入力 to draw</target>
+        <target state="translated">スクリーンセーバー that uses ほかの入力 to draw</target>
         <note>Context: List Item&#13;
 XPath: /ul[5]/li[7]</note>
       </trans-unit>

@@ -51,7 +51,7 @@ XPath: /h2</note>
       </trans-unit>
       <trans-unit id="66697" identifier="9c4de37476b4edb08f3573cc6b0bc3ad">
         <source>The current value of an LED can be checked, and its brightness can be changed, as well.</source>
-        <target state="needs-translation">The current value of an LED can be checked, and its brightness can be changed, as well.</target>
+        <target state="translated">The current value of an LED can be checked, and its 明るさ can be changed, as well.</target>
         <note>Context: XPath: /p[3]</note>
       </trans-unit>
       <trans-unit id="66698" identifier="2634c0e7704b910ff6792208b6f0af5b" translate="no">

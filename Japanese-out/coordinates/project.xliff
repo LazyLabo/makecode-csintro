@@ -4,13 +4,13 @@
     <body>
       <trans-unit id="66381" identifier="a3be42cede08e9643544332260d41268">
         <source>Project: Screensaver or game</source>
-        <target state="translated">プロジェクト: Screensaver or game</target>
+        <target state="translated">プロジェクト: スクリーンセーバー or game</target>
         <note>Context: Headline 1&#13;
 XPath: /h1</note>
       </trans-unit>
       <trans-unit id="66382" identifier="87b7ab542d52d8cceab799815aaa3423">
         <source>Use what you now know about LEDs, coordinates, and brightness to create your own project: a screensaver, or a game.</source>
-        <target state="translated">Use what you now know about LEDs, coordinates, and brightness to create your own プロジェクト: a screensaver, or a game.</target>
+        <target state="translated">Use what you now know about LEDs, coordinates, and 明るさ to create your own プロジェクト: a スクリーンセーバー, or a game.</target>
         <note>Context: XPath: /p</note>
       </trans-unit>
       <trans-unit id="66383" identifier="5c3464f581e31d0e5125418f1851418e">
@@ -25,13 +25,13 @@ XPath: /h1</note>
       </trans-unit>
       <trans-unit id="66385" identifier="9fd39291454d5fc3b9b5ee1498a87f3f">
         <source>Screensavers</source>
-        <target state="needs-translation">Screensavers</target>
+        <target state="translated">スクリーンセーバーs</target>
         <note>Context: Headline 2&#13;
 XPath: /h2</note>
       </trans-unit>
       <trans-unit id="66386" identifier="2dfe0bec340774a4097e652e2669c1fc">
         <source>One type of project is a screensaver.</source>
-        <target state="needs-translation">One type of project is a screensaver.</target>
+        <target state="translated">One type of project is a スクリーンセーバー.</target>
         <note>Context: XPath: /p[2]</note>
       </trans-unit>
       <trans-unit id="66387" identifier="8e67a7f0bedca2df6bcf32f7af951b3b">
@@ -112,7 +112,7 @@ XPath: /h2[2]</note>
       </trans-unit>
       <trans-unit id="66401" identifier="e1eb2e647fc5ca444a9e60e06d939dbe">
         <source>Firework screensaver</source>
-        <target state="needs-translation">Firework screensaver</target>
+        <target state="translated">Firework スクリーンセーバー</target>
         <note>Context: Headline 3&#13;
 XPath: /h3</note>
       </trans-unit>
@@ -202,7 +202,7 @@ XPath: /pre[2]/code</note>
       </trans-unit>
       <trans-unit id="66408" identifier="a95c8fc486e32af2ac9304e8834a6cae">
         <source>Cascade screensaver</source>
-        <target state="needs-translation">Cascade screensaver</target>
+        <target state="translated">Cascade スクリーンセーバー</target>
         <note>Context: Headline 3&#13;
 XPath: /h3[2]</note>
       </trans-unit>
@@ -502,7 +502,7 @@ XPath: /p[11]</note>
       </trans-unit>
       <trans-unit id="70379" identifier="ad74a0d29817043eadd4eec4a99bc6cf">
         <source>Did you do a screensaver? A game? Something different? How did you decide?</source>
-        <target state="needs-translation">Did you do a screensaver? A game? Something different? How did you decide?</target>
+        <target state="translated">Did you do a スクリーンセーバー? A game? Something different? How did you decide?</target>
         <note>Context: List Item&#13;
 XPath: /ul[3]/li</note>
       </trans-unit>

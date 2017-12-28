@@ -74,7 +74,7 @@ XPath: /ul/li[5]</note>
       </trans-unit>
       <trans-unit id="66487" identifier="f3656f43afb73339923de5ca56120d76">
         <source>Learn how to check the current on or off status of an individual LED as well as check and set the brightness level.</source>
-        <target state="needs-translation">Learn how to check the current on or off status of an individual LED as well as check and set the brightness level.</target>
+        <target state="translated">Learn how to check the current on or off status of an individual LED as well as check and set the 明るさ level.</target>
         <note>Context: List Item&#13;
 XPath: /ul/li[6]</note>
       </trans-unit>
@@ -104,13 +104,13 @@ XPath: /ul[2]/li[2]</note>
       </trans-unit>
       <trans-unit id="66492" identifier="bd4ff42eee7f1e7ed38da56a7f1e7233">
         <source>micro:bit Activities: Animation and Patterns</source>
-        <target state="needs-translation">micro:bit Activities: Animation and Patterns</target>
+        <target state="translated">micro:bit アクティビティ： Animation and Patterns</target>
         <note>Context: List Item&#13;
 XPath: /ul[2]/li[3]</note>
       </trans-unit>
       <trans-unit id="66493" identifier="31817b1d0fc439ad4b926f428173399f">
         <source>Project: Screensaver or Game</source>
-        <target state="translated">プロジェクト: Screensaver or Game</target>
+        <target state="translated">プロジェクト: スクリーンセーバー or Game</target>
         <note>Context: List Item&#13;
 XPath: /ul[2]/li[4]</note>
       </trans-unit>
@@ -176,7 +176,7 @@ XPath: /ol/li[4]/a[@href]</note>
       </trans-unit>
       <trans-unit id="66504" identifier="b1a0585ec2121a1bc1ac09101c82f1ed">
         <source>&lt;strong&gt;Project&lt;/strong&gt;: Screensaver or game</source>
-        <target state="needs-translation">&lt;strong&gt;Project&lt;/strong&gt;: Screensaver or game</target>
+        <target state="translated">&lt;strong&gt;Project&lt;/strong&gt;: スクリーンセーバー or game</target>
         <note>Context: Anchor Link&#13;
 XPath: /ol/li[4]/a</note>
       </trans-unit>
