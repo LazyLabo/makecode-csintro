@@ -68,7 +68,7 @@ XPath: /ul/li[2]</note>
         <source>The length of an array refers to the total number of items in the array, and the index of the last element in an array is always one less than its length (because the array numbering starts at zero.)
  
 In MakeCode, you can create an array by assigning it to a variable.</source>
-        <target state="translated">The length of 配列 refers to the total number of items in 配列, and the index of the last element in 配列 is always one less than its length (because 配列 numbering starts at zero.)
+        <target state="translated">The length of 配列 refers to the total number of items in 配列, and インデックス of the last element in 配列 is always one less than its length (because 配列 numbering starts at zero.)
  
 In MakeCode, you can create 配列 by assigning it to 変数.</target>
         <note>Context: XPath: /ul/li[3]</note>
@@ -103,17 +103,17 @@ XPath: /pre/code</note>
       </trans-unit>
       <trans-unit id="64566" identifier="c792d958f0ed1630416f60c30bac38ae">
         <source>The index of the first value (4) is 0.</source>
-        <target state="needs-translation">The index of the first value (4) is 0.</target>
+        <target state="translated">インデックス of the first value (4) is 0.</target>
         <note>Context: XPath: /p[5]</note>
       </trans-unit>
       <trans-unit id="64567" identifier="da9e038ade9ae2e3c49b902ae7577ec0">
         <source>The index of the second value (2) is 1.</source>
-        <target state="needs-translation">The index of the second value (2) is 1.</target>
+        <target state="translated">インデックス of the second value (2) is 1.</target>
         <note>Context: XPath: /p[5]</note>
       </trans-unit>
       <trans-unit id="64568" identifier="46afa75470d329942ed174c4583af663">
         <source>The index of the last value (3) is 4.</source>
-        <target state="needs-translation">The index of the last value (3) is 4.</target>
+        <target state="translated">インデックス of the last value (3) is 4.</target>
         <note>Context: XPath: /p[5]</note>
       </trans-unit>
       <trans-unit id="64569" identifier="b931625204b641102517bb581eb2482f">

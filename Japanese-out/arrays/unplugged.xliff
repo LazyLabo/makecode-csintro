@@ -541,7 +541,7 @@ XPath: /h4[4]</note>
       </trans-unit>
       <trans-unit id="64743" identifier="7e20ecae766f9a3b7d9f98ee1ab5fecc">
         <source>The index that the inner loop starts at needs to change as the number of sorted items increases, which is why we have to use a separate counter (item) and compute j every time through the inner loop.</source>
-        <target state="translated">The index that 内側ループ starts at needs to change as the number of sorted items increases, which is why we have to use a separate counter (item) and compute j every time through 内側ループ.</target>
+        <target state="translated">インデックス that 内側ループ starts at needs to change as the number of sorted items increases, which is why we have to use a separate counter (item) and compute j every time through 内側ループ.</target>
         <note>Context: XPath: /p[9]</note>
       </trans-unit>
       <trans-unit id="64744" identifier="96828c3cb19e698c911ddbd10e278e8a">

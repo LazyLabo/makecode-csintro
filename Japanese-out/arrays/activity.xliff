@@ -38,7 +38,7 @@ XPath: /p[3]/img[@src]</note>
       </trans-unit>
       <trans-unit id="64405" identifier="a6b0703597f29b037ac4e24d7c70e4fc">
         <source>Heads up game</source>
-        <target state="needs-translation">Heads up game</target>
+        <target state="translated">表 up game</target>
         <note>Context: Image Alternative Text&#13;
 XPath: /p[3]/img[@alt]</note>
       </trans-unit>
@@ -158,7 +158,7 @@ XPath: /ul[5]/li[2]</note>
       </trans-unit>
       <trans-unit id="64425" identifier="c07926b81d31c72e1c76933d725c10a7">
         <source>We’ll use the index of the array to keep track of what word to display at any given time, so you'll need to create an 'index' variable.</source>
-        <target state="translated">We’ll use the index of 配列 to keep track of what word to display at any given time, so you'll need to create an 'index' variable.</target>
+        <target state="translated">We’ll use インデックス of 配列 to keep track of what word to display at any given time, so you'll need to create an 'index' variable.</target>
         <note>Context: List Item&#13;
 XPath: /ul[5]/li[3]</note>
       </trans-unit>
@@ -178,7 +178,7 @@ XPath: /pre[4]/code</note>
       </trans-unit>
       <trans-unit id="64427" identifier="3c3d53372a25d9bc45996b9f60d29ff3">
         <source>To start the game with the index at zero, add a 'set' variable block to the 'on' start block.</source>
-        <target state="translated">To start the game with the index at zero, add a 「変数を・・・にする（set item）」ブロック to the 'on' start block.</target>
+        <target state="translated">To start the game with インデックス at zero, add a 「変数を・・・にする（set item）」ブロック to the 'on' start block.</target>
         <note>Context: List Item&#13;
 XPath: /ul[6]/li</note>
       </trans-unit>
@@ -341,7 +341,7 @@ XPath: /p[8]</note>
       </trans-unit>
       <trans-unit id="64453" identifier="626d86e7c2e3c3748c6b42d3d1740c55">
         <source>We can do this by changing the index of the array with the 'on screen down' event handler from the Input Toolbox drawer (this is a drop-down menu choice of the 'on shake' block) to advance to the next word when we tilt the micro:bit down.</source>
-        <target state="translated">We can do this by changing the index of 配列 with the 'on screen down' イベントハンドラー from the 入力(Input)メニュー (this is a ドロップダウン メニュー choice of the 'on shake' block) to advance to the next word when we tilt the micro:bit down.</target>
+        <target state="translated">We can do this by changing インデックス of 配列 with the 'on screen down' イベントハンドラー from the 入力(Input)メニュー (this is a ドロップダウン メニュー choice of the 'on shake' block) to advance to the next word when we tilt the micro:bit down.</target>
         <note>Context: List Item&#13;
 XPath: /ul[8]/li</note>
       </trans-unit>
@@ -360,7 +360,7 @@ XPath: /pre[6]/code</note>
       <trans-unit id="64455" identifier="1d8fd92b31601f1c8d130f56ba93b2d2">
         <source>We have a limited number of elements in our array, so to avoid an error, we need to check and make sure we are not already at the end of the array before we change the index.
  </source>
-        <target state="translated">We have a limited number of elements in our array, so to avoid an error, we need to check and make sure we are not already at the end of 配列 before we change the index.
+        <target state="translated">We have a limited number of elements in our array, so to avoid an error, we need to check and make sure we are not already at the end of 配列 before we change インデックス.
  </target>
         <note>Context: Paragraph text&#13;
 XPath: /p[9]</note>
@@ -375,7 +375,7 @@ XPath: /ul[9]/li</note>
         <source>But because computer programmers start counting at zero, the index of the final (6th) element is 5. 
  
 Some pseudocode for our algorithm logic:</source>
-        <target state="needs-translation">But because computer programmers start counting at zero, the index of the final (6th) element is 5. 
+        <target state="translated">But because computer programmers start counting at zero, インデックス of the final (6th) element is 5. 
  
 Some pseudocode for our algorithm logic:</target>
         <note>Context: List Item&#13;
@@ -384,16 +384,16 @@ XPath: /ul[9]/li[2]</note>
       <trans-unit id="64458" identifier="94d6ebe444c76a1307b2b45e0e1c4e21">
         <source>When the player places the micro:bit screen down:
 &gt;Check the current value of the index.</source>
-        <target state="needs-translation">When the player places the micro:bit screen down:
-&gt;Check the current value of the index.</target>
+        <target state="translated">When the player places the micro:bit screen down:
+&gt;Check the current value of インデックス.</target>
         <note>Context: XPath: /ul[9]/li[3]</note>
       </trans-unit>
       <trans-unit id="64459" identifier="6f7b6b35586a71ab03007f61ef1d45db">
         <source>&gt;&gt; &lt;strong&gt;If:&lt;/strong&gt; the current value of the index is less than the length of the array minus one (see &lt;strong&gt;array bounds&lt;/strong&gt; note),&lt;br/&gt;
 &lt;strong&gt;Then:&lt;/strong&gt; change the value of the index by one,&lt;br/&gt;
 &lt;strong&gt;Else:&lt;/strong&gt; indicate that it is the end of the game.</source>
-        <target state="translated">&gt;&gt; &lt;strong&gt;If:&lt;/strong&gt; the current value of the index is less than the length of 配列 minus one (see &lt;strong&gt;array bounds&lt;/strong&gt; note),&lt;br/&gt;
-&lt;strong&gt;Then:&lt;/strong&gt; change の値 the index by one,&lt;br/&gt;
+        <target state="translated">&gt;&gt; &lt;strong&gt;If:&lt;/strong&gt; the current value of インデックス is less than the length of 配列 minus one (see &lt;strong&gt;array bounds&lt;/strong&gt; note),&lt;br/&gt;
+&lt;strong&gt;Then:&lt;/strong&gt; change の値 インデックス by one,&lt;br/&gt;
 &lt;strong&gt;Else:&lt;/strong&gt; indicate that it is the end of the game.</target>
         <note>Context: XPath: /ul[9]/li[3]</note>
       </trans-unit>
@@ -411,7 +411,7 @@ XPath: /p[10]/strong</note>
       </trans-unit>
       <trans-unit id="64462" identifier="2ed79ef6e004d47a5662df351d922551">
         <source>Our array has a length 6, so this will mean that as long as the current value of the index is less than 5, we will change the array by one.</source>
-        <target state="translated">Our array has a length 6, so this will mean that as long as the current value of the index is less than 5, we will change 配列 by one.</target>
+        <target state="translated">Our array has a length 6, so this will mean that as long as the current value of インデックス is less than 5, we will change 配列 by one.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[11]</note>
       </trans-unit>
