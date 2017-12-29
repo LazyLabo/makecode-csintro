@@ -33,12 +33,12 @@ XPath: /ul/li[2]</note>
       </trans-unit>
       <trans-unit id="65319" identifier="b24bfdcb3b56b07ef60a39a7cb9100a8">
         <source>A boolean data type has only two values: true or false.</source>
-        <target state="translated">ブール型では 2 つの値を扱います: true(真) または false(偽)。</target>
+        <target state="translated">ブール型では 2 つの値を扱います: true（真）(真) または false(偽)(偽)。</target>
         <note>Context: XPath: /p[2]</note>
       </trans-unit>
       <trans-unit id="65320" identifier="c86565016764351597b72407ab68d69c">
         <source>In true binary fashion, these two values can be represented by the numbers 1 = true, and 0 = false.</source>
-        <target state="translated">二進数として、1 = True(真)と0 = false(偽)というこれらの２つの値で表すことができます。</target>
+        <target state="translated">二進数として、1 = true（真）(真)と0 = false(偽)(偽)というこれらの２つの値で表すことができます。</target>
         <note>Context: XPath: /p[2]</note>
       </trans-unit>
       <trans-unit id="65321" identifier="44505be61ab5a7917476b2338eecf9ed">
@@ -157,7 +157,7 @@ In programming, if you have worked with conditionals or loops, you have already 
       </trans-unit>
       <trans-unit id="65341" identifier="3512f9539ac9d77c84cbe36d1d84f855">
         <source>If a certain condition is true, do this, otherwise (if condition is false), do something else.</source>
-        <target state="translated">もし[If] 特定の条件が true（真） の場合はこれを実行し、それ以外の場合 (false(偽))は、[else]を実行する。</target>
+        <target state="translated">もし[If] 特定の条件が true（真）（真） の場合はこれを実行し、それ以外の場合 (false(偽))は、[else]を実行する。</target>
         <note>Context: List Item&#13;
 XPath: /ul[3]/li</note>
       </trans-unit>
@@ -166,7 +166,7 @@ XPath: /ul[3]/li</note>
  
 Boolean Operators: AND, OR, and NOT
 To make working with Booleans useful for solving more complex decisions and searches, we can connect two or more Booleans into one decision statement.</source>
-        <target state="translated">While a certain condition is true, do this
+        <target state="translated">While a certain condition is true（真）, do this
  
 ブール演算子: AND, OR, and NOT
 To make working with Booleans useful for solving more complex decisions and searches, we can connect two or more Booleans into one decision statement.</target>
@@ -190,13 +190,13 @@ XPath: /p[5]</note>
       </trans-unit>
       <trans-unit id="65346" identifier="0597092b32347e8244266f23ce6e56a5">
         <source>If condition A is true AND condition B is true</source>
-        <target state="needs-translation">If condition A is true AND condition B is true</target>
+        <target state="translated">If 条件A is true（真） AND 条件B is true（真）</target>
         <note>Context: List Item&#13;
 XPath: /ul[4]/li</note>
       </trans-unit>
       <trans-unit id="65347" identifier="5550b04a51e6ce387fc014607b71fa78">
         <source>If condition A is true OR condition B is true</source>
-        <target state="needs-translation">If condition A is true OR condition B is true</target>
+        <target state="translated">If 条件A is true（真） OR 条件B is true（真）</target>
         <note>Context: List Item&#13;
 XPath: /ul[4]/li[2]</note>
       </trans-unit>
@@ -219,13 +219,13 @@ XPath: /h2</note>
       <trans-unit id="65350" identifier="5ef42d10b8d5740c086a35e318d939f6">
         <source>(Condition A AND Condition B)
 For this expression to evaluate as true, both conditions in the expression need to be true.</source>
-        <target state="needs-translation">(Condition A AND Condition B)
-For this expression to evaluate as true, both conditions in the expression need to be true.</target>
+        <target state="translated">(Condition A AND 条件B)
+For this expression to evaluate as true（真）, both conditions in the expression need to be true（真）.</target>
         <note>Context: XPath: /p[6]</note>
       </trans-unit>
       <trans-unit id="65351" identifier="351f6376402cbf671376e125ae8c1e64">
         <source>So, if both Condition A AND Condition B are true, the expression will evaluate as or return true.</source>
-        <target state="needs-translation">So, if both Condition A AND Condition B are true, the expression will evaluate as or return true.</target>
+        <target state="translated">So, if both 条件A AND 条件B are true（真）, the expression will evaluate as or return true（真）.</target>
         <note>Context: XPath: /p[6]</note>
       </trans-unit>
       <trans-unit id="65352" identifier="0f50fdbe3d40031c7ba4b36121460254" translate="no">
@@ -242,18 +242,18 @@ XPath: /h2[2]</note>
       <trans-unit id="65354" identifier="60412177f1ff8f6cac937dee5e2c2c6f">
         <source>(Condition A OR Condition B)
 For this expression to evaluate as true, only one of the conditions in the expression needs to be true.</source>
-        <target state="needs-translation">(Condition A OR Condition B)
-For this expression to evaluate as true, only one of the conditions in the expression needs to be true.</target>
+        <target state="translated">(Condition A OR 条件B)
+For this expression to evaluate as true（真）, only one of the conditions in the expression needs to be true（真）.</target>
         <note>Context: XPath: /p[7]</note>
       </trans-unit>
       <trans-unit id="65355" identifier="b25465aef4d93ed5eb017b121be0bc08">
         <source>If Condition A is true, the expression will return true regardless of whether Condition B is true or false.</source>
-        <target state="needs-translation">If Condition A is true, the expression will return true regardless of whether Condition B is true or false.</target>
+        <target state="translated">If 条件A is true（真）, the expression will return true（真） regardless of whether 条件B is true（真） or false(偽).</target>
         <note>Context: XPath: /p[7]</note>
       </trans-unit>
       <trans-unit id="65356" identifier="ae6793351ad8524cba0e005071aed036">
         <source>If Condition B is true, the expression will return true regardless of whether Condition A is true or false.</source>
-        <target state="needs-translation">If Condition B is true, the expression will return true regardless of whether Condition A is true or false.</target>
+        <target state="translated">If 条件B is true（真）, the expression will return true（真） regardless of whether 条件A is true（真） or false(偽).</target>
         <note>Context: XPath: /p[7]</note>
       </trans-unit>
       <trans-unit id="65357" identifier="ff73c9f96d51eff75ecc3635d8f08e7e" translate="no">
@@ -270,26 +270,26 @@ XPath: /h2[3]</note>
       <trans-unit id="65359" identifier="51bb7b9da2c4feb2c4d8498e75b5f98a">
         <source>NOT can be used when checking that a condition is false (or not true).
 For example:</source>
-        <target state="translated">NOT can be used when checking that a condition is false (or not true).
+        <target state="translated">NOT can be used when checking that a condition is false(偽) (or not true（真）).
 例えば:</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[8]</note>
       </trans-unit>
       <trans-unit id="65360" identifier="d728cb58aabb5e86f213cd87e5ede5e2">
         <source>(NOT Condition A and Condition B) evaluates as true only if Condition A is false and Condition B is true.</source>
-        <target state="needs-translation">(NOT Condition A and Condition B) evaluates as true only if Condition A is false and Condition B is true.</target>
+        <target state="translated">(NOT 条件A and 条件B) evaluates as true（真） only if 条件A is false(偽) and 条件B is true（真）.</target>
         <note>Context: List Item&#13;
 XPath: /ul[5]/li</note>
       </trans-unit>
       <trans-unit id="65361" identifier="e7a49dee8404f33b0387d6849d1dcc33">
         <source>(Condition A and NOT Condition B) evaluates as true only if Condition A is true and Condition B is false.</source>
-        <target state="needs-translation">(Condition A and NOT Condition B) evaluates as true only if Condition A is true and Condition B is false.</target>
+        <target state="translated">(Condition A and NOT 条件B) evaluates as true（真） only if Condition A is true（真） and 条件B is false(偽).</target>
         <note>Context: List Item&#13;
 XPath: /ul[5]/li[2]</note>
       </trans-unit>
       <trans-unit id="65362" identifier="9635a28178f6860c7d551d5c949421fc">
         <source>(NOT Condition A and NOT Condition B) evaluates as true only if both Condition A and Condition B are true.</source>
-        <target state="needs-translation">(NOT Condition A and NOT Condition B) evaluates as true only if both Condition A and Condition B are true.</target>
+        <target state="translated">(NOT 条件A and NOT 条件B) evaluates as true（真） only if both 条件A and 条件B are true（真）.</target>
         <note>Context: XPath: /ul[5]/li[3]</note>
       </trans-unit>
       <trans-unit id="65363" identifier="c5af4a773765f4b77098698c9d92aa7d">
@@ -305,7 +305,7 @@ Note: ‘False’ can be thought of as equivalent to ‘NOT true’.</source>
         <target state="translated">例えば、 you can use a NOT to check  
 While Aボタン is NOT pressed, continue to run this code…
  
-Note: 「偽（false）」 can be thought of as equivalent to ‘NOT true’.</target>
+Note: 「偽（false）」 can be thought of as equivalent to ‘NOT true（真）’.</target>
         <note>Context: XPath: /ul[5]/li[3]</note>
       </trans-unit>
       <trans-unit id="65365" identifier="771ec80e4c38f165469c70eb14852132">

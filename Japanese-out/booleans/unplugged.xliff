@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="65898" identifier="08572025a50749519b3ba051c05ac3d6">
         <source>Unplugged: Two heads are better than one</source>
-        <target state="translated">アンプラグド： Two heads are better than one</target>
+        <target state="translated">アンプラグド： Two 表 are better than one</target>
         <note>Context: Headline 2&#13;
 XPath: /h2</note>
       </trans-unit>
@@ -36,7 +36,7 @@ A simple penny is the most common binary decision making tool ever!</target>
       </trans-unit>
       <trans-unit id="65903" identifier="a7dcb8936362bd5195e32e46b08497f4">
         <source>When you flip a coin to decide something there are only two possible outcomes, heads or tails.</source>
-        <target state="needs-translation">When you flip a coin to decide something there are only two possible outcomes, heads or tails.</target>
+        <target state="translated">When you flip a coin to decide something there are only two possible outcomes, 表 or 裏.</target>
         <note>Context: XPath: /p</note>
       </trans-unit>
       <trans-unit id="65904" identifier="87d1f807e428f9645dd5fbfbc0a1c537">
@@ -91,7 +91,7 @@ XPath: /p[2]/img[@src]</note>
       </trans-unit>
       <trans-unit id="65913" identifier="b8defdf14e9c7970f171f370a57cb672">
         <source>Two pennies showing heads and tails</source>
-        <target state="needs-translation">Two pennies showing heads and tails</target>
+        <target state="translated">Two pennies showing 表 and 裏</target>
         <note>Context: Image Alternative Text&#13;
 XPath: /p[2]/img[@alt]</note>
       </trans-unit>
@@ -121,12 +121,12 @@ Example:</target>
     Heads   Tails
     Tails   Heads
     Tails   Tails</source>
-        <target state="needs-translation">Coin A  Coin B
+        <target state="translated">コインA  コインB
     ==============
-    Heads   Heads
-    Heads   Tails
-    Tails   Heads
-    Tails   Tails</target>
+    表   表
+    表   裏
+    裏   表
+    裏   裏</target>
         <note>Context: Text&#13;
 XPath: /pre/code</note>
       </trans-unit>
@@ -138,13 +138,13 @@ XPath: /p[4]</note>
       </trans-unit>
       <trans-unit id="65919" identifier="8eb8f24bd1f92ba9ff537e61b0a3de7c">
         <source>For 2 outcomes, the result is the same for both coins, both heads or both tails.</source>
-        <target state="needs-translation">For 2 outcomes, the result is the same for both coins, both heads or both tails.</target>
+        <target state="translated">For 2 outcomes, the result is the same for both coins, both 表 or both 裏.</target>
         <note>Context: List Item&#13;
 XPath: /ul/li</note>
       </trans-unit>
       <trans-unit id="65920" identifier="fe6adfbb2e7722220b160a0066660ab3">
         <source>For the other 2 outcomes, the result for each coin is different, heads/tails and tails/heads.</source>
-        <target state="needs-translation">For the other 2 outcomes, the result for each coin is different, heads/tails and tails/heads.</target>
+        <target state="translated">For the other 2 outcomes, the result for each coin is different, 表裏 and 裏表.</target>
         <note>Context: XPath: /ul/li[2]</note>
       </trans-unit>
       <trans-unit id="65921" identifier="1e0b99bfda742016c2c816e290d64c63">
@@ -162,18 +162,18 @@ So, if 2 coins are flipped, the chance that the outcomes will be the same (HH/TT
       <trans-unit id="65923" identifier="e59b6c8461150d547fecbb17cb3ddf8c">
         <source> 
 Therefore, if Person A wins each time the outcomes are the same and Person B wins each time the outcomes are different, both have an equal chance of winning each double coin flip.</source>
-        <target state="needs-translation"> 
-Therefore, if Person A wins each time the outcomes are the same and Person B wins each time the outcomes are different, both have an equal chance of winning each double coin flip.</target>
+        <target state="translated"> 
+Therefore, if Aの人 wins each time the outcomes are the same and Bの人 wins each time the outcomes are different, both have an equal chance of winning each double coin flip.</target>
         <note>Context: XPath: /ul/li[2]</note>
       </trans-unit>
       <trans-unit id="65924" identifier="c769f621ec26f0dda2ecf4c95f3e2963">
         <source>With this system, no one person’s outcome, heads or tails, guarantees a win.</source>
-        <target state="needs-translation">With this system, no one person’s outcome, heads or tails, guarantees a win.</target>
+        <target state="translated">With this system, no one person’s outcome, 表 or 裏, guarantees a win.</target>
         <note>Context: XPath: /ul/li[2]</note>
       </trans-unit>
       <trans-unit id="65925" identifier="6a93683957aa1567f8007c8a5e976c52">
         <source>If Person A’s coin flips to heads, she would win if Person B also flipped heads, but lose if Person B flipped tails.</source>
-        <target state="needs-translation">If Person A’s coin flips to heads, she would win if Person B also flipped heads, but lose if Person B flipped tails.</target>
+        <target state="translated">If Aの人’s coin flips to 表, she would win if Bの人 also flipped 表, but lose if Bの人 flipped 裏.</target>
         <note>Context: XPath: /ul/li[2]</note>
       </trans-unit>
       <trans-unit id="65926" identifier="b800a998b8308639d52e598bfdb0e29f">
@@ -207,12 +207,12 @@ Example:</target>
     Heads   Tails    
     Tails   Heads    
     Tails   Tails    </source>
-        <target state="needs-translation">Coin A  Coin B   Totals
+        <target state="translated">コインA  コインB   Totals
     ========================
-    Heads   Heads    
-    Heads   Tails    
-    Tails   Heads    
-    Tails   Tails    </target>
+    表   表    
+    表   裏    
+    裏   表    
+    裏   裏    </target>
         <note>Context: Text&#13;
 XPath: /pre[2]/code</note>
       </trans-unit>
@@ -249,7 +249,7 @@ Let’s pseudocode it!</target>
         <source> 
 We can create a Boolean variable to represent whether an outcome is heads or tails.</source>
         <target state="translated"> 
-We can create a ブール型変数 to represent whether an outcome is heads or tails.</target>
+We can create a ブール型変数 to represent whether an outcome is 表 or 裏.</target>
         <note>Context: XPath: /p[5]</note>
       </trans-unit>
       <trans-unit id="65937" identifier="30f24fc1e8e5869d75ca02f2e2c4cca3">
@@ -259,7 +259,7 @@ We can create a ブール型変数 to represent whether an outcome is heads or t
       </trans-unit>
       <trans-unit id="65938" identifier="c2139b347da3371c51f5e50f9c0e8259">
         <source>Heads = True</source>
-        <target state="needs-translation">Heads = True</target>
+        <target state="translated">表 = true（真）</target>
         <note>Context: List Item&#13;
 XPath: /ul[2]/li</note>
       </trans-unit>
@@ -267,16 +267,16 @@ XPath: /ul[2]/li</note>
         <source>Tails = False
  
 Note: Tails = False can also be thought of as Tails = not true.</source>
-        <target state="needs-translation">Tails = False
+        <target state="translated">裏 = false(偽)
  
-Note: Tails = False can also be thought of as Tails = not true.</target>
+Note: 裏 = false(偽) can also be thought of as 裏 = not true（真）.</target>
         <note>Context: XPath: /ul[2]/li[2]</note>
       </trans-unit>
       <trans-unit id="65940" identifier="0c998cdd2d232dd1bfbf33f55c50d17d">
         <source> 
 Have the students copy their Heads/Tails table of possible outcomes, but label the columns "Coin A Heads" and "Coin B Heads" and replace each entry of ‘Heads’ with ‘True’ and ‘Tails’ with ‘False’.</source>
         <target state="translated"> 
-Have 生徒たち copy their Heads/Tails table of possible outcomes, but label the columns "Coin A Heads" and "Coin B Heads" and replace each entry of ‘Heads’ with 「真（true）」 and ‘Tails’ with 「偽（false）」.</target>
+Have 生徒たち copy their 表裏 table of possible outcomes, but label the columns "Coin A 表" and "Coin B 表" and replace each entry of ‘Heads’ with 「真（true）」 and ‘Tails’ with 「偽（false）」.</target>
         <note>Context: XPath: /ul[2]/li[2]</note>
       </trans-unit>
       <trans-unit id="65941" identifier="720c0cb05f68e495bc9e2a3cd56d8b3c">
@@ -300,13 +300,13 @@ XPath: /p[6]</note>
     False   True     If Coin A is false AND Coin B is true, add one to Player B score
     False   False    If Coin A is false AND Coin B is false, add one to Player A score</source>
         <target state="translated">``` 
-    Coin A  Coin B    Results
-    Heads   Heads&lt;br /&gt;
+    コインA  コインB    Results
+    表   表&lt;br /&gt;
     ==================================================================================
-    True    True     If Coin A is true AND Coin B is true, add one to プレイヤーA score
-    True    False    If Coin A is true AND Coin B is false, add one to プライヤーB score
-    False   True     If Coin A is false AND Coin B is true, add one to プライヤーB score
-    False   False    If Coin A is false AND Coin B is false, add one to プレイヤーA score</target>
+    true（真）    true（真）     If コインA is true（真） AND コインB is true（真）, add one to プレイヤーA score
+    true（真）    false(偽)    If コインA is true（真） AND コインB is false(偽), add one to プレイヤーB score
+    false(偽)   true（真）     If コインA is false(偽) AND コインB is true（真）, add one to プレイヤーB score
+    false(偽)   false(偽)    If コインA is false(偽) AND コインB is false(偽), add one to プレイヤーA score</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[7]</note>
       </trans-unit>
@@ -327,7 +327,7 @@ XPath: /p[7]</note>
       </trans-unit>
       <trans-unit id="65947" identifier="1e5b85b0c94f3ff9b63edf5f464a4016">
         <source>Do the same for both conditions in which Player B scores a point.</source>
-        <target state="translated">Do the same for both conditions in which プライヤーB scores a point.</target>
+        <target state="translated">Do the same for both conditions in which プレイヤーB scores a point.</target>
         <note>Context: XPath: /pre[3]/code</note>
       </trans-unit>
       <trans-unit id="65948" identifier="375802f5499f0ae8c618028a43082256">
@@ -345,12 +345,12 @@ Combining the conditions in which each player wins, gives us:
         <target state="translated"> 
 Combining the conditions in which each player wins, gives us:
 
-* If (Coin A is true AND Coin B is true) OR (Coin A is false AND Coin B is false), add one to プレイヤーA score.</target>
+* If (Coin A is true（真） AND コインB is true（真）) OR (Coin A is false(偽) AND コインB is false(偽)), add one to プレイヤーA score.</target>
         <note>Context: XPath: /pre[3]/code</note>
       </trans-unit>
       <trans-unit id="65950" identifier="d827ad614efced8aa30d95d16e52fdeb">
         <source>* If (Coin A is true AND Coin B is false) OR (Coin A is false AND Coin B is true), add one to Player B score.</source>
-        <target state="translated">* If (Coin A is true AND Coin B is false) OR (Coin A is false AND Coin B is true), add one to プライヤーB score.</target>
+        <target state="translated">* If (Coin A is true（真） AND コインB is false(偽)) OR (Coin A is false(偽) AND コインB is true（真）), add one to プレイヤーB score.</target>
         <note>Context: XPath: /pre[3]/code</note>
       </trans-unit>
       <trans-unit id="65951" identifier="35208e4fdcec45ae54b41c8eb2096ab3">
@@ -389,12 +389,12 @@ Using blocks to start coding these two conditionals as currently written, might 
 let CoinAHeads = false
 let CoinBHeads = false
 if ((CoinAHeads == true &amp;amp;&amp;amp; CoinBHeads == true) || (CoinAHeads == false &amp;amp;&amp;amp; CoinBHeads == false)) {}</source>
-        <target state="needs-translation"> 
+        <target state="translated"> 
 Using blocks to start coding these two conditionals as currently written, might look like this:
 ```block
-let CoinAHeads = false
-let CoinBHeads = false
-if ((CoinAHeads == true &amp;amp;&amp;amp; CoinBHeads == true) || (CoinAHeads == false &amp;amp;&amp;amp; CoinBHeads == false)) {}</target>
+let CoinAHeads = false(偽)
+let CoinBHeads = false(偽)
+if ((CoinAHeads == true（真） &amp;amp;&amp;amp; CoinBHeads == true（真）) || (CoinAHeads == false(偽) &amp;amp;&amp;amp; CoinBHeads == false(偽))) {}</target>
         <note>Context: XPath: /pre[3]/code</note>
       </trans-unit>
       <trans-unit id="65957" identifier="8476cb63fc3ca89bf7637f27f500e8ce">
@@ -409,15 +409,15 @@ XPath: /p[8]</note>
         <source>let CoinAHeads = false
 let CoinBHeads = false
 if ((CoinAHeads == true &amp;amp;&amp;amp; CoinBHeads == false) || (CoinAHeads == false &amp;amp;&amp;amp; CoinBHeads == true)) {}</source>
-        <target state="needs-translation">let CoinAHeads = false
-let CoinBHeads = false
-if ((CoinAHeads == true &amp;amp;&amp;amp; CoinBHeads == false) || (CoinAHeads == false &amp;amp;&amp;amp; CoinBHeads == true)) {}</target>
+        <target state="translated">let CoinAHeads = false(偽)
+let CoinBHeads = false(偽)
+if ((CoinAHeads == true（真） &amp;amp;&amp;amp; CoinBHeads == false(偽)) || (CoinAHeads == false(偽) &amp;amp;&amp;amp; CoinBHeads == true（真）)) {}</target>
         <note>Context: Text&#13;
 XPath: /pre[4]/code</note>
       </trans-unit>
       <trans-unit id="65959" identifier="2b646a549de61ea8636b662c85b1bfcc">
         <source>Then add one to Player B score.</source>
-        <target state="translated">Then add one to プライヤーB score.</target>
+        <target state="translated">Then add one to プレイヤーB score.</target>
         <note>Context: XPath: /p[9]</note>
       </trans-unit>
       <trans-unit id="65960" identifier="8751c461222486d5f8a88f6697f2a9d7">
@@ -450,22 +450,22 @@ XPath: /h2[2]</note>
       </trans-unit>
       <trans-unit id="65965" identifier="943ca272fcfbc7a31f4262b72886c81d">
         <source>A boolean can have only one of two values: True or False.</source>
-        <target state="translated">ブール値 can have only one of two values: True or False.</target>
+        <target state="translated">ブール値 can have only one of two values: true（真） or false(偽).</target>
         <note>Context: XPath: /p[10]</note>
       </trans-unit>
       <trans-unit id="65966" identifier="5bb09c19ba6e9d48c03b2107e5391eb9">
         <source>Conditionals like 'if...then' check whether a condition is true.</source>
-        <target state="translated">Conditionals like 「もし・・なら（if...then）」 check whether a condition is true.</target>
+        <target state="translated">Conditionals like 「もし・・なら（if...then）」 check whether a condition is true（真）.</target>
         <note>Context: XPath: /p[10]</note>
       </trans-unit>
       <trans-unit id="65967" identifier="6d909cee02761038a48e3a94a62dfca1">
         <source>Notice that the default condition for the 'if...then' blocks is true.</source>
-        <target state="translated">Notice that the default condition for the 「もし・・なら（if...then）」 blocks is true.</target>
+        <target state="translated">Notice that the default condition for the 「もし・・なら（if...then）」 blocks is true（真）.</target>
         <note>Context: XPath: /p[10]</note>
       </trans-unit>
       <trans-unit id="65968" identifier="298afcab4f47626cd9f49437d718296c">
         <source>In other words, the 'if...then' blocks will check to see whether whatever condition you place there is true.</source>
-        <target state="translated">In other words, the 「もし・・なら（if...then）」 blocks will check to see whether whatever condition you place there is true.</target>
+        <target state="translated">In other words, the 「もし・・なら（if...then）」 blocks will check to see whether whatever condition you place there is true（真）.</target>
         <note>Context: XPath: /p[10]</note>
       </trans-unit>
       <trans-unit id="65969" identifier="9310d6dc968582e7d6a1534a825481c0">
@@ -476,7 +476,7 @@ XPath: /pre[5]/code</note>
       </trans-unit>
       <trans-unit id="65970" identifier="277a8071c9852aa47d3823b7e4218feb">
         <source>This means that ‘If &lt;code&gt;CoinAHeads&lt;/code&gt;’ is the same as ‘If &lt;code&gt;CoinAHeads&lt;/code&gt; = true’. We can use this to simplify our code.</source>
-        <target state="needs-translation">This means that ‘If &lt;code&gt;CoinAHeads&lt;/code&gt;’ is the same as ‘If &lt;code&gt;CoinAHeads&lt;/code&gt; = true’. We can use this to simplify our code.</target>
+        <target state="translated">This means that ‘If &lt;code&gt;CoinAHeads&lt;/code&gt;’ is the same as ‘If &lt;code&gt;CoinAHeads&lt;/code&gt; = true（真）’. We can use this to simplify our code.</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[11]</note>
       </trans-unit>
@@ -490,9 +490,9 @@ XPath: /p[12]</note>
         <source>let CoinAHeads = false
 let CoinBHeads = false
 if (CoinAHeads == true &amp;amp;&amp;amp; CoinBHeads == true) {}</source>
-        <target state="needs-translation">let CoinAHeads = false
-let CoinBHeads = false
-if (CoinAHeads == true &amp;amp;&amp;amp; CoinBHeads == true) {}</target>
+        <target state="translated">let CoinAHeads = false(偽)
+let CoinBHeads = false(偽)
+if (CoinAHeads == true（真） &amp;amp;&amp;amp; CoinBHeads == true（真）) {}</target>
         <note>Context: Text&#13;
 XPath: /pre[6]/code</note>
       </trans-unit>
@@ -506,8 +506,8 @@ XPath: /p[13]</note>
         <source>let CoinAHeads = false
 let CoinBHeads = false
 if (CoinAHeads &amp;amp;&amp;amp; CoinBHeads) {}</source>
-        <target state="needs-translation">let CoinAHeads = false
-let CoinBHeads = false
+        <target state="translated">let CoinAHeads = false(偽)
+let CoinBHeads = false(偽)
 if (CoinAHeads &amp;amp;&amp;amp; CoinBHeads) {}</target>
         <note>Context: Text&#13;
 XPath: /pre[7]/code</note>
@@ -516,8 +516,8 @@ XPath: /pre[7]/code</note>
         <source> 
 Also, since ‘If not &lt;code&gt;CoinAHeads&lt;/code&gt;’ is the same as ‘If &lt;code&gt;CoinAHeads&lt;/code&gt; = False’,
 instead of:</source>
-        <target state="needs-translation"> 
-Also, since ‘If not &lt;code&gt;CoinAHeads&lt;/code&gt;’ is the same as ‘If &lt;code&gt;CoinAHeads&lt;/code&gt; = False’,
+        <target state="translated"> 
+Also, since ‘If not &lt;code&gt;CoinAHeads&lt;/code&gt;’ is the same as ‘If &lt;code&gt;CoinAHeads&lt;/code&gt; = false(偽)’,
 instead of:</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[14]</note>
@@ -525,8 +525,8 @@ XPath: /p[14]</note>
       <trans-unit id="65976" identifier="16d24e0449c8f07204c344ebaba8f24c">
         <source>let CoinAHeads = false
 if (CoinAHeads == false) {}</source>
-        <target state="needs-translation">let CoinAHeads = false
-if (CoinAHeads == false) {}</target>
+        <target state="translated">let CoinAHeads = false(偽)
+if (CoinAHeads == false(偽)) {}</target>
         <note>Context: Text&#13;
 XPath: /pre[8]/code</note>
       </trans-unit>
@@ -539,7 +539,7 @@ XPath: /p[15]</note>
       <trans-unit id="65978" identifier="9b9ad6f23625a2179d9c5f92a5529c2d">
         <source>let CoinAHeads = false
 if (!CoinAHeads) {}</source>
-        <target state="needs-translation">let CoinAHeads = false
+        <target state="translated">let CoinAHeads = false(偽)
 if (!CoinAHeads) {}</target>
         <note>Context: Text&#13;
 XPath: /pre[9]/code</note>
@@ -556,8 +556,8 @@ let CoinBHeads = false
 basic.forever(() =&amp;gt; {
     if ((CoinAHeads &amp;amp;&amp;amp; CoinBHeads) || (!CoinAHeads &amp;amp;&amp;amp; !CoinBHeads)) {}
 })</source>
-        <target state="needs-translation">let CoinAHeads = false
-let CoinBHeads = false
+        <target state="translated">let CoinAHeads = false(偽)
+let CoinBHeads = false(偽)
 basic.forever(() =&amp;gt; {
     if ((CoinAHeads &amp;amp;&amp;amp; CoinBHeads) || (!CoinAHeads &amp;amp;&amp;amp; !CoinBHeads)) {}
 })</target>
@@ -571,15 +571,15 @@ XPath: /pre[10]/code</note>
       </trans-unit>
       <trans-unit id="65982" identifier="e47f63b518b39ec1c5758b67ae8d391b">
         <source>For this particular program, since we are checking to see if the conditions &lt;code&gt;CoinAHeads&lt;/code&gt; and &lt;code&gt;CoinBHeads&lt;/code&gt; are the same, whether both true or both false, we can use a logic equals block to simplify our code to:</source>
-        <target state="needs-translation">For this particular program, since we are checking to see if the conditions &lt;code&gt;CoinAHeads&lt;/code&gt; and &lt;code&gt;CoinBHeads&lt;/code&gt; are the same, whether both true or both false, we can use a logic equals block to simplify our code to:</target>
+        <target state="translated">For this particular program, since we are checking to see if the conditions &lt;code&gt;CoinAHeads&lt;/code&gt; and &lt;code&gt;CoinBHeads&lt;/code&gt; are the same, whether both true（真） or both false(偽), we can use a logic equals block to simplify our code to:</target>
         <note>Context: XPath: /p[17]</note>
       </trans-unit>
       <trans-unit id="65983" identifier="34f42cbc1c2006a41a2055fe92a72d12">
         <source>let CoinAHeads = false
 let CoinBHeads = false
 if (CoinAHeads == CoinBHeads) {}</source>
-        <target state="needs-translation">let CoinAHeads = false
-let CoinBHeads = false
+        <target state="translated">let CoinAHeads = false(偽)
+let CoinBHeads = false(偽)
 if (CoinAHeads == CoinBHeads) {}</target>
         <note>Context: Text&#13;
 XPath: /pre[11]/code</note>
@@ -591,7 +591,7 @@ What about our other big block of code for the conditions for a Player B win?
 We could simplify that to:</source>
         <target state="translated">Then add one to プレイヤーA score.
  
-What about our other big block of code for the conditions for a プライヤーB win?
+What about our other big block of code for the conditions for a プレイヤーB win?
 We could simplify that to:</target>
         <note>Context: Paragraph text&#13;
 XPath: /p[18]</note>
@@ -600,8 +600,8 @@ XPath: /p[18]</note>
         <source>let CoinAHeads = false
 let CoinBHeads = false
 if (CoinAHeads != CoinBHeads) {}</source>
-        <target state="needs-translation">let CoinAHeads = false
-let CoinBHeads = false
+        <target state="translated">let CoinAHeads = false(偽)
+let CoinBHeads = false(偽)
 if (CoinAHeads != CoinBHeads) {}</target>
         <note>Context: Text&#13;
 XPath: /pre[12]/code</note>
@@ -610,7 +610,7 @@ XPath: /pre[12]/code</note>
         <source>Then add one to Player B score.
  
 We don’t need to do this! Since the only other option to being equal is to be not equal, we can simply do this:</source>
-        <target state="translated">Then add one to プライヤーB score.
+        <target state="translated">Then add one to プレイヤーB score.
  
 We don’t need to do this! Since the only other option to being equal is to be not equal, we can simply do this:</target>
         <note>Context: Paragraph text&#13;
@@ -628,8 +628,8 @@ basic.forever(() =&amp;gt; {
         PlayerBScore += 1
     }
 })</source>
-        <target state="needs-translation">let CoinAHeads = false
-let CoinBHeads = false
+        <target state="translated">let CoinAHeads = false(偽)
+let CoinBHeads = false(偽)
 let PlayerAScore = 0
 let PlayerBScore = 0
 basic.forever(() =&amp;gt; {
@@ -682,14 +682,14 @@ So, how do we get a random flip in code?</target>
       </trans-unit>
       <trans-unit id="65995" identifier="85db8e579ab8021b07d3f8ea89c43a15">
         <source>And it also has a block for getting a random true or false value.</source>
-        <target state="translated">And it also has ブロック for getting a random true or false value.</target>
+        <target state="translated">And it also has ブロック for getting a random true（真） or false(偽) value.</target>
         <note>Context: XPath: /p[20]</note>
       </trans-unit>
       <trans-unit id="65996" identifier="5f491a2f1bc78493528fcf9d4c02b297">
         <source> 
 We will call on this built in function to get a random true or false value for each flip of a coin in the next &lt;a href="/courses/csintro/booleans/activity"&gt;activity&lt;/a&gt;.</source>
-        <target state="needs-translation"> 
-We will call on this built in function to get a random true or false value for each flip of a coin in the next &lt;a href="/courses/csintro/booleans/activity"&gt;activity&lt;/a&gt;.</target>
+        <target state="translated"> 
+We will call on this built in function to get a random true（真） or false(偽) value for each flip of a coin in the next &lt;a href="/courses/csintro/booleans/activity"&gt;activity&lt;/a&gt;.</target>
         <note>Context: XPath: /p[20]</note>
       </trans-unit>
       <trans-unit id="65997" identifier="195dbdeb00cca82e29b9cf6a6970b1c7">
@@ -701,31 +701,31 @@ Our basic pseudocode for our 'double coin flipper' could look like this:</target
       </trans-unit>
       <trans-unit id="65998" identifier="24000cfb67103628d0cdbc6e897eb6e1">
         <source>Use the random function to get a true/false value for Coin A.</source>
-        <target state="needs-translation">Use the random function to get a true/false value for Coin A.</target>
+        <target state="translated">Use the random function to get a 真・偽の値 for コインA.</target>
         <note>Context: List Item&#13;
 XPath: /ol/li</note>
       </trans-unit>
       <trans-unit id="65999" identifier="883275621790a2e6424b5a133b080a54" translate="no">
         <source>Use the random function to get a true/false value for Coin A.</source>
-        <target>Use the random function to get a true/false value for Coin A.</target>
+        <target state="translated">Use the random function to get a 真・偽の値 for コインA.</target>
         <note>Context: List Item&#13;
 XPath: /ol/li[2]</note>
       </trans-unit>
       <trans-unit id="66000" identifier="e8165fcf98fd41959d55749b18def9df" translate="no">
         <source>Compare the current values of Coin A and Coin B.</source>
-        <target>Compare the current values of Coin A and Coin B.</target>
+        <target state="translated">Compare the current values of コインA and コインB.</target>
         <note>Context: List Item&#13;
 XPath: /ol/li[3]</note>
       </trans-unit>
       <trans-unit id="66001" identifier="aa5167ff4d5eae5c4f61b3f81463db9f" translate="no">
         <source>If the current true/false values of Coin A and Coin B are the same, add a point to Player A’s score.</source>
-        <target state="translated">If the current true/false values of Coin A and Coin B are the same, add a point to プレイヤーAの得点.</target>
+        <target state="translated">If the current 真・偽の値 of コインA and コインB are the same, add a point to プレイヤーAの得点.</target>
         <note>Context: List Item&#13;
 XPath: /ol/li[4]</note>
       </trans-unit>
       <trans-unit id="66002" identifier="3d9432123b8f8ae05c2e438ff6e8c757">
         <source>Otherwise, the current true/false values of Coin A and Coin B must be different, so add a point to Player B’s score.</source>
-        <target state="translated">Otherwise, the current true/false values of Coin A and Coin B must be different, so add a point to プレイヤーAの得点.</target>
+        <target state="translated">Otherwise, the current 真・偽の値 of コインA and コインB must be different, so add a point to プレイヤーAの得点.</target>
         <note>Context: List Item&#13;
 XPath: /ol/li[5]</note>
       </trans-unit>
